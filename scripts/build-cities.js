@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const pkgPath = require.resolve('cities.json');
-const all = JSON.parse(fs.readFileSync(pkgPath, 'utf8'));
+const citiesPath = path.join(__dirname, '..', 'public', 'Jsonfolder', 'cities.json');
+const all = JSON.parse(fs.readFileSync(citiesPath, 'utf8'));
 
 const allowedIntl = ['US', 'UK', 'CA', 'AU', 'DE', 'FR', 'SG', 'AE', 'JP'];
 
