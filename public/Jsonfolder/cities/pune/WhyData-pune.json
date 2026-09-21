@@ -1,0 +1,1290 @@
+{
+  "Whyds": {
+    "WhyDS": {
+      "title": "Why Data Science with AI?",
+      "cards": [
+        {
+          "title": "What is <span class='highlight-span-cards'>Data Science with AI?</span>",
+          "content": "Pune has quietly become one of India's busiest data hubs, and the demand for people who can genuinely work with data — not just talk about it — keeps climbing every year. This Data Science with AI course in Pune was designed around that reality. It doesn't try to cover everything under the sun; it focuses on the skills companies are actually asking for in job descriptions across Pune's IT parks, product startups, and analytics firms."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">Data Science with AI course</span>?",
+          "content": "Over the course of the program, you'll move from the fundamentals of Python, statistics, and SQL into machine learning, deep learning, and the AI tools reshaping how data teams work — including large language models, prompt engineering, and applied generative AI. Every module is anchored to a project, so by the time you finish, you're not just holding a certificate; you're holding a portfolio.",
+          "listItems": [
+            "Python, SQL, statistics & data wrangling",
+            "Machine learning, deep learning & generative AI",
+            "Model deployment + portfolio-ready projects"
+          ]
+        },
+        {
+          "title": "Who is this course built for?",
+          "content": "Whether you're a fresh graduate trying to break into analytics, a working professional switching careers, or someone in a technical role who wants to add AI to their toolkit, this course meets you where you are and builds from there.",
+          "listItems": [
+            "Freshers & career switchers",
+            "Working professionals in IT or analytics",
+            "Developers adding AI to their toolkit"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyda": {
+    "WhyDA": {
+      "title": "Why Data Analytics with AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Data Analytics with AI?</span>",
+          "content": "Pune has quietly become one of India's busiest hubs for data-driven hiring, and companies here are no longer just asking for \"Excel and SQL skills\" they want people who can pair analytics with AI tools to work faster and think sharper. This Data Analytics with AI course in Pune was built around that shift."
+        },
+        {
+          "title": "What skills will you gain?",
+          "content": "Over the course of the program, you'll move from the fundamentals Excel, SQL, and data visualization into applied statistics, Python for data analysis, and machine learning basics. Then, instead of stopping there like most traditional analytics courses do, we layer AI on top: prompt engineering for data tasks, AI-assisted dashboarding, automated data cleaning, and using large language models to speed up reporting and insight generation.",
+          "listItems": [
+            "Excel, SQL, Python, Power BI & Tableau",
+            "Statistics, basic ML & AI-assisted workflows",
+            "Portfolio project + stakeholder storytelling"
+          ]
+        },
+        {
+          "title": "Who is this course designed for?",
+          "content": "By the end, you won't just know how to build a pivot table or run a regression. You'll know how to use AI as a genuine productivity partner in a data analyst's daily workflow which is exactly what hiring managers in Pune are screening for right now. This isn't a passive, video-only program. Every module includes live problem-solving, real business datasets, and a capstone project you can actually show in interviews.",
+          "listItems": [
+            "Freshers & career switchers",
+            "Working professionals adding analytics + AI",
+            "Pune learners who want classroom or hybrid batches"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyba": {
+    "WhyBA": {
+      "title": "Why Business Analytics?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Business Analytics?</span>",
+          "content": "Business Analytics uses statistical techniques, predictive modeling, and data analysis to interpret business data and support strategic decisions. The Business Analytics Course in {city} teaches you how to turn data into useful insights and prepares you for roles such as Business Analyst, Data Analyst, and Business Intelligence Analyst."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Business Analyst</span> do?",
+          "content": "Business Analysts help organizations make smarter, data-driven choices. They apply statistical analysis, visualization, and predictive modeling to uncover patterns, opportunities, and challenges, then work with teams to put those insights into action.",
+          "listItems": [
+            "Identify and collect data from business operations",
+            "Analyze data to uncover trends and insights",
+            "Formulate strategies that solve business challenges"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Business Analytics</span> training?",
+          "content": "Business Analysts play a key role in driving better outcomes. Our course in {city} teaches you to use data analytics, statistical tools, and business intelligence so you can deliver measurable results for any organization.",
+          "listItems": [
+            "Business Analyst",
+            "Management Consultant",
+            "Data Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whygpt": {
+    "WhyGPT": {
+      "title": "Why Generative AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Generative AI?</span>",
+          "content": "Generative AI has moved from a buzzword to a core business skill in less than two years, and Pune's IT and product companies are actively hiring for it. This Generative AI course in Pune is designed to take you from the basics of large language models to building and deploying real applications, chatbots, AI assistants, content automation tools, and RAG-based search systems."
+        },
+        {
+          "title": "What will you build in this <span class=\"highlight-span-cards\">Generative AI course</span>?",
+          "content": "Unlike generic online courses, this program is structured around what companies in Pune's tech corridor Hinjewadi, Kharadi, Baner, and Viman Nagar are actually asking candidates to know. You'll work with tools like OpenAI APIs, LangChain, Hugging Face, and vector databases, and you'll leave with a portfolio of projects, not just certificates.",
+          "listItems": [
+            "Prompt engineering & LLM application development",
+            "RAG systems, LangChain & vector databases",
+            "Deployable AI apps + interview-ready portfolio"
+          ]
+        },
+        {
+          "title": "Who should join?",
+          "content": "Whether you're a software developer wanting to add AI to your skill set, a data analyst moving into machine learning, or a fresher trying to stand out in a competitive market, this Generative AI training in Pune is built to get you job-ready, not just concept-aware.",
+          "listItems": [
+            "Developers & data professionals",
+            "Freshers & career switchers",
+            "Product & business roles adding AI fluency"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyfullstack": {
+    "WhyFullStack": {
+      "title": "Why FULL STACK TRAINING ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Full Stack Development?</span>",
+          "content": "Full Stack Development means working on both the front-end and back-end of websites and applications — from user interfaces to databases. It is one of the most sought-after skills in tech and enables developers to build complete, functional web solutions."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Full Stack Developer</span> do?",
+          "content": "A Full Stack Developer handles both client-side and server-side development. They work on interfaces, databases, servers, and hosting environments to deliver complete, reliable applications.",
+          "listItems": [
+            "Design and develop full web applications",
+            "Work across databases, servers, and front-end",
+            "Ensure smooth cross-platform functionality"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Full Stack</span> training?",
+          "content": "Full Stack Developers are highly valued in today’s tech-driven market. Our training in {city} covers front-end to back-end development and prepares you for roles that require end-to-end web and application skills.",
+          "listItems": [
+            "Full Stack Developer",
+            "Web Developer",
+            "Software Engineer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyjava": {
+    "WhyJava": {
+      "title": "Why Java ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Java Development?</span>",
+          "content": "Java remains one of the most in-demand programming languages in the world, and Pune home to hundreds of IT companies, product startups, and service giants is one of the best cities in India to learn it. This Java course in Pune is built for people who want more than theory. You'll write code from day one, work on real-world mini-projects, and finish with a portfolio you can actually show in interviews."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Java Developer</span> do?",
+          "content": "The course covers core Java fundamentals, object-oriented programming, collections, exception handling, multithreading, JDBC, and moves into advanced topics like Spring Boot, Hibernate, and RESTful web services. By the end, you'll be equipped to build backend applications the way they're built in real companies not just pass a quiz.",
+          "listItems": [
+            "Design and develop Java applications",
+            "Maintain and optimize existing systems",
+            "Ensure strong performance and scalability"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Java</span> training?",
+          "content": "Classes are conducted by trainers currently working or recently working in the software industry, so what you learn reflects how Java is actually used on the job today, not outdated textbook examples.",
+          "listItems": [
+            "Java Developer",
+            "Software Engineer",
+            "Backend Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypython": {
+    "WhyPython": {
+      "title": "Why Python?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Python Development?</span>",
+          "content": "Pune has quietly become one of India's busiest tech hubs, and Python sits right at the center of that growth powering everything from fintech backends to AI research labs in Hinjewadi and Kharadi. Our Python course in Pune was built with that reality in mind. Instead of racing through syntax and calling it a day, we walk you through how Python is actually used inside product teams: writing clean functions, working with real datasets, automating boring tasks, and building small applications you can show off in an interview."
+        },
+        {
+          "title": "What will you master?",
+          "content": "Whether you're a student trying to get your first internship, a working professional pivoting into data or backend roles, or someone simply curious about programming, this Python training in Pune meets you where you are. The course begins with fundamentals variables, loops, functions and gradually builds toward object-oriented programming, file handling, APIs, and a capstone project. Every module is taught by trainers who've spent years writing Python professionally, not just teaching it from a slide deck.",
+          "listItems": [
+            "Core Python, OOP & data structures",
+            "Libraries, APIs, databases & automation",
+            "Capstone project for your portfolio"
+          ]
+        },
+        {
+          "title": "Who should take this course?",
+          "content": "By the end of this program, you won't just \"know\" Python. You'll have written it, debugged it, broken it, and fixed it which is really the only way to learn a language that ships production code every single day.",
+          "listItems": [
+            "Students & freshers building a foundation",
+            "Professionals pivoting into tech or data",
+            "Beginners with no prior coding experience"
+          ]
+        }
+      ]
+    }
+  },
+  "Whysales": {
+    "WhySales": {
+      "title": "Why Salesforce ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Salesforce Development?</span>",
+          "content": "Salesforce has become the backbone of customer relationship management for businesses across the globe, and the demand for skilled professionals is only growing. This Salesforce course in Pune is designed for freshers, working professionals, and career switchers who want to build a strong foundation in CRM, cloud computing, and business automation."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Salesforce Developer</span> do?",
+          "content": "Through this Salesforce training in Pune, you'll work on real business scenarios from setting up a Sales Cloud environment to building custom apps using Apex and Lightning Web Components. The course doesn't just teach concepts; it walks you through how actual Salesforce consultants and administrators solve problems for clients.",
+          "listItems": [
+            "Develop custom Salesforce applications",
+            "Integrate Salesforce with other systems",
+            "Customize platform functionalities"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Salesforce</span> training?",
+          "content": "By the end of this program, you will be equipped to sit for globally recognized Salesforce certification exams and confidently apply for roles like Salesforce Administrator, Business Analyst, or Junior Developer.",
+          "listItems": [
+            "Salesforce Administrator",
+            "CRM Consultant",
+            "Salesforce Business Analyst",
+            "Salesforce Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyabap": {
+    "WhyAbap": {
+      "title": "Why SAP ABAP ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP ABAP</span>?",
+          "content": "SAP ABAP (Advanced Business Application Programming) is the core programming language used to customize and develop applications within the SAP ecosystem. As more organizations across Pune's booming IT and manufacturing sectors adopt SAP S/4HANA, the demand for skilled SAP ABAP developers continues to grow rapidly."
+        },
+        {
+          "title": "Who is this <span class=\"highlight-span-cards\">SAP ABAP training</span> built for?",
+          "content": "This SAP ABAP training in Pune is built for beginners and professionals alike who want to build a strong foundation in ABAP programming and SAP module customization. Our curriculum blends theoretical concepts with real-time case studies, live projects, and hands-on system access — ensuring you don't just learn ABAP, you master it.",
+          "listItems": [
+            "Beginners and working professionals",
+            "Strong foundation in ABAP & customization",
+            "Theory + real-time case studies + live projects"
+          ]
+        },
+        {
+          "title": "Why is demand for SAP ABAP skills growing?",
+          "content": "As more organizations across Pune's booming IT and manufacturing sectors adopt SAP S/4HANA, the demand for skilled SAP ABAP developers continues to grow rapidly. This course prepares you with the foundation and practical mastery needed for these roles.",
+          "listItems": [
+            "Rising demand with S/4HANA adoption",
+            "Opportunities in Pune's IT & manufacturing",
+            "Practical mastery, not just theory"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyariba": {
+    "WhyAriba": {
+      "title": "Why SAP Ariba ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP Ariba</span>?",
+          "content": "SAP Ariba is a cloud-based procurement and supply chain platform that helps organizations manage sourcing, purchasing, invoicing, and supplier collaboration efficiently. As more companies shift to digital procurement solutions, the demand for skilled SAP Ariba professionals in Pune and across India continues to grow rapidly."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP Ariba Training</span>?",
+          "content": "This SAP Ariba Training in Pune is designed to give you a complete understanding of the Ariba ecosystem — from Sourcing and Contract Management to Procurement and Supplier Lifecycle Management. The course combines conceptual learning with hands-on practice on live Ariba systems, ensuring you're fully prepared for real-world procurement challenges.",
+          "listItems": [
+            "Sourcing & Contract Management",
+            "Procurement & Supplier Lifecycle Management",
+            "Hands-on practice on live Ariba systems"
+          ]
+        },
+        {
+          "title": "Why is demand for SAP Ariba skills growing?",
+          "content": "As more companies shift to digital procurement solutions, the demand for skilled SAP Ariba professionals in Pune and across India continues to grow rapidly. This training prepares you to meet that demand with practical, job-ready skills.",
+          "listItems": [
+            "Rising demand for digital procurement skills",
+            "Strong opportunities in Pune and across India",
+            "Practical readiness for real-world challenges"
+          ]
+        }
+      ]
+    }
+  },
+  "Whybasis": {
+    "WhyBasis": {
+      "title": "Why SAP BASIS ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP BASIS</span>?",
+          "content": "SAP BASIS is the technical backbone of every SAP landscape — it's the layer that keeps SAP systems running smoothly, securely, and efficiently. As more companies in Pune and across India adopt SAP S/4HANA, the demand for skilled SAP BASIS Administrators continues to grow rapidly."
+        },
+        {
+          "title": "What core concepts does this <span class=\"highlight-span-cards\">SAP BASIS Course</span> cover?",
+          "content": "Our SAP BASIS Course in Pune is built by industry experts to help you understand core BASIS concepts such as system installation, client administration, transport management, user management, and performance monitoring — all through practical, project-based learning.",
+          "listItems": [
+            "System installation & client administration",
+            "Transport & user management",
+            "Performance monitoring via project-based learning"
+          ]
+        },
+        {
+          "title": "Why is demand for SAP BASIS skills growing?",
+          "content": "As more companies in Pune and across India adopt SAP S/4HANA, the demand for skilled SAP BASIS Administrators continues to grow rapidly. This course prepares you with practical, project-based skills to meet that demand.",
+          "listItems": [
+            "Rising demand with S/4HANA adoption",
+            "Opportunities in Pune and across India",
+            "Practical project-based skills"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyfico": {
+    "WhyFICO": {
+      "title": "Why SAP FICO ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP FICO</span>?",
+          "content": "SAP FICO (Financial Accounting and Controlling) is one of the most widely implemented modules of SAP, the world's leading Enterprise Resource Planning (ERP) software. It helps organizations manage their financial transactions, reporting, budgeting, and cost control in one integrated system."
+        },
+        {
+          "title": "Why choose <span class=\"highlight-span-cards\">SAP FICO training in Pune</span>?",
+          "content": "Pune is one of India's fastest-growing IT and corporate hubs, home to global consulting firms, manufacturing giants, and SAP implementation partners across Hinjewadi, Kharadi, and Viman Nagar. This concentration of SAP-driven businesses makes Pune an ideal city to learn SAP FICO and step directly into local job opportunities. If you're looking to build a stable, high-paying career in finance and technology, this SAP FICO course in Pune is designed to get you there.",
+          "listItems": [
+            "Global consulting firms & manufacturing giants in Pune",
+            "SAP implementation partners across major IT hubs",
+            "Direct path to local SAP FICO job opportunities"
+          ]
+        },
+        {
+          "title": "How does this course make you <span class=\"highlight-span-cards\">job-ready</span>?",
+          "content": "Our SAP FICO training in Pune combines conceptual clarity with hands-on configuration practice on live SAP systems, so you graduate job-ready — not just certificate-ready.",
+          "listItems": [
+            "Conceptual clarity + hands-on configuration",
+            "Practice on live SAP systems",
+            "Job-ready skills, not just a certificate"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypowerbi": {
+    "WhyPOWERBI": {
+      "title": "Why Power BI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Power BI?</span>",
+          "content": "Power BI has quietly become one of the most in-demand tools in the data world, and companies in Pune's IT parks, from Hinjewadi to Kharadi, are actively looking for people who know how to use it well. This course was designed by working data analysts, not just trainers reading off slides."
+        },
+        {
+          "title": "What will you master?",
+          "content": "Across this Power BI training in Pune, you'll learn to connect to real data sources, clean and shape messy datasets, build DAX formulas that actually make sense, and design dashboards that tell a story instead of just displaying numbers. The course is a mix of live instructor-led sessions, hands-on assignments, and two capstone projects modeled on real business scenarios sales analytics, HR dashboards, and financial reporting.",
+          "listItems": [
+            "Power Query, data modeling & DAX",
+            "Interactive dashboards & storytelling",
+            "Publishing, security & PL-300 readiness"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "Whether you're a fresh graduate, a working professional switching to analytics, or someone who's tired of manually updating Excel reports every Monday morning, this course meets you where you are.",
+          "listItems": [
+            "Excel users & reporting professionals",
+            "Freshers & career switchers",
+            "Anyone targeting Power BI or BI analyst roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whytableau": {
+    "WhyTABLEAU": {
+      "title": "Why Tableau?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Tableau?</span>",
+          "content": "Tableau has become one of the most requested skills in data analyst, business analyst, and BI developer job postings across Pune's IT and consulting hubs from Hinjewadi and Kharadi to Baner and Viman Nagar. This Tableau course in Pune is designed for people who want more than theory. It's a hands-on, project-first program where every concept is taught alongside a real use case, so you understand not just *how* a feature works, but *when* and *why* you'd actually use it on the job."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Tableau Developer</span> do?",
+          "content": "Over the course of the program, you'll go from opening Tableau for the first time to confidently building interactive, multi-page dashboards that answer real business questions sales performance, customer churn, marketing ROI, and more. Whether you're a fresher trying to break into analytics, a working professional switching careers, or someone already in a data role who wants to formalize your skills, this Tableau training in Pune is structured to meet you where you are and take you further.",
+          "listItems": [
+            "Create and manage Tableau dashboards",
+            "Collaborate with teams to gather requirements",
+            "Ensure data accuracy and consistency in reports"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Tableau</span> training in Pune?",
+          "content": "Classes are kept small so every learner gets individual attention, and every module ends with a practical assignment reviewed by your trainer, not just a quiz.",
+          "listItems": [
+            "Tableau Developer",
+            "Data Analyst",
+            "Business Intelligence Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whycore": {
+    "WhyCORE": {
+      "title": "Why HR Core?",
+      "cards": [
+        {
+          "title": "What is  <span class=\"highlight-span-cards\">Core HR</span>?",
+          "content": "Human Resources is no longer just about paperwork and interviews. Today's HR professional is expected to understand payroll structures, statutory compliance, HR software, employee engagement, and even basic labour law all at once. That's exactly the gap this Core HR Course in Pune is built to close."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">an HR</span> Do?",
+          "content": "This isn't a theory-heavy classroom program. It's a hands-on HR training course in Pune where you work with real HR documents, real payroll sheets, and real HRMS software, guided by trainers who've actually run HR departments not just taught about them.",
+          "listItems": [
+            "Manage recruitment and onboarding",
+            "Handle payroll and employee records",
+            "Ensure compliance and support employee relations"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR</span> Training?",
+          "content": "Whether you're a fresh graduate trying to break into HR, or a professional from another field looking to switch careers, this course walks you through every core function of Human Resource Management: recruitment, onboarding, payroll, statutory compliance, performance appraisals, and HR analytics. By the end, you won't just know HR concepts you'll know how to actually do the job.",
+          "listItems": [
+            "HR Generalist",
+            "Recruitment Specialist",
+            "Payroll Officer",
+            "HR Compliance Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyman": {
+    "WhyMAN": {
+      "title": "Why HR Management?",
+      "cards": [
+        {
+          "title": "What is  <span class=\"highlight-span-cards\">HR Management</span>?",
+          "content": "Pune has become one of India's fastest-growing hubs for IT, manufacturing, and startups and every one of these industries needs skilled HR professionals to manage people, policy, and performance. That's exactly the gap this HR Management Course in Pune is built to fill."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Management</span> Do?",
+          "content": "Over the course duration, you'll move from HR fundamentals to advanced, job-ready skills covering recruitment strategy, employee engagement, compensation and benefits, HR compliance, performance management, and modern HR software tools. Unlike generic online courses, this program blends classroom learning with real-world assignments, so you graduate with a portfolio, not just a certificate.",
+          "listItems": [
+            "Lead recruitment and talent development",
+            "Manage performance and employee relations",
+            "Design HR policies and strategies"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Management</span> Training?",
+          "content": "By choosing a structured HR Management Course in Pune instead of piecing together random tutorials, you save time, avoid outdated content, and learn directly from trainers who've worked inside HR departments of respected Pune-based companies.",
+          "listItems": [
+            "HR Manager",
+            "HR Generalist",
+            "Talent Acquisition Specialist",
+            "Employee Relations Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypay": {
+    "WhyPAY": {
+      "title": "Why HR Payroll?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">HR Payroll</span>?",
+          "content": "Payroll is one of the most in-demand functions inside any HR department, and companies across Pune's IT, manufacturing, and services sectors are actively hiring professionals who understand both people and numbers. This HR Payroll Course in Pune is built for exactly that gap it takes you from the basics of employee compensation to advanced statutory compliance, so you can manage a company's entire payroll cycle with confidence."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Payroll</span> Do?",
+          "content": "Unlike generic HR courses that only touch payroll briefly, this program is a dedicated Payroll Management Course that goes deep into salary structuring, tax deductions, provident fund and ESI compliance, payroll software tools, and audit-readiness. You will work on live payroll data sets, run mock salary cycles, and learn to handle the exceptions and escalations that real payroll executives deal with every month.",
+          "listItems": [
+            "Process accurate and timely payroll",
+            "Handle deductions, taxes, and benefits",
+            "Maintain compliance with labor and tax rules"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Payroll</span> Training?",
+          "content": "Whether you're a fresh graduate exploring HR as a career, a working HR generalist who wants to specialize, or someone returning to the workforce, this HR Payroll Certification program in Pune is structured to take you from concept to competence within a few weeks with a trainer available to clear doubts at every stage.",
+          "listItems": [
+            "Payroll Specialist",
+            "HR Payroll Administrator",
+            "Payroll Compliance Officer",
+            "Compensation and Benefits Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyit": {
+    "WhyIT": {
+      "title": "What is Software Developement Course in {city}?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Software Development</span>?",
+          "content": "Software development creates the applications and systems that power modern business and innovation. Our software course in {city} covers core programming, architecture, web development, databases, and data structures so you can build real solutions."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Software Developer</span> do?",
+          "content": "A Software Developer designs, codes, tests, and maintains applications that meet business needs. They focus on performance, reliability, and collaboration to deliver high-quality software.",
+          "listItems": [
+            "Design and develop software solutions",
+            "Test, debug, and maintain applications",
+            "Collaborate with teams to deliver quality code"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">IT Training</span> in {city}?",
+          "content": "Software skills remain highly valued. Our IT training in {city} builds practical ability in programming languages, frameworks, debugging, and databases so you can move into development roles with confidence.",
+          "listItems": [
+            "Software Developer",
+            "Full Stack Developer",
+            "Front-End Developer",
+            "Back-End Developer",
+            "Java/Python Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhr": {
+    "WhyHR": {
+      "title": "Why HR Training?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">HR?</span>",
+          "content": "Human Resources has moved far beyond hiring and paperwork — today's HR professionals are strategic partners who shape culture, retention, and business growth. This HR Training in Pune program is designed to take you from HR fundamentals to job-ready skills in one structured, hands-on journey."
+        },
+        {
+          "title": "What does an <span class=\"highlight-span-cards\">HR</span> Do?",
+          "content": "Whether you're a fresh graduate exploring HR as a career, a working professional planning to switch into HR, or an existing HR executive wanting to move up to HRBP or HR Manager roles, this course meets you where you are. You'll work with real recruitment scenarios, payroll sheets, appraisal templates, and HR software that companies in Pune actually use.",
+          "listItems": [
+            "Manage recruitment and talent development",
+            "Support performance and employee relations",
+            "Ensure compliance and fair practices"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Training</span>in {city}? ",
+          "content": "Unlike generic online courses, this HR Training in Pune batch is built around Pune's local job market the IT parks of Hinjawadi, the manufacturing belt of Chakan and Pimpri-Chinchwad, and the growing BFSI and startup ecosystem across the city. That means your case studies, mock interviews, and placement leads are relevant to the employers actually hiring here.",
+          "listItems": [
+            "HR Generalist",
+            "HR Specialist",
+            "HR Business Partner",
+            "HR Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whydatavisual": {
+    "WhyDataVisual": {
+      "title": "Why Data Visualization with AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Data Visualization with AI?</span>",
+          "content": "Every company today is sitting on data it doesn't fully understand. The people who can read that data and explain it clearly to someone who doesn't have time to dig through spreadsheets are the ones getting picked for the interesting projects."
+        },
+        {
+          "title": "What will you be able to do?",
+          "content": "This data visualization course in Pune is built around that exact skill. You won't just learn which button to click in a tool. You'll learn how to look at a messy dataset, figure out what question it's actually answering, and build a visual that makes the answer obvious in five seconds. We've also brought AI directly into the classroom. You'll practice using AI tools to clean data faster, generate first-draft charts, write summaries of your findings, and catch mistakes before they reach a client or manager.",
+          "listItems": [
+            "Power BI, Tableau, Excel & Python visuals",
+            "Chart selection, storytelling & AI-assisted workflows",
+            "Portfolio-ready dashboards"
+          ]
+        },
+        {
+          "title": "Who should join?",
+          "content": "The course runs over a mix of live sessions, guided practice, and real projects using public datasets from sectors like retail, healthcare, and finance. By the end, you'll have a portfolio of dashboards you actually built yourself something you can show in an interview instead of just talking about. Whether you're switching careers into analytics, upskilling in your current marketing or operations role, or a student trying to stand out, this program is built to get you job-ready, not just certificate-ready.",
+          "listItems": [
+            "Professionals adding data storytelling skills",
+            "Freshers targeting BI or analytics roles",
+            "Anyone ready to move beyond basic charts"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyagentic": {
+    "WhyAgentic": {
+      "title": "Why Agentic AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Agentic AI?</span>",
+          "content": "Agentic AI is the next step beyond chatbots and prompt-based tools. Instead of just answering a question, an AI agent can break a goal into steps, decide what tools to use, call APIs, check its own output, and keep working until the task is actually done. Companies are moving fast on this and that's created a real skills gap that this Agentic AI course in Pune is built to close."
+        },
+        {
+          "title": "What will you be able to do?",
+          "content": "This is not a \"watch videos and get a certificate\" program. Over the course, you'll work with real LLMs, real APIs, and real agent frameworks to build things like a research agent, a customer support agent, and a multi-agent workflow that can hand off tasks between agents. By the end, you'll have a portfolio of projects you can show in interviews, not just a certificate.",
+          "listItems": [
+            "Single-agent, multi-agent & hierarchical systems",
+            "LangChain, LangGraph, CrewAI, AutoGen",
+            "Memory, tools, RAG, deployment & monitoring"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "The course is designed for both freshers with a programming background and working professionals developers, data scientists, and product folks who want to move into applied AI roles. Sessions run out of our Pune training center, with a live online option for those who can't attend in person.",
+          "listItems": [
+            "Developers & ML engineers",
+            "Data scientists applying skills to agents",
+            "Pune IT professionals reskilling part-time"
+          ]
+        }
+      ]
+    }
+  },
+  "Whybwbi": {
+    "WhyBwbi": {
+      "title": "Why SAP BI ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP BW/BI</span>?",
+          "content": "SAP BW/BI (Business Warehouse / Business Intelligence) is one of the most in-demand SAP modules, enabling organizations to consolidate, model, and analyze enterprise data for smarter decision-making. Our SAP BW/BI course in Pune is built for freshers, IT professionals, functional consultants, and data analysts who want to build a strong career in SAP data warehousing and analytics."
+        },
+        {
+          "title": "What will you learn from fundamentals to advanced?",
+          "content": "This course takes you from SAP BW fundamentals to advanced BW/4HANA concepts, covering data extraction, transformation, modeling (InfoObjects, InfoProviders, DSOs, CompositeProviders), reporting with BEx and SAP Analytics tools, and real-time project scenarios. You will work on live case studies that mirror actual business requirements across industries like manufacturing, retail, finance, and healthcare.",
+          "listItems": [
+            "Data extraction, transformation & modeling",
+            "InfoObjects, InfoProviders, DSOs, CompositeProviders",
+            "BEx & SAP Analytics reporting + live case studies"
+          ]
+        },
+        {
+          "title": "Who is this course designed for?",
+          "content": "Our SAP BW/BI course in Pune is built for freshers, IT professionals, functional consultants, and data analysts who want to build a strong career in SAP data warehousing and analytics.",
+          "listItems": [
+            "Freshers & IT professionals",
+            "Functional consultants & data analysts",
+            "Career path in SAP data warehousing & analytics"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyewm": {
+    "WhyEWM": {
+      "title": "Why SAP EWM ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP EWM</span>?",
+          "content": "SAP Extended Warehouse Management (EWM) is one of the most in-demand modules within the SAP Supply Chain Management (SCM) suite, used by global enterprises to manage complex warehouse and distribution operations. As companies in Pune's automotive, manufacturing, retail, and logistics sectors increasingly adopt SAP S/4HANA, the demand for skilled SAP EWM consultants in Pune continues to grow rapidly."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP EWM training</span>?",
+          "content": "Our SAP EWM training in Pune is designed to take you from fundamentals to advanced configuration, covering both Decentralized and Embedded EWM architecture on S/4HANA. You'll work on live warehouse scenarios from goods receipt to put away strategies, wave management, and RF-enabled picking under the guidance of certified SAP professionals with real project experience.",
+          "listItems": [
+            "Decentralized & Embedded EWM on S/4HANA",
+            "Goods receipt, putaway, wave management, RF picking",
+            "Guidance from certified professionals with real projects"
+          ]
+        },
+        {
+          "title": "Why is SAP EWM in high demand in Pune?",
+          "content": "As companies in Pune's automotive, manufacturing, retail, and logistics sectors increasingly adopt SAP S/4HANA, the demand for skilled SAP EWM consultants continues to grow rapidly. This training prepares you with advanced configuration and live warehouse scenario experience.",
+          "listItems": [
+            "Strong demand from Pune's key industries",
+            "S/4HANA adoption driving opportunities",
+            "Advanced configuration + live scenarios"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhana": {
+    "WhyHana": {
+      "title": "Why SAP S/4 HANA ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP S/4HANA</span>?",
+          "content": "SAP S/4 HANA (Systems, Applications, and Products in Data Processing – Simple, Fast, Advanced) is the next-generation intelligent ERP suite that powers real-time business operations across finance, logistics, supply chain, and manufacturing. As more organizations migrate from legacy SAP ECC systems to S/4 HANA, the demand for skilled SAP S/4 HANA consultants in Pune and across India has grown rapidly."
+        },
+        {
+          "title": "What does this <span class=\"highlight-span-cards\">SAP S/4HANA training</span> cover?",
+          "content": "This SAP S/4 HANA training in Pune is designed by industry experts to help you build core competencies in the simplified data model, real-time analytics, and intelligent automation features of S/4HANA.",
+          "listItems": [
+            "Simplified data model & real-time analytics",
+            "Finance, logistics & supply chain processes",
+            "Migration from ECC to S/4HANA"
+          ]
+        },
+        {
+          "title": "Why is demand for SAP S/4HANA growing?",
+          "content": "Organizations worldwide are migrating to S/4HANA. Skilled consultants who understand the new architecture and best practices are in high demand across India.",
+          "listItems": [
+            "Global migration wave to S/4HANA",
+            "High demand for skilled consultants",
+            "Strong career growth potential"
+          ]
+        }
+      ]
+    }
+  },
+  "Whysd": {
+    "WhySD": {
+      "title": "Why SAP SD ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP SD</span>?",
+          "content": "SAP Sales and Distribution (SD) is one of the most widely implemented modules in the SAP ERP ecosystem, managing everything from customer inquiries and sales orders to pricing, shipping, billing, and after-sales support. Companies across manufacturing, retail, FMCG, pharma, and automotive sectors depend on SAP SD consultants to keep their sales and logistics operations running smoothly."
+        },
+        {
+          "title": "Who is this <span class=\"highlight-span-cards\">SAP SD training</span> for and what does it cover?",
+          "content": "Our SAP SD training in Pune is designed for both freshers and working professionals who want to build a career in SAP consulting. The course covers the complete Order-to-Cash cycle, master data management, pricing procedures, credit management, and integration with SAP MM and FI modules — all taught through real business scenarios on a live SAP system.",
+          "listItems": [
+            "Complete Order-to-Cash cycle",
+            "Master data, pricing & credit management",
+            "Integration with MM and FI on live system"
+          ]
+        },
+        {
+          "title": "Why is SAP SD a strong career choice?",
+          "content": "Because so many industries rely on SAP SD for sales and logistics, skilled consultants are consistently in demand. This course prepares you with the complete Order-to-Cash knowledge and live-system experience employers look for.",
+          "listItems": [
+            "High demand across multiple industries",
+            "Practical Order-to-Cash expertise",
+            "Live SAP system experience"
+          ]
+        }
+      ]
+    }
+  },
+  "Whysucc": {
+    "WhySucc": {
+      "title": "Why SAP SUCCESSFACTOR ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP SuccessFactors</span>?",
+          "content": "SAP SuccessFactors is one of the most widely adopted cloud-based Human Capital Management (HCM) suites used by global enterprises to manage their end-to-end HR operations — from hire to retire. As organizations continue to shift from legacy HR systems to cloud HCM platforms, the demand for skilled SAP SuccessFactors consultants in Pune and across India continues to grow rapidly."
+        },
+        {
+          "title": "Who is this course for and what modules does it cover?",
+          "content": "Our SAP SuccessFactors course in Pune is designed for freshers, HR professionals, SAP consultants, and IT professionals who want to build a strong career in cloud HR technology. This comprehensive training program covers all core SuccessFactors modules, including Employee Central, Recruiting Management, Onboarding, Performance & Goal Management, Compensation, and Learning Management System (LMS).",
+          "listItems": [
+            "Employee Central, Recruiting, Onboarding",
+            "Performance & Goals, Compensation, LMS",
+            "Designed for freshers, HR pros, SAP & IT professionals"
+          ]
+        },
+        {
+          "title": "How does the course prepare you for real roles?",
+          "content": "The course blends conceptual learning with hands-on configuration exercises, real-time business scenarios, and mock project implementations — ensuring you don't just learn the theory, but gain the practical expertise needed to configure and implement SuccessFactors solutions in a live enterprise environment.",
+          "listItems": [
+            "Hands-on configuration exercises",
+            "Real-time scenarios & mock projects",
+            "Practical expertise for live enterprise environments"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyana": {
+    "WhyANA": {
+      "title": "Why HR Analytics?",
+      "cards": [
+        {
+          "title": "Why <span class=\"highlight-span-cards\">HR Analytics</span>?",
+          "content": "HR today is no longer just about hiring, onboarding, and payroll — it's about data. Every HR decision, from reducing attrition to improving employee engagement, is now backed by numbers, dashboards, and predictive models. That's exactly why this HR Analytics Course in Pune was designed: to help HR professionals, managers, and business leaders make sense of workforce data and turn it into action."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Analytics</span> Do?",
+          "content": "This HR Analytics Course in Pune takes you from the basics of HR metrics to advanced people analytics techniques, including attrition prediction, workforce planning, compensation analysis, and HR dashboarding. You'll work with real HR datasets, not just theory, so by the end of the course you can walk into any HR team and confidently say, \"I can build that dashboard\" or \"I can predict that attrition risk.\"",
+          "listItems": [
+            "Collect and analyze workforce data",
+            "Identify trends in performance and retention",
+            "Support data-driven HR decisions"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Analytics</span> Training?",
+          "content": "Whether you're an HR generalist trying to future-proof your career, a recruiter wanting to speak the language of data, or a business leader who wants to understand workforce trends, this HR Analytics Course in Pune gives you the practical, tool-based skills that today's HR roles actually demand.",
+          "listItems": [
+            "HR Analyst",
+            "HR Business Partner",
+            "People Analytics Specialist",
+            "Talent Management Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whygen": {
+    "WhyGEN": {
+      "title": "WHY HR Generalist?",
+      "cards": [
+        {
+          "title": "What is<span class=\"highlight-span-cards\">HR Generalist?</span>",
+          "content": "HR is no longer just about hiring and firing it's about people strategy, compliance, employee engagement, payroll accuracy, and data-driven decisions. This HR Generalist Course in Pune has been created keeping that shift in mind."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Generalist</span> Do?",
+          "content": "Over the course of this program, you won't just learn HR theory. You'll work on live assignments, mock interviews, payroll sheets, HR policy drafts, and real recruitment scenarios that mirror what actually happens inside a company's HR department. By the end, you'll be comfortable managing the full employee lifecycle from sourcing a candidate to processing their final settlement.",
+          "listItems": [
+            "Handle recruitment and onboarding",
+            "Support performance and employee relations",
+            "Manage payroll and compliance activities"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Generalist</span> Training?",
+          "content": "This course is ideal for anyone based in Pune (or willing to relocate) who wants a structured, practical, and recognized path into the HR profession without spending years figuring it out on the job.",
+          "listItems": [
+            "HR Generalist",
+            "HR Coordinator",
+            "HR Executive",
+            "Talent Acquisition Specialist",
+            "Payroll Administrator"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhrtrain": {
+    "WhyHRTRAIN": {
+      "title": "Why HR Training?",
+      "cards": [
+        {
+          "title": "What is an <span class=\"highlight-span-cards\">HR Course</span>?",
+          "content": "Human Resources has moved far beyond hiring and paperwork — today's HR professionals are strategic partners who shape culture, retention, and business growth. This HR Training in Pune program is designed to take you from HR fundamentals to job-ready skills in one structured, hands-on journey."
+        },
+        {
+          "title": "What does an <span class=\"highlight-span-cards\">HR</span> Do?",
+          "content": "Whether you're a fresh graduate exploring HR as a career, a working professional planning to switch into HR, or an existing HR executive wanting to move up to HRBP or HR Manager roles, this course meets you where you are. You'll work with real recruitment scenarios, payroll sheets, appraisal templates, and HR software that companies in Pune actually use.",
+          "listItems": [
+            "Manage recruitment and employee relations",
+            "Support performance and development",
+            "Ensure legal and policy compliance"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR</span> Training?",
+          "content": "Unlike generic online courses, this HR Training in Pune batch is built around Pune's local job market the IT parks of Hinjawadi, the manufacturing belt of Chakan and Pimpri-Chinchwad, and the growing BFSI and startup ecosystem across the city. That means your case studies, mock interviews, and placement leads are relevant to the employers actually hiring here.",
+          "listItems": [
+            "HR Generalist",
+            "HR Manager",
+            "Payroll Specialist",
+            "Talent Acquisition Specialist"
+          ]
+        }
+      ]
+    }
+  },
+  "Whysap": {
+    "WhySap": {
+      "title": "Why SAP Course in {city}?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP</span>?",
+          "content": "SAP (Systems, Applications, and Products in Data Processing) is one of the world's most widely used ERP (Enterprise Resource Planning) software solutions. It helps organizations manage finance, operations, HR, supply chain, and customer relations on a single integrated platform."
+        },
+        {
+          "title": "Who is this <span class=\"highlight-span-cards\">SAP course</span> designed for?",
+          "content": "This SAP course is designed for freshers, working professionals, and career switchers who want to build a strong foundation in SAP and specialize in modules that align with their career goals. Through instructor-led sessions, live projects, and practical assignments, you will gain the skills required to work as an SAP consultant, functional analyst, or technical specialist.",
+          "listItems": [
+            "Build a strong SAP foundation",
+            "Specialize in career-aligned modules",
+            "Gain skills for consultant, analyst, or technical roles"
+          ]
+        },
+        {
+          "title": "What will you achieve by the end of this <span class=\"highlight-span-cards\">SAP course</span>?",
+          "content": "By the end of this course, you will be equipped with real-world SAP implementation knowledge, configuration skills, and end-to-end business process understanding — preparing you for SAP certification exams and industry roles.",
+          "listItems": [
+            "Real-world SAP implementation knowledge",
+            "Configuration skills",
+            "End-to-end business process understanding",
+            "Readiness for SAP certification exams and industry roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whymm": {
+    "WhyMM": {
+      "title": "Why SAP MM ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP MM</span>?",
+          "content": "SAP MM (Materials Management) is the module that governs how a company buys, stores, and pays for the materials it needs to run its business — procurement, inventory, vendor management, and invoice verification all sit inside it. It's one of the most widely implemented SAP modules across manufacturing, retail, pharma, and FMCG companies, which keeps demand for trained SAP MM professionals steady."
+        },
+        {
+          "title": "Why choose <span class=\"highlight-span-cards\">SAP MM Course in Pune</span>?",
+          "content": "Pune has grown into one of India's strongest SAP job markets. The city is home to a large concentration of manufacturing firms, automotive companies, and IT/consulting firms that run or implement SAP — which means a SAP MM Course in Pune puts you close to both training talent and the employers who are actually hiring for this skill.",
+          "listItems": [
+            "Strong local demand from manufacturing & automotive",
+            "Proximity to SAP implementation partners",
+            "Direct path to Pune job opportunities"
+          ]
+        },
+        {
+          "title": "How does this course make you <span class=\"highlight-span-cards\">job-ready</span>?",
+          "content": "This course is run by SAP-certified consultants with hands-on implementation experience. Every concept is taught on a live SAP system, so you're practicing the same screens and transactions you'd use on the job — not memorizing theory from slides.",
+          "listItems": [
+            "Taught by SAP-certified consultants",
+            "Practice on live SAP systems",
+            "Real procure-to-pay & inventory scenarios"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhcm": {
+    "WhyHCM": {
+      "title": "Why SAP HCM ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP HCM</span>?",
+          "content": "SAP HCM (Human Capital Management) is one of the most widely implemented SAP modules across manufacturing, IT, banking, retail, and healthcare industries. Organizations rely on SAP HCM to manage their entire employee lifecycle — from recruitment and organizational structuring to payroll processing and time tracking."
+        },
+        {
+          "title": "Who is this <span class=\"highlight-span-cards\">SAP HCM Course in Pune</span> designed for?",
+          "content": "This SAP HCM training in Pune is designed for working professionals, HR executives, and career-switchers who want to build a strong foundation in SAP HR functional consulting. The course covers both configuration (customizing) and end-user functionality, giving you the dual perspective needed to succeed as an SAP HCM consultant.",
+          "listItems": [
+            "HR professionals & career switchers",
+            "Configuration + end-user functionality",
+            "Real-time project & payroll exposure"
+          ]
+        },
+        {
+          "title": "What will you achieve by the end?",
+          "content": "You'll work on real business scenarios, configure organizational structures from scratch, run live payroll cycles, and understand integration points with SAP FI/CO and SuccessFactors — preparing you for real SAP implementation and support projects.",
+          "listItems": [
+            "Configure org structures & run payroll",
+            "Integration with FI/CO & SuccessFactors",
+            "Ready for implementation & support roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyqm": {
+    "WhyQM": {
+      "title": "Why SAP QM ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP QM</span>?",
+          "content": "SAP QM (Quality Management) is a core module within SAP ERP/S4 HANA that helps organizations plan, execute, and control quality processes across procurement, production, and sales."
+        },
+        {
+          "title": "What does this <span class=\"highlight-span-cards\">SAP QM Course in Pune</span> cover?",
+          "content": "This course covers the complete SAP QM lifecycle — from quality planning and inspection to quality control, notifications, and certificates — with practical, scenario-based learning. Delivered by experienced SAP consultants in Pune, the training blends theoretical concepts with real-time business scenarios.",
+          "listItems": [
+            "Quality planning, inspection & control",
+            "Notifications & quality certificates",
+            "Real-time industry business scenarios"
+          ]
+        },
+        {
+          "title": "Who should join this course?",
+          "content": "Whether you are a fresh graduate, a working professional in quality assurance, or an SAP consultant looking to upskill, this course equips you with the practical knowledge and confidence to work on live SAP QM projects.",
+          "listItems": [
+            "Fresh graduates & QA professionals",
+            "SAP consultants adding QM skill",
+            "Job-ready for live QM projects"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyps": {
+    "WhyPS": {
+      "title": "Why SAP PS ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP PS</span>?",
+          "content": "SAP Project Systems (PS) is one of the most powerful modules within SAP, used by organizations to plan, execute, monitor, and control projects of any size — from small internal initiatives to large-scale infrastructure and manufacturing projects. Companies across construction, engineering, IT, pharma, and manufacturing rely on SAP PS to keep their projects on time and within budget."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP PS Course in Pune</span>?",
+          "content": "This SAP PS training in Pune is built for individuals who want practical, real-world exposure rather than just theory. Our trainers are experienced SAP consultants who bring live industry case studies into the classroom, helping you understand not just \"how\" but \"why\" things are done a certain way in real projects.",
+          "listItems": [
+            "WBS, networks, budgeting & cost control",
+            "Integration with FI, CO, MM & SD",
+            "Live industry case studies"
+          ]
+        },
+        {
+          "title": "What will you be able to do by the end?",
+          "content": "By the end of this course, you'll be able to independently configure and handle a project system landscape, understand its integration with other SAP modules, and confidently work as an SAP PS consultant or end-user in a corporate environment.",
+          "listItems": [
+            "Independent project system configuration",
+            "Cross-module integration mastery",
+            "Ready for consultant or end-user roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyscm": {
+    "WhySCM": {
+      "title": "Why SAP SCM ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP SCM</span>?",
+          "content": "SAP Supply Chain Management (SCM) is the backbone of procurement, production planning, inventory management, warehousing, and logistics for global enterprises — and skilled SAP SCM consultants are in high demand across manufacturing, retail, pharma, FMCG, and logistics industries."
+        },
+        {
+          "title": "What does this <span class=\"highlight-span-cards\">SAP SCM Course in Pune</span> cover?",
+          "content": "This course takes you from SCM fundamentals to advanced SAP module configuration, covering SAP MM, SAP PP, SAP WM/EWM, and an introduction to SAP APO/IBP for demand and supply planning. You'll work on real business scenarios inside a live SAP environment.",
+          "listItems": [
+            "SAP MM, PP, WM/EWM + APO/IBP intro",
+            "Procure-to-pay & plan-to-produce cycles",
+            "Live SAP environment practice"
+          ]
+        },
+        {
+          "title": "Who is this course ideal for?",
+          "content": "Whether you are a fresher aiming to enter the SAP ecosystem, a supply chain professional looking to upskill, or an SAP consultant expanding your module expertise, this SAP SCM training in Pune gives you the structured learning path, mentorship, and certification needed to succeed.",
+          "listItems": [
+            "Freshers & supply chain professionals",
+            "SAP consultants adding SCM skills",
+            "Structured path to job-ready expertise"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyehs": {
+    "WhyEHS": {
+      "title": "Why SAP EHS ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP EHS</span>?",
+          "content": "SAP EHS (Environment, Health & Safety) helps organizations manage workplace safety, environmental compliance, and health regulations. The course covers the complete SAP EHS Management suite, including Incident Management, Risk Assessment, Industrial Hygiene and Safety (IHS), Environment Management, and Product and REACH Compliance."
+        },
+        {
+          "title": "Why is <span class=\"highlight-span-cards\">SAP EHS training in Pune</span> relevant?",
+          "content": "Pune has become a major hub for manufacturing, pharmaceutical, and process industries — all of which require certified SAP EHS consultants to manage regulatory compliance and workplace safety. Our program is built to help freshers, safety officers, environmental engineers, and SAP consultants transition into high-demand EHS consulting roles.",
+          "listItems": [
+            "Strong demand from Pune manufacturing & pharma",
+            "Incident, risk & compliance management",
+            "Pathway to EHS consulting roles"
+          ]
+        },
+        {
+          "title": "What will you be able to do?",
+          "content": "By the end of this SAP EHS course, you will be able to configure and manage the SAP EHS Management module end-to-end, set up Incident Management, perform Risk Assessment, handle Industrial Hygiene data, manage Environment and Product Safety compliance, and integrate with HCM, PM and QM modules.",
+          "listItems": [
+            "End-to-end EHS configuration",
+            "Incident, risk & hygiene management",
+            "Integration with HCM, PM & QM"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyibp": {
+    "WhyIBP": {
+      "title": "Why SAP IBP ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP IBP</span>?",
+          "content": "SAP IBP (Integrated Business Planning) is SAP's cloud-based solution for supply chain planning, helping organizations align demand, supply, inventory, and sales & operations planning on a single platform. As more companies migrate from SAP APO to SAP IBP, the demand for trained SAP IBP consultants in Pune and across India is growing rapidly."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP IBP Course in Pune</span>?",
+          "content": "This course gives you complete, practical knowledge of the SAP IBP suite — from core configuration to real-time planning scenarios using SAP Analytics Cloud (SAC) and Fiori-based dashboards. You will master Demand Planning, Supply Planning, Inventory Optimization, S&OP, and Control Tower modules.",
+          "listItems": [
+            "Demand, Supply, Inventory & S&OP modules",
+            "SAP Analytics Cloud dashboards",
+            "Real-time planning scenarios"
+          ]
+        },
+        {
+          "title": "Who should take this course?",
+          "content": "Whether you are an SAP APO consultant looking to upskill, a supply chain professional, or a fresher aiming to build a career in SAP, this course takes you from fundamentals to advanced, project-ready expertise.",
+          "listItems": [
+            "SAP APO consultants transitioning to IBP",
+            "Supply chain & operations professionals",
+            "Freshers entering SAP planning roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypp": {
+    "WhyPP": {
+      "title": "Why SAP PP ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP PP</span>?",
+          "content": "SAP Production Planning (PP) is one of the most in-demand modules within the SAP ecosystem, forming the backbone of manufacturing and production operations across industries like automotive, pharmaceuticals, FMCG, and discrete manufacturing."
+        },
+        {
+          "title": "What does this <span class=\"highlight-span-cards\">SAP PP Course in Pune</span> cover?",
+          "content": "Our training covers the complete SAP PP lifecycle — from Master Data (Bill of Materials, Work Centers, Routings) to core planning processes like Demand Management, MRP, Production Orders, and Capacity Planning, along with integration touchpoints with SAP MM, SD, and QM modules.",
+          "listItems": [
+            "BOM, Work Centers, Routings & MRP",
+            "Demand Management & Production Orders",
+            "Integration with MM, SD & QM"
+          ]
+        },
+        {
+          "title": "Who is this course ideal for?",
+          "content": "Whether you're a fresher looking to break into SAP consulting or a working professional planning a career switch, this SAP PP Course in Pune is designed to get you job-ready with practical, end-to-end implementation knowledge.",
+          "listItems": [
+            "Engineering & manufacturing graduates",
+            "Production & operations professionals",
+            "Job-ready implementation skills"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypm": {
+    "WhyPM": {
+      "title": "Why SAP PM ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP PM</span>?",
+          "content": "SAP Plant Maintenance (PM) is one of the most in-demand modules within the SAP ecosystem, used by manufacturing, engineering, pharmaceutical, and process industries to manage equipment reliability, reduce downtime, and streamline maintenance operations. As Pune continues to grow as a hub for automotive, manufacturing, and IT-enabled enterprises, the demand for skilled SAP PM consultants is rising steadily."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP PM Course in Pune</span>?",
+          "content": "Our SAP PM Course in Pune takes you from foundational concepts to advanced configuration, covering master data management, preventive maintenance planning, work order processing, and maintenance notifications — all through a project-based approach on live SAP systems.",
+          "listItems": [
+            "Equipment, functional locations & BOM",
+            "Preventive & breakdown maintenance",
+            "Work orders, notifications & reporting"
+          ]
+        },
+        {
+          "title": "Who should join?",
+          "content": "Whether you're an engineer looking to move into SAP consulting or an SAP professional adding PM to your skill set, this course gives you the practical know-how top companies in Pune's manufacturing and IT hubs are hiring for.",
+          "listItems": [
+            "Mechanical, electrical & production engineers",
+            "Maintenance & reliability professionals",
+            "SAP consultants expanding into PM"
+          ]
+        }
+      ]
+    }
+  },
+  "Whybtp": {
+    "WhyBTP": {
+      "title": "Why SAP BTP ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP BTP</span>?",
+          "content": "SAP Business Technology Platform (SAP BTP) is the backbone of modern SAP cloud transformation, combining database & data management, application development, integration, and analytics into a single unified platform. As enterprises across India rapidly shift to S/4HANA Cloud and RISE with SAP, the demand for SAP BTP-certified professionals in Pune has grown significantly across IT hubs like Hinjewadi, Kharadi, and Magarpatta."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP BTP Course in Pune</span>?",
+          "content": "This training covers everything from BTP architecture fundamentals to hands-on projects using SAP Integration Suite, SAP Build, and SAP HANA Cloud — preparing you for real enterprise scenarios, not just theory.",
+          "listItems": [
+            "SAP CAP, Integration Suite & HANA Cloud",
+            "SAP Build (Low-Code/No-Code)",
+            "Fiori/UI5 & AI/ML extensions on BTP"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "Designed for freshers, working professionals, and functional/technical SAP consultants who want to upskill into cloud-based SAP development and integration roles.",
+          "listItems": [
+            "Freshers & ABAP developers moving to cloud",
+            "Functional consultants adding technical skills",
+            "IT professionals targeting RISE with SAP projects"
+          ]
+        }
+      ]
+    }
+  },
+  "Whygrc": {
+    "WhyGRC": {
+      "title": "Why SAP GRC ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">SAP GRC</span>?",
+          "content": "SAP GRC (Governance, Risk, and Compliance) is one of the most in-demand SAP modules today. As companies deal with tighter regulations, growing cybersecurity risks, and the constant need for audit-ready systems, organizations are actively hiring professionals who understand how to manage user access, control segregation of duties (SoD), and automate compliance processes within SAP environments."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">SAP GRC Course in Pune</span>?",
+          "content": "You won't just learn theory — you'll get your hands on actual SAP GRC systems, work through real business scenarios, and understand how large enterprises use GRC modules like Access Control, Process Control, and Risk Management to stay secure and compliant.",
+          "listItems": [
+            "Access Control (ARA, ARM, EAM, BRM)",
+            "Process Control & Risk Management",
+            "Real SoD analysis & mitigation scenarios"
+          ]
+        },
+        {
+          "title": "Who should join this course?",
+          "content": "Whether you're an SAP Basis consultant, an auditor, a security professional, or a fresher looking to break into the SAP ecosystem, this course builds your foundation the right way — with real GRC scenarios, hands-on labs, and 100% placement assistance.",
+          "listItems": [
+            "SAP Basis & Security consultants",
+            "IT auditors & compliance professionals",
+            "Freshers entering SAP security domain"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyaiml": {
+    "WhyAIML": {
+      "title": "Why AI ML Course?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">AI & Machine Learning?</span>",
+          "content": "Artificial intelligence isn't a buzzword anymore; it's showing up in hiring requirements across almost every industry, from fintech to healthcare to e-commerce. That's exactly why demand for a solid AI ML course in Pune has grown so quickly over the last couple of years. Companies aren't just looking for people who understand the theory; they want people who can actually build, train, and deploy models that solve real problems."
+        },
+        {
+          "title": "What will you learn?",
+          "content": "This course is structured around that gap. Instead of rushing through definitions and moving on, we spend real time on the fundamentals of Python programming, statistics, and data handling before layering in machine learning algorithms, neural networks, natural language processing, and generative AI tools that are shaping today's job market.",
+          "listItems": [
+            "Python, statistics, ML & deep learning",
+            "NLP, generative AI & model deployment",
+            "Portfolio projects + interview readiness"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "By the end of this AI and ML course, you'll have worked on multiple projects, understood how models are evaluated and deployed, and built the kind of practical experience that recruiters actually ask about in interviews. It's designed for people who learn by doing, not just by watching.",
+          "listItems": [
+            "Freshers targeting AI/ML roles",
+            "Working professionals reskilling",
+            "Anyone who learns best by building real models"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyaws": {
+    "WhyAWS": {
+      "title": "Why AWS?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">AWS?</span>",
+          "content": "Pune has grown into one of India's strongest IT and cloud computing hubs, and companies across Hinjewadi, Kharadi, Baner, and Viman Nagar are actively hiring professionals who understand Amazon Web Services. This AWS course in Pune is designed to meet that exact demand combining conceptual clarity with hands-on labs so you actually build things on AWS, not just watch someone else do it."
+        },
+        {
+          "title": "What will you master in this <span class=\"highlight-span-cards\">AWS course</span>?",
+          "content": "Over the course, you'll work inside a real AWS environment, provision cloud resources, secure them properly, and deploy applications the way cloud engineers do in production. By the end, you'll be prepared for globally recognised AWS certification exams and equipped to apply for roles like Cloud Engineer, DevOps Engineer, Solutions Architect, and Cloud Support Associate.",
+          "listItems": [
+            "EC2, S3, IAM, VPC, RDS, Lambda & more",
+            "Hands-on labs + real cloud deployments",
+            "Certification readiness + job-ready skills"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "This isn't a generic recorded course. Our AWS training in Pune is instructor-led, project-driven, and updated regularly to match what recruiters in Pune are actually asking for in interviews right now.",
+          "listItems": [
+            "Freshers & engineering graduates",
+            "IT professionals upskilling to cloud",
+            "Anyone targeting Cloud / DevOps roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whydevops": {
+    "WhyDEVOPS": {
+      "title": "Why DevOps?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">DevOps?</span>",
+          "content": "Pune has grown into one of India's biggest IT and product-engineering hubs, and companies here are actively hiring engineers who understand automation, cloud infrastructure, and continuous delivery. This DevOps course in Pune was built to match exactly what local employers are asking for right now — not a generic syllabus copied from a textbook."
+        },
+        {
+          "title": "What will you master in this <span class=\"highlight-span-cards\">DevOps course</span>?",
+          "content": "Over the course, you'll move from the basics of Linux and version control to running real CI/CD pipelines, containerizing applications with Docker, orchestrating them with Kubernetes, and managing cloud infrastructure on AWS using Terraform. Every module is backed by a live project, so by the end you'll have a portfolio you can actually show in interviews, not just a certificate.",
+          "listItems": [
+            "Linux, Git, Jenkins, Docker, Kubernetes",
+            "Terraform, Ansible, CI/CD & monitoring",
+            "Live projects + interview-ready portfolio"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "Whether you're a fresher trying to break into IT, a system administrator looking to upskill, or a developer wanting to own the full deployment lifecycle, this program is structured to take you from fundamentals to job-readiness step by step.",
+          "listItems": [
+            "Freshers & recent graduates",
+            "Sysadmins & developers upskilling",
+            "Working professionals targeting DevOps roles"
+          ]
+        }
+      ]
+    }
+  }
+}

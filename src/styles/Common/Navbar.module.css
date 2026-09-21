@@ -1,0 +1,1783 @@
+/* Base navbar styles */
+.navbar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 1800px;
+  min-height: 54px;
+  margin: 0 auto;
+  padding: 0.35rem 0.85rem;
+  overflow: visible;
+  background-color: rgba(255, 255, 255, 0.96);
+  box-shadow: none;
+  z-index: 1000;
+  position: relative;
+  border-bottom: 1px solid transparent;
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease,
+    padding 0.3s ease;
+}
+
+.headerNav {
+  position: sticky;
+  padding: 0.12rem 0;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.96);
+  z-index: 1000;
+  backdrop-filter: blur(18px);
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease,
+    padding 0.3s ease;
+}
+
+.scrolled {
+  border-color: rgba(15, 23, 42, 0.08);
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  padding: 0.08rem 0;
+}
+
+/* Enhanced floating navbar with better transition */
+.floating {
+  position: fixed !important;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%) translateZ(0) !important;
+  width: 70% !important;
+  max-width: 1200px;
+  border-radius: 999px;
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.14);
+  backdrop-filter: blur(20px);
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  padding: 0.16rem 0;
+  animation: floatIn 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform, opacity;
+  z-index: 1000;
+}
+
+.transitioning {
+  transition: auto !important;
+}
+
+@keyframes floatIn {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-30px) scale(0.9) translateZ(0);
+  }
+  60% {
+    opacity: 0.8;
+    transform: translateX(-50%) translateY(-5px) scale(0.98) translateZ(0);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0) scale(1) translateZ(0);
+  }
+}
+
+.floating .navContainer {
+  padding: 0 1.15rem;
+}
+
+.floating .logoWrapper {
+  width: 84px;
+  height: 36px;
+  transition: all 0.3s ease;
+}
+
+.floating .logoImage {
+  width: 84px !important;
+  height: 36px !important;
+}
+
+.floating .animatedLogo {
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  min-height: 48px;
+  margin-right: 0.12rem;
+  overflow: visible;
+  contain: none;
+  flex-shrink: 0;
+}
+
+.floating .logoLink {
+  overflow: visible;
+  align-items: center;
+}
+
+.floating .navLink {
+  font-size: 0.75rem;
+  padding: 0.28rem 0.48rem;
+}
+
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 0.8rem;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.containerFluid {
+  width: 100%;
+  padding: 0 0.85rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  transition: transform 0.2s ease;
+}
+
+.logo:hover {
+  transform: scale(1.02);
+}
+
+.logoLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.logoImage {
+  transition: all 0.3s ease;
+}
+
+.logoWrapper {
+  position: relative;
+  width: 98px;
+  height: 38px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.animatedLogo {
+  cursor: pointer;
+  margin-right: 0.3rem;
+  width: 30px;
+  height: 30px;
+  transition: all 0.3s ease;
+}
+
+.animatedLogoPlaceholder {
+  width: 30px;
+  height: 30px;
+  margin-right: 0.3rem;
+  background-color: #e0e0e0;
+  border-radius: 50%;
+  animation: pulse-bg 2s infinite alternate;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+@keyframes pulse-bg {
+  0% {
+    box-shadow: 0 0 0 0 rgba(102, 130, 204, 0.4);
+  }
+  100% {
+    box-shadow: 0 0 0 10px rgba(102, 130, 204, 0);
+  }
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.navbarDesktop {
+  display: none;
+}
+
+.navItem {
+  margin: 0 0.05rem;
+  position: relative;
+}
+
+.navLink {
+  color: #1f2937;
+  text-decoration: none;
+  padding: 0.48rem 0.72rem;
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 650;
+  line-height: 1;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
+  position: relative;
+  white-space: nowrap;
+  border-radius: 8px;
+  border: 1px solid rgba(15, 79, 168, 0);
+  box-sizing: border-box;
+}
+
+.navLink:hover,
+.dropdown:hover > .dropdownToggle {
+  color: #0f4fa8;
+  background-color: #f3f8ff;
+  border-color: rgba(15, 79, 168, 0.32);
+  box-shadow: 0 8px 20px rgba(15, 79, 168, 0.12);
+  transform: translateY(-1px);
+}
+
+.navLink::after {
+  display: none;
+}
+
+.navLink:hover::after {
+  width: 0;
+}
+
+.navLink.active {
+  color: #0f4fa8;
+  background-color: #eef6ff;
+  border-color: rgba(15, 79, 168, 0.42);
+  box-shadow:
+    0 8px 20px rgba(15, 79, 168, 0.1),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.45);
+}
+
+.navLink.active::after {
+  width: 0;
+}
+
+/* CTA Button */
+.ctaButton {
+  display: inline-block;
+  padding: 0.55rem 1rem;
+  background-color: #ff5722;
+  color: white;
+  border-radius: 8px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 24px rgba(255, 87, 34, 0.22);
+  text-align: center;
+  font-size: 0.84rem;
+  border: 1px solid transparent;
+}
+
+.ctaButton:hover {
+  background-color: transparent;
+  color: #ff5722;
+  border-color: #ff5722;
+  transform: translateY(-1px);
+  box-shadow: 0 12px 26px rgba(255, 87, 34, 0.14);
+}
+
+.navAction {
+  margin-left: 0.35rem;
+}
+
+/* Dropdown Menus */
+.dropdown {
+  position: relative;
+
+}
+.dropdown::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;        /* was -50px */
+  right: 0;       /* was -50px */
+  height: 12px;   /* was 90px — just enough to bridge the gap to the menu */
+}
+
+.dropdownToggleWrapper {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.dropdownToggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.28rem;
+}
+
+.dropdownMenu {
+  position: absolute;
+  list-style: none;
+  padding: 0.55rem;
+  margin: 0;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.16);
+  min-width: 240px;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  top: 100%;
+  left: 0;
+  transform: translateY(8px) scale(0.98);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.dropdownMenu.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0) scale(1);
+}
+
+/* ===================================================================
+   SHARED MEGA MENU (SAP, IT Courses with AI, HR Courses)
+   .sapMegaMenu is the base mega-menu skin shared by all three dropdowns.
+   .itMegaMenu / .hrMegaMenu add per-dropdown sizing tweaks only.
+   =================================================================== */
+
+.sapMegaMenu {
+  width: min(1088px, calc(100vw - 3rem));
+  display: grid;
+  grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+  gap: 1.8rem;
+  padding: 1.45rem 1.55rem 1.6rem;
+  overflow: hidden;
+  list-style: none;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.97) 0%, rgba(246, 250, 255, 0.95) 52%, rgba(239, 246, 255, 0.94) 100%),
+    repeating-linear-gradient(90deg, rgba(15, 79, 168, 0.045) 0 1px, transparent 1px 24px);
+  border: 1px solid rgba(208, 222, 239, 0.92);
+  border-radius: 18px;
+  box-shadow:
+    0 28px 70px rgba(15, 23, 42, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.78);
+}
+
+.sapMegaMenu::after {
+  content: "";
+  position: absolute;
+  right: -4%;
+  bottom: -20%;
+  width: 56%;
+  height: 64%;
+  background:
+    linear-gradient(145deg, transparent 0 38%, rgba(76, 132, 255, 0.1) 39%, transparent 40%),
+    linear-gradient(160deg, transparent 0 50%, rgba(14, 165, 233, 0.12) 51%, transparent 52%);
+  pointer-events: auto;
+}
+
+/* IT Courses with AI: more items overall, so the menu runs a touch wider
+   and both columns use a 2-up icon grid instead of SAP's 2-col/1-col split */
+.itMegaMenu {
+  width: min(980px, calc(100vw - 40px));
+  grid-template-columns: minmax(0, 1.32fr) minmax(260px, 0.68fr);
+}
+
+.itMegaMenu .sapMenuColumn:last-child .sapMenuGrid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+/* HR Courses: single section only, so size it to its own column rather
+   than stretching to the two-column SAP grid proportions */
+.hrMegaMenu {
+  width: min(460px, calc(100vw - 3rem));
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.hrMegaMenu .sapMenuColumn:last-child .sapMenuGrid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.sapMenuColumn {
+  position: relative;
+  z-index: 1;
+  min-width: 0;
+  list-style: none;
+}
+
+.sapMenuColumn + .sapMenuColumn {
+  padding-left: 1.85rem;
+  border-left: 1px solid rgba(203, 213, 225, 0.75);
+}
+
+.sapMenuHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.15rem;
+}
+
+.sapHeaderIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 54px;
+  flex: 0 0 54px;
+  color: #0f62d5;
+  border: 1px solid rgba(37, 99, 235, 0.12);
+  border-radius: 12px;
+  background: linear-gradient(145deg, #f8fbff 0%, #edf5ff 100%);
+  box-shadow: 0 12px 26px rgba(15, 79, 168, 0.1);
+}
+
+.sapMenuTitle,
+.sapMenuSubtitle {
+  display: block;
+}
+
+.sapMenuTitle {
+  color: #111827;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.sapMenuSubtitle {
+  margin-top: 0.32rem;
+  color: #64748b;
+  font-size: 0.74rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.sapMenuGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.55rem 0.7rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.sapMenuColumn:last-child .sapMenuGrid {
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+}
+
+.sapMenuLink {
+  display: flex;
+  align-items: center;
+  gap: 0.72rem;
+  min-height: 50px;
+  padding: 0.62rem 0.78rem;
+  color: #111827;
+  font-size: 0.82rem;
+  font-weight: 760;
+  line-height: 1.2;
+  text-decoration: none;
+  white-space: normal;
+  border: 1px solid rgba(203, 213, 225, 0.8);
+  border-left: 3px solid #3b82f6;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.07);
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.sapMenuLink:hover,
+.sapMenuLink:focus-visible {
+  color: #0f4fa8;
+  background: #ffffff;
+  border-color: rgba(37, 99, 235, 0.35);
+  box-shadow: 0 16px 30px rgba(15, 79, 168, 0.14);
+  transform: translateY(-2px);
+}
+
+.sapItemIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  flex: 0 0 32px;
+  border-radius: 50%;
+}
+
+.sapLogoMark {
+  color: #ffffff;
+  font-size: 0.52rem;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.sapIconteal {
+  color: #0f9f8f;
+  background: #dffaf5;
+}
+
+.sapIconyellow {
+  color: #d4a600;
+  background: #fff8d8;
+}
+
+.sapIconorange {
+  color: #f97316;
+  background: #fff0df;
+}
+
+.sapIconcyan {
+  color: #0891b2;
+  background: #e4f9ff;
+}
+
+.sapIconviolet {
+  color: #7c3aed;
+  background: #f0e8ff;
+}
+
+.sapIconpurple {
+  color: #8b5cf6;
+  background: #f2eaff;
+}
+
+.sapIconblue {
+  color: #0f62d5;
+  background: #e4f0ff;
+}
+
+.sapIcongreen {
+  color: #16a34a;
+  background: #e7f9ed;
+}
+
+.sapIconpink {
+  color: #ec407a;
+  background: #ffebf2;
+}
+
+.sapIconsky {
+  color: #38a9e8;
+  background: #e8f7ff;
+}
+
+.sapIconindigo {
+  color: #4f46e5;
+  background: #ecebff;
+}
+
+.sapSapBadge {
+  background: linear-gradient(135deg, #1696e8 0%, #005bb9 100%);
+}
+
+.dropdownItem {
+  display: flex;
+  align-items: center;
+  min-height: 42px;
+  padding: 0.62rem 0.72rem;
+  color: #1f2937;
+  text-decoration: none;
+  font-weight: 650;
+  transition: all 0.2s ease;
+  white-space: normal;
+  font-size: 0.8rem;
+  position: relative;
+  border-radius: 8px;
+  line-height: 1.25;
+  border: 1px solid transparent;
+}
+
+.dropdownItem:last-child {
+  border-bottom: 0;
+}
+
+.dropdownItem:hover {
+  background-color: #f3f7fd;
+  color: #0f4fa8;
+  border-color: rgba(15, 79, 168, 0.24);
+  padding-left: 0.9rem;
+  box-shadow: 0 8px 18px rgba(15, 79, 168, 0.08);
+}
+
+.dropdownItem::before {
+  content: "";
+  width: 9px;
+  height: 9px;
+  margin-right: 0.55rem;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  background: linear-gradient(135deg, #0f4fa8, #ff5722);
+  opacity: 0;
+  transform: scale(0.65);
+  transition: all 0.2s ease;
+}
+
+.dropdownItem:hover::before {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Multi-level dropdown */
+.megaMenuItem {
+  position: relative;
+}
+
+.subMenuHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 54px;
+  padding: 0.75rem;
+  color: #1f2937;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  transition: all 0.2s ease;
+  border-radius: 10px;
+  background: #ffffff;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.06);
+}
+
+.subMenuHeader:hover {
+  background-color: #f8fbff;
+  color: #0f4fa8;
+  border-color: rgba(15, 79, 168, 0.28);
+  box-shadow: 0 10px 24px rgba(15, 79, 168, 0.1);
+}
+
+.subMenuTitle {
+  flex-grow: 1;
+  font-weight: 600;
+  font-size: 0.84rem;
+}
+
+.subMenuArrow {
+  margin-left: 0.5rem;
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+
+.subMenuArrow::before {
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-top: 2px solid #666;
+  border-right: 2px solid #666;
+  transform: rotate(45deg);
+  right: 0;
+  top: 50%;
+  margin-top: -3px;
+  transition: all 0.2s ease;
+}
+
+.subMenuHeader:hover .subMenuArrow::before {
+  border-color: #0056b3;
+}
+
+.dropdownSubmenu {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  min-width: 220px;
+  border-radius: 12px;
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.16);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  background-color: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  z-index: 1001;
+  transform: translateX(10px);
+}
+
+/* Desktop dropdown arrow */
+.desktopDropdownArrow {
+  margin-left: 5px;
+  position: relative;
+  width: 10px;
+  height: 10px;
+}
+
+.desktopDropdownArrow::before {
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-right: 2px solid #334155;
+  border-bottom: 2px solid #334155;
+  transform: rotate(45deg);
+  right: 0;
+  top: -3px;
+  transition: all 0.2s ease;
+}
+
+.dropdownToggle:hover .desktopDropdownArrow::before,
+.active .desktopDropdownArrow::before {
+  border-color: #0056b3;
+}
+
+/* Mobile menu toggle */
+.navbarToggler {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  cursor: pointer;
+  z-index: 1050;
+  transition: all 0.2s ease;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+.navbarToggler:hover {
+  background-color: #f8fbff;
+}
+
+.navbarTogglerIcon {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: #1f2937;
+  margin: 0;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.navbarTogglerIcon::before,
+.navbarTogglerIcon::after {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 2px;
+  background-color: #1f2937;
+  left: 0;
+  transition: all 0.2s ease;
+}
+
+.navbarTogglerIcon::before {
+  top: -6px;
+}
+
+.navbarTogglerIcon::after {
+  bottom: -6px;
+}
+
+.navbarTogglerOpen .navbarTogglerIcon {
+  background-color: transparent;
+}
+
+.navbarTogglerOpen .navbarTogglerIcon::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.navbarTogglerOpen .navbarTogglerIcon::after {
+  bottom: 0;
+  transform: rotate(-45deg);
+}
+
+/* Mobile dropdown arrows */
+.mobileDropdownArrow {
+  border: none;
+  background: transparent;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+}
+
+.mobileDropdownArrow:hover {
+  background-color: #f8f9fa;
+}
+
+.arrow {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  transition: transform 0.2s ease;
+}
+
+.arrowDown {
+  border-top: 5px solid #333;
+}
+
+.arrowUp {
+  border-bottom: 5px solid #0056b3;
+}
+
+/* Sidebar overlay for touch outside */
+.sidebarOverlay {
+  position: fixed;
+  top: 54px;
+  left: 0;
+  width: 100%;
+  height: calc(100vh - 54px);
+  background-color: rgba(248, 251, 255, 0.72);
+  z-index: 1040;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  backdrop-filter: blur(12px);
+}
+
+.sidebarOverlay.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Sidebar for mobile view with slide functionality */
+.sidebar {
+  position: fixed;
+  top: 54px;
+  right: 0;
+  left: 0;
+  height: calc(100vh - 54px);
+  width: 100%;
+  max-width: none;
+  background-color: rgba(255, 255, 255, 0.96);
+  box-shadow: none;
+  z-index: 1050;
+  transform: translateY(-10px) scale(0.98);
+  opacity: 0;
+  transition:
+    opacity 0.24s ease,
+    transform 0.24s ease;
+  overflow-y: auto;
+  touch-action: pan-y;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0;
+  border-top: 1px solid rgba(15, 23, 42, 0.08);
+  backdrop-filter: blur(18px);
+}
+
+.sidebar.visible {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
+
+.sidebarHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.btnClose {
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  font-size: 1.2rem;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  transition: all 0.2s ease;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+.btnClose:hover {
+  background-color: #f8fbff;
+}
+
+.btnClose::before,
+.btnClose::after {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  background-color: #333;
+  top: 50%;
+  left: 50%;
+  transition: background-color 0.2s ease;
+}
+
+.btnClose:hover::before,
+.btnClose:hover::after {
+  background-color: #0056b3;
+}
+
+.btnClose::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.btnClose::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.sidebarNav {
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem;
+  flex: 1;
+  max-width: 720px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Mobile logo container */
+.mobileLogoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.mobileLogo {
+  transition: transform 0.2s ease;
+  display: flex;
+}
+
+.mobileLogo:hover {
+  transform: scale(1.05);
+}
+
+/* Mobile specific dropdown styles */
+.sidebarNav .navLink {
+  min-height: 46px;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+  background-color: #ffffff;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+}
+
+.sidebarNav .navLink::after {
+  display: none;
+}
+
+.sidebarNav .dropdown {
+  width: 100%;
+}
+
+.sidebarNav .dropdownToggleWrapper {
+  width: 100%;
+  justify-content: space-between;
+  border-bottom: 0;
+  gap: 0.45rem;
+}
+
+.sidebarNav .dropdownToggle {
+  padding: 0.75rem 0.85rem;
+  flex-grow: 1;
+  font-size: 0.9rem;
+}
+
+/* Fix for mobile dropdown menus */
+.sidebarNav .dropdownMenu {
+  position: static;
+  box-shadow: none;
+  padding-left: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition:
+    max-height 0.3s ease,
+    opacity 0.3s ease;
+  display: block;
+  border: none;
+  transform: none;
+  background-color: transparent;
+  border-radius: 0;
+  opacity: 0;
+}
+
+.sidebarNav .dropdownMenu.show {
+  max-height: 2000px;
+  opacity: 1;
+  visibility: visible;
+  padding: 0.5rem;
+  margin: 0.45rem 0 0.65rem;
+  border-radius: 12px;
+  background-color: #f7faff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+}
+
+.sidebarNav .courseMegaMenu {
+  display: block;
+  width: 100%;
+}
+
+/* Mobile: every mega-menu (SAP, IT, HR) collapses to a single full-width
+   stacked column — same treatment for all three dropdowns */
+.sidebarNav .sapMegaMenu,
+.sidebarNav .itMegaMenu,
+.sidebarNav .hrMegaMenu {
+  pointer-events: auto;
+  position: static;
+  top: 86px;
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  background: #f7faff;
+  border-radius: 12px;
+  box-shadow: none;
+}
+
+.sidebarNav .sapMegaMenu::after {
+  display: none;
+}
+
+.sidebarNav .sapMenuColumn + .sapMenuColumn {
+  margin-top: 1rem;
+  padding-left: 0;
+  padding-top: 1rem;
+  border-left: 0;
+  border-top: 1px solid rgba(203, 213, 225, 0.75);
+}
+
+.sidebarNav .sapMenuHeader {
+  gap: 0.65rem;
+  margin-bottom: 0.65rem;
+}
+
+.sidebarNav .sapHeaderIcon {
+  width: 38px;
+  height: 38px;
+  flex-basis: 38px;
+  border-radius: 10px;
+}
+
+.sidebarNav .sapMenuTitle {
+  font-size: 0.9rem;
+}
+
+.sidebarNav .sapMenuSubtitle {
+  font-size: 0.68rem;
+}
+
+.sidebarNav .sapMenuGrid,
+.sidebarNav .sapMenuColumn:last-child .sapMenuGrid,
+.sidebarNav .itMegaMenu .sapMenuColumn:last-child .sapMenuGrid,
+.sidebarNav .hrMegaMenu .sapMenuColumn:last-child .sapMenuGrid {
+  grid-template-columns: 1fr;
+  gap: 0.48rem;
+}
+
+.sidebarNav .sapMenuLink {
+  min-height: 44px;
+  padding: 0.55rem 0.65rem;
+  font-size: 0.78rem;
+  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.06);
+}
+
+.sidebarNav .sapItemIcon {
+  width: 28px;
+  height: 28px;
+  flex-basis: 28px;
+}
+
+.sidebarNav .mobileSubmenu {
+  position: static;
+  box-shadow: none;
+  padding-left: 1rem;
+  border-left: 2px solid #0f4fa8;
+  margin-left: 0.5rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  background-color: #ffffff;
+  opacity: 0;
+}
+
+.sidebarNav .show .mobileSubmenu {
+  max-height: 1000px;
+  opacity: 1;
+  visibility: visible;
+  padding: 0.5rem 0;
+}
+
+/* Mobile submenu indicators */
+.sidebarNav .subMenuHeader {
+  position: relative;
+  padding: 0.75rem;
+  margin-bottom: 0;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.sidebarNav .subMenuArrow::before {
+  transition: transform 0.2s ease;
+}
+
+.sidebarNav .show .subMenuArrow::before {
+  transform: rotate(135deg);
+}
+
+.mobileQuickLinks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem;
+  width: 100%;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.mobileQuickLink {
+  min-height: 40px;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid #d7e0ea;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ffffff 0%, #f8fbff 100%);
+  color: #334155;
+  font-size: 0.84rem;
+  font-weight: 650;
+  line-height: 1.1;
+  text-decoration: none;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 5px 14px rgba(15, 23, 42, 0.06);
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.mobileQuickLink:hover,
+.mobileQuickLink:focus-visible {
+  color: #0056b3;
+  border-color: rgba(0, 86, 179, 0.35);
+  background: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(0, 86, 179, 0.11);
+}
+
+.mobileQuickLinkActive {
+  color: #0056b3;
+  border-color: rgba(0, 86, 179, 0.42);
+  background: #eef6ff;
+  box-shadow: inset 0 0 0 1px rgba(0, 86, 179, 0.08);
+}
+
+.mobileContactLink {
+  grid-column: 1 / -1;
+  background-color: #ff5722;
+  background-image: linear-gradient(135deg, #ff6a32 0%, #ff5722 100%);
+  border-color: #ff5722;
+  color: #ffffff;
+  box-shadow: 0 8px 18px rgba(255, 87, 34, 0.25);
+}
+
+.mobileContactLink:hover,
+.mobileContactLink:focus-visible {
+  background: #ffffff;
+  color: #ff5722;
+  border-color: #ff5722;
+  box-shadow: 0 8px 18px rgba(255, 87, 34, 0.18);
+}
+
+/* Mobile CTA */
+.mobileCtaContainer {
+  padding: 1.5rem;
+  border-top: 1px solid #e9ecef;
+  text-align: center;
+}
+
+.mobileCta {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  background-color: #ff5722;
+  color: white;
+  border-radius: 25px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.mobileCta:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Button styles */
+.btn {
+  padding: 0.375rem 0.75rem;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Responsive styles */
+@media (min-width: 992px) {
+  .hrMegaMenu {
+    position: absolute !important;
+    top: 100% !important;
+    left: auto !important;
+    right: 0 !important;
+    transform: translateY(8px) scale(0.98) !important;
+  }
+
+  .hrMegaMenu.show {
+    transform: translateY(0) scale(1) !important;
+    pointer-events: auto;
+  }
+
+  .containerFluid {
+    padding: 0 0.75rem;
+  }
+
+  .navbarDesktop {
+    display: flex;
+    align-items: center;
+  }
+
+  .navbarToggler {
+    display: none;
+  }
+
+  .dropdown > .dropdownMenu {
+    top: 150%;
+  }
+
+  .dropdown:hover > .dropdownMenu {
+    top: 100%;
+  }
+
+  .dropdown > .dropdownMenu::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 20%;
+    transform: translateX(-50%);
+    border-width: 0 10px 10px 10px;
+    border-style: solid;
+    border-color: transparent transparent #ffffff transparent;
+    filter: drop-shadow(0 -2px 2px rgba(15, 23, 42, 0.06));
+  }
+
+  /* Mega-menus are right-anchored and far wider than their trigger, so a
+     fixed left% caret can't reliably point back at the trigger — hide it */
+  .dropdown > .sapMegaMenu::before,
+  .dropdown > .itMegaMenu::before,
+  .dropdown > .hrMegaMenu::before {
+    display: none;
+  }
+
+  .dropdown li:hover > .dropdownSubmenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+
+  .sapMegaMenu,
+  .itMegaMenu,
+  .hrMegaMenu {
+    position: fixed;
+    top: 86px;
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%) translateY(8px) scale(0.98);
+  }
+
+  .sapMegaMenu {
+    grid-template-columns: minmax(0, 1.08fr) minmax(300px, 0.92fr);
+  }
+
+  .itMegaMenu {
+    grid-template-columns: minmax(0, 1.32fr) minmax(260px, 0.68fr);
+  }
+
+  .hrMegaMenu {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .sapMegaMenu.show,
+  .itMegaMenu.show,
+  .hrMegaMenu.show {
+    transform: translateX(-50%) translateY(0) scale(1);
+    pointer-events: auto;
+  }
+
+  .subMenuArrow::before {
+    transform: rotate(45deg);
+  }
+
+  .dropdown:hover > .dropdownMenu {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .navLink {
+    font-size: 0.68rem;
+    padding: 0.42rem 0.52rem;
+  }
+
+  .ctaButton {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.7rem;
+  }
+
+  .navItem {
+    white-space: nowrap;
+  }
+
+  .navLink:hover::after,
+  .navLink.active::after {
+    width: 0;
+  }
+
+  .floating {
+    width: 75% !important;
+  }
+
+  .floating .dropdown > .dropdownMenu {
+    border-radius: 12px;
+    box-shadow: 0 24px 60px rgba(15, 23, 42, 0.16);
+    backdrop-filter: blur(15px);
+    background-color: rgba(255, 255, 255, 0.96);
+  }
+
+  .floating .dropdownSubmenu {
+    border-radius: 12px;
+    box-shadow: 0 24px 60px rgba(15, 23, 42, 0.16);
+    backdrop-filter: blur(15px);
+    background-color: rgba(255, 255, 255, 0.96);
+  }
+}
+
+/* Large Desktop (1200px+) */
+@media (min-width: 1200px) {
+  .navLink {
+    padding: 0.36rem 0.72rem;
+    font-size: 0.9rem;
+  }
+
+  .ctaButton {
+    padding: 0.42rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .logoWrapper {
+    width: 112px;
+    height: 40px;
+  }
+
+  .floating {
+    width: 70% !important;
+    max-width: 1100px;
+  }
+
+  .floating .logoWrapper {
+    width: 84px;
+    height: 36px;
+  }
+
+  .floating .logoImage {
+    width: 84px !important;
+    height: 36px !important;
+  }
+
+  .floating .animatedLogo {
+    width: 46px;
+    height: 46px;
+    min-width: 46px;
+    min-height: 46px;
+    contain: none;
+  }
+
+  .floating .navLink {
+    font-size: 0.8rem;
+    padding: 0.28rem 0.56rem;
+  }
+}
+
+/* Extra Large Desktop (1400px+) */
+@media (min-width: 1400px) {
+  .floating {
+    width: 75% !important;
+    max-width: 1000px;
+  }
+
+  .floating .navLink {
+    font-size: 0.85rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .logoWrapper {
+    width: 120px;
+    height: 42px;
+  }
+
+  .floating .logoWrapper {
+    width: 88px;
+    height: 38px;
+  }
+
+  .floating .animatedLogo {
+    width: 48px;
+    height: 48px;
+    min-width: 48px;
+    min-height: 48px;
+    contain: none;
+  }
+}
+
+/* Medium Desktop (1024px - 1199px) */
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .floating {
+    width: 80% !important;
+  }
+
+  .floating .navContainer {
+    padding: 0 0.95rem;
+  }
+
+  .floating .navLink {
+    font-size: 0.72rem;
+    padding: 0.26rem 0.48rem;
+  }
+}
+
+/* Tablets & Large Mobile */
+@media (max-width: 991px) {
+  .containerFluid {
+    padding: 0 0.7rem;
+  }
+
+  .navbar {
+    min-height: 48px;
+    padding: 0.12rem 0;
+  }
+
+  .floating {
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    transform: none !important;
+    width: 100% !important;
+    max-width: none !important;
+    border-radius: 0;
+    backdrop-filter: none;
+    background-color: #ffffff;
+    border: none;
+    animation: none;
+  }
+
+  .floating .navContainer {
+    padding: 0 0.7rem;
+  }
+
+  .floating .logoWrapper {
+    width: 92px;
+    height: 36px;
+  }
+
+  .floating .logoImage {
+    width: 92px !important;
+    height: 36px !important;
+  }
+
+  .floating .animatedLogo {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+/* Medium Mobile */
+@media (max-width: 767px) {
+  .containerFluid {
+    padding: 0 0.55rem;
+  }
+
+  .navbar {
+    min-height: 46px;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .logoWrapper {
+    width: 86px;
+    height: 34px;
+  }
+
+  .logoImage {
+    width: 86px !important;
+    height: 34px !important;
+  }
+
+  .animatedLogo {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 576px) {
+  .containerFluid {
+    padding: 0 0.5rem;
+  }
+
+  .mobileCtaContainer {
+    padding: 1rem;
+  }
+
+  .mobileCta {
+    padding: 0.6rem 1.25rem;
+    font-size: 0.85rem;
+  }
+
+  .sidebarNav .navLink,
+  .sidebarNav .dropdownToggle {
+    font-size: 0.85rem;
+    padding: 0.75rem 0;
+  }
+
+  .mobileQuickLinks {
+    gap: 0.5rem;
+  }
+
+  .mobileQuickLink {
+    min-height: 38px;
+    padding: 0.5rem 0.65rem;
+    font-size: 0.78rem;
+  }
+
+  .logoWrapper {
+    width: 80px;
+    height: 32px;
+  }
+
+  .logoImage {
+    width: 80px !important;
+    height: 32px !important;
+  }
+
+  .animatedLogo {
+    width: 26px;
+    height: 26px;
+  }
+}
+
+/* Hover effects for floating navbar */
+.floating:hover {
+  transform: translateX(-50%) translateY(-2px) translateZ(0);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+/* Accessibility focus styles */
+.navLink:focus,
+.dropdownItem:focus,
+.sapMenuLink:focus,
+.ctaButton:focus,
+.btnClose:focus,
+.navbarToggler:focus,
+.mobileDropdownArrow:focus {
+  outline: 2px solid #0056b3;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.navLink:focus:not(:focus-visible),
+.dropdownItem:focus:not(:focus-visible),
+.sapMenuLink:focus:not(:focus-visible),
+.ctaButton:focus:not(:focus-visible),
+.btnClose:focus:not(:focus-visible),
+.navbarToggler:focus:not(:focus-visible),
+.mobileDropdownArrow:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Custom scrollbar for sidebar */
+.sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background-color: #f8f9fa;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background-color: #e9ecef;
+  border-radius: 3px;
+}
+
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background-color: #666;
+}
+
+/* Print styles - hide navigation on print */
+@media print {
+  .navbar {
+    display: none;
+  }
+}
+
+/* High contrast mode adjustments */
+@media (forced-colors: active) {
+  .navLink::after {
+    background-color: ButtonText;
+  }
+
+  .ctaButton {
+    border: 2px solid ButtonText;
+  }
+
+  .dropdownItem::before {
+    border-left-color: ButtonText;
+  }
+}
+
+/* Hamburger menu animation */
+.navbarToggler.active .navbarTogglerIcon {
+  background-color: transparent;
+}
+
+.navbarToggler.active .navbarTogglerIcon::before {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.navbarToggler.active .navbarTogglerIcon::after {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
+/* Enhanced focus effects */
+.navbarToggler:focus {
+  box-shadow: 0 0 0 3px rgba(0, 86, 179, 0.3);
+}
+
+.ctaButton:focus {
+  box-shadow: 0 0 0 3px rgba(255, 87, 34, 0.3);
+}
+
+/* Enhanced active state */
+.navLink.active {
+  position: relative;
+}
+
+.navLink.active::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: 50%;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: #0056b3;
+  transform: translateX(-50%);
+}
+
+/* Performance optimizations */
+.floating,
+.floating *,
+.navbar,
+.navLink,
+.dropdownItem,
+.sapMenuLink,
+.subMenuHeader,
+.ctaButton,
+.logoWrapper,
+.logoImage,
+.animatedLogo {
+  transform: translateZ(0);
+  will-change: transform, opacity;
+}
+
+/* Improve scrolling experience on mobile */
+.sidebarNav {
+  scroll-behavior: smooth;
+  overscroll-behavior: contain;
+}
+
+/* Optimize mobile sidebar nav */
+.sidebar {
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Enhanced glassmorphism effect for floating navbar */
+.floating {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(255, 255, 255, 0.9) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+/* Enhanced dropdown menu animations */
+/* .dropdownMenu {
+  transform: translateX(-50%) translateY(8px) scale(0.98);
+}
+
+.dropdownMenu.show {
+ transform: translateX(-50%) translateY(0) scale(1);
+}  */
+@keyframes dropdownFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Enhanced CTA button animations */
+.ctaButton {
+  position: relative;
+  overflow: hidden;
+}
+
+.ctaButton::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.3),
+    transparent
+  );
+  transition: left 0.5s;
+}
+
+.ctaButton:hover::before {
+  left: 100%;
+}
+.sidebarNav {
+  padding: 0.75rem;
+}
+
+.sidebarNav .dropdown {
+  width: 100%;
+}
+
+.sidebarNav .dropdownToggleWrapper {
+  width: 100%;
+}

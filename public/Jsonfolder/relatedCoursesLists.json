@@ -1,0 +1,24 @@
+{
+    "sap": [
+        "SAP FICO",
+        "SAP MM",
+        "SAP SD",
+        "SAP EWM",
+        "SAP ABAP",
+        "SAP S/4 HANA",
+        "SAP BASIS",
+        "SAP Ariba",
+        "SAP SCM",
+        "SAP SuccessFactors"
+    ],
+    "it": [
+        "Python",
+        "Java",
+        "Full Stack Training",
+        "Data Analytics",
+        "Power BI",
+        "Tableau",
+        "Generative AI",
+        "Agentic AI"
+    ]
+}

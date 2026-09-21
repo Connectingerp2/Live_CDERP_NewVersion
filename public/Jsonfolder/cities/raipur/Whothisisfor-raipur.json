@@ -1,0 +1,1162 @@
+{
+  "whosap": {
+    "points": [
+      {
+        "title": "Fresh graduates",
+        "description": "Looking to start a career in SAP/ERP."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Seeking a functional or technical career switch."
+      },
+      {
+        "title": "IT professionals",
+        "description": "Wanting to specialize in SAP consulting."
+      },
+      {
+        "title": "Finance, HR, Supply Chain or Operations professionals",
+        "description": "Aiming to move into SAP roles."
+      },
+      {
+        "title": "Entrepreneurs and business owners",
+        "description": "Who want to understand ERP systems."
+      },
+      {
+        "title": "Certification aspirants",
+        "description": "Anyone preparing for SAP certification exams."
+      }
+    ],
+    "note": "No prior SAP experience required. Basic understanding of business processes or the relevant functional domain is helpful but not mandatory."
+  },
+  "whofico": {
+    "points": [
+      {
+        "title": "Commerce or finance graduates",
+        "description": "B.Com, M.Com, MBA Finance, CA/CMA inter or qualified looking to enter the ERP job market."
+      },
+      {
+        "title": "Working accountants & finance executives",
+        "description": "Who want to move from manual/Tally-based accounting into enterprise systems."
+      },
+      {
+        "title": "Experienced SAP consultants",
+        "description": "In another module looking to cross-skill into FICO."
+      },
+      {
+        "title": "Freshers",
+        "description": "Unsure of which SAP module to specialize in, looking for guidance and hands-on exposure."
+      },
+      {
+        "title": "Local learners in Raipur or Chhattisgarh",
+        "description": "Wanting local, in-person training instead of a purely online course."
+      },
+      {
+        "title": "Career-switchers",
+        "description": "From IT, sales, or operations who want to move into finance-tech roles."
+      }
+    ],
+    "note": "No prior SAP experience is required, though a basic understanding of accounting concepts will help you move faster through the early modules."
+  },
+  "whomm": {
+    "points": [
+      {
+        "title": "Freshers",
+        "description": "B.Com, BBA, engineering, or any graduate looking to start a career in SAP."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In procurement, supply chain, warehousing, or logistics wanting to move into SAP-based roles."
+      },
+      {
+        "title": "SAP end-users",
+        "description": "Who want to move from functional usage to configuration and consulting."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Exploring opportunities in enterprise software and ERP consulting."
+      },
+      {
+        "title": "Certification aspirants",
+        "description": "Preparing for SAP MM certification and wants structured, guided preparation."
+      },
+      {
+        "title": "Business owners or managers",
+        "description": "Who want to understand SAP MM to manage internal SAP teams better."
+      }
+    ],
+    "note": "No prior SAP experience is required. Basic familiarity with computers and an interest in business processes is enough to get started."
+  },
+  "whohrhcm": {
+    "points": [
+      {
+        "title": "Freshers and graduates",
+        "description": "From HR, Commerce, or IT backgrounds."
+      },
+      {
+        "title": "Working HR professionals",
+        "description": "Looking to move into SAP-based HR systems."
+      },
+      {
+        "title": "SAP functional consultants",
+        "description": "Wanting to add HCM to their skillset."
+      },
+      {
+        "title": "Payroll executives",
+        "description": "Seeking automation and system-level expertise."
+      },
+      {
+        "title": "Job seekers",
+        "description": "Targeting SAP HCM consultant or analyst roles."
+      },
+      {
+        "title": "Business owners and HR managers",
+        "description": "Who want in-house SAP HCM knowledge."
+      }
+    ],
+    "note": "No prior SAP experience is required — our SAP HCM training in Raipur starts from the fundamentals and builds up to advanced, real-time configuration."
+  },
+  "whoqm": {
+    "points": [
+      {
+        "title": "Freshers & Engineering Graduates",
+        "description": "Mechanical, Production, Industrial, Quality wanting to start a career in SAP."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "In quality assurance, quality control, or production roles looking to move into SAP consulting."
+      },
+      {
+        "title": "SAP End-Users",
+        "description": "Who currently work with QM transactions and want deeper functional knowledge."
+      },
+      {
+        "title": "Functional Consultants",
+        "description": "From other SAP modules (MM, PP, SD) wanting to add QM as a cross-skill."
+      },
+      {
+        "title": "Quality Managers & ISO/Six Sigma Professionals",
+        "description": "Who want to align their process knowledge with SAP systems."
+      },
+      {
+        "title": "Career Switchers",
+        "description": "From non-IT backgrounds who are serious about entering the SAP job market."
+      }
+    ],
+    "note": "No prior SAP experience is required — a basic understanding of quality or manufacturing processes is helpful but not mandatory."
+  },
+  "whops": {
+    "points": [
+      {
+        "title": "Engineering, commerce, and management graduates",
+        "description": "Looking to start a career in SAP."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In construction, infrastructure, manufacturing, or IT project roles."
+      },
+      {
+        "title": "SAP consultants from other modules",
+        "description": "MM, SD, FI/CO wanting to add PS as a cross-skill."
+      },
+      {
+        "title": "Project managers",
+        "description": "Who want to understand how SAP supports project execution."
+      },
+      {
+        "title": "Job seekers",
+        "description": "Preparing for SAP functional consultant roles."
+      }
+    ],
+    "note": "No prior SAP experience is required, though basic familiarity with project management concepts is helpful."
+  },
+  "whoscm": {
+    "points": [
+      {
+        "title": "B.Com, BBA, B.Tech, or MBA graduates",
+        "description": "Exploring a career in ERP or supply chain."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In logistics, warehousing, procurement, or production wanting to move into SAP-based roles."
+      },
+      {
+        "title": "Store managers, purchase executives, or production supervisors",
+        "description": "Looking to formalise practical experience with SAP tools."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Into IT/ERP consulting from a non-technical background."
+      },
+      {
+        "title": "Job seekers in Raipur or Chhattisgarh",
+        "description": "Wanting locally accessible, hands-on SAP training with placement support."
+      }
+    ],
+    "note": "No prior SAP experience is required. Basic computer familiarity and an interest in business processes are enough to get started."
+  },
+  "whoehs": {
+    "points": [
+      {
+        "title": "Engineering graduates",
+        "description": "Aiming for a career in SAP consulting."
+      },
+      {
+        "title": "Safety officers and EHS professionals",
+        "description": "Wanting SAP system skills."
+      },
+      {
+        "title": "SAP functional consultants",
+        "description": "Looking to add a specialisation."
+      },
+      {
+        "title": "Working professionals",
+        "description": "From manufacturing, mining, or process industries."
+      },
+      {
+        "title": "HR and compliance teams",
+        "description": "Responsible for workplace safety reporting."
+      },
+      {
+        "title": "Certification aspirants",
+        "description": "Anyone preparing for SAP EHS certification exams."
+      }
+    ],
+    "note": "No prior SAP experience is required — the course starts from the basics and builds up steadily."
+  },
+  "whoibp": {
+    "points": [
+      {
+        "title": "Supply chain, logistics, or planning professionals",
+        "description": "Wanting to move into SAP tools."
+      },
+      {
+        "title": "Fresh graduates",
+        "description": "In engineering, management, or commerce looking to build an SAP career."
+      },
+      {
+        "title": "SAP consultants in SD, MM, or PP",
+        "description": "Who want to add a high-demand specialization."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In demand planning, inventory, or operations looking to upskill."
+      },
+      {
+        "title": "SAP APO or SCM learners",
+        "description": "Who have completed related training and want to transition to SAP IBP."
+      }
+    ],
+    "note": "You don't need to already know SAP to join. We start from the fundamentals and build up. Basic familiarity with supply chain concepts is helpful, but not compulsory."
+  },
+  "whoariba": {
+    "points": [
+      {
+        "title": "Freshers & Graduates",
+        "description": "B.Com, BBA, MBA, Engineering looking to start a career in SAP procurement."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "In purchasing, supply chain, or vendor management wanting to move into SAP tools."
+      },
+      {
+        "title": "SAP MM/SD Consultants",
+        "description": "Who want to expand their skill set into Ariba."
+      },
+      {
+        "title": "Procurement & Sourcing Managers",
+        "description": "Aiming to modernize their skills with cloud-based tools."
+      },
+      {
+        "title": "Career Switchers",
+        "description": "From non-IT backgrounds interested in the growing SAP ecosystem."
+      },
+      {
+        "title": "Business Analysts",
+        "description": "Who want exposure to procurement systems and processes."
+      }
+    ],
+    "note": "No prior SAP experience is required to join. Basic familiarity with business processes is helpful but not mandatory — our trainers start from the fundamentals."
+  },
+  "whosd": {
+    "points": [
+      {
+        "title": "Freshers",
+        "description": "B.Com, BBA, MBA, B.Tech looking to enter the SAP consulting or functional analyst space."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In sales, logistics, supply chain, or customer service who want to move into SAP roles."
+      },
+      {
+        "title": "SAP end-users",
+        "description": "Who currently work on SAP SD screens and want to move into a configuration/consultant role."
+      },
+      {
+        "title": "Career switchers",
+        "description": "From unrelated fields who want a structured, guided entry into enterprise software consulting."
+      },
+      {
+        "title": "SAP ABAP or Basis professionals",
+        "description": "Who want cross-functional SD knowledge to work better with functional teams."
+      }
+    ],
+    "note": "No prior SAP experience is required - the course starts from the fundamentals and progresses to advanced, real-world configurations."
+  },
+  "whopp": {
+    "points": [
+      {
+        "title": "Mechanical, Production, and Industrial Engineering graduates",
+        "description": "Looking to start a career in SAP consulting."
+      },
+      {
+        "title": "MBA (Operations/Supply Chain) professionals",
+        "description": "Aiming for techno-functional SAP roles."
+      },
+      {
+        "title": "Production and manufacturing executives",
+        "description": "Looking to move into SAP roles."
+      },
+      {
+        "title": "SAP end-users",
+        "description": "Who want to upgrade to a functional consultant role."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Seeking a career switch into SAP consulting."
+      },
+      {
+        "title": "Freshers",
+        "description": "Who want to start their career with an in-demand SAP skill."
+      }
+    ],
+    "note": "No prior SAP experience is required. Basic understanding of manufacturing or production processes is helpful but not mandatory."
+  },
+  "whopm": {
+    "points": [
+      {
+        "title": "Mechanical, electrical, and instrumentation engineers",
+        "description": "Looking to move into SAP."
+      },
+      {
+        "title": "Maintenance and plant engineers",
+        "description": "Wanting to digitize their skill set."
+      },
+      {
+        "title": "Fresh graduates",
+        "description": "Aiming for a career in SAP consulting."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Who want to switch from core industry roles to IT/SAP roles."
+      },
+      {
+        "title": "SAP end-users",
+        "description": "Who want to upgrade to a functional consultant role."
+      },
+      {
+        "title": "Learners researching SAP PM training in Raipur",
+        "description": "To start a new career path."
+      }
+    ],
+    "note": "No prior SAP experience is required. A basic understanding of maintenance or engineering concepts is helpful but not mandatory. Our trainers build every concept from the ground up."
+  },
+  "whoewm": {
+    "points": [
+      {
+        "title": "Freshers from B.Com, BBA, engineering, or logistics backgrounds",
+        "description": "Who want to start a career in SAP."
+      },
+      {
+        "title": "Warehouse and supply chain professionals",
+        "description": "Looking to move into SAP-based roles."
+      },
+      {
+        "title": "SAP MM or SAP WM consultants",
+        "description": "Who want to upgrade to EWM on S/4HANA."
+      },
+      {
+        "title": "Working professionals in Raipur and nearby cities",
+        "description": "Who want an SAP EWM course without relocating."
+      },
+      {
+        "title": "Job seekers",
+        "description": "Who want a certificate along with practical, project-based learning."
+      },
+      {
+        "title": "Business owners or operations managers",
+        "description": "Who want to understand how EWM can improve warehouse efficiency."
+      }
+    ],
+    "note": "Basic understanding of supply chain/logistics concepts is helpful but not mandatory. No prior SAP experience required for the foundation batch."
+  },
+  "whobtp": {
+    "points": [
+      {
+        "title": "Freshers and graduates from Raipur and nearby regions",
+        "description": "Who want to start a career in SAP without needing prior SAP experience."
+      },
+      {
+        "title": "SAP ABAP/Functional consultants",
+        "description": "Who want to move into cloud and extension development."
+      },
+      {
+        "title": "IT professionals",
+        "description": "With a background in Java, Node.js, or web development who want to specialize in enterprise cloud platforms."
+      },
+      {
+        "title": "Working professionals in local IT companies",
+        "description": "Handling SAP support who want to upskill into BTP-focused roles."
+      },
+      {
+        "title": "Business analysts and consultants",
+        "description": "Who need working knowledge of SAP BTP to advise clients confidently."
+      }
+    ],
+    "note": "No prior SAP experience is mandatory - basic programming/logical knowledge is helpful but not required."
+  },
+  "whogrc": {
+    "points": [
+      {
+        "title": "Freshers from B.Tech, MCA, or B.Com backgrounds",
+        "description": "Looking to start a career in SAP security and compliance."
+      },
+      {
+        "title": "SAP Basis and Security consultants",
+        "description": "Who want to add GRC as a specialization."
+      },
+      {
+        "title": "Functional consultants (FI, MM, SD, HR)",
+        "description": "Wanting to move into compliance-focused roles."
+      },
+      {
+        "title": "IT audit and risk professionals",
+        "description": "Who need hands-on SAP GRC exposure."
+      },
+      {
+        "title": "Working professionals in Raipur and nearby cities",
+        "description": "Looking for evening or weekend batches without relocating."
+      }
+    ],
+    "note": "No prior SAP knowledge is mandatory the course starts with fundamentals before moving into GRC-specific configuration."
+  },
+  "whosucc": {
+    "points": [
+      {
+        "title": "HR professionals",
+        "description": "Who want to move into SAP-based HR technology roles."
+      },
+      {
+        "title": "Freshers and graduates",
+        "description": "HR, MBA, or IT background looking to enter the SAP ecosystem."
+      },
+      {
+        "title": "SAP consultants from other modules",
+        "description": "Like SAP HCM/HR wanting to reskill into SuccessFactors."
+      },
+      {
+        "title": "Working professionals in Raipur",
+        "description": "Who want weekend or evening batches without quitting their job."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Aiming for a stable, in-demand, cloud-based HR technology career."
+      }
+    ],
+    "note": "No prior SAP experience is required. Basic familiarity with HR processes or general business software is helpful, but the course is structured to bring beginners up to speed step by step."
+  },
+  "whoabap": {
+    "points": [
+      {
+        "title": "Fresh Graduates",
+        "description": "B.Tech, BCA, MCA, B.Sc IT who want to start their career in SAP development."
+      },
+      {
+        "title": "Working IT Professionals",
+        "description": "From Java, .Net, or other programming backgrounds looking to move into SAP."
+      },
+      {
+        "title": "SAP Functional Consultants",
+        "description": "MM, SD, FI, HR who want to strengthen their technical understanding."
+      },
+      {
+        "title": "Career Changers from non-IT backgrounds",
+        "description": "Who are serious about entering enterprise software development."
+      },
+      {
+        "title": "Freelancers & Consultants",
+        "description": "Who want to add SAP ABAP skills to their existing service offerings."
+      }
+    ],
+    "note": "No prior SAP experience is required. Basic understanding of any programming language is helpful but not mandatory — our trainers start from the fundamentals and build up gradually."
+  },
+  "whohana": {
+    "points": [
+      {
+        "title": "Freshers and Graduates",
+        "description": "From commerce, engineering, or management backgrounds who want to enter the SAP ecosystem."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "In finance, supply chain, sales, or operations who want to move into SAP-based roles."
+      },
+      {
+        "title": "SAP ECC Consultants",
+        "description": "Looking to upgrade their skills to SAP S/4 HANA."
+      },
+      {
+        "title": "Career Changers",
+        "description": "Seeking a stable, in-demand skill set with long-term growth."
+      },
+      {
+        "title": "Business Owners and Managers",
+        "description": "Who want to understand ERP systems for better decision-making."
+      },
+      {
+        "title": "Job Seekers in Raipur and Chhattisgarh",
+        "description": "Looking for locally accessible, quality SAP training instead of relocating to metro cities."
+      }
+    ],
+    "note": "No prior SAP experience is required - the course is structured to take beginners from fundamentals to job-ready expertise."
+  },
+  "whobwbi": {
+    "points": [
+      {
+        "title": "Freshers and graduates",
+        "description": "Who want to start a career in SAP."
+      },
+      {
+        "title": "SAP ABAP, Basis, or Functional consultants",
+        "description": "Looking to add BI skills."
+      },
+      {
+        "title": "IT professionals",
+        "description": "Shifting into data analytics and reporting roles."
+      },
+      {
+        "title": "Working consultants",
+        "description": "Upgrading from SAP BW to SAP BW/4HANA."
+      },
+      {
+        "title": "Business analysts",
+        "description": "Who want to understand SAP-based reporting."
+      },
+      {
+        "title": "Anyone in or around Raipur",
+        "description": "Wanting practical, project-based SAP learning."
+      }
+    ],
+    "note": "No prior SAP experience is required to join the beginner batch."
+  },
+  "whobasis": {
+    "points": [
+      {
+        "title": "Freshers and B.Tech/BCA/MCA graduates",
+        "description": "Looking to start an SAP career."
+      },
+      {
+        "title": "System administrators",
+        "description": "Wanting to specialize in SAP systems."
+      },
+      {
+        "title": "IT professionals",
+        "description": "From networking, database, or server administration backgrounds."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Seeking a career switch into SAP."
+      },
+      {
+        "title": "SAP functional consultants",
+        "description": "Who want to understand the technical layer."
+      },
+      {
+        "title": "Anyone in Raipur or nearby cities",
+        "description": "Looking for a stable, high-demand IT career."
+      }
+    ],
+    "note": "No prior SAP experience is required. Basic knowledge of operating systems and databases is helpful but not mandatory, as the course starts from the fundamentals."
+  },
+  "whods": {
+    "points": [
+      {
+        "title": "Fresh graduates",
+        "description": "From B.Tech, BCA, BSc, or commerce backgrounds who want to enter the data science and AI field with no prior experience needed."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In IT, finance, or operations looking to upskill and move into a data-focused or AI-driven role."
+      },
+      {
+        "title": "Career switchers",
+        "description": "From non-technical backgrounds who are serious about building a new career in data and AI."
+      },
+      {
+        "title": "Business owners and analysts in Raipur",
+        "description": "Who want to use data and AI tools to make better decisions in their own work."
+      },
+      {
+        "title": "Engineering and MCA students",
+        "description": "Who want an edge over their peers before campus placements."
+      }
+    ],
+    "note": "If you're comfortable with basic computer usage and willing to put in consistent effort, this course meets you at your level and builds you up from there. No prior coding experience required."
+  },
+  "whoda": {
+    "points": [
+      {
+        "title": "Freshers & Students",
+        "description": "B.Tech, BCA, MCA, B.Com, BBA graduates who want a career in data analytics."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "Anyone looking to switch to a data-driven role or upskill within their current company."
+      },
+      {
+        "title": "Business Owners & Entrepreneurs",
+        "description": "Raipur-based business owners who want to make data-backed decisions using AI tools."
+      },
+      {
+        "title": "Career Switchers",
+        "description": "Professionals from non-technical backgrounds looking to enter the analytics field."
+      },
+      {
+        "title": "Job Seekers",
+        "description": "Anyone actively looking for analyst roles and wanting a strong, practical skill set to stand out."
+      }
+    ],
+    "note": "No prior coding experience is required. We start from the basics and build up step by step."
+  },
+  "whoba": {
+    "points": [
+      {
+        "title": "Fresh graduates and students",
+        "description": "Who want to build a career in business analytics and decision support."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In marketing, finance, operations or sales who need stronger data skills."
+      },
+      {
+        "title": "Business owners and managers in Raipur",
+        "description": "Who want to make evidence-based decisions instead of relying on gut feel."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Looking for a practical, job-ready analytics skill set."
+      }
+    ],
+    "note": "No prior analytics background is required. We start from the fundamentals and build up with real business case studies."
+  },
+  "whogpt": {
+    "points": [
+      {
+        "title": "Students",
+        "description": "Who want to add a future-ready AI skill to their resume before graduating."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In marketing, HR, sales, operations, or IT who want to use AI to work smarter."
+      },
+      {
+        "title": "Business owners & entrepreneurs in Raipur",
+        "description": "Looking to use AI for content, customer support, and productivity."
+      },
+      {
+        "title": "Freelancers & content creators",
+        "description": "Who want to scale their output using AI tools."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Exploring opportunities in the growing AI and tech industry."
+      },
+      {
+        "title": "Educators & trainers",
+        "description": "Who want to bring AI literacy into their own teaching."
+      }
+    ],
+    "note": "No prior coding or technical background is required. If you can use a smartphone and a web browser, you can take this course."
+  },
+  "whogenai": {
+    "points": [
+      {
+        "title": "Students",
+        "description": "Who want to add a future-ready AI skill to their resume before graduating."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In marketing, HR, sales, operations, or IT who want to use AI to work smarter."
+      },
+      {
+        "title": "Business owners & entrepreneurs in Raipur",
+        "description": "Looking to use AI for content, customer support, and productivity."
+      },
+      {
+        "title": "Freelancers & content creators",
+        "description": "Who want to scale their output using AI tools."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Exploring opportunities in the growing AI and tech industry."
+      }
+    ],
+    "note": "No prior coding or technical background is required. If you can use a smartphone and a web browser, you can take this course."
+  },
+  "whoagenticai": {
+    "points": [
+      {
+        "title": "Students and fresh graduates",
+        "description": "Who want practical experience building and applying agentic AI systems."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In IT, product, or operations looking to automate workflows with AI agents."
+      },
+      {
+        "title": "Business owners and managers in Raipur",
+        "description": "Who want to explore intelligent automation for their teams."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Serious about entering the AI and automation space with hands-on projects."
+      }
+    ],
+    "note": "No advanced coding background is required. We start from the fundamentals of generative and agentic AI and build up with practical projects."
+  },
+  "whofullstack": {
+    "points": [
+      {
+        "title": "Complete beginners",
+        "description": "No prior coding experience needed. We start from the fundamentals and build up."
+      },
+      {
+        "title": "Students and fresh graduates",
+        "description": "Who want a complete front-end to back-end skill set before entering the job market."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Looking to switch into full-stack development roles."
+      },
+      {
+        "title": "Career switchers in Raipur",
+        "description": "Who want a practical, project-driven path into software development."
+      }
+    ],
+    "note": "No prerequisites required. A computer and consistent effort are enough to get started."
+  },
+  "whojava": {
+    "points": [
+      {
+        "title": "College students",
+        "description": "Who want a practical Java foundation alongside their degree."
+      },
+      {
+        "title": "Freshers and job seekers in Raipur",
+        "description": "Looking to break into software development."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Planning a career switch into IT or programming."
+      },
+      {
+        "title": "Non-CS background learners",
+        "description": "Who are serious about starting from scratch and building real skills."
+      },
+      {
+        "title": "Anyone preparing for Java-based interviews",
+        "description": "Or campus placements."
+      }
+    ],
+    "note": "No prior coding experience required — we start from the ground up and build steadily from there."
+  },
+  "whopython": {
+    "points": [
+      {
+        "title": "Students (BCA, MCA, B.Tech, BSc IT)",
+        "description": "In Raipur who want strong Python and AI skills before entering the job market."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Looking to upskill or switch into a data/AI-focused role."
+      },
+      {
+        "title": "Freshers",
+        "description": "Who want a career-ready skill combination that stands out in interviews."
+      },
+      {
+        "title": "Entrepreneurs and freelancers",
+        "description": "Who want to use Python and AI to automate and grow their own work."
+      },
+      {
+        "title": "Anyone in Raipur curious about AI",
+        "description": "And serious about building real, usable skills — no prior coding experience required."
+      }
+    ],
+    "note": "No prior coding experience required. We start from the absolute basics and build up step by step."
+  },
+  "whosales": {
+    "points": [
+      {
+        "title": "Freshers and graduates",
+        "description": "Looking to start a career in CRM or cloud technology."
+      },
+      {
+        "title": "IT professionals",
+        "description": "Wanting to switch into the Salesforce ecosystem."
+      },
+      {
+        "title": "Non-IT professionals",
+        "description": "Exploring a career change into tech."
+      },
+      {
+        "title": "Business analysts and sales/CRM executives",
+        "description": "Who want to upskill on the Salesforce platform."
+      },
+      {
+        "title": "Students preparing for Salesforce Administrator certification",
+        "description": "Who want structured, hands-on preparation."
+      }
+    ],
+    "note": "No prior coding experience is required to get started — the course begins with the fundamentals and builds up gradually."
+  },
+  "whopowerbi": {
+    "points": [
+      {
+        "title": "College students and freshers",
+        "description": "Who want a strong first job skill in data and reporting."
+      },
+      {
+        "title": "Working professionals",
+        "description": "In finance, sales, HR, or operations who deal with reports and Excel sheets."
+      },
+      {
+        "title": "Business owners in Raipur",
+        "description": "Who want to track their own business data."
+      },
+      {
+        "title": "IT professionals",
+        "description": "Looking to move into data analytics."
+      },
+      {
+        "title": "Anyone preparing for a data analyst or BI analyst role",
+        "description": "Who wants practical, project-based training."
+      }
+    ],
+    "note": "No prior coding background is required. Basic comfort with Excel is helpful but not mandatory — the trainers start from the fundamentals."
+  },
+  "whotableau": {
+    "points": [
+      {
+        "title": "College students and freshers",
+        "description": "Who want to enter the data analytics field."
+      },
+      {
+        "title": "Working professionals from Excel-heavy roles",
+        "description": "Looking to upskill into visualisation."
+      },
+      {
+        "title": "Business analysts and MIS executives",
+        "description": "Who want stronger visualisation skills."
+      },
+      {
+        "title": "Marketing, sales, and finance professionals",
+        "description": "Who work with reports daily."
+      },
+      {
+        "title": "Anyone in Raipur exploring a career switch",
+        "description": "Into data analytics or business intelligence."
+      },
+      {
+        "title": "Entrepreneurs and small business owners",
+        "description": "Who want to understand their own business data better."
+      }
+    ],
+    "note": "No prior coding experience is required. Basic comfort with Excel is helpful but not mandatory — we start from the fundamentals."
+  },
+  "whoana": {
+    "points": [
+      {
+        "title": "HR professionals in Raipur",
+        "description": "Looking to upskill into people analytics."
+      },
+      {
+        "title": "Fresh graduates",
+        "description": "Who want to start their career in workforce analytics."
+      },
+      {
+        "title": "MBA (HR) students",
+        "description": "Seeking practical, job-ready analytics skills."
+      },
+      {
+        "title": "Recruiters and talent acquisition specialists",
+        "description": "Wanting to work with data."
+      },
+      {
+        "title": "Business owners and HR managers",
+        "description": "Who want to make data-backed people decisions."
+      },
+      {
+        "title": "Working professionals in Raipur",
+        "description": "Planning a career switch into HR analytics roles."
+      }
+    ],
+    "note": "No advanced statistics or coding background is required. We start from the fundamentals of HR metrics and build up to dashboards and insights."
+  },
+  "whoman": {
+    "points": [
+      {
+        "title": "Fresh Graduates",
+        "description": "Who want to start their career in Human Resources."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "From admin, operations, or non-HR roles planning a switch."
+      },
+      {
+        "title": "HR Executives",
+        "description": "Looking to upgrade their skills and formalize experience with a certificate."
+      },
+      {
+        "title": "Business Owners & Startup Founders",
+        "description": "Who manage HR functions themselves."
+      },
+      {
+        "title": "MBA/BBA Students",
+        "description": "Who want practical, hands-on HR training alongside academics."
+      },
+      {
+        "title": "Career Returners",
+        "description": "Re-entering the workforce after a break."
+      }
+    ],
+    "note": "If you enjoy working with people, solving problems, and being the go-to person for workplace matters, this HR Certification Course is built for you."
+  },
+  "whopayroll": {
+    "points": [
+      {
+        "title": "Fresh graduates",
+        "description": "Wanting to start a career in HR or payroll."
+      },
+      {
+        "title": "HR generalists",
+        "description": "Looking to specialise in payroll operations."
+      },
+      {
+        "title": "Accounts or finance executives",
+        "description": "Expanding into payroll compliance."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Preparing for a role switch into HR."
+      },
+      {
+        "title": "Business owners or startup founders",
+        "description": "Who want to manage payroll in-house."
+      },
+      {
+        "title": "Someone returning to work after a career break",
+        "description": "Looking for a practical, high-demand skill."
+      }
+    ],
+    "note": "No prior payroll experience is required. We start from the basics of salary structure and build up to full processing and compliance."
+  },
+  "whogen": {
+    "points": [
+      {
+        "title": "Graduates from any stream",
+        "description": "Who want to start a career in Human Resources."
+      },
+      {
+        "title": "MBA/PGDM students specialising in HR",
+        "description": "Who want practical, hands-on exposure."
+      },
+      {
+        "title": "Admin executives, office coordinators, or receptionists",
+        "description": "Looking to shift into HR."
+      },
+      {
+        "title": "Working professionals in HR support roles",
+        "description": "Who want to move into a generalist position."
+      },
+      {
+        "title": "Business owners and startup founders",
+        "description": "Who want to manage HR functions in-house."
+      },
+      {
+        "title": "Homemakers and career-break professionals",
+        "description": "Planning a confident return to the workforce."
+      }
+    ],
+    "note": "If you fall into any of these categories and have been searching for a reliable HR course in Raipur, this program is designed with you in mind."
+  },
+  "whohrtrain": {
+    "points": [
+      {
+        "title": "Fresh graduates (BBA, MBA, BCom, or any stream)",
+        "description": "Planning a career in Human Resources."
+      },
+      {
+        "title": "Working professionals in admin or operations",
+        "description": "Who want to move into an HR role."
+      },
+      {
+        "title": "Career switchers",
+        "description": "Looking for a practical, hands-on HR training program in Raipur."
+      },
+      {
+        "title": "Small business owners",
+        "description": "Who want to manage their own HR and payroll function."
+      },
+      {
+        "title": "Anyone who has completed an HR degree",
+        "description": "But feels underprepared for real HR work."
+      }
+    ],
+    "note": "No prior HR experience is required. The course is built around what companies in Raipur, Bhilai, and Durg are actually hiring for right now."
+  },
+  "whoit": {
+    "points": [
+      {
+        "title": "Complete beginners",
+        "description": "No prior coding experience needed. We start from the fundamentals and build up."
+      },
+      {
+        "title": "Students and fresh graduates",
+        "description": "Looking for a practical path into IT, data, or AI roles."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Wanting to upskill or switch into high-demand tech roles."
+      },
+      {
+        "title": "Career switchers in Raipur",
+        "description": "Who want job-ready skills with placement support."
+      }
+    ],
+    "note": "No prerequisites required. A computer and consistent effort are enough to get started."
+  },
+  "whohr": {
+    "points": [
+      {
+        "title": "Complete beginners",
+        "description": "No prior HR experience needed. We start from the fundamentals and build up."
+      },
+      {
+        "title": "Fresh graduates and career switchers",
+        "description": "Looking for a practical entry into Human Resources."
+      },
+      {
+        "title": "Working professionals in admin or operations",
+        "description": "Who want to move into HR roles."
+      },
+      {
+        "title": "Business owners and managers in Raipur",
+        "description": "Who need to handle HR functions themselves."
+      }
+    ],
+    "note": "No prerequisites required. The programs are designed around real workplace HR tasks."
+  },
+  "whodatavisual": {
+    "points": [
+      {
+        "title": "Students & Freshers in Raipur",
+        "description": "Looking to build a strong, job-ready skill for analytics and business roles."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "In finance, marketing, operations, or HR who want to present data more effectively at work."
+      },
+      {
+        "title": "Career Switchers",
+        "description": "Moving into data analytics, business intelligence, or data science roles."
+      },
+      {
+        "title": "Small Business Owners",
+        "description": "Who want to understand and visualize their own business data."
+      },
+      {
+        "title": "Freelancers",
+        "description": "Looking to offer data visualization and dashboard-building services."
+      }
+    ],
+    "note": "No prior coding experience is required. If you're comfortable with basic computer use and Excel, you're ready to start."
+  },
+  "whocore": {
+    "points": [
+      {
+        "title": "Fresh Graduates (BBA, MBA, B.Com)",
+        "description": "Who want to build a career in Human Resources."
+      },
+      {
+        "title": "Working Professionals",
+        "description": "In admin, operations, or customer service looking to switch to HR."
+      },
+      {
+        "title": "Career Restarters",
+        "description": "Homemakers or professionals returning to the workforce."
+      },
+      {
+        "title": "Small Business Owners & Startup Founders",
+        "description": "Who want to manage HR functions in-house."
+      },
+      {
+        "title": "HR Freshers",
+        "description": "Who have theoretical knowledge but lack practical, hands-on training."
+      }
+    ],
+    "note": "If you live in Raipur and are confused about \"how to start a career in HR,\" this course removes the guesswork with a step-by-step, practical roadmap."
+  },
+  "whoaws": {
+    "points": [
+      {
+        "title": "Final-year students and recent graduates",
+        "description": "Aiming for a career in cloud computing."
+      },
+      {
+        "title": "System administrators and IT support staff",
+        "description": "Looking to upgrade their skills."
+      },
+      {
+        "title": "Software developers",
+        "description": "Who want to understand cloud deployment."
+      },
+      {
+        "title": "Working professionals in Raipur",
+        "description": "Planning a switch to a cloud or DevOps role."
+      },
+      {
+        "title": "Anyone preparing for an AWS certification exam",
+        "description": "Who wants structured, guided learning."
+      }
+    ],
+    "note": "No prior cloud experience is required. Basic familiarity with computers and networking concepts is helpful but not mandatory. The course starts from the fundamentals."
+  },
+  "whodevops": {
+    "points": [
+      {
+        "title": "Freshers and BCA/MCA/B.Tech graduates",
+        "description": "Looking to start a career in DevOps."
+      },
+      {
+        "title": "Software developers",
+        "description": "Who want to add deployment and automation skills."
+      },
+      {
+        "title": "System administrators",
+        "description": "Transitioning into cloud and DevOps roles."
+      },
+      {
+        "title": "IT professionals in Raipur",
+        "description": "Seeking a career switch into high-paying tech roles."
+      },
+      {
+        "title": "Working professionals",
+        "description": "Who want practical, project-based DevOps training."
+      },
+      {
+        "title": "Anyone preparing for DevOps, cloud, or SRE roles",
+        "description": "Who wants hands-on experience with real pipelines."
+      }
+    ],
+    "note": "No prior DevOps experience is required. Basic computer and networking familiarity is helpful. We start from the fundamentals of Linux and build up to full CI/CD and cloud deployment."
+  }
+}

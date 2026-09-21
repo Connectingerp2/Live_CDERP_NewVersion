@@ -1,0 +1,1087 @@
+/* ============================================================
+   OVERLAY — full screen dark blur
+   ============================================================ */
+.popupFormOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2000;
+  padding: 12px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* ============================================================
+   WRAPPER — image + form side by side (desktop)
+   ============================================================ */
+.popupContentWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+  max-width: 820px;
+  max-height: 88vh;
+  border-radius: 12px;
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.5),
+    0 6px 20px rgba(0, 0, 0, 0.3);
+  animation: popupSlideIn 0.4s ease-out;
+  overflow: hidden;
+  margin-top: 5%;
+}
+
+@keyframes popupSlideIn {
+  from {
+    opacity: 0;
+    transform: scale(0.94) translateY(-12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* ============================================================
+   LEFT PANEL — image with white border
+   ============================================================ */
+.imageContainer {
+  flex: 0 0 50%;
+  background: #ffffff;
+  padding: 8px;
+  border-radius: 12px 0 0 12px;
+  display: flex;
+  align-items: stretch;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.popupImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+
+/* ============================================================
+   RIGHT PANEL — glassmorphism form
+   ============================================================ */
+.popupFormContainer {
+  flex: 0 0 50%;
+  position: relative;
+  background: rgba(255, 255, 255, 0.13);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-left: none;
+  border-radius: 0 12px 12px 0;
+  padding: 22px 20px 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+
+.videoBackground {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: 0.38;
+  border-radius: 0 12px 12px 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+
+.videoBackgroundImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+/* ============================================================
+   LIGHTNING BORDER
+   ============================================================ */
+.lightningBorder {
+  position: absolute;
+  inset: -1px;
+  border-radius: 0 12px 12px 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 10;
+}
+
+.lightningEdge {
+  position: absolute;
+  background-size: 400% 100%;
+  z-index: 10;
+}
+
+.lightningEdge.top {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #0d47a1, #2196f3, #fff, #64b5f6, #0d47a1, transparent);
+  animation: lightningH 7s infinite linear;
+}
+
+.lightningEdge.right {
+  top: 0;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #0d47a1, #2196f3, #fff, #64b5f6, #0d47a1, transparent);
+  background-size: 100% 400%;
+  animation: lightningV 7s infinite linear 1.75s;
+}
+
+.lightningEdge.bottom {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #0d47a1, #2196f3, #fff, #64b5f6, #0d47a1, transparent);
+  animation: lightningH 7s infinite linear 3.5s;
+}
+
+.lightningEdge.left {
+  top: 0;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #0d47a1, #2196f3, #fff, #64b5f6, #0d47a1, transparent);
+  background-size: 100% 400%;
+  animation: lightningV 7s infinite linear 5.25s;
+}
+
+@keyframes lightningH {
+  0% {
+    background-position: -100% 0%;
+    opacity: 0;
+  }
+
+  15% {
+    opacity: 0.9;
+  }
+
+  50% {
+    background-position: 100% 0%;
+    opacity: 1;
+  }
+
+  85% {
+    opacity: 0.4;
+  }
+
+  100% {
+    background-position: 300% 0%;
+    opacity: 0;
+  }
+}
+
+@keyframes lightningV {
+  0% {
+    background-position: 0% -100%;
+    opacity: 0;
+  }
+
+  15% {
+    opacity: 0.9;
+  }
+
+  50% {
+    background-position: 0% 100%;
+    opacity: 1;
+  }
+
+  85% {
+    opacity: 0.4;
+  }
+
+
+  100% {
+    background-position: 0% 300%;
+    opacity: 0;
+  }
+}
+
+/* ============================================================
+   CLOSE BUTTON
+   ============================================================ */
+.closeButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 1020;
+  color: rgba(255, 255, 255, 0.9);
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.closeButton:hover {
+  background: rgba(255, 255, 255, 0.32);
+  transform: scale(1.08);
+}
+
+.closeButton:active {
+  transform: scale(0.94);
+}
+
+.closeButton:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 14px;
+  position: relative;
+  z-index: 15;
+}
+
+.logo {
+  width: 36px;
+  height: 36px;
+  filter: drop-shadow(0 0 8px rgba(0, 153, 255, 0.8));
+}
+
+.headerContainer h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+  letter-spacing: 0.4px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45), 0 0 20px rgba(255, 255, 255, 0.4);
+  font-family: "Arial", sans-serif;
+}
+
+/* ============================================================
+   FORM ELEMENTS
+   ============================================================ */
+.popupFormContainer form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  z-index: 15;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.popupFormContainer form input,
+.courseSelect {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 7px;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  font-size: 13px;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(10px);
+  color: #ffffff;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.popupFormContainer form input::placeholder {
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 12px;
+}
+
+.popupFormContainer form input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.popupFormContainer form input::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.popupFormContainer form input:focus,
+.courseSelect:focus {
+  outline: none;
+  border-color: rgba(255, 255, 255, 0.55);
+  background: rgba(255, 255, 255, 0.26);
+  transform: translateY(-1px);
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.18), 0 3px 10px rgba(0, 0, 0, 0.18);
+}
+
+.courseSelect {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6,9 12,15 18,9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 16px;
+  padding-right: 36px;
+}
+
+.courseSelect option {
+  background: rgba(20, 20, 30, 0.95);
+  color: #fff;
+  padding: 8px;
+}
+
+.courseSelect:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.popupFormContainer form input:focus:invalid,
+.courseSelect:focus:invalid {
+  border-color: rgba(244, 67, 54, 0.75);
+  box-shadow: 0 0 0 2px rgba(244, 67, 54, 0.22);
+}
+
+.popupFormContainer form input:focus:valid,
+.courseSelect:focus:valid {
+  border-color: rgba(76, 175, 80, 0.75);
+  box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.22);
+}
+
+/* ============================================================
+   TERMS CHECKBOX
+   ============================================================ */
+.termsCheckbox {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px 12px;
+  border-radius: 7px;
+  font-size: 10px;
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.18);
+}
+
+.termsCheckbox span input[type="checkbox"] {
+  margin-top: 2px;
+  cursor: pointer;
+  transform: scale(0.9);
+}
+
+.termsCheckbox label {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.termsCheckbox a {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+.termsCheckbox a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================================
+   SUBMIT BUTTON
+   ============================================================ */
+.popupFormContainer form button[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.10));
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.32);
+  color: #fff;
+  border-radius: 7px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.popupFormContainer form button[type="submit"]:hover:not(:disabled) {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.32), rgba(255, 255, 255, 0.18));
+  border-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.38);
+}
+
+.popupFormContainer form button[type="submit"]:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* ============================================================
+   STATUS MESSAGE
+   ============================================================ */
+.statusMessage {
+  margin-bottom: 8px;
+  padding: 7px 10px;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.25;
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  position: relative;
+  z-index: 15;
+  animation: fadeIn 0.3s ease;
+}
+
+.success {
+  background: rgba(76, 175, 80, 0.28);
+  color: #fff;
+  border-color: rgba(76, 175, 80, 0.5);
+}
+
+.error {
+  background: rgba(244, 67, 54, 0.28);
+  color: #fff;
+  border-color: rgba(244, 67, 54, 0.5);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.96);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* ============================================================
+   BUTTON LOADING STATE
+   ============================================================ */
+.submitting {
+  cursor: not-allowed;
+  opacity: 0.8;
+}
+
+.buttonText {
+  margin-right: 7px;
+}
+
+.buttonLoader {
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ============================================================
+   LOCATION AUTOCOMPLETE
+   ============================================================ */
+.locationContainer {
+  position: relative;
+  width: 100%;
+}
+
+.suggestionsDropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: rgba(18, 18, 28, 0.96);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-top: none;
+  border-radius: 0 0 7px 7px;
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 1000;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+  animation: fadeIn 0.18s ease-out;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.3) rgba(255, 255, 255, 0.08);
+}
+
+.suggestionsDropdown::-webkit-scrollbar {
+  width: 4px;
+}
+
+.suggestionsDropdown::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 2px;
+}
+
+.suggestionsDropdown::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+}
+
+.suggestionItem {
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+  min-height: 40px;
+  transition: background-color 0.12s ease;
+  user-select: none;
+}
+
+.suggestionItem:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.suggestionActive {
+  background: rgba(59, 130, 246, 0.22);
+  color: #fff;
+}
+
+.suggestionItem:last-child {
+  border-bottom: none;
+  border-radius: 0 0 7px 7px;
+}
+
+.suggestionIcon {
+  font-size: 14px;
+  opacity: 0.72;
+  flex-shrink: 0;
+  width: 20px;
+  text-align: center;
+}
+
+.suggestionText {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.suggestionMore {
+  padding: 7px 14px;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.55);
+  text-align: center;
+  font-style: italic;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.suggestionEmpty {
+  padding: 14px;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.55);
+  text-align: center;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.loadingIndicator {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.loadingSpinner {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 1s linear infinite;
+}
+
+/* ============================================================
+   UTILITY
+   ============================================================ */
+.noScroll {
+  overflow: hidden;
+}
+
+.popupFormContainer * {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+/* ============================================================
+   RESPONSIVE — TABLET (481px – 1024px)
+   ============================================================ */
+@media (max-width: 1024px) and (min-width: 481px) {
+  .popupContentWrapper {
+    max-width: 680px;
+    max-height: 92vh;
+  }
+
+  .imageContainer {
+    flex: 0 0 48%;
+  }
+
+  .popupFormContainer {
+    flex: 0 0 52%;
+    padding: 18px 16px;
+    overflow: hidden;
+  }
+
+  .headerContainer h2 {
+    font-size: 17px;
+  }
+
+  .logo {
+    width: 30px;
+    height: 30px;
+  }
+
+  .headerContainer {
+    margin-bottom: 12px;
+  }
+
+  .popupFormContainer form {
+    gap: 9px;
+  }
+
+  .popupFormContainer form input,
+  .courseSelect {
+    padding: 9px 11px;
+    font-size: 12px;
+  }
+
+  .popupFormContainer form button[type="submit"] {
+    padding: 10px;
+    font-size: 13px;
+  }
+
+  .termsCheckbox {
+    font-size: 9px;
+  }
+
+  .termsCheckbox label {
+    font-size: 9px;
+  }
+
+  .suggestionsDropdown {
+    max-height: 150px;
+  }
+}
+
+/* ============================================================
+   RESPONSIVE — MOBILE (≤ 480px)
+   Image on top, form below, overlay scrolls
+   ============================================================ */
+@media (max-width: 480px) {
+
+  /* Overlay scrolls the entire popup as one unit */
+  .popupFormOverlay {
+    padding: 16px 8px 24px;
+    align-items: flex-start;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .popupFormOverlay::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Wrapper: column, no height cap */
+  .popupContentWrapper {
+    flex-direction: column;
+    width: 100%;
+    max-width: 420px;
+    max-height: none;
+    margin: 0 auto;
+  }
+
+  /* Image panel: fixed height, image fills completely */
+  /* Image panel: grows to natural image height — never clips */
+  .imageContainer {
+    flex: none;
+    width: 100%;
+    height: auto;
+    border-radius: 12px 12px 0 0;
+    padding: 8px;
+    box-sizing: border-box;
+    overflow: visible;
+  }
+
+  /* Image: cover fills the 200px box — no white gaps */
+  /* Image: natural proportions — full image visible, zero crop, zero gaps */
+  .popupImage {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 6px;
+  }
+
+  /* Form panel: grows freely, overlay scrolls */
+  .popupFormContainer {
+    flex: none;
+    width: 100%;
+    border-radius: 0 0 12px 12px;
+    /* border-left: 1px solid rgba(255, 255, 255, 0.2); */
+    
+    border-top: none;
+    padding: 16px 14px 20px;
+    overflow: visible;
+    box-sizing: border-box;
+    max-height: none;
+  }
+
+  .videoBackground {
+    border-radius: 0 0 12px 12px;
+  }
+
+  .lightningBorder {
+    border-radius: 0 0 12px 12px;
+  }
+
+  .closeButton {
+    top: 8px;
+    right: 8px;
+    width: 26px;
+    height: 26px;
+  }
+
+  .headerContainer {
+    margin-bottom: 10px;
+    padding-right: 30px;
+  }
+
+  .headerContainer h2 {
+    font-size: 16px;
+  }
+
+  .logo {
+    width: 28px;
+    height: 28px;
+  }
+
+  .popupFormContainer form {
+    gap: 8px;
+  }
+
+  .popupFormContainer form input,
+  .courseSelect {
+    padding: 8px 10px;
+    font-size: 12px;
+    border-radius: 6px;
+  }
+
+  .popupFormContainer form input::placeholder {
+    font-size: 11px;
+  }
+
+  .popupFormContainer form button[type="submit"] {
+    padding: 10px;
+    font-size: 13px;
+  }
+
+  .termsCheckbox {
+    padding: 8px 10px;
+    font-size: 9px;
+    gap: 5px;
+  }
+
+  .termsCheckbox label {
+    font-size: 9px;
+  }
+
+  .suggestionsDropdown {
+    max-height: 120px;
+  }
+
+  .suggestionItem {
+    padding: 8px 10px;
+    font-size: 11px;
+    min-height: 36px;
+  }
+
+  /* Bookmark hidden on mobile — BottomMenu handles mobile CTA */
+  .bookmarkTab {
+    display: none;
+  }
+}
+
+/* ============================================================
+   RESPONSIVE — LARGE DESKTOP (≥ 1280px)
+   ============================================================ */
+@media (min-width: 1280px) {
+  .popupContentWrapper {
+    max-width: 900px;
+  }
+
+  .popupFormContainer {
+    padding: 28px 26px;
+  }
+
+  .headerContainer h2 {
+    font-size: 22px;
+  }
+
+  .logo {
+    width: 42px;
+    height: 42px;
+  }
+
+  .headerContainer {
+    margin-bottom: 18px;
+  }
+
+  .popupFormContainer form {
+    gap: 13px;
+  }
+
+  .popupFormContainer form input,
+  .courseSelect {
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+
+  .popupFormContainer form input::placeholder {
+    font-size: 13px;
+  }
+
+  .popupFormContainer form button[type="submit"] {
+    padding: 14px;
+    font-size: 15px;
+  }
+
+  .termsCheckbox {
+    padding: 11px 13px;
+    font-size: 11px;
+  }
+
+  .termsCheckbox label {
+    font-size: 11px;
+  }
+
+  .closeButton {
+    width: 32px;
+    height: 32px;
+    top: 12px;
+    right: 12px;
+  }
+
+  .suggestionsDropdown {
+    max-height: 220px;
+  }
+
+  .suggestionItem {
+    padding: 12px 16px;
+    font-size: 14px;
+  }
+}
+
+
+/* ============================================================
+   ENVELOPE BOOKMARK TAB
+   ============================================================ */
+
+@keyframes envSlideIn {
+  from {
+    transform: translateY(-50%) translateX(-115%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(-50%) translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes envWaveDrift {
+  0% {
+    transform: translateX(-6px) translateY(0);
+    opacity: 0.22;
+  }
+
+  50% {
+    transform: translateX(6px) translateY(-2px);
+    opacity: 0.42;
+  }
+
+  100% {
+    transform: translateX(-6px) translateY(0);
+    opacity: 0.22;
+  }
+}
+
+@keyframes envTwinkle {
+
+  0%,
+  100% {
+    opacity: 0.22;
+    transform: scale(0.82);
+  }
+
+  35% {
+    opacity: 0.9;
+    transform: scale(1.14);
+  }
+
+  65% {
+    opacity: 0.38;
+    transform: scale(0.95);
+  }
+}
+
+.bookmarkTab {
+  position: fixed;
+  left: 4px;
+  top: 50%;
+  z-index: 1500;
+  transform: translateY(-50%);
+
+  width: 81px;
+  height: 108px;
+
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+  border-radius: 12px;
+
+  animation: envSlideIn 0.65s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+
+  transition: transform 0.2s ease;
+}
+
+.bookmarkTab:hover {
+  transform: translateY(-50%) translateX(5px) scale(1.04);
+}
+
+.bookmarkTab:active {
+  transform: translateY(-50%) translateX(2px) scale(0.98);
+}
+
+.bookmarkTab:focus-visible {
+  outline: 3px solid rgba(251, 191, 36, 0.8);
+  outline-offset: 4px;
+}
+
+.envelopeSvg {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+}
+
+.envelopeWave,
+.envelopeWaveAlt {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: envWaveDrift 4.2s ease-in-out infinite;
+}
+
+.envelopeWaveAlt {
+  animation-delay: -2.1s;
+}
+
+.envelopeShimmer {
+  mix-blend-mode: screen;
+  opacity: 0.9;
+}
+
+.envelopeSparkles {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: envTwinkle 2.6s ease-in-out infinite;
+}
+
+.checkmarkStroke {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: checkmarkDrawErase 3.2s cubic-bezier(0.45, 0.05, 0.25, 1) infinite;
+}
+
+@keyframes checkmarkDrawErase {
+
+  0%,
+  14% {
+    stroke-dashoffset: 100;
+    opacity: 0.75;
+  }
+
+  46% {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+
+  62% {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+
+  100% {
+    stroke-dashoffset: -100;
+    opacity: 0.78;
+  }
+}
+
+/* hide on mobile */
+@media (max-width: 480px) {
+  .bookmarkTab {
+    display: none;
+  }
+}

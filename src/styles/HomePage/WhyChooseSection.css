@@ -1,0 +1,301 @@
+.wc {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background: radial-gradient(900px 600px at 12% -5%, rgba(88, 36, 180, .38) 0%, rgba(40, 14, 92, .18) 45%, transparent 70%), radial-gradient(700px 500px at 100% 100%, rgba(120, 30, 160, .16) 0%, transparent 65%), linear-gradient(160deg, #120629 0%, #0b0318 55%, #08020f 100%);
+    color: #fff;
+    padding: clamp(40px, 6vw, 84px) clamp(16px, 5vw, 72px);
+    font-family: inherit;
+}
+
+.wc-bg {
+    position: absolute;
+    z-index: -1;
+    pointer-events: none
+}
+
+.wc-bg-dots {
+    top: 24px;
+    left: 18px
+}
+
+.wc-bg-waves {
+    bottom: -80px;
+    left: 0;
+    width: min(560px, 42vw);
+    max-width: 42vw;
+    z-index: -2
+}
+
+.wc-h {
+    text-align: center;
+    font-size: clamp(20px, 2.6vw, 34px);
+    font-weight: 900;
+    margin: 0;
+    letter-spacing: .3px;
+    text-wrap: balance
+}
+
+.wc-grad {
+    background: linear-gradient(90deg, #a06bff 0%, #d858f0 55%, #ff5ecf 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent
+}
+
+.wc-underline {
+    width: 80px;
+    height: 4px;
+    border-radius: 3px;
+    margin: 12px auto 0;
+    background: linear-gradient(90deg, #a06bff, #ff5ecf);
+    box-shadow: 0 0 10px rgba(200, 90, 240, .7)
+}
+
+.wc-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.02fr);
+    gap: clamp(18px, 3.4vw, 52px);
+    align-items: center;
+    max-width: 960px;
+    margin: clamp(22px, 3.4vw, 44px) auto 0
+}
+
+.wc-wheelwrap {
+    aspect-ratio: 1;
+    max-width: 440px;
+    margin: 0 auto;
+    width: 100%
+}
+
+.wc-wheel {
+    display: block;
+    width: 100%;
+    height: 100%
+}
+
+.wc-sector {
+    transition: transform .3s cubic-bezier(.3, 1.4, .5, 1);
+    transform-origin: 450px 450px;
+    cursor: default
+}
+
+.wc-neon {
+    filter: blur(7px);
+    opacity: 0;
+    transition: opacity .35s ease
+}
+
+@media(hover:hover) {
+    .wc-sector:hover {
+        transform: scale(1.035)
+    }
+
+    .wc-sector:hover .wc-neon {
+        opacity: .9
+    }
+}
+
+.wc-sector--active {
+    transform: scale(1.035)
+}
+
+.wc-sector--active .wc-neon {
+    opacity: .9
+}
+
+.wc-dot {
+    animation: wcTwinkle 3.2s ease-in-out infinite
+}
+
+@keyframes wcTwinkle {
+
+    0%,
+    100% {
+        opacity: .45
+    }
+
+    50% {
+        opacity: 1
+    }
+}
+
+.wc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    counter-reset: wc;
+    /* scrollable list: 9 points no longer need to fit without scrolling */
+    max-height: 460px;
+    overflow-y: auto;
+    padding-right: 6px;
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+}
+
+.wc-list:hover {
+    scrollbar-color: #8a63ff transparent;
+}
+
+.wc-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.wc-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.wc-list::-webkit-scrollbar-thumb {
+    background: transparent;
+    border-radius: 10px;
+    transition: background .2s ease;
+}
+
+.wc-list:hover::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #a06bff, #ff5ecf);
+}
+
+.wc-item {
+    position: relative;
+    display: flex;
+    gap: 13px;
+    align-items: flex-start;
+    padding: 12px 10px;
+    border-radius: 12px;
+    transition: background .25s ease, transform .25s ease
+}
+
+.wc-item::after {
+    content: "";
+    position: absolute;
+    left: 10px;
+    right: 20px;
+    bottom: 0;
+    border-bottom: 1.5px dashed rgba(160, 120, 255, .32)
+}
+
+.wc-item::before {
+    content: "";
+    position: absolute;
+    right: 10px;
+    bottom: -3.5px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    opacity: .75;
+    box-shadow: 0 0 8px var(--accent)
+}
+
+.wc-item:last-child::after,
+.wc-item:last-child::before {
+    display: none
+}
+
+@media(hover:hover) {
+    .wc-item:hover {
+        background: rgba(146, 104, 255, .08);
+        transform: translateX(3px)
+    }
+}
+
+.wc-tile {
+    flex: 0 0 42px;
+    height: 42px;
+    border-radius: 12px;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(150deg, #ffffff 0%, #efe8fd 60%, #e2d6fa 100%);
+    box-shadow: inset 0 1px 0 #fff, 0 0 0 1.5px color-mix(in srgb, var(--accent) 60%, transparent), 0 0 14px color-mix(in srgb, var(--accent) 38%, transparent), 0 3px 8px rgba(0, 0, 0, .35)
+}
+
+.wc-t {
+    margin: 0 0 4px;
+    font-size: clamp(13px, 1.1vw, 15px);
+    font-weight: 800;
+    letter-spacing: .2px;
+    color: var(--accent);
+    filter: brightness(1.18)
+}
+
+.wc-d {
+    margin: 0;
+    font-size: clamp(11.5px, .95vw, 13px);
+    line-height: 1.55;
+    color: #c9bfe6;
+    max-width: 56ch
+}
+
+.wc {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background: radial-gradient(900px 600px at 12% -5%, rgba(88, 36, 180, .38) 0%, rgba(40, 14, 92, .18) 45%, transparent 70%), radial-gradient(700px 500px at 100% 100%, rgba(120, 30, 160, .16) 0%, transparent 65%), linear-gradient(160deg, #120629 0%, #0b0318 55%, #08020f 100%);
+    color: #fff;
+    padding: clamp(40px, 6vw, 84px) clamp(16px, 5vw, 72px);
+    font-family: inherit;
+    /* perf: defer offscreen layout/paint cost until this section nears the viewport */
+    content-visibility: auto;
+    contain-intrinsic-size: 1200px;
+}
+
+/* ...(rest of file identical — no visual rules changed)... */
+
+.wc-wheelwrap {
+    aspect-ratio: 1;
+    max-width: 440px;
+    margin: 0 auto;
+    width: 100%;
+    /* perf: isolate paint/layout of this heavy SVG from the rest of the page */
+    contain: layout paint;
+}
+
+.wc-sector {
+    transition: transform .3s cubic-bezier(.3, 1.4, .5, 1);
+    transform-origin: 450px 450px;
+    cursor: default;
+    will-change: transform;
+}
+
+.wc-neon {
+    filter: blur(7px);
+    opacity: 0;
+    transition: opacity .35s ease;
+}
+
+@media(max-width:900px) {
+    .wc-grid {
+        grid-template-columns: 1fr
+    }
+
+    .wc-wheelwrap {
+        max-width: 340px
+    }
+
+    .wc-item {
+        padding: 10px 6px
+    }
+
+    .wc-list {
+        max-height: 360px
+    }
+
+    .wc-bg-waves {
+        display: none
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+
+    .wc-sector,
+    .wc-neon,
+    .wc-item {
+        transition: none
+    }
+
+    .wc-dot {
+        animation: none
+    }
+}

@@ -1,0 +1,9 @@
+[
+    { "label": "Google Drive", "imageUrl": "https://res.cloudinary.com/bropujss/image/upload/v1783684892/drive_syvef0_kphwuv.webp", "top": "10%", "left": "30%" },
+    { "label": "Google Docs", "imageUrl": "https://res.cloudinary.com/bropujss/image/upload/v1783684971/docs_zijs29_qbcxob.webp", "top": "10%", "left": "70%" },
+    { "label": "Notion", "imageUrl": "https://res.cloudinary.com/bropujss/image/upload/v1783684814/notion_de6gtx_m5le7s.webp", "top": "50%", "left": "10%" },
+    { "label": "Zapier", "imageUrl": "https://res.cloudinary.com/bropujss/image/upload/v1783684340/zapier_bm8nmy_jtdxom.webp", "top": "50%", "left": "90%" },
+    { "label": "WhatsApp", "imageUrl": "https://res.cloudinary.com/bropujss/image/upload/v1783684399/whatsapp_tbcihf_hllwsk.webp", "top": "90%", "left": "30%" },
+    { "label": "Messenger", "imageUrl": "https://res.cloudinary.com/bropujss/image/upload/v1783684536/messagener_aaaazj_nrfqqi.webp", "top": "90%", "left": "70%" }
+  ]
+

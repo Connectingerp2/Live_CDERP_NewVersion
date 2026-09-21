@@ -1,0 +1,22 @@
+export const countryCodes = [
+  { code: "+91", country: "IN", minLength: 10, maxLength: 10 },
+  { code: "+1", country: "US", minLength: 10, maxLength: 10 },
+  { code: "+44", country: "GB", minLength: 10, maxLength: 11 },
+  { code: "+61", country: "AU", minLength: 9, maxLength: 9 },
+  { code: "+81", country: "JP", minLength: 10, maxLength: 10 },
+  { code: "+49", country: "DE", minLength: 10, maxLength: 11 },
+  { code: "+33", country: "FR", minLength: 9, maxLength: 9 },
+  { code: "+86", country: "CN", minLength: 11, maxLength: 11 },
+  { code: "+7", country: "RU", minLength: 10, maxLength: 10 },
+  { code: "+39", country: "IT", minLength: 10, maxLength: 10 },
+  { code: "+55", country: "BR", minLength: 10, maxLength: 11 },
+  { code: "+34", country: "ES", minLength: 9, maxLength: 9 },
+  { code: "+27", country: "ZA", minLength: 9, maxLength: 9 },
+  { code: "+971", country: "AE", minLength: 9, maxLength: 9 },
+  { code: "+62", country: "ID", minLength: 10, maxLength: 12 },
+  { code: "+90", country: "TR", minLength: 10, maxLength: 10 },
+  { code: "+82", country: "KR", minLength: 9, maxLength: 10 },
+  { code: "+60", country: "MY", minLength: 9, maxLength: 10 },
+  { code: "+31", country: "NL", minLength: 9, maxLength: 9 },
+  { code: "+52", country: "MX", minLength: 10, maxLength: 10 }
+];

@@ -1,0 +1,591 @@
+{
+  "Whyds": {
+    "WhyDS": {
+      "title": "Why Data Science with AI?",
+      "cards": [
+        {
+          "title": "What is <span class='highlight-span-cards'>Data Science with AI?</span>",
+          "content": "Mumbai has quietly become one of India's busiest hubs for data hiring from fintech startups in BKC to global banks and retail giants that need people who can turn raw numbers into decisions. This Data Science with AI course in Mumbai was built with that hiring reality in mind."
+        },
+        {
+          "title": "What will you learn in this <span class=\"highlight-span-cards\">Data Science with AI course</span>?",
+          "content": "Instead of throwing fifteen tools at you and hoping something sticks, the program is structured around how data teams actually work: clean the data, understand it, build a model, test it, and explain it to someone who isn't technical. You'll code every day, work on datasets pulled from real business problems, and finish with a portfolio you can actually show in an interview.",
+          "listItems": [
+            "Python, SQL, statistics & data wrangling",
+            "Machine learning, deep learning & generative AI",
+            "Model deployment + portfolio-ready projects"
+          ]
+        },
+        {
+          "title": "Who is this course built for?",
+          "content": "Whether you're a fresh graduate trying to break into analytics, a working professional looking to move into a data role, or someone switching careers entirely, this course meets you where you are and builds forward from there. Classes run out of our Mumbai campus, with a live online track for those who'd rather learn from home or can't commute daily.",
+          "listItems": [
+            "Freshers & career switchers",
+            "Working professionals in IT or analytics",
+            "Developers adding AI to their toolkit"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyda": {
+    "WhyDA": {
+      "title": "Why Data Analytics with AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Data Analytics with AI?</span>",
+          "content": "Data is growing faster than most businesses can handle, and companies in Mumbai and across India are actively hiring people who can read that data and turn it into decisions. That is exactly why this Data Analytics with Gen AI course in Mumbai was built not as another theory-heavy program, but as a hands-on course that mixes classic data analytics skills with the newest Generative AI tools that are changing how analysts work."
+        },
+        {
+          "title": "What skills will you gain?",
+          "content": "Over the duration of this course, you will learn how to collect, clean, analyze, and visualize data using tools like Excel, SQL, Power BI, Tableau, and Python. Alongside this, you will also learn how to use Generative AI tools such as ChatGPT, Copilot, and AI-based analytics assistants to speed up reporting, automate repetitive tasks, and generate insights faster than traditional methods allow.",
+          "listItems": [
+            "Excel, SQL, Python, Power BI & Tableau",
+            "Statistics, basic ML & AI-assisted workflows",
+            "Portfolio project + stakeholder storytelling"
+          ]
+        },
+        {
+          "title": "Who is this course designed for?",
+          "content": "This is not a course that only talks about data analytics in theory. You will work on real datasets, real business problems, and real dashboards from day one. By the end of the program, you will have a portfolio of projects, a strong understanding of how Generative AI fits into modern analytics, and the confidence to apply for analyst roles in Mumbai's growing data industry.",
+          "listItems": [
+            "Freshers & career switchers",
+            "Working professionals adding analytics + AI",
+            "Mumbai learners who want classroom or hybrid batches"
+          ]
+        }
+      ]
+    }
+  },
+  "Whygpt": {
+    "WhyGPT": {
+      "title": "Why Generative AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Generative AI?</span>",
+          "content": "Generative AI has moved from research labs into everyday business operations marketing teams use it to draft campaigns, developers use it to write and debug code, and analysts use it to summarise data in seconds. This Generative AI course in Mumbai is built around that shift."
+        },
+        {
+          "title": "What will you build in this <span class=\"highlight-span-cards\">Generative AI course</span>?",
+          "content": "Instead of long lectures on theory, you'll spend most of your time inside tools like ChatGPT, Claude, Midjourney, and open-source LLMs, learning how to prompt, fine-tune, and deploy them for real use cases. The course is structured to take you from \"I've used ChatGPT a few times\" to \"I can design and deploy a Generative AI solution for a business problem.\"",
+          "listItems": [
+            "Prompt engineering & LLM application development",
+            "RAG systems, LangChain & vector databases",
+            "Deployable AI apps + interview-ready portfolio"
+          ]
+        },
+        {
+          "title": "Who should join?",
+          "content": "Whether you're a marketer, developer, business analyst, student, or entrepreneur, this course meets you where you are and builds up from there with Mumbai-based mentors who understand the local job market and what employers are actually asking for.",
+          "listItems": [
+            "Developers & data professionals",
+            "Freshers & career switchers",
+            "Product & business roles adding AI fluency"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyjava": {
+    "WhyJava": {
+      "title": "Why Java ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Java Development?</span>",
+          "content": "Mumbai's IT and fintech companies are constantly hiring Java developers and for good reason. Java still powers a huge share of enterprise backend systems, banking software, and Android applications used across the city's biggest employers. This Java course in Mumbai is built specifically to close the gap between \"knowing Java\" and \"being hired to build with Java.\""
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Java Developer</span> do?",
+          "content": "Over the course of the program, you'll move from Java fundamentals, variables, loops, OOP concepts — into the tools real developers use daily: Spring Boot, Hibernate, REST APIs, Git, and SQL databases. Every module is backed by hands-on coding exercises, and the course wraps up with a capstone project you can showcase to recruiters.",
+          "listItems": [
+            "Design and develop Java applications",
+            "Maintain and optimize existing systems",
+            "Ensure strong performance and scalability"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Java</span> training?",
+          "content": "Whether you're a fresher trying to break into IT, a BCA/BSc IT graduate preparing for placements, or a working professional switching to backend development, this Java training in Mumbai is structured to get you interview-ready, not just syllabus-complete. Classes run out of our Mumbai training center, with a live online batch for students who prefer to learn from home.",
+          "listItems": [
+            "Java Developer",
+            "Software Engineer",
+            "Backend Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypython": {
+    "WhyPython": {
+      "title": "Why Python?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Python Development?</span>",
+          "content": "Python has quietly become the backbone of modern technology from websites and mobile apps to data science, automation, and artificial intelligence. If you have been searching for a Python Course in Mumbai that actually teaches you how things work in the real world, you're in the right place."
+        },
+        {
+          "title": "What will you master?",
+          "content": "This course was built by developers who still write code every day, not just people who teach theory from a slide deck. Over the duration of the program, you'll write real Python scripts, build actual mini-projects, debug your own mistakes and walk away with a portfolio you can show in interviews.",
+          "listItems": [
+            "Core Python, OOP & data structures",
+            "Libraries, APIs, databases & automation",
+            "Capstone project for your portfolio"
+          ]
+        },
+        {
+          "title": "Who should take this course?",
+          "content": "We keep batch sizes small so every student gets attention. Classes run on weekdays and weekends, and you can choose between our Mumbai classroom or live interactive online sessions with the same trainers, same depth, same support either way. By the end of this Python Training in Mumbai, you won't just \"know Python\" you'll be comfortable using it to solve actual problems.",
+          "listItems": [
+            "Students & freshers building a foundation",
+            "Professionals pivoting into tech or data",
+            "Beginners with no prior coding experience"
+          ]
+        }
+      ]
+    }
+  },
+  "Whysales": {
+    "WhySales": {
+      "title": "Why Salesforce ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Salesforce Development?</span>",
+          "content": "Salesforce has become the backbone of customer relationship management for businesses across the globe, and the demand for skilled professionals is only growing. This Salesforce course in Mumbai is designed for freshers, working professionals, and career switchers who want to build a strong foundation in CRM, cloud computing, and business automation."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Salesforce Developer</span> do?",
+          "content": "Through this Salesforce training in Mumbai, you'll work on real business scenarios from setting up a Sales Cloud environment to building custom apps using Apex and Lightning Web Components. The course doesn't just teach concepts; it walks you through how actual Salesforce consultants and administrators solve problems for clients.",
+          "listItems": [
+            "Develop custom Salesforce applications",
+            "Integrate Salesforce with other systems",
+            "Customize platform functionalities"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Salesforce</span> training?",
+          "content": "By the end of this program, you will be equipped to sit for globally recognized Salesforce certification exams and confidently apply for roles like Salesforce Administrator, Business Analyst, or Junior Developer.",
+          "listItems": [
+            "Salesforce Administrator",
+            "CRM Consultant",
+            "Salesforce Business Analyst",
+            "Salesforce Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypowerbi": {
+    "WhyPOWERBI": {
+      "title": "Why Power BI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Power BI?</span>",
+          "content": "Data is everywhere, but very few professionals know how to turn it into something a manager can actually act on. That's the gap this Power BI course in Mumbai is built to close."
+        },
+        {
+          "title": "What will you master?",
+          "content": "Over the duration of the course, you'll learn how to pull data from multiple sources, clean it, model it correctly, and build dashboards that tell a clear story not just charts that look busy. We start with the basics of Power BI Desktop and move step by step into DAX formulas, data modelling, and Power Query, before finishing with real dashboard projects you can show in interviews or use at work the very next day.",
+          "listItems": [
+            "Power Query, data modeling & DAX",
+            "Interactive dashboards & storytelling",
+            "Publishing, security & PL-300 readiness"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "This isn't a course built around slides. It's built around a laptop open in front of you, a dataset you're actually struggling with, and an instructor walking you through it live. Whether you're a fresher trying to break into analytics, or a working professional in Mumbai who's been asked to \"just make a dashboard\" without ever being taught how this course meets you where you are.",
+          "listItems": [
+            "Excel users & reporting professionals",
+            "Freshers & career switchers",
+            "Anyone targeting Power BI or BI analyst roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whytableau": {
+    "WhyTABLEAU": {
+      "title": "Why Tableau?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Tableau?</span>",
+          "content": "Tableau has become one of the most in-demand tools in the data analytics industry, and Mumbai's fast-growing IT, BFSI, e-commerce, and consulting sectors are actively hiring professionals who know how to turn raw data into clear, decision-ready dashboards. Our Tableau course in Mumbai is built for exactly this demand."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Tableau Developer</span> do?",
+          "content": "This is not a theory-heavy lecture series. You will work with real, messy datasets from day one, build interactive dashboards, and learn how data teams actually use Tableau inside a company from connecting to live data sources to publishing dashboards on Tableau Server and Tableau Cloud.",
+          "listItems": [
+            "Create and manage Tableau dashboards",
+            "Collaborate with teams to gather requirements",
+            "Ensure data accuracy and consistency in reports"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Tableau</span> training in Mumbai?",
+          "content": "Whether you are a fresher trying to break into analytics, a working professional switching careers, or someone who already uses Excel and wants to move to a more powerful visualization tool, this Tableau training in Mumbai is structured to take you from zero to job-ready.",
+          "listItems": [
+            "Tableau Developer",
+            "Data Analyst",
+            "Business Intelligence Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whydatavisual": {
+    "WhyDataVisual": {
+      "title": "Why Data Visualization with AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Data Visualization with AI?</span>",
+          "content": "Data is everywhere, but insight is rare. That's exactly the gap this Data Visualization with AI Course in Mumbai is built to close."
+        },
+        {
+          "title": "What will you be able to do?",
+          "content": "Over the past few years, the way we visualize data has changed dramatically. It's no longer just about building charts in Excel it's about combining traditional visualization tools with AI-powered automation to generate insights faster, cleaner, and with far less manual effort. That's precisely what this course is designed to teach.",
+          "listItems": [
+            "Power BI, Tableau, Excel & Python visuals",
+            "Chart selection, storytelling & AI-assisted workflows",
+            "Portfolio-ready dashboards"
+          ]
+        },
+        {
+          "title": "Who should join?",
+          "content": "This Data Visualization Course in Mumbai takes you from the fundamentals of visual design and storytelling to advanced, AI-assisted dashboard creation using tools like Power BI, Tableau, Python (Matplotlib, Seaborn, Plotly), and generative AI assistants for automated chart generation and narrative summaries. By the end of the course, you won't just know how to make a chart you'll know how to make the *right* chart, tell the *right* story, and use AI tools to do it faster than ever before.",
+          "listItems": [
+            "Professionals adding data storytelling skills",
+            "Freshers targeting BI or analytics roles",
+            "Anyone ready to move beyond basic charts"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyagentic": {
+    "WhyAgentic": {
+      "title": "Why Agentic AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Agentic AI?</span>",
+          "content": "Agentic AI is no longer a buzzword; it's how modern software is starting to get built. Instead of AI that just answers questions, agentic systems can plan multi-step tasks, use tools, remember context, and even correct their own mistakes. Companies across Mumbai's tech, fintech, and product ecosystem are already hiring for this skill set, and the demand is only accelerating."
+        },
+        {
+          "title": "What will you be able to do?",
+          "content": "This Agentic AI course in Mumbai is built for people who want to move beyond prompt engineering and actually understand how autonomous agents are designed, trained, and deployed. Over the course of the program, you'll go from understanding how large language models reason, to building your own multi-agent workflows that can browse, code, retrieve data, and take action all with minimal human intervention.",
+          "listItems": [
+            "Single-agent, multi-agent & hierarchical systems",
+            "LangChain, LangGraph, CrewAI, AutoGen",
+            "Memory, tools, RAG, deployment & monitoring"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "You won't just watch lectures. Every module is paired with a project, so by the time you finish this Agentic AI training in Mumbai, you'll have a portfolio of working agents you can show in interviews not just a certificate.",
+          "listItems": [
+            "Developers & ML engineers",
+            "Data scientists applying skills to agents",
+            "Mumbai IT professionals reskilling part-time"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyaiml": {
+    "WhyAIML": {
+      "title": "Why AI ML Course?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">AI & Machine Learning?</span>",
+          "content": "Mumbai is fast becoming one of India's biggest hubs for AI-driven startups, fintech companies, and enterprise data teams and that means the demand for skilled AI and ML professionals in the city has never been higher. This course was designed specifically to meet that demand."
+        },
+        {
+          "title": "What will you learn?",
+          "content": "This isn't a course that throws theory at you and hopes it sticks. Our AI & ML course in Mumbai is structured around actual industry workflows, the same ones used by data scientists and ML engineers working at product companies today. You'll learn Python, statistics, machine learning algorithms, deep learning, natural language processing, and generative AI, but more importantly, you'll learn how to apply all of it to real business problems.",
+          "listItems": [
+            "Python, statistics, ML & deep learning",
+            "NLP, generative AI & model deployment",
+            "Portfolio projects + interview readiness"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "By the end of this Artificial Intelligence and Machine Learning course, you won't just understand how algorithms work you'll have built and deployed your own models, worked on capstone projects with real datasets, and developed the kind of practical experience that recruiters in Mumbai's tech scene actually look for.",
+          "listItems": [
+            "Freshers targeting AI/ML roles",
+            "Working professionals reskilling",
+            "Anyone who learns best by building real models"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyaws": {
+    "WhyAWS": {
+      "title": "Why AWS?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">AWS?</span>",
+          "content": "Cloud computing is no longer optional for IT careers it's the baseline. Our AWS course in Mumbai is designed for people who want to move fast: from zero cloud experience to confidently deploying and managing infrastructure on Amazon Web Services."
+        },
+        {
+          "title": "What will you master in this <span class=\"highlight-span-cards\">AWS course</span>?",
+          "content": "Unlike generic online tutorials, this is a structured, instructor-led program delivered in Mumbai, with in-person and live-online batches to suit working professionals, students, and career changers. You'll learn AWS the way it's actually used in production environments through labs, real deployments, and guided projects not just slides.",
+          "listItems": [
+            "EC2, S3, IAM, VPC, RDS, Lambda & more",
+            "Hands-on labs + real cloud deployments",
+            "Certification readiness + job-ready skills"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "By the end of this course, you'll understand how to design, deploy, and secure cloud infrastructure on AWS, and you'll be prepared to sit for globally recognized AWS certification exams. Whether you're targeting a role as a Cloud Engineer, DevOps Engineer, or Solutions Architect, this program gives you the practical foundation employers in Mumbai and beyond are actively hiring for.",
+          "listItems": [
+            "Freshers & engineering graduates",
+            "IT professionals upskilling to cloud",
+            "Anyone targeting Cloud / DevOps roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whydevops": {
+    "WhyDEVOPS": {
+      "title": "Why DevOps?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">DevOps?</span>",
+          "content": "Mumbai's IT and fintech companies are hiring DevOps engineers faster than almost any other tech role, and this DevOps course in Mumbai is designed to meet that demand head-on. Instead of teaching tools in isolation, this program takes you through the complete DevOps lifecycle — from version control and continuous integration to containerization, orchestration, and cloud deployment."
+        },
+        {
+          "title": "What will you master in this <span class=\"highlight-span-cards\">DevOps course</span>?",
+          "content": "You will work on real-world projects, set up CI/CD pipelines from scratch, deploy applications on the cloud, and learn to automate infrastructure the way it is done in modern tech companies. By the end of this training, you won't just understand DevOps concepts you will have hands-on experience that you can confidently talk about in interviews and apply directly on the job.",
+          "listItems": [
+            "Linux, Git, Jenkins, Docker, Kubernetes",
+            "Terraform, Ansible, CI/CD & monitoring",
+            "Live projects + interview-ready portfolio"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "Whether you are a fresher, a software developer, or a system administrator planning a career switch, this course builds your skills step by step. Join Mumbai's most practical DevOps training program and learn directly from industry practitioners who've built and scaled production systems.",
+          "listItems": [
+            "Freshers & recent graduates",
+            "Sysadmins & developers upskilling",
+            "Working professionals targeting DevOps roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whycore": {
+    "WhyCORE": {
+      "title": "Why HR Core?",
+      "cards": [
+        {
+          "title": "What is  <span class=\"highlight-span-cards\">Core HR</span>?",
+          "content": "If you're searching for an HR course in Mumbai that actually prepares you for a real HR desk job not just a certificate to frame this program is built for you. This Core HR Course in Mumbai is designed for freshers, career-switchers, and working professionals who want to build a strong foundation in Human Resources."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">an HR</span> Do?",
+          "content": "Unlike generic HR training programs that stay stuck in theory, this course focuses on what HR teams actually do every day: hiring, onboarding, payroll processing, statutory compliance, performance management, and employee engagement. You'll work on real HR documents, live payroll sheets, mock interviews, and actual compliance case studies used by Mumbai-based companies.",
+          "listItems": [
+            "Manage recruitment and onboarding",
+            "Handle payroll and employee records",
+            "Ensure compliance and support employee relations"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR</span> Training?",
+          "content": "By the end of the course, you won't just understand HR concepts you'll be able to walk into an HR Executive or HR Generalist role and start contributing from day one. Whether you're a fresh graduate exploring HR as a career, or someone already working in HR who wants to formalize your knowledge with a recognized Core HR Certification in Mumbai, this program meets you where you are and takes you to job-ready.",
+          "listItems": [
+            "HR Generalist",
+            "Recruitment Specialist",
+            "Payroll Officer",
+            "HR Compliance Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyman": {
+    "WhyMAN": {
+      "title": "Why HR Management?",
+      "cards": [
+        {
+          "title": "What is  <span class=\"highlight-span-cards\">HR Management</span>?",
+          "content": "Looking for an HR Management course in Mumbai that goes beyond theory? This program is built for people who want to actually *do* the job of an HR professional, not just memorise definitions for an exam."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Management</span> Do?",
+          "content": "Over the course of this HR training program, you'll work on real hiring drives, build actual payroll sheets, run mock performance appraisals, and get hands-on with the same HRMS software used by companies across Mumbai's corporate hubs BKC, Lower Parel, Andheri, and Powai.",
+          "listItems": [
+            "Lead recruitment and talent development",
+            "Manage performance and employee relations",
+            "Design HR policies and strategies"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Management</span> Training?",
+          "content": "Mumbai's job market for HR roles is competitive, and recruiters increasingly expect candidates to know applicant tracking systems, payroll compliance, and basic HR analytics not just \"soft skills.\" This HR Management course is structured around exactly those expectations, so what you learn in class is what you'll be asked to do in your first HR job.",
+          "listItems": [
+            "HR Manager",
+            "HR Generalist",
+            "Talent Acquisition Specialist",
+            "Employee Relations Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypay": {
+    "WhyPAY": {
+      "title": "Why HR Payroll?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">HR Payroll</span>?",
+          "content": "Payroll is one of the few HR functions that never gets automated away. Someone still has to understand it, run it, and defend it during an audit. That's exactly why this HR Payroll Course in Mumbai exists."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Payroll</span> Do?",
+          "content": "This course is built for people who want more than theory. Over the duration of the program, you'll work on live payroll cases, learn how salary structures are actually designed in Indian companies, and get comfortable with PF, ESI, TDS, Professional Tax, Gratuity, and Labour Law compliance, the parts of payroll that trip up most beginners.",
+          "listItems": [
+            "Process accurate and timely payroll",
+            "Handle deductions, taxes, and benefits",
+            "Maintain compliance with labor and tax rules"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Payroll</span> Training?",
+          "content": "Whether you're an HR fresher trying to break into a core payroll role, an admin professional looking to upskill, or a business owner who wants to run payroll in-house instead of outsourcing it, this program is structured to take you from basics to independent, audit-ready payroll processing. Classes are conducted at our Mumbai training center with both weekday and weekend batch options.",
+          "listItems": [
+            "Payroll Specialist",
+            "HR Payroll Administrator",
+            "Payroll Compliance Officer",
+            "Compensation and Benefits Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyana": {
+    "WhyANA": {
+      "title": "Why HR Analytics?",
+      "cards": [
+        {
+          "title": "Why <span class=\"highlight-span-cards\">HR Analytics</span>?",
+          "content": "Mumbai's job market is shifting fast, and HR teams are now expected to justify every decision with data — attrition trends, hiring cost, engagement scores, and productivity metrics. This HR Analytics Course in Mumbai is designed to help HR professionals bridge that exact gap."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Analytics</span> Do?",
+          "content": "Over the course of this program, you will learn how to collect, clean, visualise, and interpret HR data using tools that real companies use every day. Instead of theory-heavy lectures, this HR Analytics Course focuses on live projects: building an attrition dashboard, calculating recruitment ROI, and presenting people-metrics to leadership in a way that actually gets acted upon.",
+          "listItems": [
+            "Collect and analyze workforce data",
+            "Identify trends in performance and retention",
+            "Support data-driven HR decisions"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Analytics</span> Training?",
+          "content": "This is not a generic data analytics course dressed up for HR. Every case study, dataset, and assignment in this HR Analytics Course in Mumbai is built around real HR functions — recruitment, performance management, compensation, engagement, and retention — so you walk out able to apply what you learn on Monday morning.",
+          "listItems": [
+            "HR Analyst",
+            "HR Business Partner",
+            "People Analytics Specialist",
+            "Talent Management Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whygen": {
+    "WhyGEN": {
+      "title": "WHY HR Generalist?",
+      "cards": [
+        {
+          "title": "What is<span class=\"highlight-span-cards\">HR Generalist?</span>",
+          "content": "If you're looking to build a career in Human Resources, this HR Generalist Course in Mumbai gives you everything you need to start strong from the basics of recruitment to the finer points of payroll processing and labour law compliance."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Generalist</span> Do?",
+          "content": "Unlike generic HR training programs, this course focuses on what actually happens on the job. You'll learn how HR teams in real companies handle onboarding, employee grievances, performance appraisals, statutory compliance, and HR documentation using the same tools and formats used in the industry today.",
+          "listItems": [
+            "Handle recruitment and onboarding",
+            "Support performance and employee relations",
+            "Manage payroll and compliance activities"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Generalist</span> Training?",
+          "content": "Whether you're a fresh graduate exploring HR as a career, a working professional switching fields, or someone returning to work after a break, this HR Generalist training in Mumbai is built to take you from zero HR experience to confidently handling a generalist role in any organization.",
+          "listItems": [
+            "HR Generalist",
+            "HR Coordinator",
+            "HR Executive",
+            "Talent Acquisition Specialist",
+            "Payroll Administrator"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhr": {
+    "WhyHR": {
+      "title": "Why HR Training?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">HR?</span>",
+          "content": "If you're looking for practical, career-focused HR training in Mumbai, this program is built around what recruiters and HR managers actually expect from new hires. Rather than only covering theory, the course walks you through real hiring workflows, payroll processing, statutory compliance, and performance management systems used by companies operating in and around Mumbai."
+        },
+        {
+          "title": "What does an <span class=\"highlight-span-cards\">HR</span> Do?",
+          "content": "The curriculum is designed for both freshers exploring a career in human resources and working professionals who want to formalize their HR skills with a recognized certification. Every module blends conceptual learning with hands-on exercises using tools like Excel, HRMS software, and applicant tracking systems, so you leave the classroom already comfortable with day-to-day HR operations.",
+          "listItems": [
+            "Manage recruitment and talent development",
+            "Support performance and employee relations",
+            "Ensure compliance and fair practices"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Training</span>in {city}? ",
+          "content": "Whether your goal is to break into HR, switch from a generalist role into HR analytics, or prepare for a managerial position, this HR course in Mumbai gives you a structured path with mentorship, case studies, and placement guidance at every stage.",
+          "listItems": [
+            "HR Generalist",
+            "HR Specialist",
+            "HR Business Partner",
+            "HR Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhrtrain": {
+    "WhyHRTRAIN": {
+      "title": "Why HR Training?",
+      "cards": [
+        {
+          "title": "What is an <span class=\"highlight-span-cards\">HR Course</span>?",
+          "content": "If you're looking for practical, career-focused HR training in Mumbai, this program is built around what recruiters and HR managers actually expect from new hires. Rather than only covering theory, the course walks you through real hiring workflows, payroll processing, statutory compliance, and performance management systems used by companies operating in and around Mumbai."
+        },
+        {
+          "title": "What does an <span class=\"highlight-span-cards\">HR</span> Do?",
+          "content": "The curriculum is designed for both freshers exploring a career in human resources and working professionals who want to formalize their HR skills with a recognized certification. Every module blends conceptual learning with hands-on exercises using tools like Excel, HRMS software, and applicant tracking systems, so you leave the classroom already comfortable with day-to-day HR operations.",
+          "listItems": [
+            "Manage recruitment and employee relations",
+            "Support performance and development",
+            "Ensure legal and policy compliance"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR</span> Training?",
+          "content": "Whether your goal is to break into HR, switch from a generalist role into HR analytics, or prepare for a managerial position, this HR course in Mumbai gives you a structured path with mentorship, case studies, and placement guidance at every stage.",
+          "listItems": [
+            "HR Generalist",
+            "HR Manager",
+            "Payroll Specialist",
+            "Talent Acquisition Specialist"
+          ]
+        }
+      ]
+    }
+  }
+}

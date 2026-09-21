@@ -1,0 +1,722 @@
+{
+    "homepage": {
+        "number": "+919004001938",
+        "badge": "Free Guidance",
+        "title": "Not Sure which Course Fits You?",
+        "subtitle": "Get personalized career guidance from our experts and discover the right course based on your skills, experience, and career goals.",
+        "primaryBtn": "WhatsApp Us",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Free career counselling · Classroom + online options available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "abap": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Launch Your SAP Career Today with {city}'s Trusted SAP ABAP Training Institute",
+        "subtitle": "Join hundreds of successful students who've transformed their careers through our SAP ABAP course in {city}. Live projects, expert mentorship, and dedicated placement support — everything you need to become a confident SAP ABAP developer.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Download Brochure available · Limited seats per batch",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ariba": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP Ariba Career Today",
+        "subtitle": "Join the most trusted SAP Ariba Course in {city} and gain the skills, certification, and confidence to land your next procurement or SAP career opportunity. Limited Seats Available for Upcoming Batch.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Talk to Our Career Counselor",
+        "trust": "Limited seats available for the upcoming batch",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "basis": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP BASIS Career Journey in {city} Today",
+        "subtitle": "Join {city}'s most practical, project-driven SAP BASIS Course and take the first step toward a rewarding career in SAP technology. Learn from expert trainers, work on real SAP systems, and get placement-ready with certification.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to Our Course Advisor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "fico": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP FICO Career in {city} Today",
+        "subtitle": "Next batch starting soon — limited seats available. Get hands-on SAP FICO training, real-time projects, and placement support in one program.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Call / WhatsApp available · Limited seats left",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ewm": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP EWM Career Journey Today",
+        "subtitle": "Join {city}'s most trusted SAP EWM training institute and gain the practical, job-ready skills that top employers are looking for. Limited seats available for the upcoming batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Chat with Our Course Advisor · Limited seats left",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "mm": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Seats for the Next SAP MM Batch Are Filling Up",
+        "subtitle": "Only a limited number of seats are kept open per batch to maintain hands-on training quality — enroll now to secure your spot.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "bwbi": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP BW/BI Career Journey Today",
+        "subtitle": "Ready to Become a Certified SAP BW/BI Professional? Join {city}'s leading SAP BW/BI course and gain the practical skills, certification, and career support you need to succeed in the SAP ecosystem.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to Our Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ps": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP Project Systems?",
+        "subtitle": "Join {city}'s practical, industry-focused SAP PS Course and take the next step toward becoming a certified SAP professional. Limited seats available for the upcoming batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to a Course Counselor · Call us or fill the enquiry form",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "pm": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build Your Career with SAP PM?",
+        "subtitle": "Join {city}'s most practical, project-driven SAP Plant Maintenance training program and take the first step toward becoming a certified SAP PM consultant.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book Your Free Demo Class",
+        "trust": "Download Brochure available · Limited seats per batch",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "qm": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build Your Career in SAP Quality Management?",
+        "subtitle": "Join {city}'s most trusted SAP QM training institute and gain the practical skills, certification, and placement support you need to succeed as an SAP QM Consultant. Limited Seats Available for the Upcoming Batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to a Course Counselor · Limited seats left",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "pp": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Launch Your SAP PP Career in {city}?",
+        "subtitle": "Join {city}'s leading SAP PP Course and gain the practical, real-world skills employers are actively hiring for. Limited seats available for the upcoming batch.",
+        "primaryBtn": "Enroll Now — Limited Seats Left",
+        "secondaryBtn": "Book Your Free Demo Class Today",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "hana": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP Career Today with {city}'s Most Trusted SAP S/4 HANA Course",
+        "subtitle": "Join thousands of successful learners who transformed their careers with our industry-focused SAP S/4 HANA Course in {city}. Limited seats available for the upcoming batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book Free Demo Class",
+        "trust": "Chat with Our Counselor · Limited seats left",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "hrhcm": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP HCM Career Today",
+        "subtitle": "Join {city}'s most trusted SAP HCM Course and take the first step toward becoming a certified SAP HR consultant. Limited seats available for the next batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to Our Course Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "scm": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP SCM Career Journey in {city} Today",
+        "subtitle": "This SAP SCM Course in {city} is ideal for freshers, supply-chain professionals, production executives, existing SAP consultants and career switchers. No prior SAP experience required — the course starts with fundamentals and progresses to advanced, job-ready skills.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to a Course Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "successfactors": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP SuccessFactors Career Journey in {city} Today",
+        "subtitle": "Take the next step toward becoming a certified SAP SuccessFactors consultant. Join {city}'s most trusted SAP training program with expert trainers, real-time projects, and dedicated placement support.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to Our Course Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "sd": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP SD Career Journey in {city} Today",
+        "subtitle": "Join the most trusted SAP SD course in {city} and gain the practical, in-demand skills employers are hiring for. Live SAP access, expert mentorship, and dedicated placement support — all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to a Course Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "sap": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP Career Journey Today",
+        "subtitle": "Join thousands of learners who transformed their careers with industry-relevant SAP training and placement support.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Classroom + online options · 1,000+ students trained so far · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ehs": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP EHS Career Journey in {city} Today",
+        "subtitle": "Join the next batch of our SAP EHS Course in {city} and gain the practical, industry-relevant skills employers are actively hiring for. Limited seats available per batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to Our Career Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ibp": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP IBP Career Today — Enroll in {city}'s Leading SAP IBP Training Program",
+        "subtitle": "Get hands-on training, live projects, expert mentorship, and placement support — all in one course.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Download Brochure available · Limited seats per batch",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "btp": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Launch Your SAP Cloud Career with {city}’s Most Trusted SAP BTP Training Program",
+        "subtitle": "Join hundreds of professionals who upgraded their careers with our SAP BTP Course in {city}. Get hands-on training, expert mentorship, and placement support — all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Chat with Our Course Advisor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "grc": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP GRC?",
+        "subtitle": "Join {city}'s most practical, project-driven SAP GRC course and get trained by experts who've actually worked in SAP security and compliance roles. Limited seats per batch — reserve yours today.",
+        "primaryBtn": "Book a Free Demo Class",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Download Course Brochure · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "datascience": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Pune's Data Science Job Market Isn't Waiting — Are You Ready?",
+        "subtitle": "Seats for the next batch of our Data Science with AI course are filling up. Get in early, get mentor attention, and start building the portfolio that gets you hired.",
+        "primaryBtn": "Reserve Your Seat Now",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Classroom + Live Online · Real projects · Placement support",
+        "screenTitle": "Data Science Live Lab",
+        "widgets": [
+            "Python",
+            "ML Models",
+            "Power BI",
+            "Gen AI"
+        ]
+    },
+    "dataanalytics": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your Career in Data Analytics with Gen AI?",
+        "subtitle": "Join {city}'s practical, project-based Data Analytics with Gen AI course and learn the exact skills companies are hiring for right now.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counsellor",
+        "trust": "Classroom sessions · Live projects · 1-on-1 mentorship",
+        "screenTitle": "Analytics Dashboard",
+        "widgets": [
+            "Excel",
+            "SQL",
+            "Power BI",
+            "Gen AI"
+        ]
+    },
+    "businessanalytics": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Make Data-Driven Business Decisions?",
+        "subtitle": "Join {city}'s practical Business Analytics program and learn the metrics, tools, and storytelling skills that leadership teams actually use.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counsellor",
+        "trust": "Weekend & weekday batches · Real business case studies · Placement support",
+        "screenTitle": "Business Dashboard",
+        "widgets": [
+            "KPIs",
+            "Power BI",
+            "SQL",
+            "AI Insights"
+        ]
+    },
+    "ai": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your AI & ML Career in {city} Starts With One Decision",
+        "subtitle": "Seats for the next batch of our AI & ML course in {city} are filling up fast. Don't just learn AI — learn how to use it to build a career that keeps growing.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counsellor",
+        "trust": "Download Free Brochure · Limited seats available",
+        "screenTitle": "AI Model Lab",
+        "widgets": [
+            "Python",
+            "TensorFlow",
+            "NLP",
+            "Deployment"
+        ]
+    },
+    "genai": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in Generative AI?",
+        "subtitle": "Join {city}'s most practical, project-driven Generative AI course and go from fundamentals to a job-ready AI portfolio in just a few weeks.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to an Admissions Counselor",
+        "trust": "Download Full Curriculum · Limited seats",
+        "screenTitle": "Generative AI Workspace",
+        "widgets": [
+            "Prompting",
+            "RAG",
+            "Agents",
+            "Custom GPTs"
+        ]
+    },
+    "agenticai": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Seats for the Next Agentic AI Batch in {city} Are Filling Up",
+        "subtitle": "Learn to build autonomous AI agents with hands-on projects, real frameworks, and instructors who work in the field. Classroom in {city} or live online — your choice.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to Admissions",
+        "trust": "Download Full Syllabus · Limited seats per batch",
+        "screenTitle": "Agentic AI Lab",
+        "widgets": [
+            "LangChain",
+            "CrewAI",
+            "RAG",
+            "Multi-Agent"
+        ]
+    },
+    "fullstack": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build Full-Stack Applications That Get You Hired?",
+        "subtitle": "Join {city}'s practical full-stack program and walk away with a complete application you can show in interviews.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Weekend & weekday batches · Portfolio projects · Placement support",
+        "screenTitle": "Full Stack Workspace",
+        "widgets": [
+            "Frontend",
+            "Backend",
+            "Database",
+            "Deploy"
+        ]
+    },
+    "java": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your Java Journey in {city}?",
+        "subtitle": "Seats for the next batch of our Java course in {city} are filling up fast. Get hands-on training, real projects, and placement support — all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Weekday & weekend batches · Beginner to advanced · Classroom + Live Online",
+        "screenTitle": "Java Development Lab",
+        "widgets": [
+            "Core Java",
+            "Spring Boot",
+            "Hibernate",
+            "REST APIs"
+        ]
+    },
+    "python": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Learning Python in {city}?",
+        "subtitle": "Seats fill up fast for every new batch of our Python course in {city}. Reserve your spot today and start building real projects within the first two weeks.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "No payment required to book your free demo class",
+        "screenTitle": "Python Coding Lab",
+        "widgets": [
+            "Core Python",
+            "OOP",
+            "Pandas",
+            "Projects"
+        ]
+    },
+    "salesforce": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your Salesforce Career in {city}?",
+        "subtitle": "Join our next batch and get hands-on with real Salesforce projects, expert mentorship, and certification support all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Download Free Brochure · Limited seats",
+        "screenTitle": "Salesforce Org",
+        "widgets": [
+            "Admin",
+            "Apex",
+            "LWC",
+            "Flows"
+        ]
+    },
+    "tableau": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Actually Use Tableau — Not Just Learn About It?",
+        "subtitle": "Seats for the next batch of this Tableau course in {city} are filling up. Join a class built around real dashboards, real data, and real interview outcomes.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Weekend and weekday batches · Hands-on projects · Certificate on completion",
+        "screenTitle": "Tableau Dashboard",
+        "widgets": [
+            "Dashboards",
+            "Calculations",
+            "LOD",
+            "Stories"
+        ]
+    },
+    "powerbi": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your Next Job Might Be One Dashboard Away",
+        "subtitle": "Seats for the upcoming batch of this Power BI course in {city} are filling fast. Join a class that's built around real projects, real feedback, and real outcomes — not just recorded videos.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Classroom sessions · Live online batches · Real instructors",
+        "screenTitle": "Power BI Dashboard",
+        "widgets": [
+            "Power Query",
+            "DAX",
+            "Modelling",
+            "Reports"
+        ]
+    },
+    "datavisualization": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your Data Deserves to Be Understood — Not Just Seen",
+        "subtitle": "Enroll in {city}'s leading Data Visualization with AI Course and start turning raw data into decisions, dashboards, and career opportunities.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to an Admissions Counselor",
+        "trust": "Hands-on projects · Power BI + Tableau + Python · Placement support",
+        "screenTitle": "Visualization Studio",
+        "widgets": [
+            "Power BI",
+            "Tableau",
+            "Python",
+            "AI Charts"
+        ]
+    },
+    "aws": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your AWS Career Starts With One Decision",
+        "subtitle": "Seats for the next batch of our AWS course in {city} are filling fast. Get hands-on AWS training, real projects, and placement support — all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book Free Demo Class",
+        "trust": "Limited seats per batch · Online & Classroom options",
+        "screenTitle": "AWS Console",
+        "widgets": [
+            "EC2",
+            "S3",
+            "IAM",
+            "VPC"
+        ]
+    },
+    "devops": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Seats Are Limited for the Next Batch of Our DevOps Course in {city}",
+        "subtitle": "Learn the tools real companies use, build a project you can defend in interviews, and get placement support from day one.",
+        "primaryBtn": "Reserve My Seat",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Download Free Curriculum PDF · Limited seats available",
+        "screenTitle": "DevOps Pipeline",
+        "widgets": [
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Terraform"
+        ]
+    },
+    "corehr": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Real Career in HR?",
+        "subtitle": "Join the next batch of our Core HR Course in {city} and learn the skills recruiters actually screen for — recruitment, payroll, compliance, and HR analytics, all in one program.",
+        "primaryBtn": "Enroll Now — Limited Seats",
+        "secondaryBtn": "Talk to a Course Counsellor",
+        "trust": "Flexible EMI options · Weekday & weekend batches · Classroom and online formats",
+        "screenTitle": "HR Operations Desk",
+        "widgets": [
+            "Recruitment",
+            "Payroll",
+            "Compliance",
+            "HRMS"
+        ]
+    },
+    "hrpayroll": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your Career in HR Payroll Starts Here",
+        "subtitle": "Seats for the next batch of our HR Payroll Course in {city} are filling fast. Get hands-on training, real compliance knowledge, and placement support that actually helps you get hired.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counsellor",
+        "trust": "100% Practical Training · Live Payroll Software · Placement Assistance",
+        "screenTitle": "Payroll Processing",
+        "widgets": [
+            "CTC Design",
+            "PF/ESI",
+            "TDS",
+            "Payslips"
+        ]
+    },
+    "hrmanagement": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in HR? Join {city}'s Leading HR Management Course Today",
+        "subtitle": "Seats are limited for every batch to keep training personal and effective. If you're serious about starting or advancing your HR career, this HR Management Course in {city} is your next step.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counsellor",
+        "trust": "Download Full Syllabus PDF · Limited seats",
+        "screenTitle": "HR Management Desk",
+        "widgets": [
+            "Recruitment",
+            "Payroll",
+            "Labour Law",
+            "HRMS"
+        ]
+    },
+    "hrgeneralist": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your HR Career Starts With the Right Training",
+        "subtitle": "Join {city}'s most practical HR Generalist Course and go from learning HR concepts to actually handling HR operations — recruitment, payroll, compliance, and more — with placement support to back you up.",
+        "primaryBtn": "Enroll in the HR Generalist Course Today",
+        "secondaryBtn": "Talk to Our Course Counselor",
+        "trust": "No spam. No pressure. Just clarity on whether this course is right for you.",
+        "screenTitle": "HR Generalist Desk",
+        "widgets": [
+            "Recruitment",
+            "Payroll",
+            "Policies",
+            "HRMS"
+        ]
+    },
+    "hranalytics": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your HR Career Deserves a Data Advantage",
+        "subtitle": "Seats for the next batch of the HR Analytics Course in {city} are filling fast. Learn the tools, build real dashboards, and become the HR professional every company wants on their team.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Download Full Syllabus · Limited seats",
+        "screenTitle": "HR Analytics Dashboard",
+        "widgets": [
+            "Attrition",
+            "Power BI",
+            "eNPS",
+            "Surveys"
+        ]
+    },
+    "hrtraining": {
+        "number": "+919004001938",
+        "badge": "Free Live Demo",
+        "title": "Your HR Career Starts with the Right Training",
+        "subtitle": "Seats for the next batch of our HR Training in {city} program are filling fast. Learn from real HR practitioners, work on live projects, and walk away with a job-ready skill set and placement support.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counsellor",
+        "trust": "Weekday & weekend batches · Classroom + Live Online · Beginner to Advanced",
+        "screenTitle": "HR Training Desk",
+        "widgets": [
+            "Recruitment",
+            "Payroll",
+            "Compliance",
+            "Analytics"
+        ]
+    },
+    "itcourses": {
+        "number": "+919004001938",
+        "badge": "Free Guidance",
+        "title": "Not Sure Which IT Course Fits You?",
+        "subtitle": "Get personalized career guidance from our experts and discover the right IT or data course based on your skills, experience, and career goals.",
+        "primaryBtn": "WhatsApp Us",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Free career counselling · Classroom + online options available",
+        "screenTitle": "IT Career Path",
+        "widgets": [
+            "Data Science",
+            "AI/ML",
+            "Cloud",
+            "DevOps"
+        ]
+    },
+    "hrcourses": {
+        "number": "+919004001938",
+        "badge": "Free Guidance",
+        "title": "Not Sure Which HR Course Fits You?",
+        "subtitle": "Get personalized career guidance from our experts and discover the right HR course based on your skills, experience, and career goals.",
+        "primaryBtn": "WhatsApp Us",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Free career counselling · Classroom + online options available",
+        "screenTitle": "HR Career Path",
+        "widgets": [
+            "Core HR",
+            "Payroll",
+            "Generalist",
+            "Analytics"
+        ]
+    }
+}

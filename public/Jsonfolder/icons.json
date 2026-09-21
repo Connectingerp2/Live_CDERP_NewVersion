@@ -1,0 +1,40 @@
+{
+    "iconMap": {
+        "SAP": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203364/sap_3_llyzfc_u3teld.webp",
+        "Cloud": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203425/cloud-data_kqdxuc_nyfbsg.webp",
+        "Security": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203469/business-intelligence_lcmfjw_fmz5tw.webp",
+        "Analytics": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203469/business-intelligence_lcmfjw_fmz5tw.webp",
+        "DevOps": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203425/cloud-data_kqdxuc_nyfbsg.webp",
+        "AI": "https://i.imgur.com/grx2N9O.mp4",
+        "AWS": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203425/cloud-data_kqdxuc_nyfbsg.webp",
+        "Azure": "https://res.cloudinary.com/djdhtkjhn/image/upload/v1784203425/cloud-data_kqdxuc_nyfbsg.webp"
+    },
+    "defaultSapRelatedCourseIcon": "https://res.cloudinary.com/bropujss/image/upload/v1783686591/rbxjkmf9aehvzhebzsvq_vlmain_wcgorn.webp",
+    "sapRelatedCourseIconMap": {
+        "ABAP": "https://img.icons8.com/color/96/source-code.webp",
+        "ARIBA": "https://img.icons8.com/color/96/shopping-cart-loaded.webp",
+        "BASIS": "https://img.icons8.com/color/96/server.webp",
+        "BTP": "https://img.icons8.com/color/96/cloud.webp",
+        "BW/BI": "https://img.icons8.com/color/96/combo-chart.webp",
+        "BWBI": "https://img.icons8.com/color/96/combo-chart.webp",
+        "EHS": "https://img.icons8.com/color/96/leaf.webp",
+        "EWM": "https://img.icons8.com/color/96/warehouse.webp",
+        "FICO": "https://img.icons8.com/color/96/accounting.webp",
+        "GRC": "https://img.icons8.com/color/96/security-checked.webp",
+        "HANA": "https://img.icons8.com/color/96/business.webp",
+        "HR/HCM": "https://img.icons8.com/color/96/conference-call.webp",
+        "HCM": "https://img.icons8.com/color/96/conference-call.webp",
+        "IBP": "https://img.icons8.com/color/96/combo-chart.webp",
+        "BI": "https://img.icons8.com/color/96/combo-chart.webp",
+        "MM": "https://img.icons8.com/color/96/shopping-cart-loaded.webp",
+        "PM": "https://img.icons8.com/color/96/maintenance.webp",
+        "PP": "https://img.icons8.com/color/96/factory.webp",
+        "PS": "https://img.icons8.com/color/96/project.webp",
+        "QM": "https://img.icons8.com/color/96/inspection.webp",
+        "S/4 HANA": "https://img.icons8.com/color/96/business.webp",
+        "SCM": "https://img.icons8.com/color/96/combo-chart.webp",
+        "SD": "https://img.icons8.com/color/96/sales-performance.webp",
+        "SUCCESSFACTOR": "https://img.icons8.com/color/96/group.webp",
+        "SUCCESSFACTORS": "https://img.icons8.com/color/96/group.webp"
+    }
+}

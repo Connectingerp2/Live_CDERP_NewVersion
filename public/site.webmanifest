@@ -1,0 +1,23 @@
+{
+  "name": "Connecting Dots ERP - SAP Training Institute",
+  "short_name": "Connecting Dots ERP", 
+  "description": "Best SAP Training Institute with 100% Placement Support",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/bropujss/image/upload/v1784182239/logo_z7m3st_hl6dxp.avif",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/bropujss/image/upload/v1784182239/logo_z7m3st_hl6dxp.avif", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1a365d",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait"
+}

@@ -1,0 +1,525 @@
+[
+    {
+        "slug": "sap-btp",
+        "title": "SAP BTP",
+        "fullTitle": "SAP Business Technology Platform",
+        "category": "sap",
+        "duration": "8-10 weeks",
+        "price": {
+            "min": 45000,
+            "max": 120000
+        },
+        "prerequisites": "Basic SAP or cloud platform knowledge recommended",
+        "certification": "SAP Certified Associate - SAP Business Technology Platform",
+        "modules": [
+            "BTP Foundation",
+            "SAP Integration Suite",
+            "Extension Suite",
+            "SAP HANA Cloud",
+            "Security and Identity",
+            "Deployment and Monitoring"
+        ],
+        "jobRoles": [
+            "SAP BTP Consultant",
+            "SAP Integration Consultant",
+            "SAP Extension Developer",
+            "Cloud Platform Consultant",
+            "SAP Technical Consultant"
+        ],
+        "curriculum": [
+            {
+                "title": "SAP BTP FOUNDATION ",
+                "duration": "2 weeks",
+                "content": [
+                    "What is SAP Ecosystem (S/4HANA, ECC, Cloud)",
+                    "Need of SAP BTP in modern enterprises",
+                    "Cloud Computing Basics (IaaS, PaaS, SaaS)",
+                    "Hyperscalers: AWS, Azure, GCP overview",
+                    "SAP Clean Core Strategy (VERY IMPORTANT for 2026)"
+                ],
+                "tools": [
+                    "SAP",
+                    "Cloud"
+                ]
+            },
+            {
+                "title": "SAP BTP Overview",
+                "duration": "3 weeks",
+                "content": [
+                    "SAP BTP Architecture (Global Account → Subaccount → Space)",
+                    "Regions & Entitlements",
+                    "Service Marketplace & Service Plans"
+                ],
+                "tools": [
+                    "SAP",
+                    "Cloud"
+                ]
+            },
+            {
+                "title": "CLOUD FOUNDATIONS & DEVELOPMENT BASICS ",
+                "duration": "3 weeks",
+                "content": [
+                    "CF Architecture",
+                    "Org & Spaces",
+                    "Node.js fundamentals for SAP CAP",
+                    "Java basics (Spring Boot intro)",
+                    "Git Fundamentals (Clone, Commit, Push)"
+                ],
+                "tools": [
+                    "SAP",
+                    "Security"
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "sap-ehs",
+        "title": "SAP EHS",
+        "fullTitle": "SAP Environment, Health and Safety",
+        "category": "sap",
+        "duration": "8-10 weeks",
+        "price": {
+            "min": 40000,
+            "max": 110000
+        },
+        "prerequisites": "Basic understanding of business processes, compliance, or plant operations recommended",
+        "certification": "SAP EHS Functional Training Certificate",
+        "modules": [
+            "Product Safety",
+            "Dangerous Goods Management",
+            "Incident Management",
+            "Risk Assessment",
+            "Environmental Compliance",
+            "Occupational Health"
+        ],
+        "jobRoles": [
+            "SAP EHS Consultant",
+            "EHS Functional Consultant",
+            "Compliance Analyst",
+            "Safety Systems Consultant",
+            "SAP Functional Consultant"
+        ],
+        "curriculum": [
+            {
+                "title": "EHS Foundation",
+                "duration": "2 weeks",
+                "content": [
+                    "SAP & EHS FOUNDATION ",
+                    "Overview of ERP & Business Processes",
+                    "SAP Product Landscape",
+                    "ECC vs S/4HANA – Functional Differences",
+                    "SAP System Landscape (DEV / QAS / PRD)"
+                ],
+                "tools": [
+                    "SAP",
+                    "Security"
+                ]
+            },
+            {
+                "title": "ORGANIZATIONAL & MASTER DATA SETUP ",
+                "duration": "3 weeks",
+                "content": [
+                    "Company Code",
+                    "Work Areas & Locations",
+                    "Specification Category",
+                    "Identifiers & Numbers",
+                    "User Exits & Enhancements (Overview)"
+                ],
+                "tools": [
+                    "SAP",
+                    "Analytics"
+                ]
+            },
+            {
+                "title": "PRODUCT SAFETY & STEWARDSHIP",
+                "duration": "3 weeks",
+                "content": [
+                    "Dangerous Goods Overview",
+                    "Country-specific Regulations",
+                    "SDS Structure & Content",
+                    "SDS Versioning & Status Management",
+                    "UN Numbers & Packing Groups"
+                ],
+                "tools": [
+                    "SAP",
+                    "Security"
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "sap-grc",
+        "title": "SAP GRC",
+        "fullTitle": "SAP Governance, Risk and Compliance",
+        "category": "sap",
+        "duration": "8-10 weeks",
+        "price": {
+            "min": 45000,
+            "max": 125000
+        },
+        "prerequisites": "Basic SAP security, audit, or compliance knowledge recommended",
+        "certification": "SAP GRC Access Control and Process Control Training Certificate",
+        "modules": [
+            "Access Control",
+            "Risk Analysis",
+            "Emergency Access Management",
+            "Access Request Management",
+            "Process Control",
+            "Audit and Compliance"
+        ],
+        "jobRoles": [
+            "SAP GRC Consultant",
+            "SAP Security Consultant",
+            "Risk and Compliance Analyst",
+            "Access Control Consultant",
+            "IT Auditor"
+        ],
+        "curriculum": [
+            {
+                "title": "SAP & GRC FOUNDATION ",
+                "duration": "2 weeks",
+                "content": [
+                    "What is ERP?",
+                    "SAP ECC vs SAP S/4HANA",
+                    "Why GRC is required in organizations",
+                    "Segregation of Duties (SoD)",
+                    "Audit lifecycle"
+                ],
+                "tools": [
+                    "SAP",
+                    "Security"
+                ]
+            },
+            {
+                "title": "SAP GRC ARCHITECTURE ",
+                "duration": "3 weeks",
+                "content": [
+                    "SAP GRC Components",
+                    "GRC on S/4HANA Architecture",
+                    "Plug-in concepts (GRCPINW, GRCPIERP)",
+                    "GRC 10.1 vs 12.0 (latest)",
+                    "Risk Management (RM)"
+                ],
+                "tools": [
+                    "SAP",
+                    "Security"
+                ]
+            },
+            {
+                "title": "Process Control",
+                "duration": "3 weeks",
+                "content": [
+                    "Control testing",
+                    "Policy management",
+                    "Continuous control monitoring",
+                    "Audit trails",
+                    "Compliance reporting"
+                ],
+                "tools": [
+                    "SAP",
+                    "Analytics"
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "sap-ibp",
+        "title": "SAP IBP",
+        "fullTitle": "SAP Integrated Business Planning",
+        "category": "sap",
+        "duration": "8-10 weeks",
+        "price": {
+            "min": 45000,
+            "max": 125000
+        },
+        "prerequisites": "Basic supply chain planning or SAP logistics knowledge recommended",
+        "certification": "SAP Certified Application Associate - SAP IBP",
+        "modules": [
+            "Demand Planning",
+            "Supply Planning",
+            "S&OP",
+            "Inventory Optimization",
+            "Response and Supply",
+            "IBP Excel Add-in"
+        ],
+        "jobRoles": [
+            "SAP IBP Consultant",
+            "Supply Chain Planning Consultant",
+            "Demand Planner",
+            "S&OP Analyst",
+            "SAP Functional Consultant"
+        ],
+        "curriculum": [
+            {
+                "title": "IBP Foundation",
+                "duration": "2 weeks",
+                "content": [
+                    "Overview of SAP Ecosystem",
+                    "Evolution of Supply Chain Planning",
+                    "Traditional Planning vs Integrated Planning",
+                    "Business Scenarios in FMCG, Pharma, Retail, Manufacturing",
+                    "Traditional Planning vs Integrated Planning"
+                ],
+                "tools": [
+                    "SAP",
+                    "Analytics"
+                ]
+            },
+            {
+                "title": "SAP IBP DATA & MODELING ",
+                "duration": "3 weeks",
+                "content": [
+                    "Planning Areas & Planning Levels",
+                    "Time Profiles (Weekly, Monthly, Custom)",
+                    "Attributes & Master Data Types",
+                    "Key Figure Aggregation & Disaggregation",
+                    "SAP IBP Integration Options"
+                ],
+                "tools": [
+                    "SAP",
+                    "Analytics"
+                ]
+            },
+            {
+                "title": "IBP FOR DEMAND ",
+                "duration": "3 weeks",
+                "content": [
+                    "Historical Data Preparation",
+                    "Forecast Model Selection & Tuning",
+                    "Forecast Error Calculation (MAPE, MAD)",
+                    "Causal Factors (Price, Promotion, Events)",
+                    "Hands-on Demand Planning Project"
+                ],
+                "tools": [
+                    "SAP",
+                    "Cloud"
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "aws",
+        "title": "AWS",
+        "fullTitle": "Amazon Web Services Cloud Computing",
+        "category": "it",
+        "duration": "10-12 weeks",
+        "price": {
+            "min": 35000,
+            "max": 100000
+        },
+        "prerequisites": "Basic networking and operating system knowledge recommended",
+        "certification": "AWS Cloud Practitioner and Solutions Architect Associate Training Certificate",
+        "modules": [
+            "Cloud Foundations",
+            "EC2 and Compute",
+            "S3 and Storage",
+            "VPC Networking",
+            "IAM Security",
+            "RDS and Serverless"
+        ],
+        "jobRoles": [
+            "AWS Cloud Engineer",
+            "Cloud Support Associate",
+            "Solutions Architect",
+            "DevOps Engineer",
+            "Cloud Administrator"
+        ],
+        "curriculum": [
+            {
+                "title": "AWS Foundations",
+                "duration": "3 weeks",
+                "content": [
+                    "Cloud concepts",
+                    "AWS global infrastructure",
+                    "IAM users and policies",
+                    "EC2 instances",
+                    "S3 storage classes"
+                ],
+                "tools": [
+                    "AWS",
+                    "Cloud"
+                ]
+            },
+            {
+                "title": "Architecture and Networking",
+                "duration": "4 weeks",
+                "content": [
+                    "VPC design",
+                    "Subnets and route tables",
+                    "Load balancing",
+                    "Auto Scaling",
+                    "RDS and DynamoDB basics"
+                ],
+                "tools": [
+                    "AWS",
+                    "Security"
+                ]
+            },
+            {
+                "title": "Automation and Deployment",
+                "duration": "3 weeks",
+                "content": [
+                    "CloudFormation basics",
+                    "Lambda and API Gateway",
+                    "CloudWatch monitoring",
+                    "CI/CD with AWS services",
+                    "Cost optimization"
+                ],
+                "tools": [
+                    "AWS",
+                    "DevOps"
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "devops",
+        "title": "DevOps",
+        "fullTitle": "DevOps Engineering and CI/CD",
+        "category": "it",
+        "duration": "12-14 weeks",
+        "price": {
+            "min": 40000,
+            "max": 110000
+        },
+        "prerequisites": "Basic Linux, networking, and scripting knowledge recommended",
+        "certification": "DevOps Engineering Training Certificate",
+        "modules": [
+            "Linux and Git",
+            "Docker",
+            "Kubernetes",
+            "Jenkins CI/CD",
+            "Terraform",
+            "Monitoring"
+        ],
+        "jobRoles": [
+            "DevOps Engineer",
+            "Build and Release Engineer",
+            "Cloud DevOps Engineer",
+            "Site Reliability Engineer",
+            "Automation Engineer"
+        ],
+        "curriculum": [
+            {
+                "title": "DevOps Foundation",
+                "duration": "4 weeks",
+                "content": [
+                    "Linux essentials",
+                    "Git workflows",
+                    "Shell scripting",
+                    "Agile and DevOps culture",
+                    "CI/CD concepts"
+                ],
+                "tools": [
+                    "DevOps",
+                    "Cloud"
+                ]
+            },
+            {
+                "title": "Containers and Orchestration",
+                "duration": "4 weeks",
+                "content": [
+                    "Docker images and containers",
+                    "Docker Compose",
+                    "Kubernetes architecture",
+                    "Deployments and services",
+                    "Helm basics"
+                ],
+                "tools": [
+                    "DevOps",
+                    "Cloud"
+                ]
+            },
+            {
+                "title": "Automation and Observability",
+                "duration": "4 weeks",
+                "content": [
+                    "Jenkins pipelines",
+                    "Terraform infrastructure as code",
+                    "Ansible configuration",
+                    "Prometheus and Grafana",
+                    "Release strategies"
+                ],
+                "tools": [
+                    "DevOps",
+                    "Analytics"
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "ai-ml",
+        "title": "AIML",
+        "fullTitle": "Artificial Intelligence and Machine Learning",
+        "category": "it",
+        "duration": "14-16 weeks",
+        "price": {
+            "min": 50000,
+            "max": 140000
+        },
+        "prerequisites": "Basic Python and statistics knowledge recommended",
+        "certification": "AI and Machine Learning Professional Training Certificate",
+        "modules": [
+            "Python for AI",
+            "Statistics",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Model Deployment"
+        ],
+        "jobRoles": [
+            "AI Engineer",
+            "Machine Learning Engineer",
+            "Data Scientist",
+            "NLP Engineer",
+            "MLOps Engineer"
+        ],
+        "curriculum": [
+            {
+                "title": "AI Programming Foundation",
+                "duration": "4 weeks",
+                "content": [
+                    "Python for data science",
+                    "NumPy and Pandas",
+                    "Data visualization",
+                    "Statistics and probability",
+                    "Exploratory data analysis"
+                ],
+                "tools": [
+                    "AI",
+                    "Analytics"
+                ]
+            },
+            {
+                "title": "Machine Learning",
+                "duration": "5 weeks",
+                "content": [
+                    "Regression and classification",
+                    "Model evaluation",
+                    "Feature engineering",
+                    "Clustering",
+                    "Scikit-learn pipelines"
+                ],
+                "tools": [
+                    "AI",
+                    "Analytics"
+                ]
+            },
+            {
+                "title": "Deep Learning and Deployment",
+                "duration": "5 weeks",
+                "content": [
+                    "Neural networks",
+                    "TensorFlow and Keras",
+                    "NLP fundamentals",
+                    "Computer vision basics",
+                    "Model deployment and MLOps"
+                ],
+                "tools": [
+                    "AI",
+                    "DevOps"
+                ]
+            }
+        ]
+    }
+]

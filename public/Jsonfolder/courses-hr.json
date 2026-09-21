@@ -1,0 +1,1353 @@
+{
+    "hr-training": {
+        "title": "HR Training",
+        "fullTitle": "Human Resources Management Training",
+        "category": "hr",
+        "slug": "hr-training",
+        "description": "Master Human Resources Management in {city} with our comprehensive course. Learn recruitment, performance management, payroll, employee relations, and HR analytics. Our HR training in {city} offers hands-on experience with real HR scenarios, industry-relevant curriculum, and 100% placement support to help you build a successful career as an HR Professional.",
+        "metaTitle": "HR Training Course in {city} | Best HR Management Certification",
+        "metaDescription": "Master HR Management in {city}. Expert-led training in recruitment, payroll, performance management. Real projects, certification & 100% placement. Launch your HR career now!",
+        "duration": "3-6 months",
+        "price": {
+            "min": 40000,
+            "max": 90000
+        },
+        "modules": [
+            "Recruitment & Selection",
+            "Performance Management",
+            "Compensation & Benefits",
+            "Employee Relations",
+            "HR Analytics & Reporting",
+            "Payroll Management",
+            "Training & Development",
+            "Labor Law & Compliance",
+            "Organizational Behavior"
+        ],
+        "prerequisites": "Basic understanding of business operations and people management",
+        "certification": "Certified HR Professional",
+        "jobRoles": [
+            "HR Generalist",
+            "HR Specialist",
+            "HR Business Partner",
+            "HR Manager",
+            "Recruitment Specialist",
+            "Compensation Analyst",
+            "Training Coordinator",
+            "Employee Relations Manager"
+        ],
+        "header": "dsHeaderData['hrtraining']['HRTrainingHeader']",
+        "why": "whyData['Whyhr']['WhyHR']",
+        "modulesData": {
+            "title": "HR TRAINING CURRICULUM",
+            "tabs": [
+                {
+                    "type": "beginner",
+                    "duration": "3 Months",
+                    "modules": [
+                        {
+                            "title": "HR Fundamentals",
+                            "duration": "1 Month",
+                            "content": [
+                                "Introduction to Human Resources and its role in organizations",
+                                "HR functions and organizational structure",
+                                "Employment law basics and compliance requirements",
+                                "HR ethics and professional standards",
+                                "Understanding organizational behavior and culture",
+                                "HR metrics and key performance indicators"
+                            ]
+                        },
+                        {
+                            "title": "Recruitment & Selection",
+                            "duration": "1 Month",
+                            "content": [
+                                "Job analysis and job description creation",
+                                "Recruitment strategies and sourcing techniques",
+                                "Interview techniques and selection methods",
+                                "Background verification and reference checks",
+                                "Onboarding processes and orientation programs",
+                                "Diversity and inclusion in hiring practices"
+                            ]
+                        },
+                        {
+                            "title": "Employee Relations & Communication",
+                            "duration": "1 Month",
+                            "content": [
+                                "Employee engagement and satisfaction surveys",
+                                "Conflict resolution and mediation techniques",
+                                "Grievance handling and disciplinary procedures",
+                                "Internal communication strategies",
+                                "Employee feedback and performance discussions",
+                                "Workplace policies and procedure development"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "advanced",
+                    "duration": "6 Months",
+                    "modules": [
+                        {
+                            "title": "Performance Management Systems",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Performance appraisal methods and techniques",
+                                "Goal setting and performance planning",
+                                "360-degree feedback systems",
+                                "Performance improvement plans",
+                                "Career development and succession planning",
+                                "Performance management software and tools"
+                            ]
+                        },
+                        {
+                            "title": "Compensation & Benefits",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Salary structure design and job evaluation",
+                                "Market research and compensation benchmarking",
+                                "Incentive and bonus program development",
+                                "Benefits administration and management",
+                                "Payroll processing and compliance",
+                                "Total rewards strategy and communication"
+                            ]
+                        },
+                        {
+                            "title": "Training & Development",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Training needs analysis and assessment",
+                                "Learning and development program design",
+                                "Training delivery methods and techniques",
+                                "E-learning and digital training platforms",
+                                "Training evaluation and ROI measurement",
+                                "Leadership development and mentoring programs"
+                            ]
+                        },
+                        {
+                            "title": "HR Analytics & Strategic HR",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "HR data analysis and reporting",
+                                "Workforce planning and forecasting",
+                                "HR technology and HRIS systems",
+                                "Strategic HR planning and alignment",
+                                "Change management and organizational development",
+                                "HR project management and implementation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "descriptionContent": {
+            "title": "Why Choose Connecting Dots ERP for HR Training in {city}?",
+            "paragraphs": [
+                "Connecting Dots ERP offers a comprehensive HR Course in {city} designed to equip you with the essential skills and knowledge to succeed in the dynamic field of Human Resources. Our industry-focused curriculum covers a wide range of HR modules, including Recruitment and Selection, Performance Management, Compensation and Benefits, Employee Relations, and HR Analytics.",
+                "Expert Faculty: Our course is led by experienced HR professionals who bring real-world expertise to the classroom. They provide personalized mentorship and guidance, ensuring you gain a deep understanding of HR concepts.",
+                "Hands-On Learning: We believe in learning by doing. Our course offers practical, hands-on experience through real-world case studies, simulations, and projects. You'll have the opportunity to apply your knowledge to real-world scenarios, enhancing your problem-solving and decision-making skills.",
+                "Flexible Learning Options: We understand that everyone has different learning styles and schedules. Our flexible learning options, including online and classroom-based training, allow you to learn at your own pace and convenience."
+            ],
+            "listItem1Header": "What makes our HR training in {city} unique?",
+            "listItem1": [
+                "Comprehensive Curriculum: Our course covers all the essential aspects of HR, including strategic HR, operational HR, and transactional HR.",
+                "Industry-Relevant Skills: You'll develop the skills and knowledge needed to succeed in today's competitive HR landscape.",
+                "Certification and Recognition: Upon successful completion of the course, you'll receive a recognized certification that validates your HR expertise.",
+                "Networking Opportunities: Connect with fellow HR professionals and industry experts, expanding your professional network.",
+                "Job Placement Assistance: Our dedicated placement team works closely with leading organizations to help you secure your dream HR job.",
+                "Lifelong Learning: Our commitment to your success extends beyond the classroom with continuous learning opportunities."
+            ],
+            "listItemAfterIndex": 3,
+            "paragraphsAfterList": [
+                "By enrolling in our HR Training institute in {city}, you'll gain the confidence and skills to excel in your HR career. Whether you're a beginner or an experienced HR professional, our course will help you take your career to the next level.",
+                "Contact us to learn more about our HR Course in {city}, fees, and upcoming batches."
+            ],
+            "secondTitle": "What Will You Learn in the HR Training Program?",
+            "secondParagraphs": [
+                "HR Module Overview: In our HR Course in {city}, you will gain in-depth knowledge of key HR modules, including Recruitment and Selection, Performance Management, Compensation and Benefits, Employee Relations, and HR Analytics. This course will equip you with the skills to manage people effectively, optimize HR processes, and ensure compliance with labor laws.",
+                "HR System Configuration and Customization: Gain hands-on experience with HR Training institute in {city} in system configuration, learning how to customize HR applications to meet specific organizational needs. You will explore different transaction codes, configuration steps, and the integration of HR modules to optimize HR workflows.",
+                "HR Integration Across Modules: Learn how HR modules work together to streamline HR processes. Understand the integration points between Recruitment, Performance Management, Compensation and Benefits, and Employee Relations to ensure smooth data flow and consistency.",
+                "HR Certification and Placement Support: Upon completion of the course, you will be ready to take on roles such as HR Generalist, HR Specialist, HR Business Partner, or HR Manager. As part of our HR Course in {city} with placement support, we provide assistance in preparing for HR certification exams and offer job placement guidance."
+            ],
+            "highlights": [
+                "Expert Faculty",
+                "Hands-On Learning",
+                "Flexible Learning Options",
+                "Job Placement Assistance",
+                "Comprehensive Curriculum",
+                "Industry-Relevant Skills",
+                "Certification and Recognition",
+                "Networking Opportunities",
+                "Lifelong Learning",
+                "HR Module Overview"
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "video": "https://i.imgur.com/I7XKkrq.mp4",
+            "items": [
+                {
+                    "question": "Can I switch my career from any other domain to the HR field?",
+                    "answer": "Absolutely! Many individuals from diverse backgrounds successfully transition into HR careers. With the right training and skill development, you can make a successful career switch. Our HR Course in {city} is designed to equip you with the necessary knowledge and skills, regardless of your prior experience."
+                },
+                {
+                    "question": "Do you provide online HR training?",
+                    "answer": "Yes, we offer both online and offline HR training in {city}. Our online courses provide flexibility and convenience, allowing you to learn at your own pace. Our offline courses offer hands-on learning and personalized mentorship from experienced HR professionals."
+                },
+                {
+                    "question": "Do we get to work on live projects?",
+                    "answer": "Yes, our HR training in {city} includes practical, hands-on experience through live projects. These projects simulate real-world HR scenarios, allowing you to apply your knowledge and skills to real-world challenges."
+                },
+                {
+                    "question": "What kinds of batches are offered for trainees in HR training?",
+                    "answer": "We offer a variety of batch options to cater to different learning styles and schedules. You can choose from weekend batches, weekday batches, and online batches. Our flexible batch timings ensure that you can balance your training with your work and personal commitments."
+                },
+                {
+                    "question": "What are the chances of Job Placement following the conclusion of HR Training?",
+                    "answer": "We have a strong track record of successful placements. Our HR training institute in {city} provides job placement assistance to help you secure your dream HR job. We offer resume building workshops, mock interviews, and career counseling to prepare you for the job market."
+                }
+            ]
+        },
+        "defaultRating": 4.5,
+        "defaultReviewCount": 89,
+        "publishedAt": "2025-03-10T00:00:00Z",
+        "updatedAt": "2025-07-12T00:00:00Z",
+        "skills": [
+            {
+                "icon": "Users",
+                "title": "Complete HR Skill Set",
+                "description": "Gain a well-rounded foundation across Core HR, Generalist, Payroll and Analytics."
+            },
+            {
+                "icon": "ClipboardList",
+                "title": "Practical HR Processes",
+                "description": "Learn real-world HR processes used in recruitment, payroll and employee management."
+            },
+            {
+                "icon": "BarChart3",
+                "title": "HR Analytics Exposure",
+                "description": "Understand how data is used to improve HR decisions and workforce planning."
+            },
+            {
+                "icon": "Banknote",
+                "title": "Payroll & Compliance",
+                "description": "Get hands-on knowledge of payroll processing and statutory compliance."
+            },
+            {
+                "icon": "Target",
+                "title": "Performance & Talent",
+                "description": "Support performance management and talent development initiatives."
+            },
+            {
+                "icon": "Award",
+                "title": "Multiple Career Paths",
+                "description": "Prepare for roles across HR Generalist, Payroll, Recruitment and Analytics."
+            }
+        ]
+    },
+    "core-hr": {
+        "title": "Core HR",
+        "fullTitle": "Core Human Resources Management",
+        "category": "hr",
+        "slug": "core-hr",
+        "description": "Master Core HR fundamentals in {city} with our comprehensive course. Learn recruitment, payroll, employee relations, compliance, and HR operations. Our Core HR training in {city} offers hands-on experience with real HR scenarios, industry-relevant curriculum, and 100% placement support to help you build a successful career in Human Resources.",
+        "metaTitle": "Core HR Course in {city} | Best Core HR Training & Certification",
+        "metaDescription": "Master Core HR in {city}. Expert-led training in recruitment, payroll, compliance, employee relations. Real projects, certification & 100% placement. Launch your HR career now!",
+        "duration": "2-4 months",
+        "price": {
+            "min": 35000,
+            "max": 75000
+        },
+        "modules": [
+            "HR Fundamentals & Policies",
+            "Recruitment & Selection Process",
+            "Payroll Management & Processing",
+            "Employee Relations & Engagement",
+            "Labor Law & Compliance",
+            "Performance Management Basics",
+            "HR Documentation & Records",
+            "Employee Onboarding & Offboarding",
+            "HR Analytics & Reporting"
+        ],
+        "prerequisites": "Basic understanding of business operations and people management",
+        "certification": "Certified Core HR Professional",
+        "jobRoles": [
+            "HR Generalist",
+            "Recruitment Specialist",
+            "Payroll Officer",
+            "HR Compliance Manager",
+            "Employee Relations Coordinator",
+            "HR Assistant",
+            "HR Executive",
+            "Talent Acquisition Specialist"
+        ],
+        "header": "dsHeaderData['coreheader']['CoreHeader']",
+        "why": "whyData['Whycore']['WhyCORE']",
+        "modulesData": {
+            "title": "CORE HR CURRICULUM",
+            "tabs": [
+                {
+                    "type": "beginner",
+                    "duration": "2 Months",
+                    "modules": [
+                        {
+                            "title": "HR Fundamentals & Policies",
+                            "duration": "2 Weeks",
+                            "content": [
+                                "Introduction to Human Resources and organizational structure",
+                                "HR roles and responsibilities in modern organizations",
+                                "Understanding employment law basics and compliance",
+                                "HR policy development and implementation",
+                                "Employee handbook creation and management",
+                                "Workplace ethics and professional standards"
+                            ]
+                        },
+                        {
+                            "title": "Recruitment & Selection Process",
+                            "duration": "3 Weeks",
+                            "content": [
+                                "Job analysis and job description writing",
+                                "Recruitment strategies and sourcing techniques",
+                                "Interview planning and conducting effective interviews",
+                                "Selection methods and assessment techniques",
+                                "Background verification and reference checking",
+                                "Offer negotiation and onboarding preparation"
+                            ]
+                        },
+                        {
+                            "title": "Payroll Management & Processing",
+                            "duration": "3 Weeks",
+                            "content": [
+                                "Payroll fundamentals and statutory compliance",
+                                "Salary structure design and components",
+                                "Tax calculations and deductions",
+                                "Payroll software and processing systems",
+                                "Leave management and attendance tracking",
+                                "Payroll reporting and documentation"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "advanced",
+                    "duration": "4 Months",
+                    "modules": [
+                        {
+                            "title": "Employee Relations & Engagement",
+                            "duration": "1 Month",
+                            "content": [
+                                "Employee engagement strategies and measurement",
+                                "Conflict resolution and mediation techniques",
+                                "Grievance handling and disciplinary procedures",
+                                "Employee communication and feedback systems",
+                                "Workplace culture development",
+                                "Employee retention strategies"
+                            ]
+                        },
+                        {
+                            "title": "Labor Law & Compliance",
+                            "duration": "1 Month",
+                            "content": [
+                                "Employment laws and regulations overview",
+                                "Contract management and employment agreements",
+                                "Workplace safety and health compliance",
+                                "Anti-discrimination and harassment policies",
+                                "Labor relations and union management",
+                                "Legal documentation and record keeping"
+                            ]
+                        },
+                        {
+                            "title": "Performance Management & Development",
+                            "duration": "1 Month",
+                            "content": [
+                                "Performance appraisal systems and methods",
+                                "Goal setting and performance planning",
+                                "Performance improvement plans and coaching",
+                                "Career development and succession planning",
+                                "Training needs assessment and planning",
+                                "Employee development programs"
+                            ]
+                        },
+                        {
+                            "title": "HR Operations & Analytics",
+                            "duration": "1 Month",
+                            "content": [
+                                "HR information systems (HRIS) and technology",
+                                "HR metrics and key performance indicators",
+                                "Data analysis and reporting for HR decisions",
+                                "Workforce planning and forecasting",
+                                "HR project management and implementation",
+                                "Continuous improvement in HR processes"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "descriptionContent": {
+            "title": "Why Choose Connecting Dots ERP for Core HR Training in {city}?",
+            "paragraphs": [
+                "At Connecting Dots ERP, we offer an industry-focused Core HR training in {city} that provides a deep understanding of HR functions, including recruitment processes, employee management, payroll systems, and labor laws. Whether you are new to the HR field or looking to enhance your existing skills, our Core HR certification in {city} equips you with practical knowledge and hands-on experience to ensure you're ready for HR roles in today's dynamic business environment.",
+                "Our course not only covers theoretical principles but emphasizes real-world applications through case studies and practical exercises. You'll learn how to handle day-to-day HR operations, resolve employee issues, and manage payroll processes effectively. The Core HR course fees in {city} are competitively priced, ensuring access to high-quality training for learners from various backgrounds. We also provide flexible payment plans and financial assistance to make the program more accessible.",
+                "With mentorship from experienced HR professionals and a carefully crafted curriculum, you'll receive personalized guidance and support throughout your training. Our Core HR classes in {city} focus on hands-on learning, allowing you to apply HR strategies in realistic scenarios. From conducting interviews to managing compliance, you'll develop the expertise needed to meet the challenges of HR roles.",
+                "Additionally, our Core HR course emphasizes collaboration through group projects, problem-solving workshops, and simulation-based activities. These exercises help you hone teamwork and decision-making skills that are crucial in today's fast-paced HR environments. One of the key advantages of our program is the 100% placement assistance that we offer, providing you with career guidance, resume development, interview preparation, and job placement opportunities with top companies. Whether you aim to become an HR Generalist, Recruitment Specialist, or Payroll Officer, this course offers the skills, confidence, and placement support necessary to succeed in your HR career."
+            ],
+            "listItem1Header": "What makes our Core HR training in {city} unique?",
+            "listItem1": [
+                "Industry-focused curriculum covering recruitment, payroll, compliance, and employee management",
+                "Real-world applications through case studies and practical exercises",
+                "Competitively priced fees with flexible payment plans and financial assistance",
+                "Mentorship from experienced HR professionals with personalized guidance",
+                "Hands-on learning with realistic HR scenarios and simulation-based activities",
+                "100% placement assistance with career guidance and job placement opportunities"
+            ],
+            "listItemAfterIndex": 3,
+            "paragraphsAfterList": []
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "video": "https://i.imgur.com/I7XKkrq.mp4",
+            "items": [
+                {
+                    "question": "Who Should Join the Core HR Course in {city}?",
+                    "answer": "This course is ideal for aspiring HR professionals, recent graduates, working professionals looking to switch careers to HR, and existing HR employees who want to upgrade their skills in human resource management."
+                },
+                {
+                    "question": "What is the Mode of Training for the Core HR Course?",
+                    "answer": "The Core HR training in {city} is offered in both online and classroom formats, providing flexibility to accommodate the schedules of students, job seekers, and working professionals alike."
+                },
+                {
+                    "question": "What is the Fee Range for the Core HR Course in {city}?",
+                    "answer": "The fees for the Core HR course in {city} start from ₹35,000, depending on the course structure, certification level, and any additional resources provided, such as workshops or career counseling."
+                },
+                {
+                    "question": "Which Positions Can I Apply for After Completing the Course?",
+                    "answer": "Upon completing the Core HR certification in {city}, you can apply for positions such as HR Generalist, Recruitment Specialist, Payroll Manager, and HR Compliance Officer in various sectors."
+                },
+                {
+                    "question": "How Long Does It Take to Complete the Core HR Course in {city}?",
+                    "answer": "The Core HR course in {city} typically takes 2 to 4 months to complete, depending on your learning pace and the chosen training mode."
+                }
+            ]
+        },
+        "defaultRating": 4.4,
+        "defaultReviewCount": 76,
+        "publishedAt": "2025-03-15T00:00:00Z",
+        "updatedAt": "2025-07-13T00:00:00Z",
+        "skills": [
+            {
+                "icon": "Users",
+                "title": "Core HR Foundations",
+                "description": "Understand the fundamental people processes every organization runs."
+            },
+            {
+                "icon": "UserPlus",
+                "title": "Recruitment & Onboarding",
+                "description": "Manage hiring pipelines and create effective onboarding journeys."
+            },
+            {
+                "icon": "ClipboardList",
+                "title": "Employee Records & Administration",
+                "description": "Maintain accurate employee data and handle day-to-day HR operations."
+            },
+            {
+                "icon": "Banknote",
+                "title": "Payroll Support",
+                "description": "Support payroll inputs, validations and basic statutory compliance."
+            },
+            {
+                "icon": "Shield",
+                "title": "Policy & Compliance",
+                "description": "Apply HR policies and ensure basic legal compliance."
+            },
+            {
+                "icon": "Award",
+                "title": "HR Career Start",
+                "description": "Prepare for entry and mid-level Core HR and HR Executive roles."
+            }
+        ]
+    },
+    "hr-generalist": {
+        "title": "HR Generalist",
+        "fullTitle": "HR Generalist Training Program",
+        "category": "hr",
+        "slug": "hr-generalist",
+        "description": "Master HR Generalist skills in {city} with our comprehensive course. Learn recruitment, employee relations, payroll, performance management, and labor laws. Our HR Generalist training in {city} offers hands-on experience with real HR scenarios, industry-relevant curriculum, and 100% placement support to help you build a successful career as an HR Generalist.",
+        "metaTitle": "HR Generalist Course in {city} | Best HR Generalist Training",
+        "metaDescription": "Master HR Generalist skills in {city}. Expert-led training in recruitment, payroll, employee relations. Real projects, certification & 100% placement. Launch your HR career now!",
+        "duration": "2-4 months",
+        "price": {
+            "min": 40000,
+            "max": 80000
+        },
+        "modules": [
+            "Recruitment & Talent Acquisition",
+            "Employee Relations & Engagement",
+            "Payroll Management & Administration",
+            "Performance Management Systems",
+            "Labor Law & Compliance",
+            "Training & Development",
+            "HR Policies & Procedures",
+            "Employee Onboarding & Offboarding",
+            "HR Analytics & Reporting"
+        ],
+        "prerequisites": "Basic understanding of business operations and people management",
+        "certification": "Certified HR Generalist Professional",
+        "jobRoles": [
+            "HR Generalist",
+            "HR Coordinator",
+            "HR Executive",
+            "Talent Acquisition Specialist",
+            "Payroll Administrator",
+            "Employee Relations Specialist",
+            "HR Business Partner",
+            "Recruitment Specialist"
+        ],
+        "header": "dsHeaderData['genpage']['GENHeader']",
+        "why": "whyData['Whygen']['WhyGEN']",
+        "modulesData": {
+            "title": "HR GENERALIST CURRICULUM",
+            "tabs": [
+                {
+                    "type": "beginner",
+                    "duration": "2 Months",
+                    "modules": [
+                        {
+                            "title": "HR Fundamentals & Organization",
+                            "duration": "2 Weeks",
+                            "content": [
+                                "Introduction to Human Resources and organizational structure",
+                                "HR roles and responsibilities in modern organizations",
+                                "Understanding employment law basics and compliance requirements",
+                                "HR ethics and professional standards",
+                                "Organizational behavior and workplace culture",
+                                "HR metrics and performance indicators"
+                            ]
+                        },
+                        {
+                            "title": "Recruitment & Talent Acquisition",
+                            "duration": "3 Weeks",
+                            "content": [
+                                "Job analysis and competency-based job descriptions",
+                                "Recruitment strategies and multi-channel sourcing",
+                                "Interview techniques and behavioral assessment",
+                                "Selection methods and candidate evaluation",
+                                "Background verification and reference checking",
+                                "Offer negotiation and candidate experience management"
+                            ]
+                        },
+                        {
+                            "title": "Employee Relations & Engagement",
+                            "duration": "3 Weeks",
+                            "content": [
+                                "Employee engagement strategies and measurement tools",
+                                "Conflict resolution and mediation techniques",
+                                "Grievance handling and disciplinary procedures",
+                                "Employee communication and feedback systems",
+                                "Workplace culture development and team building",
+                                "Employee retention strategies and exit interviews"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "advanced",
+                    "duration": "4 Months",
+                    "modules": [
+                        {
+                            "title": "Performance Management & Development",
+                            "duration": "1 Month",
+                            "content": [
+                                "Performance appraisal systems and methodologies",
+                                "Goal setting and performance planning frameworks",
+                                "Performance improvement plans and coaching techniques",
+                                "Career development and succession planning",
+                                "Training needs assessment and learning programs",
+                                "360-degree feedback and continuous performance management"
+                            ]
+                        },
+                        {
+                            "title": "Payroll & Compensation Management",
+                            "duration": "1 Month",
+                            "content": [
+                                "Payroll processing and statutory compliance",
+                                "Salary structure design and job evaluation",
+                                "Benefits administration and total rewards",
+                                "Tax calculations and statutory deductions",
+                                "Payroll software and HRIS systems",
+                                "Compensation benchmarking and market analysis"
+                            ]
+                        },
+                        {
+                            "title": "Labor Law & Compliance",
+                            "duration": "1 Month",
+                            "content": [
+                                "Employment laws and regulatory compliance",
+                                "Contract management and employment agreements",
+                                "Workplace safety and health regulations",
+                                "Anti-discrimination and harassment policies",
+                                "Labor relations and union management",
+                                "Legal documentation and audit preparation"
+                            ]
+                        },
+                        {
+                            "title": "HR Analytics & Strategic Planning",
+                            "duration": "1 Month",
+                            "content": [
+                                "HR information systems and technology tools",
+                                "HR metrics, KPIs, and dashboard creation",
+                                "Workforce planning and forecasting",
+                                "Data analysis for HR decision making",
+                                "Strategic HR planning and business alignment",
+                                "Change management and organizational development"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "descriptionContent": {
+            "title": "Why Choose Connecting Dots ERP for HR Generalist Training in {city}?",
+            "paragraphs": [
+                "At Connecting Dots ERP, we offer an industry-focused HR Generalist course in {city} that provides a comprehensive understanding of Human Resource Management. This course is designed to equip you with essential HR skills, including recruitment, employee relations, payroll management, compliance with labor laws, and performance management. Whether you're new to the HR field or seeking to enhance your HR skills, our HR Generalist certification in {city} ensures that you become job-ready with both theoretical knowledge and practical applications.",
+                "Our HR Generalist classes in {city} emphasize hands-on learning through real-world HR projects and case studies, allowing you to apply HR principles in everyday business scenarios. From managing the recruitment process to developing HR policies and resolving employee conflicts, you'll gain practical experience that prepares you for the demands of HR roles in any organization. The HR Generalist course fees in {city} are structured to be affordable, ensuring accessibility to learners from diverse professional backgrounds. We also provide flexible payment options and financial assistance to make the course more accessible.",
+                "The course curriculum is carefully structured to provide mentorship from experienced HR professionals, giving you personalized guidance throughout your training. Alongside technical HR knowledge, the HR Generalist course in {city} promotes collaborative learning through group projects, case discussions, and problem-solving exercises. These activities help you develop essential skills such as teamwork, communication, and decision-making, which are critical in today's HR landscape."
+            ],
+            "listItem1Header": "What makes our HR Generalist training in {city} unique?",
+            "listItem1": [
+                "Comprehensive curriculum covering all key HR functions from recruitment to strategic planning",
+                "Hands-on learning through real-world HR projects and case studies",
+                "Affordable fees with flexible payment options and financial assistance",
+                "Mentorship from experienced HR professionals with personalized guidance",
+                "Collaborative learning through group projects and problem-solving exercises",
+                "100% placement assistance with career guidance and job placement opportunities"
+            ],
+            "listItemAfterIndex": 2,
+            "paragraphsAfterList": []
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "video": "https://i.imgur.com/I7XKkrq.mp4",
+            "items": [
+                {
+                    "question": "Who Should Join the HR Generalist Course in {city}?",
+                    "answer": "This course is ideal for aspiring HR professionals, fresh graduates, working professionals looking to switch careers to HR, and existing HR employees who want to enhance their knowledge and skills in HR management."
+                },
+                {
+                    "question": "What is the Mode of Training for the HR Generalist Course?",
+                    "answer": "The HR Generalist training in {city} is available in both online and classroom formats, offering flexibility for students and working professionals."
+                },
+                {
+                    "question": "What is the Fee Range for the HR Generalist Course in {city}?",
+                    "answer": "The fees for the HR Generalist course in {city} start from ₹40,000, depending on the course structure, additional workshops, and the resources provided."
+                },
+                {
+                    "question": "Which Positions Can I Apply for After Completing the Course?",
+                    "answer": "After completing the HR Generalist certification in {city}, you can apply for positions such as HR Generalist, HR Coordinator, Recruitment Specialist, Payroll Administrator, and HR Executive."
+                },
+                {
+                    "question": "How Long Does It Take to Complete the HR Generalist Course in {city}?",
+                    "answer": "The HR Generalist course in {city} typically takes 2 to 4 months to complete, depending on your pace and the mode of training chosen."
+                }
+            ]
+        },
+        "defaultRating": 4.6,
+        "defaultReviewCount": 92,
+        "publishedAt": "2025-03-20T00:00:00Z",
+        "updatedAt": "2025-07-14T00:00:00Z",
+        "skills": [
+            {
+                "icon": "Users",
+                "title": "HR Generalist Role Overview",
+                "description": "Understand the wide scope of responsibilities handled by an HR Generalist."
+            },
+            {
+                "icon": "UserPlus",
+                "title": "Recruitment & Onboarding",
+                "description": "Manage end-to-end hiring and create smooth onboarding experiences."
+            },
+            {
+                "icon": "ClipboardList",
+                "title": "Employee Lifecycle Management",
+                "description": "Handle day-to-day HR operations across the entire employee lifecycle."
+            },
+            {
+                "icon": "Banknote",
+                "title": "Payroll & Compliance Support",
+                "description": "Support payroll processing and ensure basic statutory compliance."
+            },
+            {
+                "icon": "HeartPulse",
+                "title": "Employee Engagement",
+                "description": "Design initiatives that improve culture, engagement and retention."
+            },
+            {
+                "icon": "Award",
+                "title": "All-Round HR Readiness",
+                "description": "Become job-ready for HR Generalist, HR Executive and Coordinator roles."
+            }
+        ]
+    },
+    "hr-analytics": {
+        "title": "HR Analytics",
+        "fullTitle": "HR Analytics & People Data Science",
+        "category": "hr",
+        "slug": "hr-analytics",
+        "description": "Master HR Analytics in {city} with our comprehensive course. Learn workforce data analysis, predictive modeling, employee metrics, and data-driven HR decision making. Our HR Analytics training in {city} offers hands-on experience with real HR datasets, industry-relevant curriculum, and 100% placement support to help you build a successful career in People Analytics.",
+        "metaTitle": "HR Analytics Course in {city} | Best People Analytics Training",
+        "metaDescription": "Master HR Analytics in {city}. Expert-led training in workforce data, predictive modeling, employee metrics. Real projects, certification & 100% placement. Launch your analytics career now!",
+        "duration": "3-5 months",
+        "price": {
+            "min": 50000,
+            "max": 100000
+        },
+        "modules": [
+            "HR Data Analysis & Metrics",
+            "Workforce Analytics & Reporting",
+            "Predictive Modeling in HR",
+            "Employee Performance Analytics",
+            "Recruitment & Talent Analytics",
+            "Retention & Engagement Analysis",
+            "Compensation Analytics",
+            "HR Dashboard Development",
+            "Statistical Analysis for HR"
+        ],
+        "prerequisites": "Basic understanding of HR processes and data analysis concepts",
+        "certification": "Certified HR Analytics Professional",
+        "jobRoles": [
+            "HR Analyst",
+            "People Analytics Specialist",
+            "Workforce Planning Analyst",
+            "HR Business Partner",
+            "Talent Management Analyst",
+            "HR Data Scientist",
+            "Compensation Analyst",
+            "Employee Insights Analyst"
+        ],
+        "header": "dsHeaderData['anapage']['ANAHeader']",
+        "why": "whyData['Whyana']['WhyANA']",
+        "modulesData": {
+            "title": "HR ANALYTICS CURRICULUM",
+            "tabs": [
+                {
+                    "type": "beginner",
+                    "duration": "3 Months",
+                    "modules": [
+                        {
+                            "title": "HR Analytics Fundamentals",
+                            "duration": "1 Month",
+                            "content": [
+                                "Introduction to HR Analytics and its business impact",
+                                "Understanding HR data types and sources",
+                                "Key HR metrics and KPIs for analysis",
+                                "Data collection methods and best practices",
+                                "Statistical concepts for HR professionals",
+                                "Introduction to HR analytics tools and software"
+                            ]
+                        },
+                        {
+                            "title": "Data Analysis Tools & Techniques",
+                            "duration": "1 Month",
+                            "content": [
+                                "Excel for HR data analysis and visualization",
+                                "Introduction to SQL for HR databases",
+                                "Statistical analysis using R or Python basics",
+                                "Data cleaning and preparation techniques",
+                                "Creating charts and graphs for HR insights",
+                                "Basic predictive modeling concepts"
+                            ]
+                        },
+                        {
+                            "title": "HR Metrics & Reporting",
+                            "duration": "1 Month",
+                            "content": [
+                                "Employee turnover analysis and prediction",
+                                "Recruitment metrics and efficiency analysis",
+                                "Performance management analytics",
+                                "Employee engagement measurement",
+                                "Compensation and benefits analysis",
+                                "Creating HR dashboards and reports"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "advanced",
+                    "duration": "5 Months",
+                    "modules": [
+                        {
+                            "title": "Advanced Workforce Analytics",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Advanced statistical methods for HR data",
+                                "Predictive modeling for employee retention",
+                                "Talent acquisition analytics and optimization",
+                                "Workforce planning and forecasting models",
+                                "Employee lifecycle analytics",
+                                "Advanced data visualization techniques"
+                            ]
+                        },
+                        {
+                            "title": "People Analytics Tools Mastery",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Advanced Excel and Power BI for HR analytics",
+                                "Tableau for HR dashboard development",
+                                "Python/R for advanced HR data science",
+                                "HRIS data extraction and analysis",
+                                "Machine learning applications in HR",
+                                "Automated reporting and alert systems"
+                            ]
+                        },
+                        {
+                            "title": "Strategic HR Analytics",
+                            "duration": "1 Month",
+                            "content": [
+                                "Business impact measurement of HR initiatives",
+                                "ROI analysis for HR programs and investments",
+                                "Diversity and inclusion analytics",
+                                "Employee experience and journey mapping",
+                                "Organizational network analysis",
+                                "Change management through data insights"
+                            ]
+                        },
+                        {
+                            "title": "Industry Projects & Case Studies",
+                            "duration": "1 Month",
+                            "content": [
+                                "Real-world HR analytics projects",
+                                "Industry-specific case study analysis",
+                                "Building comprehensive HR analytics solutions",
+                                "Presenting insights to stakeholders",
+                                "Creating actionable recommendations from data",
+                                "Portfolio development and career preparation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "descriptionContent": {
+            "title": "Why Choose Connecting Dots ERP for HR Analytics Training in {city}?",
+            "paragraphs": [
+                "At Connecting Dots ERP, we offer an industry-aligned HR Analytics course that covers all the key areas of data-driven HR management. The course provides practical, hands-on experience in using analytical tools and interpreting HR data. You'll learn how to leverage data for improving recruitment, employee engagement, performance management, and workforce planning.",
+                "Our HR Analytics training not only teaches you how to analyze HR data but also how to apply those insights to solve real-world HR challenges. We incorporate case studies, group projects, and simulation-based learning to ensure that you can confidently implement analytics in your HR role. The course fees are competitively priced, with flexible payment options and financial assistance available to make learning accessible.",
+                "With expert mentors guiding you throughout the program, you'll receive personalized support as you develop your skills. Our curriculum emphasizes both technical and practical skills, ensuring you are fully prepared to use HR Analytics tools and techniques to enhance HR operations. Additionally, We have HR Analytics training with 100% placement assistance, helping you with career guidance, resume development, and interview preparation to secure roles in leading organizations."
+            ],
+            "listItem1Header": "What makes our HR Analytics training in {city} unique?",
+            "listItem1": [
+                "Industry-aligned curriculum covering all key areas of data-driven HR management",
+                "Practical, hands-on experience with analytical tools and real HR datasets",
+                "Case studies, group projects, and simulation-based learning approach",
+                "Competitively priced fees with flexible payment options and financial assistance",
+                "Expert mentors providing personalized support throughout the program",
+                "100% placement assistance with career guidance and interview preparation"
+            ],
+            "listItemAfterIndex": 2,
+            "paragraphsAfterList": []
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "video": "https://i.imgur.com/I7XKkrq.mp4",
+            "items": [
+                {
+                    "question": "Who Should Join the HR Analytics Course in {city}?",
+                    "answer": "This course is ideal for HR professionals, business analysts, data analysts, and anyone interested in learning how to leverage data for improving HR processes and decision-making."
+                },
+                {
+                    "question": "What is the Mode of Training for the HR Analytics Course?",
+                    "answer": "The HR Analytics course in {city} is available in both online and classroom formats, providing flexibility to meet the needs of working professionals and students."
+                },
+                {
+                    "question": "What is the Fee Range for the HR Analytics training in {city}?",
+                    "answer": "The fees for the HR Analytics training in {city} start from ₹50,000, depending on the course level, additional workshops, and the resources provided."
+                },
+                {
+                    "question": "Which Positions Can I Apply for After Completing the Course?",
+                    "answer": "After completing the HR Analytics certification in {city}, you can apply for roles such as HR Analyst, People Analytics Specialist, Workforce Planning Analyst, and HR Business Partner."
+                },
+                {
+                    "question": "How Long Does It Take to Complete the HR Analytics Course in {city}?",
+                    "answer": "The HR Analytics course in {city} typically takes 3 to 5 months to complete, depending on your pace and the format of the training."
+                }
+            ]
+        },
+        "defaultRating": 4.5,
+        "defaultReviewCount": 89,
+        "publishedAt": "2025-03-10T00:00:00Z",
+        "updatedAt": "2025-07-12T00:00:00Z",
+        "skills": [
+            {
+                "icon": "BarChart3",
+                "title": "HR Analytics Fundamentals",
+                "description": "Understand how data analytics is applied to human resource processes."
+            },
+            {
+                "icon": "Users",
+                "title": "Workforce Metrics & KPIs",
+                "description": "Define and track key HR metrics for recruitment, retention and performance."
+            },
+            {
+                "icon": "TrendingUp",
+                "title": "Predictive HR Insights",
+                "description": "Use analytics to predict attrition, performance and hiring needs."
+            },
+            {
+                "icon": "PieChart",
+                "title": "HR Dashboards",
+                "description": "Build dashboards that give leaders clear visibility into people data."
+            },
+            {
+                "icon": "Database",
+                "title": "Data-Driven HR Decisions",
+                "description": "Turn HR data into actionable strategies for talent management."
+            },
+            {
+                "icon": "Award",
+                "title": "Career in People Analytics",
+                "description": "Prepare for HR Analyst and People Analytics Specialist roles."
+            }
+        ]
+    },
+    "hr-management": {
+        "title": "HR Management",
+        "fullTitle": "Human Resource Management",
+        "category": "hr",
+        "slug": "hr-management",
+        "description": "Master HR Management in {city} with our comprehensive course. Learn strategic HR planning, talent management, employee relations, performance management, and leadership development. Our HR Management training in {city} offers hands-on experience with real HR scenarios, industry-relevant curriculum, and 100% placement support to help you build a successful career as an HR Manager.",
+        "metaTitle": "HR Management Course in {city} | Best HR Management Training",
+        "metaDescription": "Master HR Management in {city}. Expert-led training in strategic HR, talent management, leadership. Real projects, certification & 100% placement. Launch your HR career now!",
+        "duration": "3-6 months",
+        "price": {
+            "min": 45000,
+            "max": 90000
+        },
+        "modules": [
+            "Strategic HR Planning",
+            "Talent Management & Development",
+            "Performance Management Systems",
+            "Employee Relations & Engagement",
+            "Compensation & Benefits Management",
+            "HR Analytics & Metrics",
+            "Leadership Development",
+            "Change Management",
+            "HR Compliance & Legal Issues"
+        ],
+        "prerequisites": "Basic understanding of business operations and management principles",
+        "certification": "Certified HR Management Professional",
+        "jobRoles": [
+            "HR Manager",
+            "HR Business Partner",
+            "Talent Management Specialist",
+            "Employee Relations Manager",
+            "HR Director",
+            "Organizational Development Manager",
+            "HR Consultant",
+            "People Operations Manager"
+        ],
+        "header": "dsHeaderData['manpage']['MANHeader']",
+        "why": "whyData['Whyman']['WhyMAN']",
+        "modulesData": {
+            "title": "HR MANAGEMENT CURRICULUM",
+            "tabs": [
+                {
+                    "type": "beginner",
+                    "duration": "3 Months",
+                    "modules": [
+                        {
+                            "title": "HR Fundamentals & Strategic Planning",
+                            "duration": "1 Month",
+                            "content": [
+                                "Introduction to Human Resource Management and its strategic role",
+                                "HR planning and workforce forecasting techniques",
+                                "Organizational structure and HR's role in business strategy",
+                                "HR metrics and key performance indicators",
+                                "Understanding employment law and compliance requirements",
+                                "HR ethics and professional standards in management"
+                            ]
+                        },
+                        {
+                            "title": "Talent Management & Development",
+                            "duration": "1 Month",
+                            "content": [
+                                "Talent acquisition strategies and recruitment planning",
+                                "Employee onboarding and orientation programs",
+                                "Training and development program design",
+                                "Career development and succession planning",
+                                "Leadership development and mentoring programs",
+                                "Employee engagement and retention strategies"
+                            ]
+                        },
+                        {
+                            "title": "Performance & Employee Relations",
+                            "duration": "1 Month",
+                            "content": [
+                                "Performance management systems and appraisal methods",
+                                "Goal setting and performance improvement planning",
+                                "Employee relations and conflict resolution",
+                                "Disciplinary procedures and grievance handling",
+                                "Team building and organizational culture development",
+                                "Communication strategies and feedback systems"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "advanced",
+                    "duration": "6 Months",
+                    "modules": [
+                        {
+                            "title": "Strategic HR Leadership",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Strategic HR planning and business alignment",
+                                "Change management and organizational transformation",
+                                "Leadership styles and management effectiveness",
+                                "Decision-making and problem-solving in HR",
+                                "Building high-performance teams and culture",
+                                "Executive coaching and leadership development"
+                            ]
+                        },
+                        {
+                            "title": "Compensation & Benefits Management",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Compensation strategy and salary structure design",
+                                "Job evaluation and market benchmarking",
+                                "Benefits administration and total rewards programs",
+                                "Incentive and bonus program development",
+                                "Equity and fairness in compensation practices",
+                                "Cost management and budget planning for HR"
+                            ]
+                        },
+                        {
+                            "title": "HR Analytics & Technology",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "HR information systems and technology implementation",
+                                "Data analytics for HR decision making",
+                                "Workforce analytics and predictive modeling",
+                                "HR dashboard creation and reporting",
+                                "Digital transformation in HR processes",
+                                "Automation and AI applications in HR"
+                            ]
+                        },
+                        {
+                            "title": "Advanced HR Strategy & Compliance",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Advanced employment law and regulatory compliance",
+                                "Risk management and HR audit processes",
+                                "Diversity, equity, and inclusion strategies",
+                                "Global HR management and cross-cultural considerations",
+                                "Mergers, acquisitions, and organizational restructuring",
+                                "Strategic HR consulting and advisory skills"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "descriptionContent": {
+            "title": "Why Choose Connecting Dots ERP for HR Management Training in {city}?",
+            "paragraphs": [
+                "At Connecting Dots ERP, we provide a thorough, industry-relevant HR Management training program in {city}. The course covers all facets of human resource management, from recruitment and employee development to compliance and performance evaluation. Whether you are a fresh graduate or an experienced professional looking to upskill, this HR Management certification in {city} will provide you with both theoretical knowledge and practical skills to thrive in today's dynamic HR environment.",
+                "Our HR Management classes in {city} emphasize real-world application through case studies, group projects, and interactive workshops. You'll gain insights into best practices in hiring, employee retention, and performance management, while also learning how to implement HR strategies that align with an organization's goals. The course fees are competitively priced, with flexible payment options available to ensure that learners from all backgrounds can access the training.",
+                "With mentorship from industry experts and an interactive curriculum, you will receive personalized guidance to ensure your success. Our hands-on training focuses on helping you understand and manage the complexities of human resource functions, from recruitment to conflict resolution. Additionally, our HR Management course with 100% placement assistance provides support in job searching, resume preparation, and interview skills to help you secure HR roles in top companies."
+            ],
+            "listItem1Header": "What makes our HR Management training in {city} unique?",
+            "listItem1": [
+                "Comprehensive curriculum covering strategic HR planning and leadership development",
+                "Real-world application through case studies, group projects, and interactive workshops",
+                "Competitively priced fees with flexible payment options for all backgrounds",
+                "Mentorship from industry experts with personalized guidance throughout",
+                "Hands-on training in complex HR functions from recruitment to conflict resolution",
+                "100% placement assistance with job search support and interview preparation"
+            ],
+            "listItemAfterIndex": 2,
+            "paragraphsAfterList": []
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "video": "https://i.imgur.com/I7XKkrq.mp4",
+            "items": [
+                {
+                    "question": "Who Should Join the HR Management Course in {city}?",
+                    "answer": "This course is ideal for aspiring HR professionals, current HR employees looking to upskill, recent graduates, and professionals wanting to switch to a career in Human Resource Management."
+                },
+                {
+                    "question": "What is the Mode of Training for the HR Management Course?",
+                    "answer": "The HR Management training in {city} is available in both online and classroom formats, offering flexibility to accommodate the needs of students, working professionals, and job seekers."
+                },
+                {
+                    "question": "What is the Fee Range for the HR Management Course in {city}?",
+                    "answer": "The fees for the HR Management course fees in {city} start from ₹45,000, depending on the course structure, duration, and additional resources like workshops or career support provided."
+                },
+                {
+                    "question": "Which Positions Can I Apply for After Completing the Course?",
+                    "answer": "Upon completing the HR Management certification in {city}, you can apply for roles such as HR Manager, HR Generalist, Talent Acquisition Specialist, Employee Relations Manager, and more."
+                },
+                {
+                    "question": "How Long Does It Take to Complete the HR Management Course in {city}?",
+                    "answer": "The HR Management course in {city} typically takes 3 to 6 months to complete, depending on your pace and the format of the training."
+                }
+            ]
+        },
+        "defaultRating": 4.5,
+        "defaultReviewCount": 89,
+        "publishedAt": "2025-03-10T00:00:00Z",
+        "updatedAt": "2025-07-12T00:00:00Z",
+        "skills": [
+            {
+                "icon": "Users",
+                "title": "HR Management Fundamentals",
+                "description": "Master the core functions of human resource management in modern organizations."
+            },
+            {
+                "icon": "UserPlus",
+                "title": "Talent Acquisition",
+                "description": "Learn end-to-end recruitment, selection and onboarding processes."
+            },
+            {
+                "icon": "Target",
+                "title": "Performance Management",
+                "description": "Design and implement performance appraisal and development systems."
+            },
+            {
+                "icon": "Banknote",
+                "title": "Compensation & Benefits",
+                "description": "Understand compensation structures, benefits and reward strategies."
+            },
+            {
+                "icon": "Shield",
+                "title": "Compliance & Employee Relations",
+                "description": "Handle labor laws, policies and positive employee relations."
+            },
+            {
+                "icon": "Award",
+                "title": "Leadership Readiness",
+                "description": "Build the skills needed for HR Manager and HR Business Partner roles."
+            }
+        ]
+    },
+    "hr-payroll": {
+        "title": "HR Payroll",
+        "fullTitle": "HR Payroll Management & Administration",
+        "category": "hr",
+        "slug": "hr-payroll",
+        "description": "Master HR Payroll management in {city} with our comprehensive course. Learn payroll processing, tax compliance, employee benefits, statutory deductions, and payroll software. Our HR Payroll training in {city} offers hands-on experience with real payroll scenarios, industry-relevant curriculum, and 100% placement support to help you build a successful career in payroll administration.",
+        "metaTitle": "HR Payroll Course in {city} | Best Payroll Management Training",
+        "metaDescription": "Master HR Payroll in {city}. Expert-led training in payroll processing, tax compliance, benefits administration. Real projects, certification & 100% placement. Launch your payroll career now!",
+        "duration": "3-5 months",
+        "price": {
+            "min": 40000,
+            "max": 85000
+        },
+        "modules": [
+            "Payroll Processing & Administration",
+            "Tax Compliance & Statutory Deductions",
+            "Employee Benefits Management",
+            "Payroll Software & HRIS Systems",
+            "Labor Law & Compliance",
+            "Compensation Structure Design",
+            "Payroll Accounting & Reporting",
+            "Employee Data Management",
+            "Audit & Risk Management"
+        ],
+        "prerequisites": "Basic understanding of HR processes and accounting principles",
+        "certification": "Certified HR Payroll Professional",
+        "jobRoles": [
+            "Payroll Specialist",
+            "HR Payroll Administrator",
+            "Payroll Compliance Officer",
+            "Compensation and Benefits Manager",
+            "Payroll Analyst",
+            "HRIS Administrator",
+            "Payroll Coordinator",
+            "Benefits Administrator"
+        ],
+        "header": "dsHeaderData['payrollmanpage']['PAYROLLHeader']",
+        "why": "whyData['Whypay']['WhyPAY']",
+        "modulesData": {
+            "title": "HR PAYROLL CURRICULUM",
+            "tabs": [
+                {
+                    "type": "beginner",
+                    "duration": "3 Months",
+                    "modules": [
+                        {
+                            "title": "Payroll Fundamentals & Processing",
+                            "duration": "1 Month",
+                            "content": [
+                                "Introduction to payroll management and its importance in HR",
+                                "Understanding payroll cycles and processing timelines",
+                                "Employee data collection and verification procedures",
+                                "Basic salary calculations and wage structures",
+                                "Time and attendance tracking systems",
+                                "Payroll documentation and record keeping requirements"
+                            ]
+                        },
+                        {
+                            "title": "Tax Compliance & Statutory Deductions",
+                            "duration": "1 Month",
+                            "content": [
+                                "Income tax calculations and TDS procedures",
+                                "Provident Fund (PF) and Employee State Insurance (ESI) compliance",
+                                "Professional tax and other statutory deductions",
+                                "Form 16 generation and tax filing procedures",
+                                "Annual tax planning and investment declarations",
+                                "Compliance with labor laws and tax regulations"
+                            ]
+                        },
+                        {
+                            "title": "Benefits Administration & Reporting",
+                            "duration": "1 Month",
+                            "content": [
+                                "Employee benefits management and administration",
+                                "Leave management and leave encashment calculations",
+                                "Bonus and incentive calculations",
+                                "Reimbursement processing and expense management",
+                                "Payroll reporting and MIS generation",
+                                "Basic payroll software operations and data entry"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "advanced",
+                    "duration": "5 Months",
+                    "modules": [
+                        {
+                            "title": "Advanced Payroll Systems & Software",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Advanced HRIS and payroll software management",
+                                "Payroll system configuration and customization",
+                                "Integration of payroll with other HR modules",
+                                "Automated payroll processing and workflow management",
+                                "Data migration and system implementation",
+                                "Troubleshooting and system maintenance procedures"
+                            ]
+                        },
+                        {
+                            "title": "Compensation Design & Structure",
+                            "duration": "1.5 Months",
+                            "content": [
+                                "Salary structure design and job evaluation methods",
+                                "Variable pay and performance-based compensation",
+                                "Executive compensation and stock option plans",
+                                "Cost-to-company (CTC) calculations and breakdowns",
+                                "Compensation benchmarking and market analysis",
+                                "Total rewards strategy and implementation"
+                            ]
+                        },
+                        {
+                            "title": "Payroll Compliance & Risk Management",
+                            "duration": "1 Month",
+                            "content": [
+                                "Advanced labor law compliance and regulatory updates",
+                                "Payroll audit procedures and internal controls",
+                                "Risk assessment and mitigation strategies",
+                                "Handling payroll disputes and grievances",
+                                "Data security and confidentiality in payroll",
+                                "Multi-location and multi-state payroll compliance"
+                            ]
+                        },
+                        {
+                            "title": "Analytics & Strategic Payroll Management",
+                            "duration": "1 Month",
+                            "content": [
+                                "Payroll analytics and cost analysis",
+                                "Budgeting and forecasting for payroll expenses",
+                                "ROI analysis for payroll investments",
+                                "Strategic payroll planning and optimization",
+                                "Vendor management for payroll outsourcing",
+                                "Change management in payroll processes"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "descriptionContent": {
+            "title": "Why Choose Connecting Dots ERP for HR Payroll Training in {city}?",
+            "paragraphs": [
+                "At Connecting Dots ERP, we offer an in-depth, industry-focused HR Payroll training program in {city}. It covers all aspects of payroll management, from processing salaries and deductions to handling payroll compliance and benefits administration. Whether you're new to the field or looking to upgrade your current skills, our HR Payroll certification in {city} offers hands-on experience and a solid foundation in payroll systems, labor law compliance, and HR software.",
+                "Our course not only emphasizes theoretical knowledge but also integrates real-world applications through practical exercises and case studies. You'll learn how to handle payroll software, comply with legal requirements, and ensure accurate, timely payroll processing. The HR Payroll course fees in {city} are structured to be affordable, with flexible payment options and financial assistance available to ensure learners from all backgrounds can access high-quality training.",
+                "With the guidance of experienced HR professionals and a meticulously designed curriculum, you'll receive personalized support throughout your learning journey. Our HR Payroll classes in {city} focus on practical applications, allowing you to manage payroll systems and resolve payroll-related issues efficiently. From processing paychecks to understanding tax laws, you will be equipped with the expertise to meet the demands of modern payroll roles.",
+                "Moreover, our program emphasizes teamwork and collaborative learning through group projects, simulations, and problem-solving workshops. These activities help build your decision-making and critical thinking skills—key traits in today's fast-paced HR environments. A standout feature of our HR Payroll training with 100% placement assistance, providing you with career guidance, resume preparation, and interview coaching, as well as direct placement opportunities with leading companies. Whether you're aiming to become a Payroll Specialist or a Compensation and Benefits Manager, this course offers the knowledge, skills, and placement support to help you achieve success in the HR payroll field."
+            ],
+            "listItem1Header": "What makes our HR Payroll training in {city} unique?",
+            "listItem1": [
+                "In-depth, industry-focused curriculum covering all aspects of payroll management",
+                "Real-world applications through practical exercises and case studies",
+                "Affordable fees with flexible payment options and financial assistance",
+                "Personalized support from experienced HR professionals throughout the journey",
+                "Focus on practical applications for managing payroll systems efficiently",
+                "100% placement assistance with career guidance and interview coaching"
+            ],
+            "listItemAfterIndex": 3,
+            "paragraphsAfterList": []
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "video": "https://i.imgur.com/I7XKkrq.mp4",
+            "items": [
+                {
+                    "question": "Who Should Join the HR Payroll Course in {city}?",
+                    "answer": "This course is ideal for HR professionals, accountants, finance personnel, and anyone interested in specializing in payroll management or advancing their skills in payroll processing."
+                },
+                {
+                    "question": "What is the Mode of Training for the HR Payroll Course?",
+                    "answer": "The HR Payroll training in {city} is available in both online and classroom formats, offering flexibility for students, working professionals, and job seekers."
+                },
+                {
+                    "question": "What is the Fee Range for the HR Payroll Course in {city}?",
+                    "answer": "The fees for the HR Payroll course in {city} start from ₹40,000, depending on the course structure, certification level, and additional resources provided, such as workshops and job support."
+                },
+                {
+                    "question": "Which Positions Can I Apply for After Completing the Course?",
+                    "answer": "After completing the HR Payroll certification in {city}, you can apply for positions such as Payroll Specialist, Payroll Administrator, Compensation and Benefits Manager, and Payroll Compliance Officer."
+                },
+                {
+                    "question": "How Long Does It Take to Complete the HR Payroll Course in {city}?",
+                    "answer": "The HR Payroll course in {city} typically takes 3 to 5 months to complete, depending on your learning pace and the training format chosen."
+                }
+            ]
+        },
+        "defaultRating": 4.7,
+        "defaultReviewCount": 78,
+        "publishedAt": "2025-04-05T00:00:00Z",
+        "updatedAt": "2025-07-12T00:00:00Z",
+        "skills": [
+            {
+                "icon": "Banknote",
+                "title": "Payroll Fundamentals",
+                "description": "Understand the complete payroll cycle from inputs to final payments."
+            },
+            {
+                "icon": "Calculator",
+                "title": "Salary Structure & Calculations",
+                "description": "Configure salary components, deductions and statutory calculations."
+            },
+            {
+                "icon": "FileText",
+                "title": "Compliance & Statutory Filings",
+                "description": "Handle PF, ESI, professional tax, TDS and other statutory requirements."
+            },
+            {
+                "icon": "Database",
+                "title": "Payroll Systems & Software",
+                "description": "Work with modern payroll systems and maintain accurate employee records."
+            },
+            {
+                "icon": "Shield",
+                "title": "Audit & Error Handling",
+                "description": "Identify, resolve and prevent common payroll errors and discrepancies."
+            },
+            {
+                "icon": "Award",
+                "title": "Career in Payroll",
+                "description": "Prepare for Payroll Specialist, HR Payroll Executive and related roles."
+            }
+        ]
+    }
+}

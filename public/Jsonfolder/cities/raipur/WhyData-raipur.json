@@ -1,0 +1,412 @@
+{
+  "Whyda": {
+    "WhyDA": {
+      "title": "Why Data Analytics with AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Data Analytics with AI?</span>",
+          "content": "Data is growing faster than most businesses can handle, and companies in Raipur and across India are actively hiring people who can read that data and turn it into decisions. That is exactly why this Data Analytics with Gen AI course in Raipur was built not as another theory-heavy program, but as a hands-on course that mixes classic data analytics skills with the newest Generative AI tools that are changing how analysts work."
+        },
+        {
+          "title": "What skills will you gain?",
+          "content": "Over the duration of this course, you will learn how to collect, clean, analyze, and visualize data using tools like Excel, SQL, Power BI, Tableau, and Python. Alongside this, you will also learn how to use Generative AI tools such as ChatGPT, Copilot, and AI-based analytics assistants to speed up reporting, automate repetitive tasks, and generate insights faster than traditional methods allow.",
+          "listItems": [
+            "Excel, SQL, Python, Power BI & Tableau",
+            "Statistics, basic ML & AI-assisted workflows",
+            "Portfolio project + stakeholder storytelling"
+          ]
+        },
+        {
+          "title": "Who is this course designed for?",
+          "content": "This is not a course that only talks about data analytics in theory. You will work on real datasets, real business problems, and real dashboards from day one. By the end of the program, you will have a portfolio of projects, a strong understanding of how Generative AI fits into modern analytics, and the confidence to apply for analyst roles in Raipur’s growing data industry.",
+          "listItems": [
+            "Freshers & career switchers",
+            "Working professionals adding analytics + AI",
+            "Raipur learners who want classroom or hybrid batches"
+          ]
+        }
+      ]
+    }
+  },
+  "Whydatavisual": {
+    "WhyDataVisual": {
+      "title": "Why Data Visualization with AI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Data Visualization with AI?</span>",
+          "content": "Raipur's job market is changing fast, and companies across IT, finance, retail, and healthcare are now hiring people who can not only collect data but also explain it clearly through visuals. This Data Visualization with AI course in Raipur was built for exactly that shift."
+        },
+        {
+          "title": "What will you be able to do?",
+          "content": "Over the duration of the program, you'll learn how to clean and structure data, build interactive dashboards, and use artificial intelligence tools to generate insights faster than traditional methods allow. Instead of long theory lectures, the course is built around hands-on projects using real datasets, sales numbers, survey data, marketing reports, and more.",
+          "listItems": [
+            "Power BI, Tableau, Excel & Python visuals",
+            "Chart selection, storytelling & AI-assisted workflows",
+            "Portfolio-ready dashboards"
+          ]
+        },
+        {
+          "title": "Who should join?",
+          "content": "By the end, you won't just know how to make a chart. You'll know how to choose the right chart, tell a clear story with it, and use AI to speed up the entire process, a skill set that's now expected in almost every data-related job in Raipur and beyond. Whether you're a fresher trying to break into analytics, a working professional wanting to upskill, or a business owner who wants to understand your own data better, this course meets you where you are.",
+          "listItems": [
+            "Professionals adding data storytelling skills",
+            "Freshers targeting BI or analytics roles",
+            "Anyone ready to move beyond basic charts"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypowerbi": {
+    "WhyPOWERBI": {
+      "title": "Why Power BI?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Power BI?</span>",
+          "content": "Data is everywhere, but very few professionals in Raipur know how to actually read it and use it to make decisions. That gap is exactly why this Power BI course exists."
+        },
+        {
+          "title": "What will you master?",
+          "content": "This isn't a course where you just watch someone click buttons on a screen. You'll work with real datasets, sales numbers, HR records, marketing spends, and finance sheets, the same kind of data you'd handle in an actual job. By the end, you'll be comfortable connecting data sources, cleaning messy data with Power Query, writing DAX formulas, and building dashboards that people actually want to look at.",
+          "listItems": [
+            "Power Query, data modeling & DAX",
+            "Interactive dashboards & storytelling",
+            "Publishing, security & PL-300 readiness"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "This Power BI training in Raipur is designed for people who want a practical skill they can use immediately, not just a certificate to keep in a folder. Classes are kept small so every learner gets personal attention, and every concept is taught with a live business example rather than just theory.",
+          "listItems": [
+            "Excel users & reporting professionals",
+            "Freshers & career switchers",
+            "Anyone targeting Power BI or BI analyst roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whytableau": {
+    "WhyTABLEAU": {
+      "title": "Why Tableau?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Tableau?</span>",
+          "content": "If you're searching for a reliable Tableau course in Raipur, this program is built to take you from zero dashboard experience to confidently presenting business insights using real data."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Tableau Developer</span> do?",
+          "content": "Tableau has become one of the most in-demand business intelligence tools across industries — from banking and healthcare to retail and logistics. Companies today don't just want people who can read data; they want people who can visualize it, question it, and tell a story with it. That's exactly what this Tableau training in Raipur is built around.",
+          "listItems": [
+            "Create and manage Tableau dashboards",
+            "Collaborate with teams to gather requirements",
+            "Ensure data accuracy and consistency in reports"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Tableau</span> training in Raipur?",
+          "content": "Over the course of this program, you'll move from the basics of connecting data sources, to building calculated fields, to designing full interactive dashboards that a manager could actually use in a Monday morning review. We keep theory light and practice heavy — every concept is taught through a real dataset, not slides. By the end, you won't just know Tableau. You'll know how to think like an analyst.",
+          "listItems": [
+            "Tableau Developer",
+            "Data Analyst",
+            "Business Intelligence Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyjava": {
+    "WhyJava": {
+      "title": "Why Java ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Java Development?</span>",
+          "content": "Java isn't going anywhere. It still powers a massive share of enterprise software, Android apps, banking systems, and backend services across the world and companies in Raipur and beyond are constantly on the lookout for developers who actually know how to use it, not just talk about it."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Java Developer</span> do?",
+          "content": "This Java course in Raipur is built for people who want more than theory. Whether you're a fresher trying to land your first tech job, a college student who wants to stand out, or a working professional planning a switch into development, this program takes you from the absolute basics of Java syntax all the way to building complete, working applications.",
+          "listItems": [
+            "Design and develop Java applications",
+            "Maintain and optimize existing systems",
+            "Ensure strong performance and scalability"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Java</span> training?",
+          "content": "You won't just watch slides. You'll write code every single day, debug real errors, work on mini-projects, and finish with a portfolio you can actually show in interviews. Our trainers have sat on the other side of the interview table too so they know exactly what recruiters in Raipur's growing IT sector are looking for.",
+          "listItems": [
+            "Java Developer",
+            "Software Engineer",
+            "Backend Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyaws": {
+    "WhyAWS": {
+      "title": "Why AWS?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">AWS?</span>",
+          "content": "Amazon Web Services (AWS) powers a large share of the world's cloud infrastructure, and companies across India are actively hiring professionals who understand how to design, deploy, and manage applications on it. This AWS course in Raipur is built to take you from the basics of cloud computing to advanced concepts like networking, security, storage, and automation on AWS."
+        },
+        {
+          "title": "What will you master in this <span class=\"highlight-span-cards\">AWS course</span>?",
+          "content": "Whether you are a student, a working IT professional, or someone switching careers into cloud computing, this course gives you practical, job-ready skills. You will work on live AWS environments, not just slides and theory. Every module is followed by hands-on labs so you actually build the skills employers expect, not just read about them.",
+          "listItems": [
+            "EC2, S3, IAM, VPC, RDS, Lambda & more",
+            "Hands-on labs + real cloud deployments",
+            "Certification readiness + job-ready skills"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "By the end of this AWS training in Raipur, you will be able to set up cloud infrastructure, manage servers and storage, secure your environment, and confidently appear for AWS certification exams.",
+          "listItems": [
+            "Freshers & engineering graduates",
+            "IT professionals upskilling to cloud",
+            "Anyone targeting Cloud / DevOps roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whydevops": {
+    "WhyDEVOPS": {
+      "title": "Why DevOps?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">DevOps?</span>",
+          "content": "Raipur's IT and startup ecosystem is expanding fast, and companies across Chhattisgarh and beyond are actively hiring skilled DevOps professionals who can bridge development and operations. This DevOps course in Raipur is designed to take you from the fundamentals of Linux and networking to advanced automation, containerization, and cloud deployment."
+        },
+        {
+          "title": "What will you master in this <span class=\"highlight-span-cards\">DevOps course</span>?",
+          "content": "Whether you are a fresher, a software developer, or a system administrator planning a career switch, this course builds your skills step by step. You will work on real-world projects, set up CI/CD pipelines from scratch, deploy applications on the cloud, and learn to automate infrastructure the way it is done in modern tech companies.",
+          "listItems": [
+            "Linux, Git, Jenkins, Docker, Kubernetes",
+            "Terraform, Ansible, CI/CD & monitoring",
+            "Live projects + interview-ready portfolio"
+          ]
+        },
+        {
+          "title": "Who is this course for?",
+          "content": "By the end of this training, you won't just understand DevOps concepts you will have hands-on experience that you can confidently talk about in interviews and apply directly on the job.",
+          "listItems": [
+            "Freshers & recent graduates",
+            "Sysadmins & developers upskilling",
+            "Working professionals targeting DevOps roles"
+          ]
+        }
+      ]
+    }
+  },
+  "Whysales": {
+    "WhySales": {
+      "title": "Why Salesforce ?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">Salesforce Development?</span>",
+          "content": "Salesforce is one of the fastest-growing CRM platforms in the world, and the demand for skilled professionals is rising sharply across India including right here in Raipur. This Salesforce course in Raipur is designed for freshers, working professionals, and career switchers who want to build a strong foundation in CRM, cloud computing, and business automation."
+        },
+        {
+          "title": "What does a <span class=\"highlight-span-cards\">Salesforce Developer</span> do?",
+          "content": "Through this Salesforce training in Raipur, you'll learn everything from the basics of CRM to advanced Salesforce Administrator and Developer concepts. The course combines live instructor-led sessions, real-world case studies, and hands-on practice on the Salesforce platform, so you walk away job-ready not just certificate-ready.",
+          "listItems": [
+            "Develop custom Salesforce applications",
+            "Integrate Salesforce with other systems",
+            "Customize platform functionalities"
+          ]
+        },
+        {
+          "title": "Why take <span class=\"highlight-span-cards\">Salesforce</span> training?",
+          "content": "Whether you're aiming for a role as a Salesforce Administrator, Business Analyst, or Developer, this program gives you the practical skills and confidence to start your career in the Salesforce ecosystem.",
+          "listItems": [
+            "Salesforce Administrator",
+            "CRM Consultant",
+            "Salesforce Business Analyst",
+            "Salesforce Developer"
+          ]
+        }
+      ]
+    }
+  },
+  "Whycore": {
+    "WhyCORE": {
+      "title": "Why HR Core?",
+      "cards": [
+        {
+          "title": "What is  <span class=\"highlight-span-cards\">Core HR</span>?",
+          "content": "Human Resource is no longer just about maintaining files and attendance registers  it's about people, culture, and business growth. If you are searching for a genuine Core HR Course in Raipur, this program is designed to take you from zero HR knowledge to a confident HR executive who can handle real-world responsibilities from day one."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">an HR</span> Do?",
+          "content": "This Core HR Course in Raipur covers everything a company expects from an entry-level or mid-level HR professional recruitment, onboarding, payroll processing, statutory compliance, performance management, and employee engagement. Unlike generic online courses, our sessions are conducted by trainers who have actually worked in HR departments of mid-size and large organizations.",
+          "listItems": [
+            "Manage recruitment and onboarding",
+            "Handle payroll and employee records",
+            "Ensure compliance and support employee relations"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR</span> Training?",
+          "content": "Whether you are a fresh graduate, an experienced admin executive looking to shift into HR, or someone restarting your career after a break, this HR course in Raipur is structured to match your pace and your goals.",
+          "listItems": [
+            "HR Generalist",
+            "Recruitment Specialist",
+            "Payroll Officer",
+            "HR Compliance Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyman": {
+    "WhyMAN": {
+      "title": "Why HR Management?",
+      "cards": [
+        {
+          "title": "What is  <span class=\"highlight-span-cards\">HR Management</span>?",
+          "content": "HR is no longer just about paperwork and interviews — it's about people strategy, compliance, technology, and data. This HR Management Course in Raipur is designed to take you from the basics of human resources to the practical skills companies actually look for."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Management</span> Do?",
+          "content": "Over the course of this program, you will work on live case studies, mock interviews, payroll sheets, and real HR software tools used by companies in Raipur and beyond. You won't just learn what HR *is* — you'll learn how HR *works* on the ground: how to hire the right candidate, how to run payroll without errors, how to handle a workplace conflict, and how to stay compliant with Indian labour laws.",
+          "listItems": [
+            "Lead recruitment and talent development",
+            "Manage performance and employee relations",
+            "Design HR policies and strategies"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Management</span> Training?",
+          "content": "This course is ideal if you're a graduate exploring your first job, an admin or operations employee planning to move into HR, or a working HR executive who wants to formalize your skills with a proper certification. By the end, you'll have a portfolio of HR documents, policies, and projects you can show in any interview.",
+          "listItems": [
+            "HR Manager",
+            "HR Generalist",
+            "Talent Acquisition Specialist",
+            "Employee Relations Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whypay": {
+    "WhyPAY": {
+      "title": "Why HR Payroll?",
+      "cards": [
+        {
+          "title": "What is <span class=\"highlight-span-cards\">HR Payroll</span>?",
+          "content": "Payroll is the backbone of every organisation, and skilled payroll professionals are always in demand. Our HR Payroll Course in Raipur is designed to take you from the basics of human resources to the finer details of salary structuring, tax deduction, and compliance filing. Whether you are a commerce graduate, an HR fresher, or someone switching careers into payroll and HR operations, this program meets you where you are and builds you up step by step."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Payroll</span> Do?",
+          "content": "Unlike generic classroom lectures, this payroll training in Raipur focuses on live case studies, real payslips, and actual government portals for PF, ESI, and TDS filing. You will not just memorise definitions you will practise the exact tasks a payroll executive does every month, from attendance capture to full-and-final settlement.",
+          "listItems": [
+            "Process accurate and timely payroll",
+            "Handle deductions, taxes, and benefits",
+            "Maintain compliance with labor and tax rules"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Payroll</span> Training?",
+          "content": "By the end of this course, you will be comfortable managing payroll for a small or mid-sized company independently, and confident enough to sit for interviews in HR, payroll, and compensation roles anywhere in India.",
+          "listItems": [
+            "Payroll Specialist",
+            "HR Payroll Administrator",
+            "Payroll Compliance Officer",
+            "Compensation and Benefits Manager"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyana": {
+    "WhyANA": {
+      "title": "Why HR Analytics?",
+      "cards": [
+        {
+          "title": "Why <span class=\"highlight-span-cards\">HR Analytics</span>?",
+          "content": "HR is no longer just about hiring and payroll it is about data. Companies across Raipur and the rest of India are now hiring HR professionals who can read numbers, spot trends, and support decisions with evidence. This HR Analytics course in Raipur was built for exactly that shift."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Analytics</span> Do?",
+          "content": "Over the duration of this program, you will learn how to collect, clean, and analyze workforce data, build HR dashboards, track attrition, measure employee performance, and present insights that leadership actually acts on. Whether you are an HR generalist wanting to upskill, a fresh graduate exploring people analytics as a career, or a working professional in Raipur planning a switch into workforce analytics, this course meets you where you are.",
+          "listItems": [
+            "Collect and analyze workforce data",
+            "Identify trends in performance and retention",
+            "Support data-driven HR decisions"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Analytics</span> Training?",
+          "content": "Classes are conducted by trainers who have worked on real workforce data projects, not just textbooks. You will work with live datasets, common HRMS tools, and dashboard software so that by the end of the course, your analytics skills are ready to be used on day one of a new job.",
+          "listItems": [
+            "HR Analyst",
+            "HR Business Partner",
+            "People Analytics Specialist",
+            "Talent Management Analyst"
+          ]
+        }
+      ]
+    }
+  },
+  "Whygen": {
+    "WhyGEN": {
+      "title": "WHY HR Generalist?",
+      "cards": [
+        {
+          "title": "What is<span class=\"highlight-span-cards\">HR Generalist?</span>",
+          "content": "The role of an HR generalist has changed a lot over the last few years, and companies in Raipur and across Chhattisgarh are actively looking for people who can manage the entire employee lifecycle, not just one narrow task. This is exactly the gap our HR Generalist course in Raipur is designed to fill."
+        },
+        {
+          "title": "What Does <span class=\"highlight-span-cards\">HR Generalist</span> Do?",
+          "content": "Over the duration of this course, you will move step by step through the core areas of human resources talent acquisition, onboarding, HR operations, payroll processing, statutory compliance, performance management, and employee engagement. Each topic is taught with real examples, case studies, and hands-on exercises, so you are not just memorising theory but actually practising the work of an HR generalist.",
+          "listItems": [
+            "Handle recruitment and onboarding",
+            "Support performance and employee relations",
+            "Manage payroll and compliance activities"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Generalist</span> Training?",
+          "content": "By the end of this HR Generalist certification course in Raipur, you will be able to independently manage recruitment cycles, handle onboarding and documentation, run basic payroll, understand labour law compliance, and support day-to-day HR operations in any organisation — from a growing startup to an established enterprise.This course is also a great fit if you are searching for an affordable yet thorough HR course in Raipur that does not compromise on depth or practical exposure.",
+          "listItems": [
+            "HR Generalist",
+            "HR Coordinator",
+            "HR Executive",
+            "Talent Acquisition Specialist",
+            "Payroll Administrator"
+          ]
+        }
+      ]
+    }
+  },
+  "Whyhr": {
+    "WhyHR": {
+      "title": "Why HR Training?",
+      "cards": [
+        {
+          "title": "What does an <span class=\"highlight-span-cards\">HR</span> Do?",
+          "content": "Raipur's job market is changing fast. As more IT parks, manufacturing units, and corporate offices open up across Chhattisgarh, the demand for skilled HR professionals in Raipur has grown right along with it. Companies aren't just looking for people who know the theory — they want HR executives who can run a full recruitment cycle, manage payroll software, handle onboarding, and stay on top of labour law compliance from day one.",
+          "listItems": [
+            "Manage recruitment and talent development",
+            "Support performance and employee relations",
+            "Ensure compliance and fair practices"
+          ]
+        },
+        {
+          "title": "Why Take <span class=\"highlight-span-cards\">HR Training</span>in {city}? ",
+          "content": "This HR training in Raipur was designed with exactly that gap in mind. Instead of long lectures on outdated textbook models, you'll spend most of your time doing the actual work: screening resumes, running mock interviews, building attendance and payroll sheets, and drafting HR policies you'd find in a real company handbook. By the end of this HR certification course in Raipur, you won't just understand what an HR department does — you'll have actually done the work yourself, with a portfolio and certificate to prove it to employers.",
+          "listItems": [
+            "HR Generalist",
+            "HR Specialist",
+            "HR Business Partner",
+            "HR Manager"
+          ]
+        }
+      ]
+    }
+  }
+}

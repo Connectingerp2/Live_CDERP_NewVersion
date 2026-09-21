@@ -1,0 +1,2060 @@
+{
+  "MDSpage": {
+    "MDSHeader": {
+      "title": "Data Science with AI Course in Pune",
+      "subtitle": "Become a Data Scientist Who Actually Understands AI",
+      "description": "Pune's most practical Data Science with AI course, built for people who want real skills, real projects, and a real shot at a data science job not just another certificate on the wall. This Data Science with AI course in Pune takes you from Python fundamentals to building and deploying machine learning and generative AI models, the same tools companies are actually hiring for right now.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Data Science Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "MDApage": {
+    "MDAHeader": {
+      "title": "Data Analytics with AI Course in Pune",
+      "subtitle": "Learn to Turn Raw Numbers into Real Business Decisions",
+      "description": "This Data Analytics with AI course in Pune combines hands-on analytics training with practical AI tools like ChatGPT, Python-based machine learning, and automated reporting so you graduate job-ready, not just certificate-ready. 100% live, instructor-led sessions | Real datasets from actual businesses | Weekend and weekday batches in Pune.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Data Analytics Program"
+        },
+        {
+          "text": "Download Full Syllabus (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "BApage": {
+    "BAHeader": {
+      "title": "Business Analytics Course in Pune",
+      "subtitle": "Become a Certified Business Analytics Professional",
+      "description": "The Connecting Dots ERP’s Business Analytics Course in {city} is intended to give students the tools they need to succeed in the industry. Important subjects covered in the course include business intelligence, data visualization, data analysis, and predictive analytics. Our business analytics training in {city} guarantees that you are ready for opportunities in prestigious firms that focus on data-driven decision-making careers by giving you practical experience working with real-world business data.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Business Analytics Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "GPTpage": {
+    "GPTHeader": {
+      "title": "Generative AI Course in Pune",
+      "subtitle": "Build Real Skills for the AI-First Job Market",
+      "description": "Learn to design, train, and deploy Generative AI applications using ChatGPT, LangChain, RAG pipelines, and open-source LLMs. A hands-on Generative AI course in Pune built for working professionals, freshers, and career switchers who want to move into AI roles fast.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Generative AI"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "fullstackheader": {
+    "FullStackHeader": {
+      "title": "Full Stack Course in Pune",
+      "subtitle": "Become a Job-Ready Full Stack Developer",
+      "description": "Grow your potential with Connecting Dots' Full Stack course in {city}, where you'll learn essential development skills for a successful tech career. With hands-on training and secure placement support, this course equips you to thrive in the ever-evolving world of full-stack development.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Full Stack Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "javaheader": {
+    "JavaHeader": {
+      "title": "Java Course in Pune",
+      "subtitle": "Learn to Code, Build Real Projects, Get Hired",
+      "description": "Join Pune's most practical Java training program and go from writing your first line of code to building production-ready applications. Whether you're a fresher, a college student, or a working professional switching careers, this Java course in Pune is designed to get you job-ready not just certificate-ready.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Java Training Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "pythonheader": {
+    "PythonHeader": {
+      "title": "Python Course in Pune",
+      "subtitle": "Master Python with Pune's Most Practical Python Course",
+      "description": "Join the leading Python course in Pune designed for beginners, working professionals, and career switchers. Learn Python programming, data structures, automation, and real-world projects with mentorship from industry experts who've built software that actually ships.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "PYTHON Program"
+        },
+        {
+          "text": "Download Syllabus PDF",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "salesheader": {
+    "SalesHeader": {
+      "title": "Salesforce Course in Pune",
+      "subtitle": "Become a Certified Salesforce Professional",
+      "description": "Learn Salesforce Admin, Developer, and CRM skills from industry experts. Our Salesforce course in Pune combines live projects, real CRM case studies, and placement support to help you launch a career in the world's #1 CRM platform.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Salesforce Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "abapheader": {
+    "AbapHeader": {
+      "title": "SAP ABAP Course in Pune",
+      "subtitle": "Become a Job-Ready SAP ABAP Developer",
+      "description": "Kickstart your career in enterprise technology with the most industry-relevant SAP ABAP course in Pune. Learn ABAP programming, SAP module integration, and real-time project work under the guidance of certified SAP experts. Whether you're a fresher, a working IT professional, or someone switching careers into SAP, this course is designed to take you from fundamentals to advanced, job-ready skills.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP ABAP Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "aribaheader": {
+    "AribaHeader": {
+      "title": "SAP Ariba Course in Pune",
+      "subtitle": "Become a Certified SAP Ariba Professional",
+      "description": "Master procurement and supply chain management with the most in-demand SAP Ariba Course in Pune. Learn Sourcing, Procurement, Contract Management, and Supplier Management through live projects, real-time case studies, and expert-led training designed for job-ready skills.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now for Free Demo Class",
+          "courseName": "SAP ABAP Program"
+        },
+        {
+          "text": "Call Now",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "basisheader": {
+    "BasisHeader": {
+      "title": "SAP BASIS Course in Pune",
+      "subtitle": "Become a Certified SAP BASIS Administrator",
+      "description": "Kickstart your career in SAP technology with our industry-recognized SAP BASIS Course in Pune, designed for freshers, IT professionals, and system administrators who want to master SAP system administration from the ground up. Learn to install, configure, monitor, and manage SAP systems through real-time projects and expert-led live sessions. Whether you're switching careers or upskilling, this SAP BASIS training in Pune gives you the technical foundation and hands-on practice to become job-ready for roles like SAP BASIS Consultant, SAP System Administrator, and SAP Support Engineer.",
+      "features": [
+        "Live Online & Classroom Batches",
+        "Certified Trainers",
+        "Real-Time Projects",
+        "Placement Support"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "SAP BASIS Program"
+        },
+        {
+          "text": "Download Curriculum",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "bwbiheader": {
+    "BwbiHeader": {
+      "title": "SAP BW/BI Course in Pune",
+      "subtitle": "Become a Certified SAP Data & Analytics Professional",
+      "description": "Master SAP Business Warehouse (BW) and Business Intelligence (BI) with hands-on, industry-driven training designed for beginners, working professionals, and SAP consultants. Learn data modeling, ETL, reporting, and analytics on live SAP systems — guided by certified SAP BW/4HANA experts. Join Pune's most trusted SAP BW/BI training program and build the skills companies are hiring for right now.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP BI Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ewmheader": {
+    "EWMHeader": {
+      "title": "SAP EWM Course in Pune",
+      "subtitle": "Become a Certified SAP Extended Warehouse Management Expert",
+      "description": "Master end-to-end warehouse operations with our industry-designed SAP EWM Course in Pune. Learn inbound and outbound processing, warehouse structure, RF framework, labor management, and integration with SAP MM, SD, and TM through live projects, real-time case studies, and hands-on system access.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book Your Free Demo Class",
+          "courseName": "SAP EWM Program"
+        },
+        {
+          "text": "Talk to Our Counselor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ficoheader": {
+    "FICOHeader": {
+      "title": "SAP FICO Course in Pune",
+      "subtitle": "Become a Certified SAP Finance Consultant",
+      "description": "Learn SAP Financial Accounting and Controlling (FICO) from certified industry trainers with 10+ years of real-world SAP implementation experience. Join 500+ successful learners who've built SAP careers through our 100% practical, project-based training — with dedicated placement support until you're hired.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book Free Demo Class",
+          "courseName": "SAP FICO Program"
+        },
+        {
+          "text": "Download Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hanaheader": {
+    "HanaHeader": {
+      "title": "SAP S/4HANA Course in Pune",
+      "subtitle": "Become a Certified SAP S/4HANA Professional",
+      "description": "Enroll in the most industry-relevant SAP S/4 HANA Course in Pune and gain hands-on expertise in the world's leading ERP platform. Learn directly from certified SAP consultants, work on real-time business scenarios, and get trained on the latest S/4 HANA modules used by Fortune 500 companies.\nWhether you're a fresh graduate, working professional, or someone looking to switch careers into ERP consulting, this course is designed to make you industry-ready in just a few months.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP S/4 HANA Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to Career Counselor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hrhcmheader": {
+    "HRHCMHeader": {
+      "title": "SAP HR/HCM Course in Pune",
+      "subtitle": "Become a Certified SAP HR/HCM Consultant",
+      "description": "Master core and advanced SAP Human Capital Management modules with India's most job-focused SAP HCM Course in Pune. Learn Personnel Administration, Organizational Management, Time Management, Payroll, and ESS/MSS through real-time projects, live SAP server access, and mentorship from industry-certified trainers.\nWhether you're an HR professional looking to upskill or a fresher aiming to break into SAP consulting, this course gives you hands-on, practical exposure to SAP HCM (and SAP SuccessFactors fundamentals) — the way it's actually used in enterprise projects.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP HR/HCM Program"
+        },
+        {
+          "text": "Talk to Our Counselor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "mmheader": {
+    "MMHeader": {
+      "title": "SAP MM Course in Pune",
+      "subtitle": "Become a Certified SAP MM Consultant",
+      "description": "Learn procurement, inventory, and materials planning on live SAP S/4HANA systems, taught by consultants who've implemented SAP MM on real client projects.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "SAP MM Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "coreheader": {
+    "CoreHeader": {
+      "title": "Core HR Course in Pune",
+      "subtitle": "Become a Job-Ready Core HR Professional",
+      "description": "Learn the real, day-to-day skills HR teams use — recruitment, payroll, compliance, performance management, and HRMS tools — through a practical Core HR Course in Pune designed with working professionals and freshers in mind. 100% Practical Training | Live Projects | Placement Assistance | Weekday & Weekend Batches.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Core HR Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "netheader": {
+    "NetHeader": {
+      "title": "SAP NetWeaver Course in Pune",
+      "subtitle": "Become a Certified Professional",
+      "description": "Practical Training on SAP's core technological platform, including integration, system management, and security, is provided via the SAP NetWeaver Course in {city}. Acquire hands-on experience in real-world projects to get ready for positions such as SAP NetWeaver Consultant and System Administrator. This course gives you the tools to handle enterprise-level, scalable solutions in various SAP environments.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "SAP NetWeaver Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "pmheader": {
+    "PMHeader": {
+      "title": "SAP PM Course in Pune",
+      "subtitle": "Become a Certified SAP PM Consultant",
+      "description": "Master SAP Plant Maintenance (PM) with hands-on, industry-aligned training designed for working professionals and freshers in Pune. Learn to configure maintenance strategies, manage equipment master data, plan work orders, and integrate PM with MM, PP, and FICO modules all under the guidance of certified SAP trainers with real-time project exposure.\nWhether you're an engineer looking to move into SAP consulting or an SAP professional adding PM to your skill set, this course gives you the practical know-how top companies in Pune's manufacturing and IT hubs are hiring for.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "SAP PM Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ppheader": {
+    "PPHeader": {
+      "title": "SAP PP Course in Pune",
+      "subtitle": "Become a Certified SAP PP Consultant",
+      "description": "Master SAP PP (Production Planning) with Pune's most industry-focused training program. Learn MRP, BOM, Routing, Master Recipe, Capacity Planning, and Shop Floor Control through real-time manufacturing scenarios, hands-on server access, and expert-led live sessions.\nWhether you're a fresher looking to break into SAP consulting or a working professional planning a career switch, this SAP PP Course in Pune is designed to get you job-ready with practical, end-to-end implementation knowledge.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "SAP PP Program"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "psheader": {
+    "PSHeader": {
+      "title": "SAP PS Course in Pune",
+      "subtitle": "Become a Certified SAP PS Consultant",
+      "description": "Planning to build a career in SAP Project Systems? Our SAP PS Course in Pune is designed for professionals and freshers who want to master end-to-end project management using SAP. From project structuring and WBS to budgeting, resource planning, and integration with SAP FICO, MM, and SD this course covers everything you need to become job-ready.\nLearn through live instructor-led sessions, real-time project scenarios, and hands-on practice on a live SAP server. Whether you're switching careers or upskilling, this course helps you gain the confidence and certification employers look for.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP PS Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "qmheader": {
+    "QMHeader": {
+      "title": "SAP QM Course in Pune",
+      "subtitle": "Become a Certified SAP QM Consultant",
+      "description": "Master end-to-end Quality Management processes with our industry-focused SAP QM Course in Pune. Learn quality planning, inspection, control, and certification through hands-on training led by experienced SAP consultants. Get real-time project exposure, live server access, and 100% placement assistance to launch your career in SAP Quality Management.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "SAP QM Program"
+        },
+        {
+          "text": "Download Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "scmheader": {
+    "SCMHeader": {
+      "title": "SAP SCM Course in Pune",
+      "subtitle": "Become a Certified SAP SCM Consultant",
+      "description": "Master end-to-end supply chain operations with our industry-designed SAP SCM Course in Pune. Learn SAP MM, SAP PP, SAP WM/EWM, SAP APO, and SAP IBP modules through live projects, real-time case studies, and expert-led classroom or online sessions. Get placement assistance, hands-on SAP system access, and a globally recognized certification to launch your career in supply chain management.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "SAP SCM Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "sdheader": {
+    "SDHeader": {
+      "title": "SAP SD Course in Pune",
+      "subtitle": "Become a Certified SAP SD Consultant",
+      "description": "Master end-to-end Sales and Distribution processes with the most industry-relevant SAP SD course in Pune. Learn Order-to-Cash cycles, pricing, billing, and delivery processing through live SAP GUI access, real-time case studies, and mentorship from certified SAP SD consultants.\nWhether you're a fresher aiming for your first SAP job or a working professional switching to SAP SD, this course gives you the practical, hands-on skills recruiters in Pune's IT and manufacturing hubs are actively hiring for.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP SD Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "succheader": {
+    "SuccHeader": {
+      "title": "SAP SuccessFactors Course in Pune",
+      "subtitle": "Become a Certified SAP SuccessFactors Consultant",
+      "description": "Master SAP SuccessFactors with Pune's most industry-focused training program. Learn Employee Central, Recruiting, Performance & Goals, Onboarding, and Compensation modules through live projects, real-time case studies, and expert-led sessions — designed to get you job-ready for top HR-tech and SAP consulting roles.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now – Limited Seats",
+          "courseName": "SAP Succesfactor Program"
+        },
+        {
+          "text": "Download Free Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "powerbi": {
+    "POWERBI": {
+      "title": "Power BI Course in Pune",
+      "subtitle": "Become a Certified Power BI Professional",
+      "description": "Data is everywhere, but professionals who can turn it into decisions are still rare. This Power BI course in Pune is built to change that for you. Over the next few weeks, you'll go from opening Power BI for the first time to publishing dashboards that actual businesses rely on no fluff, no filler, just the skills that get you hired or promoted.Whether you're a fresh graduate, a working professional switching to analytics, or someone who's tired of manually updating Excel reports every Monday morning, this course meets you where you are.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "Power BI Program"
+        },
+        {
+          "text": "Download Curriculum PDF",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "tableau": {
+    "TABLEAU": {
+      "title": "Tableau Course in Pune",
+      "subtitle": "Become a Certified Tableau Professional",
+      "description": "Learn Tableau the way working analysts actually use it through live dashboards, real datasets, and a mentor who's built reports for actual businesses, not just slides.Pune's job market is full of roles asking for Tableau proficiency, but most people learning it online never touch a real business problem. This Tableau course in Pune is built differently. You'll work with messy, real-world data, build dashboards that a manager would actually approve of, and leave with a portfolio you can show in an interview instead of just a certificate you have to explain.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Tableau Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "anapage": {
+    "ANAHeader": {
+      "title": "HR Analytics Course in Pune",
+      "subtitle": "Become a Certified HR Analytics Professional",
+      "description": "Learn to turn people's data into business decisions. Our HR Analytics Course in Pune is built for HR professionals who want to move from intuition-based HR to data-driven HR using real tools, real datasets, and real hiring, attrition, and performance case studies.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll in the HR Analytics Course",
+          "courseName": "HR Analytics Program"
+        },
+        {
+          "text": "Download Full Syllabus (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "manpage": {
+    "MANHeader": {
+      "title": "HR Management Course in Pune",
+      "subtitle": "Build a Career in HR with Practical HR Management Training",
+      "description": "Looking for an HR Management Course in Pune that actually prepares you for the job floor, not just the exam hall? Our course is designed by industry practitioners, covering everything from recruitment and payroll to labour law and HR analytics with real case studies, live projects, and placement support built in.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "HR Management Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Counselling Call",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "payrollmanpage": {
+    "PAYROLLHeader": {
+      "title": "HR Payroll Course in Pune",
+      "subtitle": "Become a Job-Ready Payroll Professional",
+      "description": "Learn end-to-end payroll processing, statutory compliance, and HR operations with hands-on training designed by industry practitioners. Join Pune's most practical HR Payroll Course and get placement support from day one. 100% Practical Training | Live Payroll Software | Real Case Studies | Placement Assistance.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "HR Payroll Program"
+        },
+        {
+          "text": "Download Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "genpage": {
+    "GENHeader": {
+      "title": "HR Generalist Course in Pune",
+      "subtitle": "Become a Job-Ready HR Generalist in Just 3 Months",
+      "description": "If you are looking to build a career in Human Resources, this HR Generalist Course in Pune is designed to take you from the basics of HR to handling real, end-to-end HR operations with confidence. You'll learn recruitment, payroll, compliance, performance management, and HR software — all taught by working HR professionals.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "HR Generalist Program"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hrtraining": {
+    "HRTrainingHeader": {
+      "title": "HR Training Course in Pune",
+      "subtitle": "Build a Career in Human Resources with Practical HR Training",
+      "description": "Our HR Training in Pune covers recruitment, payroll, compliance, HRBP strategy, and HRMS tools, taught by working HR professionals — with real company projects, live case studies, and placement support.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "HR Training Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "sapheader": {
+    "SapHeader": {
+      "title": "SAP Course in Pune",
+      "subtitle": "Get Certified with the Best SAP Training Institute in Pune",
+      "description": "Grow Your Career with the Best SAP Course in {city}. Accelerate your professional journey with our industry-leading SAP training in {city}, featuring specialized courses in SAP FICO, SAP MM, and SAP SD. Our comprehensive and hands-on training program is designed to build deep expertise in core SAP modules like Financial Accounting, Materials Management, and Sales & Distribution. Whether you're a fresher or a working professional, we’ll help you land your dream job in top MNCs.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Digital Marketing Training Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "itcoursesheader": {
+    "ITcoursesHeader": {
+      "title": "IT Course in Pune",
+      "subtitle": "Get Certified with Advanced IT Training in Pune",
+      "description": "Connecting Dots ERP offers an advanced IT course in {city} designed to equip you with the essential skills to excel in the fast-evolving tech industry. Our advance and detailed training program covers key modules such as Data Science, Data Analytics, Python, and Java, ensuring you gain the expertise to work with cutting-edge technologies and solve complex business problems. By mastering these modules, you'll be prepared to take on roles like Data Scientist, Data Analyst, Python Developer, and Java Developer. Our course is tailored to help you build a strong foundation and land your dream job in the dynamic field of IT.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Digital Marketing Training Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hrcoursesheader": {
+    "HRcoursesHeader": {
+      "title": "HR Course in Pune",
+      "subtitle": "Get Certified with the Best HR Training Institute in Pune",
+      "description": "Connecting Dots ERP offers a advance HR course in {city} designed to equip you with the essential skills to excel in Human Resources. Our advanced and detailed HR training program covers key modules such as Personnel Administration, Payroll, Time Management, and Organizational Management.By mastering these modules, you'll gain the expertise to streamline HR processes, optimize workforce management, and drive organizational success. Our course is tailored to help you land your dream job in the dynamic field of HR.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Digital Marketing Training Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "datavisualheader": {
+    "DataVisualHeader": {
+      "title": "Data Visualization with AI Course in Pune",
+      "subtitle": "Turn Raw Numbers into Decisions That Get Noticed",
+      "description": "Learn to build dashboards, tell stories with data, and use AI tools to work faster — all in a hands-on program designed for working professionals in Pune. From Excel to Power BI, Tableau to AI-assisted analytics this course takes you from \"I can make a chart\" to \"I can make a chart that changes minds.\"",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Data Visualization Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "agenticheader": {
+    "AgenticHeader": {
+      "title": "Agentic AI Course in Pune",
+      "subtitle": "Build Autonomous AI Agents That Actually Get Work Done",
+      "description": "Learn to design, build, and deploy AI agents that plan, reason, and act on their own. This hands-on Agentic AI course in Pune takes you from LLM basics to production-ready multi-agent systems using tools like LangChain, LangGraph, AutoGen, and CrewAI. Classroom sessions in Pune + live online batches | Real projects, not just theory | Certificate on completion | Placement support for eligible learners.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "Agentic AI Program"
+        },
+        {
+          "text": "Download Curriculum",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "aimlheader": {
+    "AIMLHeader": {
+      "title": "AI & ML Course in Pune",
+      "subtitle": "Learn Artificial Intelligence & Machine Learning the Practical Way",
+      "description": "Build real-world AI and ML projects, master Python, and get job-ready with a hands-on AI ML course in Pune trusted by students, working professionals, and career switchers. Pune has become one of India's fastest-growing hubs for artificial intelligence and data-driven careers, and this AI ML course in Pune is built to help you become part of that growth story.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "AIML Program"
+        },
+        {
+          "text": "Download Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "awsheader": {
+    "AWSHeader": {
+      "title": "AWS Course in Pune",
+      "subtitle": "Become a Certified AWS Cloud Professional",
+      "description": "Join Pune's most practical AWS course and learn to design, deploy, and manage real cloud infrastructure on Amazon Web Services. Get hands-on with EC2, S3, IAM, Lambda, VPC, and 20+ AWS services through live projects, not just slides. Whether you're a fresher, a working IT professional, or a business owner exploring the cloud, this AWS course in Pune is built to take you from fundamentals to job-ready skills.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "AWS Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Career Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "devopsheader": {
+    "DevOpsHeader": {
+      "title": "DevOps Course in Pune",
+      "subtitle": "Become a Job-Ready DevOps Engineer",
+      "description": "Learn Git, Docker, Kubernetes, Jenkins, AWS, and Terraform through hands-on projects. Our DevOps course in Pune is designed by industry practitioners to get you interview-ready in 4 months, not 4 years.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "DevOps Program"
+        },
+        {
+          "text": "Download Detailed Curriculum (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  }
+}

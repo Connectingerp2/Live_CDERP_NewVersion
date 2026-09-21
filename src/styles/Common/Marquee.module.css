@@ -1,0 +1,102 @@
+.mainContainerMarquee {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  max-width: 1800px;
+  height: 20px;
+  min-height: 1.6rem;
+  overflow: hidden;          /* was overflow-x */
+  text-transform: uppercase;
+  color: #fff;
+  background: linear-gradient(to right, #9260fc, #739fd2, #5099bb);
+  margin: 0 auto;
+  z-index: 10;
+  contain: paint;            /* isolates paint work */
+}
+
+.mainContainerMarqueeTrack {
+  display: flex;
+  width: max-content;        /* let content size itself */
+  user-select: none;
+  will-change: transform;    /* hint only while animating */
+}
+
+.mainContainerMarqueeItems {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 80px;                 /* replace large margins with gap */
+  padding-right: 80px;       /* keep spacing after last item */
+}
+
+.mainContainerMarqueeItem {
+  white-space: nowrap;
+  font-size: 17px;
+  line-height: 1;
+}
+
+/* Animation only after the class is added (post first paint) */
+.mainContainerMarqueeTrack.animate {
+  animation: marquee 50s linear infinite;
+}
+
+/* Reduced-motion preference – stop completely */
+@media (prefers-reduced-motion: reduce) {
+  .mainContainerMarqueeTrack.animate {
+    animation: none;
+  }
+}
+
+@keyframes marquee {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-50%, 0, 0); /* exact half because we have two identical tracks */
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .mainContainerMarquee {
+    min-height: 2.2rem;
+    height: auto;
+    padding: 6px 0;
+  }
+  .mainContainerMarqueeItem {
+    font-size: 12px;
+  }
+  .mainContainerMarqueeItems {
+    gap: 60px;
+    padding-right: 60px;
+  }
+  .mainContainerMarqueeTrack.animate {
+    animation-duration: 40s;
+  }
+}
+
+@media (max-width: 576px) {
+  .mainContainerMarquee {
+    min-height: 2rem;
+    padding: 8px 0;
+  }
+  .mainContainerMarqueeItem {
+    font-size: 10px;
+  }
+  .mainContainerMarqueeItems {
+    gap: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 420px) {
+  .mainContainerMarquee {
+    min-height: 1.8rem;
+  }
+  .mainContainerMarqueeItem {
+    font-size: 10px;
+    line-height: 1.2;
+  }
+}

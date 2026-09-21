@@ -1,0 +1,1410 @@
+{
+  "whatsap": [
+    {
+      "icon": "BookOpen",
+      "title": "SAP ERP Fundamentals",
+      "description": "Understand the core of SAP ERP and its key business applications across finance, logistics, HR and more."
+    },
+    {
+      "icon": "Settings",
+      "title": "Navigation & Configuration",
+      "description": "Master navigation, configuration and customization inside SAP modules."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "End-to-End Process Mapping",
+      "description": "Map complete business processes using SAP from start to finish."
+    },
+    {
+      "icon": "Database",
+      "title": "Master Data Management",
+      "description": "Create and manage critical master data that drives every SAP process."
+    },
+    {
+      "icon": "Link",
+      "title": "Cross-Module Integration",
+      "description": "See how different SAP modules talk to each other in real scenarios."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview & Job Preparation",
+      "description": "Get interview-ready with resume building and real implementation best practices."
+    }
+  ],
+  "whatfico": [
+    {
+      "icon": "Wallet",
+      "title": "GL, AP & AR Configuration",
+      "description": "You'll be comfortable configuring General Ledger, Accounts Payable and Accounts Receivable — not just naming them in a quiz."
+    },
+    {
+      "icon": "Building2",
+      "title": "Asset Accounting",
+      "description": "Asset Accounting won't feel like a mystery anymore — from asset master creation to depreciation runs."
+    },
+    {
+      "icon": "PieChart",
+      "title": "Controlling Elements",
+      "description": "You'll actually understand Cost Center Accounting, Internal Orders and Profit Center Accounting, because you'll have built them yourself."
+    },
+    {
+      "icon": "Calendar",
+      "title": "Month-End & Year-End Closing",
+      "description": "How month-end and year-end closing really works in SAP — the steps, the checks, the things that go wrong."
+    },
+    {
+      "icon": "Link",
+      "title": "FI Integration with MM & SD",
+      "description": "How FI actually connects with MM and SD, because in real projects, nothing works in isolation."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview Communication",
+      "description": "How to talk about all of this in an interview — because knowing SAP and explaining SAP well are two different skills."
+    }
+  ],
+  "whatmm": [
+    {
+      "icon": "Factory",
+      "title": "Organizational Structure",
+      "description": "Configure organizational structure (Plant, Storage Location, Purchasing Organization)."
+    },
+    {
+      "icon": "Database",
+      "title": "Master Data Management",
+      "description": "Manage Master Data — Material Master, Vendor Master, Purchasing Info Records, Source List."
+    },
+    {
+      "icon": "ShoppingCart",
+      "title": "Procure-to-Pay Cycle",
+      "description": "Execute the complete Procure-to-Pay (P2P) cycle."
+    },
+    {
+      "icon": "Package",
+      "title": "Inventory Management",
+      "description": "Perform Goods Receipt, Goods Issue, and Inventory Management."
+    },
+    {
+      "icon": "Calculator",
+      "title": "Invoice Verification & FI Integration",
+      "description": "Work with Invoice Verification (MIRO) and integration with SAP FI."
+    },
+    {
+      "icon": "Award",
+      "title": "Project Scenarios & Interview Prep",
+      "description": "Real-time project scenarios, case studies & mock interview preparation."
+    }
+  ],
+  "whathrhcm": [
+    {
+      "icon": "Network",
+      "title": "HCM in the SAP Landscape",
+      "description": "How SAP HCM fits into the larger SAP landscape and where it sits versus SuccessFactors."
+    },
+    {
+      "icon": "User",
+      "title": "Personnel Administration",
+      "description": "End-to-end Personnel Administration — infotypes, actions, personnel structures."
+    },
+    {
+      "icon": "Building",
+      "title": "Organizational Management",
+      "description": "Organizational Management — building org structures, positions, jobs, and reporting relationships."
+    },
+    {
+      "icon": "Clock",
+      "title": "Time Management",
+      "description": "Time Management — work schedules, time evaluation, absence quotas."
+    },
+    {
+      "icon": "Banknote",
+      "title": "Payroll India",
+      "description": "Payroll India — the trickiest but most valuable part of this module, covered in real depth."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview Preparation",
+      "description": "Interview preparation based on questions actually asked by Indian SAP consulting firms."
+    }
+  ],
+  "whatqm": [
+    {
+      "icon": "ShieldCheck",
+      "title": "QM Configuration from Scratch",
+      "description": "How to configure Quality Management from scratch — master data, inspection types, and catalogs."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "Inspection Plans & Results",
+      "description": "Creating and managing inspection plans, inspection lots, and results recording."
+    },
+    {
+      "icon": "AlertTriangle",
+      "title": "Quality Notifications",
+      "description": "Handling Quality Notifications (Q1/Q2/Q3) for internal problems, customer complaints, and vendor issues."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with PP, MM & SD",
+      "description": "End-to-end integration of QM with Production Planning (PP), Materials Management (MM), and Sales & Distribution (SD)."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Audit & Reporting Scenarios",
+      "description": "Real audit and reporting scenarios: how quality data actually gets used by management."
+    },
+    {
+      "icon": "Award",
+      "title": "Live Ticket Resolution",
+      "description": "Resolving live tickets — because that's 80% of what QM consultants actually do on the job."
+    }
+  ],
+  "whatps": [
+    {
+      "icon": "FolderKanban",
+      "title": "WBS & Networks",
+      "description": "Build and structure Work Breakdown Structures (WBS) and Networks for real projects."
+    },
+    {
+      "icon": "Calculator",
+      "title": "Cost, Revenue & Budget Planning",
+      "description": "Plan project costs, revenues, and budgets, and track variances as the project progresses."
+    },
+    {
+      "icon": "Users",
+      "title": "Resources & Material Assignment",
+      "description": "Assign resources and materials to networks, and integrate with MM and PP where needed."
+    },
+    {
+      "icon": "RefreshCw",
+      "title": "Project Settlement",
+      "description": "Run project settlement — periodic and final — and understand how costs flow into CO and FI."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with MM, SD, CO, FI",
+      "description": "Understand how PS integrates with MM, SD, CO, and FI in a live business scenario."
+    },
+    {
+      "icon": "AlertTriangle",
+      "title": "Troubleshooting Real Issues",
+      "description": "Troubleshoot common configuration and transactional issues that come up in real projects."
+    }
+  ],
+  "whatscm": [
+    {
+      "icon": "ShoppingCart",
+      "title": "Procure-to-Pay (P2P)",
+      "description": "Configure and manage core Procure-to-Pay (P2P) processes in SAP MM."
+    },
+    {
+      "icon": "ShoppingBag",
+      "title": "Order-to-Cash (O2C)",
+      "description": "Handle Order-to-Cash (O2C) cycles end-to-end in SAP SD."
+    },
+    {
+      "icon": "Factory",
+      "title": "Production Planning & Execution",
+      "description": "Understand production planning and execution using SAP PP."
+    },
+    {
+      "icon": "Package",
+      "title": "Inventory & Warehouse Processes",
+      "description": "Manage inventory, stock movements, and warehouse processes."
+    },
+    {
+      "icon": "Link",
+      "title": "Cross-Module Integration",
+      "description": "Work with integration points between MM, SD, PP, and Finance (FI/CO basics)."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview Confidence",
+      "description": "Speak confidently in interviews about SAP implementation, not just theory."
+    }
+  ],
+  "whatehs": [
+    {
+      "icon": "Shield",
+      "title": "EHS Module Structure",
+      "description": "Navigate the SAP EHS module structure end-to-end — not just click around, but actually understand why each piece connects to the next."
+    },
+    {
+      "icon": "AlertCircle",
+      "title": "Incident Management",
+      "description": "Set up and manage Incident Management — logging, investigating, and closing out incidents the way auditors expect to see them."
+    },
+    {
+      "icon": "AlertTriangle",
+      "title": "Risk Assessment Workflows",
+      "description": "Configure Risk Assessment workflows and understand how they tie into job safety analysis."
+    },
+    {
+      "icon": "HeartPulse",
+      "title": "Industrial Hygiene & Safety",
+      "description": "Handle Industrial Hygiene and Safety (IHS) — exposure profiles, hazardous substance data, and health surveillance."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with HR & PM",
+      "description": "Integrate EHS data with other SAP modules like SAP HR and SAP PM — because in real companies, nothing works in isolation."
+    },
+    {
+      "icon": "Award",
+      "title": "Indian Regulatory Context",
+      "description": "Apply everything to real Indian regulatory context — Factories Act, Environment Protection Act, and how they map to what you're doing in the system."
+    }
+  ],
+  "whatibp": [
+    {
+      "icon": "Cloud",
+      "title": "IBP Architecture & Building Blocks",
+      "description": "Understand the architecture and building blocks of SAP IBP."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Demand Planning Models",
+      "description": "Configure and manage Demand Planning models in SAP IBP."
+    },
+    {
+      "icon": "Boxes",
+      "title": "Supply Planning",
+      "description": "Work with Supply Planning, including heuristics and optimizer-based planning."
+    },
+    {
+      "icon": "CalendarCheck",
+      "title": "Sales & Operations Planning",
+      "description": "Build and manage Sales & Operations Planning (S&OP) cycles."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with ECC / S/4HANA",
+      "description": "Integrate SAP IBP with SAP ECC / S/4HANA systems."
+    },
+    {
+      "icon": "Award",
+      "title": "Real Business Case Studies",
+      "description": "Apply SAP IBP knowledge to real business case studies."
+    }
+  ],
+  "whatariba": [
+    {
+      "icon": "Cloud",
+      "title": "Ariba Platform Navigation",
+      "description": "Navigating the SAP Ariba platform — Sourcing, Contracts, Procurement, and Supplier Management modules."
+    },
+    {
+      "icon": "Search",
+      "title": "Sourcing Events",
+      "description": "Setting up and managing sourcing events (RFIs, RFPs, RFQs, and auctions)."
+    },
+    {
+      "icon": "Users",
+      "title": "Supplier Lifecycle Management",
+      "description": "Supplier lifecycle management — onboarding, qualification, and performance tracking."
+    },
+    {
+      "icon": "FileText",
+      "title": "Contract Management",
+      "description": "Contract creation, workflows, and compliance tracking."
+    },
+    {
+      "icon": "ShoppingCart",
+      "title": "Procure-to-Pay & ERP Integration",
+      "description": "Procure-to-pay (P2P) processes and how Ariba integrates with SAP ERP/S4HANA."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview Preparation",
+      "description": "Interview preparation — the questions you'll actually get asked, and how to answer them with confidence."
+    }
+  ],
+  "whatsd": [
+    {
+      "icon": "Building2",
+      "title": "SD Organizational Structure",
+      "description": "Set up and understand the complete SAP SD organizational structure (sales org, distribution channel, division, plant assignment)."
+    },
+    {
+      "icon": "Database",
+      "title": "Master Data Configuration",
+      "description": "Configure master data — customer master, material master, condition master, output determination."
+    },
+    {
+      "icon": "ShoppingBag",
+      "title": "Order-to-Cash Cycle",
+      "description": "Run the full order-to-cash cycle: inquiry → quotation → sales order → delivery → billing."
+    },
+    {
+      "icon": "Tag",
+      "title": "Pricing Procedures",
+      "description": "Work with pricing procedures and condition techniques (this trips up most beginners — we spend real time here)."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with MM & FI",
+      "description": "Understand integration points with MM (Materials Management) and FI (Finance)."
+    },
+    {
+      "icon": "Award",
+      "title": "Resume & Interview Prep",
+      "description": "Prepare a project-ready resume and speak about real scenarios in interviews."
+    }
+  ],
+  "whatpp": [
+    {
+      "icon": "Factory",
+      "title": "Production Planning Lifecycle",
+      "description": "Understand the complete Production Planning lifecycle in SAP."
+    },
+    {
+      "icon": "Database",
+      "title": "Core Master Data",
+      "description": "Configure and manage Material Master, BOM, Work Centers, and Routings."
+    },
+    {
+      "icon": "Calculator",
+      "title": "MRP Execution",
+      "description": "Execute Material Requirement Planning (MRP) and interpret planning results."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "Production Orders",
+      "description": "Create and process Production Orders end-to-end."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with SD, MM & QM",
+      "description": "Integrate SAP PP with SD, MM, and QM modules for cross-functional understanding."
+    },
+    {
+      "icon": "Award",
+      "title": "Certification & Interview Prep",
+      "description": "Prepare confidently for SAP PP certification and job interviews."
+    }
+  ],
+  "whatpm": [
+    {
+      "icon": "Wrench",
+      "title": "PM Organizational Structure",
+      "description": "Understand the complete Plant Maintenance organizational structure and how it fits into the larger SAP landscape."
+    },
+    {
+      "icon": "Cpu",
+      "title": "Technical Objects",
+      "description": "Create and manage technical objects — Functional Locations, Equipment, Bill of Materials (BOM), and Serial Numbers."
+    },
+    {
+      "icon": "Calendar",
+      "title": "Preventive Maintenance",
+      "description": "Configure and execute Preventive Maintenance planning, maintenance strategies, and task lists."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "Maintenance Order Lifecycle",
+      "description": "Handle the complete Maintenance Order lifecycle — from notification creation to order closure."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with MM, FICO, PP, QM",
+      "description": "Understand PM integration points with MM, FICO, PP, and QM modules."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview & Certification Prep",
+      "description": "Prepare confidently for SAP PM interviews and certification exams."
+    }
+  ],
+  "whatewm": [
+    {
+      "icon": "Warehouse",
+      "title": "Core EWM Concepts",
+      "description": "Understand core SAP EWM concepts — warehouse structure, storage types, storage bins, and activity areas."
+    },
+    {
+      "icon": "ArrowDownToLine",
+      "title": "Inbound Processes",
+      "description": "Configure inbound processes: goods receipt, putaway strategies, and quality inspection."
+    },
+    {
+      "icon": "ArrowUpFromLine",
+      "title": "Outbound Processes",
+      "description": "Configure outbound processes: picking, packing, staging, and goods issue."
+    },
+    {
+      "icon": "RefreshCw",
+      "title": "Internal Movements & Inventory",
+      "description": "Handle internal warehouse movements, replenishment, and physical inventory."
+    },
+    {
+      "icon": "Link",
+      "title": "Integration with ERP/S4HANA",
+      "description": "Understand integration between SAP EWM and SAP ERP/S4HANA (MM, SD, and TM modules)."
+    },
+    {
+      "icon": "Award",
+      "title": "Mumbai Logistics Case Studies",
+      "description": "Apply your learning to real business case studies used by Mumbai-based logistics and manufacturing companies."
+    }
+  ],
+  "whatbtp": [
+    {
+      "icon": "Cloud",
+      "title": "BTP Architecture",
+      "description": "Understand the complete architecture of SAP Business Technology Platform and how it fits into the modern SAP ecosystem."
+    },
+    {
+      "icon": "Blocks",
+      "title": "SAP Build Apps & Automation",
+      "description": "Build extension applications using SAP Build Apps and SAP Build Process Automation."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "Integration Suite",
+      "description": "Work with SAP Integration Suite to connect SAP S/4HANA with third-party and legacy systems."
+    },
+    {
+      "icon": "Code2",
+      "title": "CAP Model Development",
+      "description": "Develop side-by-side extensions using Cloud Application Programming (CAP) model."
+    },
+    {
+      "icon": "Rocket",
+      "title": "Deploy & Monitor Applications",
+      "description": "Deploy, monitor, and manage applications in a live cloud environment."
+    },
+    {
+      "icon": "Award",
+      "title": "Certification & Client Projects",
+      "description": "Prepare confidently for SAP BTP certification and real client project scenarios."
+    }
+  ],
+  "whatgrc": [
+    {
+      "icon": "Shield",
+      "title": "GRC Fundamentals",
+      "description": "Understand the fundamentals of Governance, Risk, and Compliance in an SAP landscape."
+    },
+    {
+      "icon": "Lock",
+      "title": "Access Control Configuration",
+      "description": "Configure SAP Access Control (SoD rules, risk analysis, mitigation controls)."
+    },
+    {
+      "icon": "UserCheck",
+      "title": "Emergency Access Management",
+      "description": "Set up and manage Emergency Access Management (Firefighter ID)."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "MSMP Workflows",
+      "description": "Build Multi-Stage Multi-Path (MSMP) workflows for access requests."
+    },
+    {
+      "icon": "CheckSquare",
+      "title": "Process Control",
+      "description": "Work with SAP Process Control for automated compliance monitoring."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview & Certification Prep",
+      "description": "Prepare confidently for SAP GRC interviews and certification exams."
+    }
+  ],
+  "whatsucc": [
+    {
+      "icon": "Cloud",
+      "title": "SuccessFactors Suite Overview",
+      "description": "Understand the complete SAP SuccessFactors suite and how each module fits into enterprise HR strategy."
+    },
+    {
+      "icon": "Users",
+      "title": "Employee Central (EC)",
+      "description": "Configure Employee Central (EC) — the core HR system of record."
+    },
+    {
+      "icon": "UserPlus",
+      "title": "Recruitment Management",
+      "description": "Set up and manage Recruitment Management (RCM) workflows."
+    },
+    {
+      "icon": "Target",
+      "title": "Performance & Goal Management",
+      "description": "Build performance review templates using Performance & Goal Management."
+    },
+    {
+      "icon": "Shield",
+      "title": "Role-Based Permissions",
+      "description": "Understand Role-Based Permissions (RBP) — a critical skill every recruiter looks for."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview-Ready Case Studies",
+      "description": "Get interview-ready with real project case studies and mock interview sessions."
+    }
+  ],
+  "whatabap": [
+    {
+      "icon": "Code2",
+      "title": "Clean ABAP Programming",
+      "description": "Write clean, efficient ABAP programs using SAP's development workbench."
+    },
+    {
+      "icon": "Database",
+      "title": "Internal Tables & Data Dictionary",
+      "description": "Work confidently with internal tables, structures, and data dictionary objects."
+    },
+    {
+      "icon": "FileText",
+      "title": "Classical & Interactive ALV",
+      "description": "Build and customize reports using classical and interactive ALV."
+    },
+    {
+      "icon": "Link",
+      "title": "RFCs, BAPIs & Enhancements",
+      "description": "Create and consume RFCs, BAPIs, and enhancements (User Exits, BAdIs)."
+    },
+    {
+      "icon": "Bug",
+      "title": "Debugging & Performance",
+      "description": "Debug programs and optimize code for performance."
+    },
+    {
+      "icon": "Award",
+      "title": "Live Projects & Mock Interviews",
+      "description": "Apply your learning through live project work and mock interview sessions."
+    }
+  ],
+  "whathana": [
+    {
+      "icon": "Cloud",
+      "title": "S/4HANA Architecture & Value",
+      "description": "Understand the core architecture and business value of SAP S/4HANA over legacy ECC systems."
+    },
+    {
+      "icon": "Monitor",
+      "title": "Fiori Launchpad Navigation",
+      "description": "Navigate the SAP Fiori launchpad and understand the modern SAP user experience."
+    },
+    {
+      "icon": "Settings",
+      "title": "Functional Module Configuration",
+      "description": "Configure and work within your chosen functional module (Finance, Logistics, Sales & Distribution, or Materials Management)."
+    },
+    {
+      "icon": "Link",
+      "title": "Cross-Module Integration",
+      "description": "Understand integration points between SAP modules in a real business environment."
+    },
+    {
+      "icon": "FileText",
+      "title": "Project Documentation",
+      "description": "Prepare project documentation the way it's actually done on live client projects."
+    },
+    {
+      "icon": "Award",
+      "title": "Scenario-Based Interview Prep",
+      "description": "Confidently answer functional and scenario-based questions in SAP job interviews."
+    }
+  ],
+  "whatbwbi": [
+    {
+      "icon": "Database",
+      "title": "BW/BI Architecture & Data Flow",
+      "description": "Understand the architecture and data flow within SAP BW/BI."
+    },
+    {
+      "icon": "Download",
+      "title": "Data Extraction",
+      "description": "Extract data from SAP and non-SAP source systems."
+    },
+    {
+      "icon": "Box",
+      "title": "InfoObjects, InfoCubes & DSOs",
+      "description": "Design and build InfoObjects, InfoCubes, and DSOs."
+    },
+    {
+      "icon": "GitMerge",
+      "title": "Transformations, DTPs & Process Chains",
+      "description": "Create transformations, DTPs, and process chains."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "BEx Query Designer",
+      "description": "Build reports and queries using BEx Query Designer."
+    },
+    {
+      "icon": "Award",
+      "title": "Certification & Interview Prep",
+      "description": "Prepare for SAP BW/BI certification and interview-style project questions."
+    }
+  ],
+  "whatbasis": [
+    {
+      "icon": "Server",
+      "title": "System Installation & Configuration",
+      "description": "Installing and configuring SAP systems (ECC and S/4HANA landscapes)."
+    },
+    {
+      "icon": "Users",
+      "title": "User Administration",
+      "description": "User administration — creating users, assigning roles, managing authorizations."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "Transport Management System",
+      "description": "Transport Management System (TMS) — configuring, importing, and troubleshooting transports."
+    },
+    {
+      "icon": "Activity",
+      "title": "System Monitoring",
+      "description": "System monitoring using CCMS and standard Basis monitoring tools."
+    },
+    {
+      "icon": "Gauge",
+      "title": "Performance Tuning",
+      "description": "Performance tuning and troubleshooting memory/buffer issues."
+    },
+    {
+      "icon": "AlertTriangle",
+      "title": "Production Support Tickets",
+      "description": "Handling real-time production support tickets and incident management."
+    }
+  ],
+  "whatds": [
+    {
+      "icon": "Code2",
+      "title": "Python for Data & AI",
+      "description": "Write clean, efficient Python code for data analysis and automation."
+    },
+    {
+      "icon": "Database",
+      "title": "Data Cleaning & Exploration",
+      "description": "Clean, transform and explore messy real-world datasets with Pandas and NumPy."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Statistics & Probability",
+      "description": "Apply statistics and probability to actually make sense of data, not just memorise formulas."
+    },
+    {
+      "icon": "Layers",
+      "title": "Machine Learning Models",
+      "description": "Build, train and evaluate machine learning models — regression, classification, clustering."
+    },
+    {
+      "icon": "Rocket",
+      "title": "Deep Learning & Generative AI",
+      "description": "Use deep learning frameworks and work with generative AI, LLMs and prompt engineering."
+    },
+    {
+      "icon": "Award",
+      "title": "Deployment & Portfolio",
+      "description": "Deploy a working model as a simple web app and present findings clearly to a non-technical audience."
+    }
+  ],
+  "whatda": [
+    {
+      "icon": "Database",
+      "title": "Excel, SQL & Python Analytics",
+      "description": "Clean, structure and analyze large datasets using Excel, SQL and Python."
+    },
+    {
+      "icon": "PieChart",
+      "title": "Power BI & Tableau Dashboards",
+      "description": "Build interactive dashboards in Power BI and Tableau that tell a clear business story."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Statistics & Predictive Modeling",
+      "description": "Apply statistical methods and train basic machine learning models for prediction and classification."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Generative AI for Analytics",
+      "description": "Use Generative AI tools and prompt engineering to automate reports, summarize data and generate insights."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Data Storytelling",
+      "description": "Design and present data stories that decision-makers can actually act on."
+    },
+    {
+      "icon": "Award",
+      "title": "Capstone Portfolio",
+      "description": "Build a portfolio of live projects using real datasets across retail, finance and e-commerce."
+    }
+  ],
+  "whatba": [
+    {
+      "icon": "BarChart3",
+      "title": "Business Analytics Essentials",
+      "description": "Understand how business analytics drives strategic and operational decisions."
+    },
+    {
+      "icon": "Database",
+      "title": "Data-Driven Decision Making",
+      "description": "Learn to collect, analyze and interpret data to support business goals."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Predictive Analytics",
+      "description": "Use predictive models to forecast trends and identify opportunities."
+    },
+    {
+      "icon": "PieChart",
+      "title": "Business Intelligence Tools",
+      "description": "Work with BI tools to create reports, KPIs and performance dashboards."
+    },
+    {
+      "icon": "Users",
+      "title": "Stakeholder Communication",
+      "description": "Present insights clearly to both technical and non-technical audiences."
+    },
+    {
+      "icon": "Award",
+      "title": "Job-Ready Skills",
+      "description": "Build the practical skills needed for Business Analyst and BI roles."
+    }
+  ],
+  "whatgpt": [
+    {
+      "icon": "Cloud",
+      "title": "LLM Fundamentals",
+      "description": "Understand how large language models like GPT, Claude and Gemini actually work."
+    },
+    {
+      "icon": "Code2",
+      "title": "Prompt Engineering",
+      "description": "Write high-quality prompts using proven prompt engineering frameworks."
+    },
+    {
+      "icon": "Layers",
+      "title": "RAG & Custom GPTs",
+      "description": "Use Retrieval-Augmented Generation to connect AI models to your own data and build custom GPTs and chatbots."
+    },
+    {
+      "icon": "Rocket",
+      "title": "AI Agents & Automation",
+      "description": "Build AI agents and automate content, research and reporting workflows."
+    },
+    {
+      "icon": "Settings",
+      "title": "Fine-Tuning & Responsible AI",
+      "description": "Understand fine-tuning basics and apply AI responsibly covering bias, hallucination and data privacy."
+    },
+    {
+      "icon": "Award",
+      "title": "Portfolio Projects",
+      "description": "Build a portfolio of real Generative AI projects you can show in interviews or client pitches."
+    }
+  ],
+  "whatfullstack": [
+    {
+      "icon": "Code2",
+      "title": "Frontend Development",
+      "description": "Build responsive user interfaces with modern frontend technologies and frameworks."
+    },
+    {
+      "icon": "Server",
+      "title": "Backend Development",
+      "description": "Create robust server-side applications, APIs and business logic."
+    },
+    {
+      "icon": "Database",
+      "title": "Database Design & Integration",
+      "description": "Design databases and integrate them seamlessly with frontend and backend."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "Full Application Architecture",
+      "description": "Understand how all layers of a web application work together."
+    },
+    {
+      "icon": "Rocket",
+      "title": "Deployment & DevOps Basics",
+      "description": "Deploy applications and understand basic CI/CD and hosting concepts."
+    },
+    {
+      "icon": "Award",
+      "title": "Portfolio & Job Readiness",
+      "description": "Build real projects and prepare for Full Stack Developer interviews."
+    }
+  ],
+  "whatjava": [
+    {
+      "icon": "Code2",
+      "title": "Core Java & OOP",
+      "description": "Write clean, efficient Java code using core OOP principles — inheritance, polymorphism, encapsulation, abstraction."
+    },
+    {
+      "icon": "Layers",
+      "title": "Collections, Multithreading & JDBC",
+      "description": "Work confidently with Java collections, exception handling, multithreading and connect applications to databases."
+    },
+    {
+      "icon": "Server",
+      "title": "Spring Boot & REST APIs",
+      "description": "Build and consume REST APIs using Spring Boot."
+    },
+    {
+      "icon": "Database",
+      "title": "Hibernate / JPA",
+      "description": "Use Hibernate/JPA for object-relational mapping in real projects."
+    },
+    {
+      "icon": "Rocket",
+      "title": "Git, Testing & Deployment",
+      "description": "Use Git, write unit tests with JUnit and deploy a working Java application from scratch."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview & DSA Prep",
+      "description": "Approach coding interview questions and DSA problems with a structured method."
+    }
+  ],
+  "whatpython": [
+    {
+      "icon": "Code2",
+      "title": "Core Python & OOP",
+      "description": "Master core Python programming — variables, data types, loops, functions, logic building and OOP concepts."
+    },
+    {
+      "icon": "Database",
+      "title": "Data Handling & Libraries",
+      "description": "Work with files, databases and popular data libraries like NumPy, Pandas and Matplotlib."
+    },
+    {
+      "icon": "Globe",
+      "title": "Web Scraping & Automation",
+      "description": "Build mini real-world projects including automation scripts and web scraping fundamentals."
+    },
+    {
+      "icon": "Server",
+      "title": "APIs & Web Basics",
+      "description": "Work with APIs and get an introduction to web development using Flask/Django basics."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "Git & Project Work",
+      "description": "Use version control with Git and GitHub for collaborative projects."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview & Portfolio Ready",
+      "description": "Prepare for interviews with resume building, mock technical interviews and a portfolio of projects."
+    }
+  ],
+  "whatsales": [
+    {
+      "icon": "Cloud",
+      "title": "Salesforce Platform Fundamentals",
+      "description": "Understand the Salesforce ecosystem, CRM concepts and cloud architecture."
+    },
+    {
+      "icon": "Settings",
+      "title": "Salesforce Configuration",
+      "description": "Configure objects, fields, page layouts, workflows and process automation."
+    },
+    {
+      "icon": "Code2",
+      "title": "Apex & Lightning Development",
+      "description": "Write Apex code and build Lightning components for custom solutions."
+    },
+    {
+      "icon": "Users",
+      "title": "CRM Process Implementation",
+      "description": "Implement sales, service and marketing processes on the Salesforce platform."
+    },
+    {
+      "icon": "Link",
+      "title": "Integrations & AppExchange",
+      "description": "Integrate Salesforce with external systems and leverage AppExchange apps."
+    },
+    {
+      "icon": "Award",
+      "title": "Certification & Job Prep",
+      "description": "Prepare for Salesforce Admin/Developer certifications and interviews."
+    }
+  ],
+  "whatpowerbi": [
+    {
+      "icon": "Database",
+      "title": "Data Connection & Power Query",
+      "description": "Connect Power BI to Excel, SQL databases, web sources and clean data using Power Query."
+    },
+    {
+      "icon": "Layers",
+      "title": "Data Modeling & Relationships",
+      "description": "Build relationships between multiple tables and design a proper data model."
+    },
+    {
+      "icon": "Calculator",
+      "title": "DAX Formulas",
+      "description": "Write DAX formulas — from basic calculated columns to advanced measures."
+    },
+    {
+      "icon": "PieChart",
+      "title": "Interactive Dashboards",
+      "description": "Design dashboards that are visually clear with slicers, filters, bookmarks and drill-throughs."
+    },
+    {
+      "icon": "Share2",
+      "title": "Publishing & Security",
+      "description": "Publish and share dashboards through the Power BI Service with scheduled refresh and row-level security."
+    },
+    {
+      "icon": "Award",
+      "title": "Portfolio & Career Ready",
+      "description": "Present data insights confidently and build portfolio projects for analyst roles."
+    }
+  ],
+  "whattableau": [
+    {
+      "icon": "Database",
+      "title": "Data Connections & Prep",
+      "description": "Connect Tableau to Excel, SQL databases and cloud platforms and prepare data using Tableau Prep."
+    },
+    {
+      "icon": "Calculator",
+      "title": "Calculations & LOD",
+      "description": "Build calculated fields, table calculations and Level of Detail (LOD) expressions."
+    },
+    {
+      "icon": "PieChart",
+      "title": "Interactive Dashboards",
+      "description": "Design interactive dashboards, stories and reports that communicate insights clearly."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Visualization Best Practices",
+      "description": "Apply data visualization best practices used by real BI teams."
+    },
+    {
+      "icon": "Share2",
+      "title": "Publishing & Sharing",
+      "description": "Publish and share dashboards securely on Tableau Server and Tableau Cloud."
+    },
+    {
+      "icon": "Award",
+      "title": "Portfolio Projects",
+      "description": "Work on live business case studies and prepare a portfolio of dashboards for interviews."
+    }
+  ],
+  "whatdatavisual": [
+    {
+      "icon": "Database",
+      "title": "Data Cleaning & Preparation",
+      "description": "Clean, structure and prepare raw data for visualization using Excel and Python."
+    },
+    {
+      "icon": "PieChart",
+      "title": "Power BI & Tableau Dashboards",
+      "description": "Build interactive dashboards in Power BI and Tableau from scratch."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Chart Selection & Design",
+      "description": "Apply visual design principles, color theory and chart selection for effective storytelling."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "AI-Assisted Visualization",
+      "description": "Leverage AI tools and prompts to auto-generate charts, summaries and data narratives."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Interactive & Executive Reports",
+      "description": "Design executive-ready reports and present data confidently in interviews and client meetings."
+    },
+    {
+      "icon": "Award",
+      "title": "Portfolio Projects",
+      "description": "Build a professional portfolio with 5+ real-world visualization projects."
+    }
+  ],
+  "whatit": [
+    {
+      "icon": "Code2",
+      "title": "Software Development Fundamentals",
+      "description": "Build a strong foundation in programming, logic and software engineering principles."
+    },
+    {
+      "icon": "Layers",
+      "title": "Multiple Technology Tracks",
+      "description": "Gain exposure to Data Science, Analytics, Python, Java and related technologies."
+    },
+    {
+      "icon": "Database",
+      "title": "Data & Backend Skills",
+      "description": "Work with databases, APIs and backend concepts used in modern applications."
+    },
+    {
+      "icon": "Rocket",
+      "title": "Project-Based Learning",
+      "description": "Apply skills through practical projects that simulate real industry work."
+    },
+    {
+      "icon": "Users",
+      "title": "Collaboration & Best Practices",
+      "description": "Learn version control, code reviews and team collaboration practices."
+    },
+    {
+      "icon": "Award",
+      "title": "Career Launch Pad",
+      "description": "Prepare for roles such as Developer, Analyst or Full Stack Engineer."
+    }
+  ],
+  "whatana": [
+    {
+      "icon": "BarChart3",
+      "title": "HR Metrics & KPIs",
+      "description": "Calculate and interpret key HR metrics: attrition rate, time-to-hire, cost-per-hire, eNPS and span of control."
+    },
+    {
+      "icon": "PieChart",
+      "title": "HR Dashboards in Excel & Power BI",
+      "description": "Build interactive HR dashboards using Excel and Power BI that leadership actually acts on."
+    },
+    {
+      "icon": "Database",
+      "title": "Workforce Data Analysis",
+      "description": "Collect, clean and analyze workforce data across recruitment, performance, compensation and retention."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Predictive Attrition Models",
+      "description": "Create a predictive attrition model using simple, explainable techniques."
+    },
+    {
+      "icon": "Users",
+      "title": "Survey & Engagement Analysis",
+      "description": "Design and analyse employee engagement surveys and present people-metrics to leadership."
+    },
+    {
+      "icon": "Award",
+      "title": "People Analytics Portfolio",
+      "description": "Build a portfolio of dashboards and reports you can show in interviews for People Analytics roles."
+    }
+  ],
+  "whatman": [
+    {
+      "icon": "Users",
+      "title": "End-to-End Recruitment",
+      "description": "Manage the complete recruitment lifecycle — from job posting to offer rollout."
+    },
+    {
+      "icon": "FileText",
+      "title": "HR Documentation & Policies",
+      "description": "Draft offer letters, appointment letters and HR policy documents that hold up legally."
+    },
+    {
+      "icon": "Banknote",
+      "title": "Payroll & Statutory Compliance",
+      "description": "Process monthly payroll including PF, ESIC, gratuity and TDS calculations."
+    },
+    {
+      "icon": "Target",
+      "title": "Performance Management",
+      "description": "Design and run performance appraisal cycles including KRA and KPI setting."
+    },
+    {
+      "icon": "HeartPulse",
+      "title": "Employee Relations & Engagement",
+      "description": "Handle grievances, plan engagement activities and manage workplace conflicts professionally."
+    },
+    {
+      "icon": "Award",
+      "title": "HRMS Tools & Interview Ready",
+      "description": "Use HRMS platforms and Excel for day-to-day operations while preparing for HR interviews."
+    }
+  ],
+  "whatpayroll": [
+    {
+      "icon": "Banknote",
+      "title": "CTC & Salary Structuring",
+      "description": "Design and structure a compliant CTC and salary breakup."
+    },
+    {
+      "icon": "Calculator",
+      "title": "Monthly Payroll Processing",
+      "description": "Process monthly payroll from attendance to final disbursement."
+    },
+    {
+      "icon": "FileText",
+      "title": "Statutory Compliance (PF, ESI, TDS)",
+      "description": "Calculate and file PF, ESI, Professional Tax and TDS accurately."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "Full & Final Settlements",
+      "description": "Handle Full & Final settlements, gratuity and bonus calculations."
+    },
+    {
+      "icon": "Shield",
+      "title": "Payroll Audits & Reconciliation",
+      "description": "Manage payroll audits, resolve discrepancies and generate payslips and Form 16."
+    },
+    {
+      "icon": "Award",
+      "title": "Payroll Software & Career",
+      "description": "Work hands-on with greytHR, Zoho Payroll and Excel while preparing for payroll roles."
+    }
+  ],
+  "whatgen": [
+    {
+      "icon": "Users",
+      "title": "End-to-End Recruitment",
+      "description": "Handle sourcing, screening, interviewing and offer rollout independently."
+    },
+    {
+      "icon": "Banknote",
+      "title": "Payroll Processing & Compliance",
+      "description": "Process payroll, understand salary structures and calculate statutory deductions."
+    },
+    {
+      "icon": "FileText",
+      "title": "HR Policies & Documentation",
+      "description": "Draft HR letters — offer letters, appointment letters, warning letters and relieving letters."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "Onboarding & Employee Lifecycle",
+      "description": "Manage onboarding, induction, attendance, leave and full employee documentation."
+    },
+    {
+      "icon": "Target",
+      "title": "Performance & Employee Relations",
+      "description": "Conduct performance appraisals, manage KRAs/KPIs and handle grievances professionally."
+    },
+    {
+      "icon": "Award",
+      "title": "HRMS Tools & Job Readiness",
+      "description": "Work confidently on HRMS tools, Excel and HR reporting while preparing for Generalist roles."
+    }
+  ],
+  "whathrtrain": [
+    {
+      "icon": "Users",
+      "title": "Full Recruitment Cycle",
+      "description": "Manage the complete recruitment and selection lifecycle, from sourcing to onboarding."
+    },
+    {
+      "icon": "Banknote",
+      "title": "Payroll & Statutory Compliance",
+      "description": "Process payroll accurately, including PF, ESI, gratuity and TDS calculations."
+    },
+    {
+      "icon": "FileText",
+      "title": "HR Policies & Documentation",
+      "description": "Build HR policies, employee handbooks and standard operating procedures."
+    },
+    {
+      "icon": "Target",
+      "title": "Performance Management",
+      "description": "Design and run performance appraisal systems used by mid-size and large companies."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "HR Analytics & Dashboards",
+      "description": "Use HR analytics and Excel dashboards to track attrition, headcount and engagement."
+    },
+    {
+      "icon": "Award",
+      "title": "Interview & Placement Ready",
+      "description": "Conduct structured interviews and present HR data confidently to leadership teams."
+    }
+  ],
+  "whatcore": [
+    {
+      "icon": "Users",
+      "title": "Complete Recruitment Lifecycle",
+      "description": "Handle end-to-end recruitment — from job posting to offer letter."
+    },
+    {
+      "icon": "Banknote",
+      "title": "Payroll Processing & CTC",
+      "description": "Process monthly payroll, including salary structuring, TDS and deductions."
+    },
+    {
+      "icon": "Shield",
+      "title": "Statutory Compliance",
+      "description": "Apply statutory compliance laws — PF, ESI, Gratuity, Bonus Act and Labour Laws."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "Onboarding & Performance",
+      "description": "Run onboarding and induction processes and manage performance appraisal cycles."
+    },
+    {
+      "icon": "FileText",
+      "title": "HR Policies & Documentation",
+      "description": "Draft HR policies, employee handbooks and offer/appointment letters."
+    },
+    {
+      "icon": "Award",
+      "title": "HRMS Tools & Career Start",
+      "description": "Use HRMS tools and Excel for HR reporting while preparing for Core HR and HR Executive roles."
+    }
+  ],
+  "whathr": [
+    {
+      "icon": "Users",
+      "title": "HR Core Functions",
+      "description": "Master the essential HR functions that every organization needs."
+    },
+    {
+      "icon": "ClipboardList",
+      "title": "End-to-End HR Processes",
+      "description": "Handle recruitment, employee relations, payroll support and compliance."
+    },
+    {
+      "icon": "Target",
+      "title": "Talent & Performance",
+      "description": "Support talent acquisition, development and performance management."
+    },
+    {
+      "icon": "Banknote",
+      "title": "Compensation Basics",
+      "description": "Understand compensation structures and basic payroll concepts."
+    },
+    {
+      "icon": "Shield",
+      "title": "Compliance & Policies",
+      "description": "Apply labor laws and organizational policies correctly."
+    },
+    {
+      "icon": "Award",
+      "title": "HR Career Readiness",
+      "description": "Get ready for HR Generalist, HR Executive and related positions."
+    }
+  ],
+  "whatagentic": [
+    {
+      "icon": "Bot",
+      "title": "Agentic AI Fundamentals",
+      "description": "Explain how agentic AI differs from traditional generative AI and rule-based automation."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "Agent Architectures",
+      "description": "Design single-agent, multi-agent and hierarchical agent architectures."
+    },
+    {
+      "icon": "Code2",
+      "title": "LangChain, LangGraph & CrewAI",
+      "description": "Build agents using LangChain, LangGraph, CrewAI, AutoGen and OpenAI Assistants API."
+    },
+    {
+      "icon": "Database",
+      "title": "Memory, Tools & RAG",
+      "description": "Give agents memory, connect them to external tools/APIs and implement Retrieval-Augmented Generation."
+    },
+    {
+      "icon": "Users",
+      "title": "Multi-Agent Collaboration",
+      "description": "Set up multi-agent systems where agents delegate work and collaborate on goals."
+    },
+    {
+      "icon": "Award",
+      "title": "Deployment, Guardrails & Debugging",
+      "description": "Add guardrails, evaluate agent behavior, deploy applications and monitor them in production."
+    }
+  ],
+  "whataws": [
+    {
+      "icon": "Cloud",
+      "title": "Cloud & AWS Fundamentals",
+      "description": "Understand core cloud computing concepts and set up AWS accounts, IAM users, roles and policies securely."
+    },
+    {
+      "icon": "Server",
+      "title": "Compute & Storage",
+      "description": "Launch and manage EC2 instances, configure auto-scaling, load balancing and design storage with S3, EBS and Glacier."
+    },
+    {
+      "icon": "Network",
+      "title": "Networking & Security",
+      "description": "Build Virtual Private Clouds (VPC), subnets, security groups and apply security best practices including encryption."
+    },
+    {
+      "icon": "Database",
+      "title": "Databases & Serverless",
+      "description": "Work with RDS, DynamoDB and deploy serverless applications using Lambda and API Gateway."
+    },
+    {
+      "icon": "Activity",
+      "title": "Monitoring, CI/CD & Cost",
+      "description": "Set up CloudWatch, CloudTrail, basic CI/CD pipelines and optimize costs using the AWS Pricing Calculator."
+    },
+    {
+      "icon": "Award",
+      "title": "Certification & Job Readiness",
+      "description": "Prepare confidently for AWS Certified Solutions Architect – Associate and related cloud roles."
+    }
+  ],
+  "whatdevops": [
+    {
+      "icon": "Terminal",
+      "title": "Linux & Version Control",
+      "description": "Set up and manage Linux servers, write shell scripts and use Git/GitHub for collaborative workflows."
+    },
+    {
+      "icon": "GitBranch",
+      "title": "CI/CD Pipelines",
+      "description": "Build automated CI/CD pipelines using Jenkins and GitHub Actions."
+    },
+    {
+      "icon": "Box",
+      "title": "Docker & Containerization",
+      "description": "Containerize applications with Docker and manage multi-container setups."
+    },
+    {
+      "icon": "Layers",
+      "title": "Kubernetes Orchestration",
+      "description": "Deploy, scale and monitor applications on Kubernetes clusters."
+    },
+    {
+      "icon": "Cloud",
+      "title": "Infrastructure as Code & Cloud",
+      "description": "Provision infrastructure on AWS using Terraform and implement configuration management with Ansible."
+    },
+    {
+      "icon": "Award",
+      "title": "Monitoring, Security & Interview Prep",
+      "description": "Monitor with Prometheus/Grafana, apply DevSecOps basics and prepare for DevOps engineer roles."
+    }
+  ],
+  "whataiml": [
+    {
+      "icon": "Code2",
+      "title": "Python for AI & ML",
+      "description": "Write clean, efficient Python code for data analysis and machine learning."
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Statistics & Data Handling",
+      "description": "Apply statistics, clean and visualize data using Pandas, NumPy and Matplotlib."
+    },
+    {
+      "icon": "Layers",
+      "title": "Machine Learning Models",
+      "description": "Build and evaluate supervised and unsupervised machine learning models."
+    },
+    {
+      "icon": "Brain",
+      "title": "Deep Learning & Neural Networks",
+      "description": "Design and train deep learning models using TensorFlow and PyTorch for image and text data."
+    },
+    {
+      "icon": "MessageSquare",
+      "title": "NLP & Generative AI",
+      "description": "Work with natural language processing, chatbots and generative AI / LLM concepts."
+    },
+    {
+      "icon": "Award",
+      "title": "Deployment & Portfolio",
+      "description": "Deploy models using Flask/APIs and cloud platforms and present findings clearly."
+    }
+  ]
+}

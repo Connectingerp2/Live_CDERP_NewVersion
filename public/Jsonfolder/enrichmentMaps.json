@@ -1,0 +1,1331 @@
+{
+    "whatWillLearnMap": {
+        "sap": "whatsap",
+        "sap-fico": "whatfico",
+        "sap-mm": "whatmm",
+        "sap-hr-hcm": "whathrhcm",
+        "sap-qm": "whatqm",
+        "sap-ps": "whatps",
+        "sap-scm": "whatscm",
+        "sap-ehs": "whatehs",
+        "sap-ibp": "whatibp",
+        "sap-ariba": "whatariba",
+        "sap-sd": "whatsd",
+        "sap-pp": "whatpp",
+        "sap-pm": "whatpm",
+        "sap-ewm": "whatewm",
+        "sap-btp": "whatbtp",
+        "sap-grc": "whatgrc",
+        "sap-successfactors": "whatsucc",
+        "sap-abap": "whatabap",
+        "sap-s4-hana": "whathana",
+        "sap-bwbi": "whatbwbi",
+        "sap-basis": "whatbasis",
+        "data-science": "whatds",
+        "data-analytics": "whatda",
+        "business-analytics": "whatba",
+        "chatgpt": "whatgpt",
+        "generative-ai": "whatgpt",
+        "agentic-ai": "whatagentic",
+        "full-stack": "whatfullstack",
+        "java": "whatjava",
+        "python": "whatpython",
+        "salesforce": "whatsales",
+        "power-bi": "whatpowerbi",
+        "tableau": "whattableau",
+        "data-visualization": "whatdatavisual",
+        "it": "whatit",
+        "hr-analytics": "whatana",
+        "hr-management": "whatman",
+        "hr-payroll": "whatpayroll",
+        "hr-generalist": "whatgen",
+        "hr-training": "whathrtrain",
+        "core-hr": "whatcore",
+        "hr": "whathr",
+        "aws": "whataws",
+        "devops": "whatdevops",
+        "ai-ml": "whataiml"
+    },
+    "skillsToCoursesMap": {
+        "SkillsSAP": [
+            "sap"
+        ],
+        "SkillsFICO": [
+            "sap-fico"
+        ],
+        "SkillsMM": [
+            "sap-mm"
+        ],
+        "SkillsHCM": [
+            "sap-hr-hcm"
+        ],
+        "SkillsQM": [
+            "sap-qm"
+        ],
+        "SkillsPS": [
+            "sap-ps"
+        ],
+        "SkillsSCM": [
+            "sap-scm"
+        ],
+        "SkillsEHS": [
+            "sap-ehs"
+        ],
+        "SkillsIBP": [
+            "sap-ibp"
+        ],
+        "SkillsAriba": [
+            "sap-ariba"
+        ],
+        "SkillsSD": [
+            "sap-sd"
+        ],
+        "SkillsPP": [
+            "sap-pp"
+        ],
+        "SkillsPM": [
+            "sap-pm"
+        ],
+        "SkillsEWM": [
+            "sap-ewm"
+        ],
+        "SkillsBTP": [
+            "sap-btp"
+        ],
+        "SkillsGRC": [
+            "sap-grc"
+        ],
+        "SkillsSF": [
+            "sap-successfactors"
+        ],
+        "SkillsABAP": [
+            "sap-abap"
+        ],
+        "SkillsHana": [
+            "sap-s4-hana"
+        ],
+        "SkillsBWBI": [
+            "sap-bwbi"
+        ],
+        "SkillsBasis": [
+            "sap-basis"
+        ],
+        "SkillsDataScience": [
+            "data-science"
+        ],
+        "SkillsDataAnalytics": [
+            "data-analytics"
+        ],
+        "SkillsBusinessAnalytics": [
+            "business-analytics"
+        ],
+        "SkillsGenAI": [
+            "chatgpt",
+            "generative-ai"
+        ],
+        "SkillsAgentic": [
+            "agentic-ai"
+        ],
+        "SkillsFullStack": [
+            "full-stack"
+        ],
+        "SkillsJava": [
+            "java"
+        ],
+        "SkillsPython": [
+            "python"
+        ],
+        "SkillsSalesforce": [
+            "salesforce"
+        ],
+        "SkillsPowerBI": [
+            "power-bi"
+        ],
+        "SkillsTableau": [
+            "tableau"
+        ],
+        "SkillsDataVisualization": [
+            "data-visualization"
+        ],
+        "SkillsIT": [
+            "it"
+        ],
+        "SkillsHRAnalytics": [
+            "hr-analytics"
+        ],
+        "SkillsHRManagement": [
+            "hr-management"
+        ],
+        "SkillsPayroll": [
+            "hr-payroll"
+        ],
+        "SkillsHRGeneralist": [
+            "hr-generalist"
+        ],
+        "SkillsHRTraining": [
+            "hr-training"
+        ],
+        "SkillsCoreHR": [
+            "core-hr"
+        ],
+        "SkillsHR": [
+            "hr"
+        ],
+        "SkillsAWS": [
+            "aws"
+        ],
+        "SkillsDevOps": [
+            "devops"
+        ],
+        "SkillsAIML": [
+            "ai-ml"
+        ]
+    },
+    "courseToWhoMap": {
+        "it": [
+            "Software Developer",
+            "Full Stack Developer",
+            "Front-End Developer",
+            "Back-End Developer",
+            "Java Developer",
+            "Python Developer",
+            "Data Analyst",
+            "Web Developer"
+        ],
+        "business-analytics": [
+            "Business Analyst",
+            "Data Analyst",
+            "Business Intelligence Analyst",
+            "Management Consultant",
+            "Data Scientist",
+            "Analytics Consultant",
+            "Business Intelligence Developer",
+            "Market Research Analyst"
+        ],
+        "data-analytics": [
+            "Data Analyst",
+            "Business Analyst",
+            "Data Scientist",
+            "Operations Analyst",
+            "Market Research Analyst",
+            "Business Intelligence Analyst",
+            "Data Visualization Specialist",
+            "Quantitative Analyst"
+        ],
+        "data-science": [
+            "Data Scientist",
+            "Machine Learning Engineer",
+            "Data Analyst",
+            "AI Specialist",
+            "Research Scientist",
+            "Business Intelligence Analyst",
+            "Data Engineer",
+            "Quantitative Analyst"
+        ],
+        "agentic-ai": [
+            "Agentic AI Engineer",
+            "AI Automation Specialist",
+            "LLM Engineer",
+            "AI Product Developer",
+            "Prompt Engineer",
+            "AI Solutions Architect",
+            "ML Engineer",
+            "AI Consultant"
+        ],
+        "generative-ai": [
+            "AI Developer",
+            "Machine Learning Engineer",
+            "Data Scientist",
+            "AI Research Scientist",
+            "NLP Engineer",
+            "Prompt Engineer",
+            "AI Product Manager",
+            "MLOps Engineer"
+        ],
+        "chatgpt": [
+            "AI Developer",
+            "Machine Learning Engineer",
+            "Data Scientist",
+            "AI Research Scientist",
+            "NLP Engineer",
+            "Prompt Engineer",
+            "AI Product Manager",
+            "MLOps Engineer"
+        ],
+        "full-stack": [
+            "Full Stack Developer",
+            "Web Developer",
+            "Frontend Developer",
+            "Backend Developer",
+            "Software Engineer",
+            "JavaScript Developer",
+            "React Developer",
+            "Node.js Developer"
+        ],
+        "java": [
+            "Java Developer",
+            "Software Engineer",
+            "Backend Developer",
+            "Full Stack Java Developer",
+            "Spring Developer",
+            "Enterprise Application Developer",
+            "Java Architect",
+            "Software Consultant"
+        ],
+        "python": [
+            "Python Developer",
+            "Data Analyst",
+            "Web Developer",
+            "Machine Learning Engineer",
+            "Backend Developer",
+            "Automation Engineer",
+            "Software Engineer",
+            "Data Scientist"
+        ],
+        "salesforce": [
+            "Salesforce Administrator",
+            "Salesforce Developer",
+            "CRM Consultant",
+            "Salesforce Business Analyst",
+            "Salesforce Architect",
+            "CRM Manager",
+            "Salesforce Technical Lead",
+            "Cloud Solutions Consultant"
+        ],
+        "data-visualization": [
+            "Data Visualization Specialist",
+            "Business Intelligence Analyst",
+            "Data Analyst",
+            "Reporting Analyst",
+            "Dashboard Developer",
+            "BI Developer",
+            "Data Storyteller",
+            "Analytics Consultant"
+        ],
+        "power-bi": [
+            "Power BI Developer",
+            "Business Intelligence Analyst",
+            "Data Analyst",
+            "BI Consultant",
+            "Data Visualization Specialist",
+            "Business Analyst",
+            "Reporting Analyst",
+            "Data Engineer"
+        ],
+        "tableau": [
+            "Tableau Developer",
+            "Data Visualization Specialist",
+            "Business Intelligence Analyst",
+            "Data Analyst",
+            "BI Developer",
+            "Analytics Consultant",
+            "Reporting Analyst",
+            "Data Storyteller"
+        ],
+        "hr-training": [
+            "HR Generalist",
+            "HR Specialist",
+            "HR Business Partner",
+            "HR Manager",
+            "Recruitment Specialist",
+            "Compensation Analyst",
+            "Training Coordinator",
+            "Employee Relations Manager"
+        ],
+        "core-hr": [
+            "HR Generalist",
+            "Recruitment Specialist",
+            "Payroll Officer",
+            "HR Compliance Manager",
+            "Employee Relations Coordinator",
+            "HR Assistant",
+            "HR Executive",
+            "Talent Acquisition Specialist"
+        ],
+        "hr-generalist": [
+            "HR Generalist",
+            "HR Coordinator",
+            "HR Executive",
+            "Talent Acquisition Specialist",
+            "Payroll Administrator",
+            "Employee Relations Specialist",
+            "HR Business Partner",
+            "Recruitment Specialist"
+        ],
+        "hr-analytics": [
+            "HR Analyst",
+            "People Analytics Specialist",
+            "Workforce Planning Analyst",
+            "HR Business Partner",
+            "Talent Management Analyst",
+            "HR Data Scientist",
+            "Compensation Analyst",
+            "Employee Insights Analyst"
+        ],
+        "hr-management": [
+            "HR Manager",
+            "HR Business Partner",
+            "Talent Management Specialist",
+            "Employee Relations Manager",
+            "HR Director",
+            "Organizational Development Manager",
+            "HR Consultant",
+            "People Operations Manager"
+        ],
+        "hr-payroll": [
+            "Payroll Specialist",
+            "HR Payroll Administrator",
+            "Payroll Compliance Officer",
+            "Compensation and Benefits Manager",
+            "Payroll Analyst",
+            "HRIS Administrator",
+            "Payroll Coordinator",
+            "Benefits Administrator"
+        ],
+        "aws": [
+            "Cloud Engineer",
+            "AWS Solutions Architect",
+            "DevOps Engineer",
+            "Cloud Support Associate",
+            "SysOps Administrator",
+            "Cloud Consultant",
+            "Infrastructure Engineer"
+        ],
+        "devops": [
+            "DevOps Engineer",
+            "Site Reliability Engineer",
+            "Cloud Engineer",
+            "CI/CD Engineer",
+            "Infrastructure Engineer",
+            "Platform Engineer",
+            "Automation Engineer"
+        ],
+        "ai-ml": [
+            "Machine Learning Engineer",
+            "AI Engineer",
+            "Data Scientist",
+            "MLOps Engineer",
+            "Deep Learning Engineer",
+            "AI Specialist",
+            "Research Scientist"
+        ],
+        "sap-fico": [
+            "SAP FICO Consultant",
+            "Finance Analyst",
+            "SAP Functional Consultant",
+            "Financial Controller",
+            "Cost Accountant"
+        ],
+        "sap": [
+            "SAP FICO Consultant",
+            "SAP MM Consultant",
+            "SAP SD Consultant",
+            "SAP Functional Consultant",
+            "SAP Implementation Specialist",
+            "SAP Business Analyst",
+            "ERP Consultant"
+        ],
+        "sap-abap": [
+            "SAP Technical Developer",
+            "SAP ABAP Consultant",
+            "SAP Application Programmer",
+            "SAP Technical Consultant",
+            "ABAP Developer",
+            "SAP Systems Developer",
+            "ERP Technical Specialist"
+        ],
+        "sap-ariba": [
+            "SAP Ariba Consultant",
+            "Procurement Specialist",
+            "Supply Chain Analyst",
+            "Contract Manager",
+            "Supplier Relationship Manager",
+            "Procurement Analyst",
+            "Strategic Sourcing Specialist"
+        ],
+        "sap-basis": [
+            "SAP NetWeaver Administrator",
+            "SAP System Administrator",
+            "SAP BASIS Consultant",
+            "SAP Technical Consultant",
+            "SAP Infrastructure Specialist",
+            "SAP Systems Analyst",
+            "ERP System Administrator"
+        ],
+        "sap-bwbi": [
+            "SAP BI Consultant",
+            "Data Warehouse Developer",
+            "Business Intelligence Analyst",
+            "Reporting Specialist",
+            "SAP BW Developer",
+            "Data Analyst",
+            "ETL Developer"
+        ],
+        "sap-ewm": [
+            "SAP EWM Consultant",
+            "Warehouse Manager",
+            "Logistics Consultant",
+            "Supply Chain Analyst",
+            "SAP Functional Consultant (EWM)",
+            "Inventory Manager"
+        ],
+        "sap-s4-hana": [
+            "SAP S/4 HANA Consultant",
+            "SAP FICO S/4HANA Consultant",
+            "SAP Logistics S/4HANA Consultant",
+            "SAP S/4HANA Architect",
+            "SAP Technical Consultant (S/4HANA)",
+            "ERP Transformation Consultant"
+        ],
+        "sap-hr-hcm": [
+            "SAP HR/HCM Consultant",
+            "HR Manager",
+            "Payroll Specialist",
+            "SAP HR Functional Consultant",
+            "Time Management Specialist",
+            "Recruitment Consultant"
+        ],
+        "sap-mm": [
+            "SAP MM Consultant",
+            "Procurement Specialist",
+            "Inventory Manager",
+            "SAP Supply Chain Consultant",
+            "Materials Planner",
+            "Logistics Coordinator"
+        ],
+        "sap-pm": [
+            "SAP PM Consultant",
+            "Maintenance Planner",
+            "Plant Maintenance Manager",
+            "SAP PM Functional Analyst",
+            "Maintenance Coordinator",
+            "Asset Management Specialist"
+        ],
+        "sap-pp": [
+            "SAP PP Consultant",
+            "Production Planner",
+            "Manufacturing Manager",
+            "SAP PP Functional Analyst",
+            "MRP Controller",
+            "Production Scheduler"
+        ],
+        "sap-ps": [
+            "SAP PS Consultant",
+            "Project Manager",
+            "Project Planner",
+            "SAP PS Functional Analyst",
+            "Project Cost Controller",
+            "Project Systems Specialist"
+        ],
+        "sap-qm": [
+            "SAP QM Consultant",
+            "Quality Manager",
+            "Compliance Specialist",
+            "Quality Assurance Analyst",
+            "SAP QM Functional Consultant",
+            "Quality Control Engineer"
+        ],
+        "sap-scm": [
+            "SAP SCM Consultant",
+            "Supply Chain Manager",
+            "Logistics Specialist",
+            "Demand Planner",
+            "Procurement Manager",
+            "SAP SCM Functional Analyst"
+        ],
+        "sap-sd": [
+            "SAP SD Consultant",
+            "Sales Manager",
+            "Distribution Specialist",
+            "SAP Sales Analyst",
+            "Order to Cash Process Lead",
+            "SAP SD Functional Consultant"
+        ],
+        "sap-successfactors": [
+            "SAP SuccessFactors Consultant",
+            "HR Manager",
+            "Talent Management Specialist",
+            "HRIS Analyst",
+            "SAP HCM Consultant (Cloud)",
+            "Recruitment Specialist"
+        ]
+    },
+    "courseToCertificateMap": {
+        "it": "Industry-Recognized IT Professional Certificate",
+        "business-analytics": "Certified Business Analytics Professional",
+        "data-analytics": "Certified Data Analytics Professional",
+        "data-science": "Certified Data Science Professional",
+        "agentic-ai": "Certified Agentic AI Professional",
+        "generative-ai": "Certified Generative AI Professional",
+        "chatgpt": "Certified Generative AI Professional",
+        "full-stack": "Certified Full Stack Developer",
+        "java": "Certified Java Developer",
+        "python": "Certified Python Developer",
+        "salesforce": "Salesforce Certified Administrator & Developer",
+        "data-visualization": "Certified Data Visualization Specialist",
+        "power-bi": "Microsoft Power BI Certified Professional",
+        "tableau": "Tableau Desktop Certified Professional",
+        "hr-training": "Certified HR Professional",
+        "core-hr": "Certified Core HR Professional",
+        "hr-generalist": "Certified HR Generalist Professional",
+        "hr-analytics": "Certified HR Analytics Professional",
+        "hr-management": "Certified HR Management Professional",
+        "hr-payroll": "Certified HR Payroll Professional",
+        "aws": "AWS Certified Solutions Architect – Associate",
+        "devops": "Certified DevOps Professional",
+        "ai-ml": "Certified AI & Machine Learning Professional",
+        "sap-fico": "SAP Certified Application Associate - Financial Accounting",
+        "sap": "SAP Certified Application Associate",
+        "sap-abap": "SAP Certified Development Associate - ABAP",
+        "sap-ariba": "SAP Certified Application Associate - Ariba",
+        "sap-basis": "SAP Certified Technology Associate - System Administration",
+        "sap-bwbi": "SAP Certified Application Associate - Business Warehouse",
+        "sap-ewm": "SAP Certified Application Associate - Extended Warehouse Management",
+        "sap-s4-hana": "SAP Certified Application Associate - S/4HANA",
+        "sap-hr-hcm": "SAP Certified Application Associate - Human Capital Management",
+        "sap-mm": "SAP Certified Application Associate - Procurement with SAP ERP 6.0 EHP7",
+        "sap-pm": "SAP Certified Application Associate - Plant Maintenance",
+        "sap-pp": "SAP Certified Application Associate - Production Planning",
+        "sap-ps": "SAP Certified Application Associate - Project System",
+        "sap-qm": "SAP Certified Application Associate - Quality Management",
+        "sap-scm": "SAP Certified Application Associate - SCM",
+        "sap-sd": "SAP Certified Application Associate - Sales and Distribution",
+        "sap-successfactors": "SAP Certified Application Associate - SAP SuccessFactors"
+    },
+    "headerMap": {
+        "sap-fico": [
+            "ficoheader",
+            "FICOHeader"
+        ],
+        "sap": [
+            "sapheader",
+            "SapHeader"
+        ],
+        "sap-abap": [
+            "abapheader",
+            "AbapHeader"
+        ],
+        "sap-ariba": [
+            "aribaheader",
+            "AribaHeader"
+        ],
+        "sap-basis": [
+            "basisheader",
+            "BasisHeader"
+        ],
+        "sap-bwbi": [
+            "bwbiheader",
+            "BwbiHeader"
+        ],
+        "sap-ewm": [
+            "ewmheader",
+            "EWMHeader"
+        ],
+        "sap-mm": [
+            "mmheader",
+            "MMHeader"
+        ],
+        "sap-sd": [
+            "sdheader",
+            "SDHeader"
+        ],
+        "sap-pp": [
+            "ppheader",
+            "PPHeader"
+        ],
+        "sap-pm": [
+            "pmheader",
+            "PMHeader"
+        ],
+        "sap-qm": [
+            "qmheader",
+            "QMHeader"
+        ],
+        "sap-ps": [
+            "psheader",
+            "PSHeader"
+        ],
+        "sap-hr-hcm": [
+            "hrhcmheader",
+            "HRHCMHeader"
+        ],
+        "sap-scm": [
+            "scmheader",
+            "SCMHeader"
+        ],
+        "sap-successfactors": [
+            "succheader",
+            "SuccHeader"
+        ],
+        "sap-s4-hana": [
+            "hanaheader",
+            "HanaHeader"
+        ],
+        "sap-btp": [
+            "btpheader",
+            "BTPHeader"
+        ],
+        "sap-ehs": [
+            "ehsheader",
+            "EHSHeader"
+        ],
+        "sap-grc": [
+            "grcheader",
+            "GRCHeader"
+        ],
+        "sap-ibp": [
+            "ibpheader",
+            "IBPHeader"
+        ],
+        "hr-training": [
+            "hrtraining",
+            "HRTrainingHeader"
+        ],
+        "core-hr": [
+            "coreheader",
+            "CoreHeader"
+        ],
+        "hr-generalist": [
+            "genpage",
+            "GENHeader"
+        ],
+        "hr-analytics": [
+            "anapage",
+            "ANAHeader"
+        ],
+        "hr-management": [
+            "manpage",
+            "MANHeader"
+        ],
+        "hr-payroll": [
+            "payrollmanpage",
+            "PAYROLLHeader"
+        ],
+        "hr": [
+            "hrcoursesheader",
+            "HRcoursesHeader"
+        ],
+        "it": [
+            "itcoursesheader",
+            "ITcoursesHeader"
+        ],
+        "data-science": [
+            "MDSpage",
+            "MDSHeader"
+        ],
+        "data-analytics": [
+            "MDApage",
+            "MDAHeader"
+        ],
+        "business-analytics": [
+            "BApage",
+            "BAHeader"
+        ],
+        "generative-ai": [
+            "GPTpage",
+            "GPTHeader"
+        ],
+        "chatgpt": [
+            "GPTpage",
+            "GPTHeader"
+        ],
+        "agentic-ai": [
+            "agenticheader",
+            "AgenticHeader"
+        ],
+        "ai-ml": [
+            "aimlheader",
+            "AIMLHeader"
+        ],
+        "full-stack": [
+            "fullstackheader",
+            "FullStackHeader"
+        ],
+        "java": [
+            "javaheader",
+            "JavaHeader"
+        ],
+        "python": [
+            "pythonheader",
+            "PythonHeader"
+        ],
+        "devops": [
+            "devopsheader",
+            "DevOpsHeader"
+        ],
+        "aws": [
+            "awsheader",
+            "AWSHeader"
+        ],
+        "salesforce": [
+            "salesheader",
+            "SalesHeader"
+        ],
+        "power-bi": [
+            "powerbi",
+            "POWERBI"
+        ],
+        "tableau": [
+            "tableau",
+            "TABLEAU"
+        ],
+        "data-visualization": [
+            "datavisualheader",
+            "DataVisualHeader"
+        ]
+    },
+    "whyMap": {
+        "sap-fico": [
+            "Whyfico",
+            "WhyFICO"
+        ],
+        "sap": [
+            "Whysap",
+            "WhySap"
+        ],
+        "sap-abap": [
+            "Whyabap",
+            "WhyAbap"
+        ],
+        "sap-ariba": [
+            "Whyariba",
+            "WhyAriba"
+        ],
+        "sap-basis": [
+            "Whybasis",
+            "WhyBasis"
+        ],
+        "sap-bwbi": [
+            "Whybwbi",
+            "WhyBwbi"
+        ],
+        "sap-ewm": [
+            "Whyewm",
+            "WhyEWM"
+        ],
+        "sap-mm": [
+            "Whymm",
+            "WhyMM"
+        ],
+        "sap-sd": [
+            "Whysd",
+            "WhySD"
+        ],
+        "sap-pp": [
+            "Whypp",
+            "WhyPP"
+        ],
+        "sap-pm": [
+            "Whypm",
+            "WhyPM"
+        ],
+        "sap-qm": [
+            "Whyqm",
+            "WhyQM"
+        ],
+        "sap-ps": [
+            "Whyps",
+            "WhyPS"
+        ],
+        "sap-hr-hcm": [
+            "Whyhcm",
+            "WhyHCM"
+        ],
+        "sap-scm": [
+            "Whyscm",
+            "WhySCM"
+        ],
+        "sap-successfactors": [
+            "Whysucc",
+            "WhySucc"
+        ],
+        "sap-s4-hana": [
+            "Whyhana",
+            "WhyHana"
+        ],
+        "sap-btp": [
+            "Whybtp",
+            "WhyBTP"
+        ],
+        "sap-ehs": [
+            "Whyehs",
+            "WhyEHS"
+        ],
+        "sap-grc": [
+            "Whygrc",
+            "WhyGRC"
+        ],
+        "sap-ibp": [
+            "Whyibp",
+            "WhyIBP"
+        ],
+        "hr-training": [
+            "Whyhr",
+            "WhyHR"
+        ],
+        "core-hr": [
+            "Whycore",
+            "WhyCORE"
+        ],
+        "hr-generalist": [
+            "Whygen",
+            "WhyGEN"
+        ],
+        "hr-analytics": [
+            "Whyana",
+            "WhyANA"
+        ],
+        "hr-management": [
+            "Whyman",
+            "WhyMAN"
+        ],
+        "hr-payroll": [
+            "Whypay",
+            "WhyPAY"
+        ],
+        "hr": [
+            "Whyhr",
+            "WhyHR"
+        ],
+        "it": [
+            "Whyit",
+            "WhyIT"
+        ],
+        "data-science": [
+            "Whyds",
+            "WhyDS"
+        ],
+        "data-analytics": [
+            "Whyda",
+            "WhyDA"
+        ],
+        "business-analytics": [
+            "Whyba",
+            "WhyBA"
+        ],
+        "chatgpt": [
+            "Whygpt",
+            "WhyGPT"
+        ],
+        "generative-ai": [
+            "Whygpt",
+            "WhyGPT"
+        ],
+        "aws": [
+            "Whyaws",
+            "WhyAWS"
+        ],
+        "devops": [
+            "Whydevops",
+            "WhyDEVOPS"
+        ],
+        "agentic-ai": [
+            "Whyagentic",
+            "WhyAgentic"
+        ],
+        "full-stack": [
+            "Whyfullstack",
+            "WhyFullStack"
+        ],
+        "java": [
+            "Whyjava",
+            "WhyJava"
+        ],
+        "python": [
+            "Whypython",
+            "WhyPython"
+        ],
+        "salesforce": [
+            "Whysales",
+            "WhySales"
+        ],
+        "power-bi": [
+            "Whypowerbi",
+            "WhyPOWERBI"
+        ],
+        "tableau": [
+            "Whytableau",
+            "WhyTABLEAU"
+        ],
+        "data-visualization": [
+            "Whydatavisual",
+            "WhyDataVisual"
+        ],
+        "ai-ml": [
+            "Whyaiml",
+            "WhyAIML"
+        ]
+    },
+    "skillsMap": {
+        "sap": "SkillsSAP",
+        "sap-fico": "SkillsFICO",
+        "sap-mm": "SkillsMM",
+        "sap-hr-hcm": "SkillsHCM",
+        "sap-qm": "SkillsQM",
+        "sap-ps": "SkillsPS",
+        "sap-scm": "SkillsSCM",
+        "sap-ehs": "SkillsEHS",
+        "sap-ibp": "SkillsIBP",
+        "sap-ariba": "SkillsAriba",
+        "sap-sd": "SkillsSD",
+        "sap-pp": "SkillsPP",
+        "sap-pm": "SkillsPM",
+        "sap-ewm": "SkillsEWM",
+        "sap-btp": "SkillsBTP",
+        "sap-grc": "SkillsGRC",
+        "sap-successfactors": "SkillsSF",
+        "sap-abap": "SkillsABAP",
+        "sap-s4-hana": "SkillsHana",
+        "sap-bwbi": "SkillsBWBI",
+        "sap-basis": "SkillsBasis",
+        "data-science": "SkillsDataScience",
+        "data-analytics": "SkillsDataAnalytics",
+        "business-analytics": "SkillsBusinessAnalytics",
+        "chatgpt": "SkillsGenAI",
+        "generative-ai": "SkillsGenAI",
+        "agentic-ai": "SkillsAgentic",
+        "full-stack": "SkillsFullStack",
+        "java": "SkillsJava",
+        "python": "SkillsPython",
+        "salesforce": "SkillsSalesforce",
+        "power-bi": "SkillsPowerBI",
+        "tableau": "SkillsTableau",
+        "data-visualization": "SkillsDataVisualization",
+        "it": "SkillsIT",
+        "hr-analytics": "SkillsHRAnalytics",
+        "hr-management": "SkillsHRManagement",
+        "hr-payroll": "SkillsPayroll",
+        "hr-generalist": "SkillsHRGeneralist",
+        "hr-training": "SkillsHRTraining",
+        "core-hr": "SkillsCoreHR",
+        "hr": "SkillsHR",
+        "devops": "SkillsDevOps",
+        "aws": "SkillsAWS",
+        "ai-ml": "SkillsAIML"
+    },
+    "whoMap": {
+        "sap": "whosap",
+        "sap-fico": "whofico",
+        "sap-mm": "whomm",
+        "sap-hr-hcm": "whohrhcm",
+        "sap-qm": "whoqm",
+        "sap-ps": "whops",
+        "sap-scm": "whoscm",
+        "sap-ehs": "whoehs",
+        "sap-ibp": "whoibp",
+        "sap-ariba": "whoariba",
+        "sap-sd": "whosd",
+        "sap-pp": "whopp",
+        "sap-pm": "whopm",
+        "sap-ewm": "whoewm",
+        "sap-btp": "whobtp",
+        "sap-grc": "whogrc",
+        "sap-successfactors": "whosucc",
+        "sap-abap": "whoabap",
+        "sap-s4-hana": "whohana",
+        "sap-bwbi": "whobwbi",
+        "sap-basis": "whobasis",
+        "data-science": "whods",
+        "data-analytics": "whoda",
+        "business-analytics": "whoba",
+        "chatgpt": "whogpt",
+        "generative-ai": "whogpt",
+        "agentic-ai": "whoagentic",
+        "full-stack": "whofullstack",
+        "java": "whojava",
+        "python": "whopython",
+        "salesforce": "whosales",
+        "power-bi": "whopowerbi",
+        "tableau": "whotableau",
+        "data-visualization": "whodatavisual",
+        "it": "whoit",
+        "hr-analytics": "whoana",
+        "hr-management": "whoman",
+        "hr-payroll": "whopayroll",
+        "hr-generalist": "whogen",
+        "hr-training": "whohrtrain",
+        "core-hr": "whocore",
+        "hr": "whohr",
+        "aws": "whoaws",
+        "devops": "whodevops",
+        "ai-ml": "whoaiml"
+    },
+    "certificateMap": {
+        "sap-abap": "abap",
+        "sap-ariba": "ariba",
+        "sap-basis": "basis",
+        "sap-fico": "fico",
+        "sap-ewm": "ewm",
+        "sap-mm": "mm",
+        "sap-bwbi": "bwbi",
+        "sap-ps": "ps",
+        "sap-pm": "pm",
+        "sap-qm": "qm",
+        "sap-pp": "pp",
+        "sap-s4-hana": "hana",
+        "sap-hr-hcm": "hrhcm",
+        "sap-scm": "scm",
+        "sap-successfactors": "successfactors",
+        "sap-sd": "sd",
+        "sap": "sap",
+        "data-science": "datascience",
+        "data-analytics": "dataanalytics",
+        "business-analytics": "businessanalytics",
+        "chatgpt": "genai",
+        "generative-ai": "genai",
+        "agentic-ai": "agenticai",
+        "full-stack": "fullstack",
+        "java": "java",
+        "python": "python",
+        "salesforce": "salesforce",
+        "tableau": "tableau",
+        "power-bi": "powerbi",
+        "core-hr": "corehr",
+        "hr-payroll": "hrpayroll",
+        "hr-management": "hrmanagement",
+        "hr-generalist": "hrgeneralist",
+        "hr-analytics": "hranalytics",
+        "hr-training": "hrtraining",
+        "it": "itcourses",
+        "hr": "hrcourses",
+        "data-visualization": "datavisualization",
+        "aws": "aws",
+        "devops": "devops",
+        "ai-ml": "ai"
+    },
+    "faqMap": {
+        "data-science": [
+            "dsfaq",
+            "DSFAQ"
+        ],
+        "data-analytics": [
+            "dafaq",
+            "DAFAQ"
+        ],
+        "business-analytics": [
+            "bafaq",
+            "BAFAQ"
+        ],
+        "chatgpt": [
+            "GPTfaq",
+            "GPTFAQ"
+        ],
+        "generative-ai": [
+            "GPTfaq",
+            "GPTFAQ"
+        ],
+        "agentic-ai": [
+            "agenticfaq",
+            "AgenticFAQ"
+        ],
+        "full-stack": [
+            "fullstackfaq",
+            "FullStackFAQ"
+        ],
+        "java": [
+            "javafaq",
+            "JavaFAQ"
+        ],
+        "python": [
+            "pythonfaq",
+            "PythonFAQ"
+        ],
+        "salesforce": [
+            "salesfaq",
+            "SalesFAQ"
+        ],
+        "sap-abap": [
+            "abapfaq",
+            "AbapFAQ"
+        ],
+        "sap-ariba": [
+            "aribafaq",
+            "AribaFAQ"
+        ],
+        "sap-basis": [
+            "basisfaq",
+            "BasisFAQ"
+        ],
+        "sap-bwbi": [
+            "bwbifaq",
+            "BwbiFAQ"
+        ],
+        "sap-ewm": [
+            "ewmfaq",
+            "EWMFAQ"
+        ],
+        "sap-fico": [
+            "ficofaq",
+            "FICOFAQ"
+        ],
+        "sap-mm": [
+            "mmfaq",
+            "MMFAQ"
+        ],
+        "sap-sd": [
+            "sdfaq",
+            "SDFAQ"
+        ],
+        "sap-hcm": [
+            "hcmfaq",
+            "HCMFAQ"
+        ],
+        "sap-pp": [
+            "ppfaq",
+            "PPFAQ"
+        ],
+        "sap-qm": [
+            "qmfaq",
+            "QMFAQ"
+        ],
+        "sap-pm": [
+            "pmfaq",
+            "PMFAQ"
+        ],
+        "sap-ps": [
+            "psfaq",
+            "PSFAQ"
+        ],
+        "sap-btp": [
+            "btpfaq",
+            "BTPFAQ"
+        ],
+        "sap-ehs": [
+            "ehsfaq",
+            "EHSFAQ"
+        ],
+        "sap-grc": [
+            "grcfaq",
+            "GRCFAQ"
+        ],
+        "sap-ibp": [
+            "ibpfaq",
+            "IBPFAQ"
+        ],
+        "sap-successfactors": [
+            "successfactorsfaq",
+            "SuccessFactorsFAQ"
+        ],
+        "sap-s4hana": [
+            "s4hanafaq",
+            "S4HANAFAQ"
+        ],
+        "power-bi": [
+            "powerbi",
+            "POWERBI"
+        ],
+        "tableau": [
+            "tableau",
+            "TABLEAU"
+        ],
+        "core-hr": [
+            "corefaq",
+            "COREFAQ"
+        ],
+        "hr-analytics": [
+            "anafaq",
+            "ANAFAQ"
+        ],
+        "hr-management": [
+            "manfaq",
+            "MANFAQ"
+        ],
+        "hr-payroll": [
+            "payfaq",
+            "PAYFAQ"
+        ],
+        "hr-generalist": [
+            "genfaq",
+            "GENFAQ"
+        ],
+        "hr-training": [
+            "hrtrainfaq",
+            "HRTRAINFAQ"
+        ],
+        "sap": [
+            "sapfaq",
+            "SAPFAQ"
+        ],
+        "it": [
+            "itcoursesfaq",
+            "ITcoursesFAQ"
+        ],
+        "hr": [
+            "hrcoursesfaq",
+            "HRcoursesFAQ"
+        ],
+        "data-visualization": [
+            "datavisualfaq",
+            "DataVisualFAQ"
+        ],
+        "aws": [
+            "awsfaq",
+            "AWSFAQ"
+        ],
+        "devops": [
+            "devopsfaq",
+            "DevOpsFAQ"
+        ],
+        "ai-ml": [
+            "aimlfaq",
+            "AIMLFAQ"
+        ]
+    },
+    "demoBannerMap": {
+        "sap-abap": "abap",
+        "sap-ariba": "ariba",
+        "sap-basis": "basis",
+        "sap-fico": "fico",
+        "sap-ewm": "ewm",
+        "sap-mm": "mm",
+        "sap-bwbi": "bwbi",
+        "sap-ps": "ps",
+        "sap-pm": "pm",
+        "sap-qm": "qm",
+        "sap-pp": "pp",
+        "sap-s4-hana": "hana",
+        "sap-hr-hcm": "hrhcm",
+        "sap-scm": "scm",
+        "sap-successfactors": "successfactors",
+        "sap-sd": "sd",
+        "sap": "sap",
+        "sap-ehs": "ehs",
+        "sap-ibp": "ibp",
+        "sap-btp": "btp",
+        "sap-grc": "grc",
+        "data-science": "datascience",
+        "data-science-with-ai": "datascience",
+        "data-analytics": "dataanalytics",
+        "data-analytics-with-gen-ai": "dataanalytics",
+        "business-analytics": "businessanalytics",
+        "ai-ml": "ai",
+        "aiml": "ai",
+        "artificial-intelligence": "ai",
+        "generative-ai": "genai",
+        "chatgpt": "genai",
+        "agentic-ai": "agenticai",
+        "full-stack": "fullstack",
+        "fullstack": "fullstack",
+        "java": "java",
+        "python": "python",
+        "salesforce": "salesforce",
+        "tableau": "tableau",
+        "power-bi": "powerbi",
+        "powerbi": "powerbi",
+        "data-visualization": "datavisualization",
+        "data-visualization-with-ai": "datavisualization",
+        "aws": "aws",
+        "devops": "devops",
+        "core-hr": "corehr",
+        "hr-payroll": "hrpayroll",
+        "payroll": "hrpayroll",
+        "hr-management": "hrmanagement",
+        "hr-generalist": "hrgeneralist",
+        "hr-analytics": "hranalytics",
+        "hr-training": "hrtraining",
+        "hr": "hrtraining",
+        "it-courses": "itcourses",
+        "hr-courses": "hrcourses",
+        "sap-courses": "sap"
+    }
+}

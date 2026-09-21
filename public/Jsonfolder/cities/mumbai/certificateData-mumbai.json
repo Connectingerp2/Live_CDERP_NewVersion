@@ -1,0 +1,441 @@
+{
+  "fico": {
+    "title": "Course Completion Certificate in SAP FICO",
+    "description": "Once you've finished all 12 modules, cleared the module-level assessments, and completed the capstone project, you'll get a Course Completion Certificate in SAP FICO.",
+    "highlights": [
+      "You've worked hands-on on a live SAP S/4HANA system — this isn't a \"watched the videos\" certificate",
+      "You've been through the full curriculum, module by module",
+      "You've delivered a real capstone project, the kind you can walk an interviewer through"
+    ],
+    "note": "This is a training completion certificate, not SAP's official certification. If you want to pursue SAP's own certification exam later, we'll point you in the right direction, but that's a separate process with its own cost and exam."
+  },
+  "mm": {
+    "title": "SAP MM Course Completion Certificate",
+    "description": "Upon successful completion of the course and project work, you will receive the following:",
+    "highlights": [
+      "Course Completion Certificate — recognized by hiring partners and industry",
+      "Certificate valid for LinkedIn, resume, and job applications",
+      "Optional guidance for SAP Global Certification (C_TS410 / MM Certification) exam registration",
+      "Real-time project experience letter (for eligible batches)"
+    ],
+    "note": "This is an institute-issued training certificate. Official SAP certification is a separate exam conducted by SAP."
+  },
+  "hrhcm": {
+    "title": "SAP HCM Course Completion Certificate",
+    "description": "You'll receive a Course Completion Certificate once you finish the syllabus and the final project simulation. It's not handed out just for attendance — you'll need to demonstrate configuration work and clear a short practical assessment.",
+    "highlights": [
+      "Supports your resume and LinkedIn profile",
+      "Based on demonstrated configuration work and practical assessment",
+      "Prepares you to talk through configuration decisions in interviews"
+    ],
+    "note": "The certificate is meant to support your resume and LinkedIn profile, not replace real project experience. If you're aiming for a formal SAP certification (via SAP's own certification exams), we can guide you on that separate path and how this course maps to it."
+  },
+  "qm": {
+    "title": "SAP QM Course Completion Certificate",
+    "description": "You'll get a Course Completion Certificate once you finish the training and submit your final project — this is proof of practical, hands-on SAP QM training, useful for your resume and LinkedIn profile.",
+    "highlights": [
+      "Proof of practical, hands-on SAP QM training",
+      "Useful for resume and LinkedIn profile",
+      "Guidance on the official SAP Certification path if you want to pursue it separately"
+    ],
+    "note": "We'll also guide you on the official SAP Certification path if you want to pursue it separately through SAP's certification hub — including what to expect, how to prepare, and whether it's actually worth it for your specific career stage (we'll give you an honest answer, not a sales pitch)."
+  },
+  "ps": {
+    "title": "SAP PS Course Completion Certificate",
+    "description": "On completing the course — including the assignments and the final project simulation — you'll receive a Course Completion Certificate.",
+    "highlights": [
+      "Modules covered and hours completed",
+      "The final project/case study you worked on",
+      "Your instructor's sign-off on practical competency"
+    ],
+    "note": "This is an institute completion certificate, not an SAP SE certification. If you're also targeting an official SAP certification, we'll guide you on which exam to consider and how this course maps to its syllabus — but the exam itself is booked and taken separately with SAP. The certificate is meant to support your resume and LinkedIn profile, and we're happy to verify it for any employer who reaches out."
+  },
+  "scm": {
+    "title": "SAP SCM Course Completion Certificate",
+    "description": "On completing the course, you'll receive a Course Completion Certificate which reflects the modules covered, duration, and hands-on project work completed.",
+    "highlights": [
+      "Modules covered (MM, SD, PP, and integration scenarios)",
+      "Duration and hands-on project work completed",
+      "Training track (classroom / online)"
+    ],
+    "note": "This is an institute-issued training certificate, not an official SAP-certified credential. If you want the official SAP Certified Associate certification, that's a separate exam conducted directly by SAP, and we'll guide you on how to prepare for and register for it if you choose to pursue it after this course."
+  },
+  "ehs": {
+    "title": "SAP EHS Course Completion Certificate",
+    "description": "You'll receive a Course Completion Certificate on finishing the program, which includes your project work and assessment scores. This certificate is recognized by our hiring partners and is commonly accepted as proof of practical SAP EHS training during interviews.",
+    "highlights": [
+      "Includes project work and assessment scores",
+      "Recognized by hiring partners",
+      "Accepted as proof of practical SAP EHS training during interviews"
+    ],
+    "note": "For those who want a formal SAP-recognized credential, we'll also guide you on the official SAP Certification exam path — including how to register, what it costs, and how our curriculum maps to the certification syllabus. (This exam is separate and conducted directly by SAP; our course prepares you for it but the certification itself is issued by SAP.)"
+  },
+  "ibp": {
+    "title": "SAP IBP Course Completion Certificate",
+    "description": "On successful completion of the SAP IBP course, you will receive a course completion certificate that validates your practical training and project work. This certificate is recognized by training partners and hiring companies across Mumbai and helps strengthen your profile during job applications and interviews.",
+    "highlights": [
+      "Validates practical training and project work",
+      "Recognized by training partners and hiring companies across Mumbai",
+      "Strengthens your profile during job applications and interviews"
+    ],
+    "note": "For those aiming for official SAP credentials, our trainers also guide you through the SAP IBP certification exam pattern, sample questions, and preparation strategy, so you're fully ready to appear for the global SAP certification if you choose to pursue it."
+  },
+  "ariba": {
+    "title": "SAP Ariba Course Completion Certificate",
+    "description": "Once you complete the course — including the capstone project — you'll receive a Course Completion Certificate from Connecting Dots ERP.",
+    "highlights": [
+      "Includes the modules covered, project details, and duration",
+      "Something you can genuinely reference on your resume and in interviews",
+      "Backed by your capstone project as proof of work"
+    ],
+    "note": "This is an institute-issued completion certificate, not an official SAP certification. If you're aiming for SAP's own certification exam, we'll guide you on how to prepare for that separately. What actually matters to employers is that you can demonstrate real, hands-on understanding of Ariba — which is exactly what this course is built to give you."
+  },
+  "sd": {
+    "title": "SAP SD Course Completion Certificate",
+    "description": "On completing the course, you'll receive a Course Completion Certificate that verifies the modules and topics covered, total training hours completed, and hands-on project work completed on the live server.",
+    "highlights": [
+      "Modules and topics covered",
+      "Total training hours completed",
+      "Hands-on project work completed on the live server"
+    ],
+    "note": "This is an institute-issued training certificate, not an official SAP certification. If you're aiming for SAP's own certification (through SAP's certification hub), we'll guide you on how to prepare for it separately. We're upfront about this distinction because a lot of institutes blur the line, and we'd rather you know exactly what you're getting."
+  },
+  "pp": {
+    "title": "SAP PP Course Completion Certificate",
+    "description": "Upon successful completion of this SAP PP training, you will receive a Course Completion Certificate that validates your practical, hands-on experience with SAP Production Planning.",
+    "highlights": [
+      "Modules and topics covered during training",
+      "Practical project work completed",
+      "Duration and mode of training (classroom/online)",
+      "Guidance and mock tests for official SAP Certification exams",
+      "Interview-ready project documentation to showcase to employers"
+    ],
+    "note": "Additionally, we help you prepare for official SAP Certification exams and interview-ready project documentation."
+  },
+  "pm": {
+    "title": "SAP PM Course Completion Certificate",
+    "description": "On successful completion of the course, you will receive an industry-recognised SAP PM Course Completion Certificate, which validates your practical skills in Plant Maintenance configuration and real-time project handling.",
+    "highlights": [
+      "Certificate issued after project submission and final assessment",
+      "Includes hands-on project experience documentation for your resume/LinkedIn",
+      "Optional guidance provided for SAP Global Certification exam registration",
+      "Verifiable certificate with unique ID for employer validation"
+    ],
+    "note": "This certificate, combined with the practical exposure gained during training, gives you a strong edge when applying for SAP PM functional consultant roles in Mumbai and beyond."
+  },
+  "ewm": {
+    "title": "Certificate of Completion in SAP EWM",
+    "description": "On successful completion of the course, you will receive a Certificate of Completion in SAP EWM, recognising the modules covered, hours of training completed, and the hands-on project work undertaken during the course.",
+    "highlights": [
+      "Modules covered and hours of training completed",
+      "Hands-on project work undertaken",
+      "Strengthens your resume and LinkedIn profile",
+      "Supports applications for SAP EWM consultant, warehouse analyst, or supply chain executive roles"
+    ],
+    "note": "Certification is awarded based on attendance, assignment completion, and a final practical assessment covering the topics taught during the program."
+  },
+  "btp": {
+    "title": "SAP BTP Course Completion Certificate",
+    "description": "On successful completion of this SAP BTP training in Mumbai, you will receive a Course Completion Certificate that validates your hands-on training, project work, and assessment performance.",
+    "highlights": [
+      "Successful completion of all curriculum modules",
+      "Hands-on project submission and evaluation",
+      "Attendance and participation in live sessions"
+    ],
+    "note": "Additionally, our trainers guide you through the process of preparing for and registering for the official SAP BTP certification exam. Certification requirements, exam codes, and fees are governed directly by SAP and are shared transparently during the course."
+  },
+  "grc": {
+    "title": "SAP GRC Course Completion Certificate",
+    "description": "On successful completion of this SAP GRC course in Mumbai, you will receive a course completion certificate recognized by hiring partners across Mumbai and India.",
+    "highlights": [
+      "Course completion certificate recognized by hiring partners",
+      "Detailed skills scorecard covering Access Control, Process Control, and Risk Management",
+      "Project completion certificates for hands-on assignments",
+      "Guidance and study material for the official SAP GRC certification exam"
+    ],
+    "note": "Our certificate reflects real, hands-on competency — not just classroom attendance — which is why it holds value with recruiters and SAP implementation partners."
+  },
+  "successfactors": {
+    "title": "SAP SuccessFactors Course Completion Certificate",
+    "description": "On successful completion of this SAP SuccessFactors course in Mumbai, you will receive a course completion certificate that validates your practical training and project work.",
+    "highlights": [
+      "Confirms hands-on training across all core SAP SF modules",
+      "Validates completion of the real-time mock project",
+      "Recognized by our placement and hiring partners in Mumbai",
+      "Useful supporting document alongside official SAP certification exams"
+    ],
+    "note": "The certificate validates your practical training and project work and is recognized by our placement and hiring partners in Mumbai."
+  },
+  "abap": {
+    "title": "SAP ABAP Course Completion Certificate",
+    "description": "On successful completion of the course, you will receive a Course Completion Certificate recognized by SAP consulting and IT companies.",
+    "highlights": [
+      "Modules covered and hours of training completed",
+      "Practical project work completed on live SAP systems",
+      "Assessment performance and skill validation"
+    ],
+    "note": "For those aiming for a formal SAP credential, our trainers also guide you on preparing for SAP's official certification exams, including exam pattern, question types, and study resources."
+  },
+  "hana": {
+    "title": "SAP S/4HANA Course Completion Certificate",
+    "description": "On successful completion of the course — including the capstone project and final assessment — you will receive a Course Completion Certificate that verifies your hands-on training in SAP S/4HANA.",
+    "highlights": [
+      "Module(s) completed (Finance, MM, SD, or PP)",
+      "Total training hours completed",
+      "Practical project work undertaken",
+      "Assessment performance"
+    ],
+    "note": "This certificate verifies your hands-on training in SAP S/4HANA including the capstone project and final assessment."
+  },
+  "bwbi": {
+    "title": "SAP BW/BI Course Completion Certificate",
+    "description": "On successful completion of the SAP BW/BI course in Mumbai, you will receive a course completion certificate that reflects the hands-on modules, project work, and assessments you've completed.",
+    "highlights": [
+      "Hands-on modules completed",
+      "Project work and assessments completed",
+      "Designed to strengthen your resume and demonstrate practical, project-ready SAP BW/BI skills"
+    ],
+    "note": "For learners who wish to go further, our trainers also guide you on preparing for official SAP global certification exams, including exam pattern, study material direction, and mock assessments."
+  },
+  "basis": {
+    "title": "SAP Basis Course Completion Certificate",
+    "description": "On successful completion of the course and the final hands-on assessment, you'll receive a Course Completion Certificate that verifies your training in SAP Basis administration.",
+    "highlights": [
+      "Certificate reflects the modules covered and hours of hands-on lab work completed",
+      "Useful as supporting proof of skill during job applications and interviews",
+      "Issued after evaluation of your practical lab exercises and a final project",
+      "Digital copy provided, with physical certificate available on request"
+    ],
+    "note": "We're upfront about one thing: a certificate alone doesn't get you a job — the practical skill behind it does. That's why our program leans so heavily on labs, tickets, and mock scenarios rather than just classroom hours."
+  },
+  "datascience": {
+    "title": "Data Science with AI Course Completion Certificate",
+    "description": "On completing the course and submitting both capstone projects, you'll receive a course completion certificate that verifies the skills you've actually built — not just attendance.",
+    "highlights": [
+      "Tied directly to project submissions and assessments, not just seat time",
+      "Shareable on LinkedIn with a verifiable link",
+      "Recognised by our hiring partners during placement assistance",
+      "Backed by a detailed skills transcript covering every module you completed"
+    ],
+    "note": "This certificate reflects real project work and tested skills so it carries weight when recruiters review your profile."
+  },
+  "dataanalytics": {
+    "title": "Data Analytics with Gen AI Certification",
+    "description": "On successful completion of the course, you will receive an industry-recognized Data Analytics with Gen AI Certification.",
+    "highlights": [
+      "Reflects both traditional data analytics skills and Generative AI proficiency",
+      "Shareable directly on LinkedIn and other professional profiles",
+      "Backed by project work and a capstone portfolio, not just attendance",
+      "Recognized by hiring partners as proof of practical, job-ready skills"
+    ],
+    "note": "Adds credibility to your resume when applying for analyst roles in Mumbai and other cities."
+  },
+  "businessanalytics": {
+    "title": "Business Analytics Course Completion Certificate",
+    "description": "On successful completion of the course and capstone project, you will receive an industry-recognized Business Analytics Course Completion Certificate.",
+    "highlights": [
+      "Validates practical training in metrics, dashboarding and data-driven decision making",
+      "Shareable on LinkedIn and with potential employers",
+      "Backed by real project work and assessments"
+    ],
+    "note": "This certificate reflects demonstrated ability, not just attendance."
+  },
+  "ai": {
+    "title": "AI & ML Course Completion Certificate",
+    "description": "On successful completion of this Artificial Intelligence and Machine Learning course, you'll receive an industry-recognized certificate that validates your skills to employers.",
+    "highlights": [
+      "Certificate issued after project submissions and final assessment",
+      "Verifiable digital certificate with unique ID",
+      "Shareable directly on LinkedIn and your resume",
+      "Recognized by our 300+ hiring partners across Mumbai and pan-India"
+    ],
+    "note": "This isn't a participation certificate — it reflects actual project work, tested skills, and completed evaluations, so it carries real weight when recruiters review your profile."
+  },
+  "fullstack": {
+    "title": "Full Stack Development Course Completion Certificate",
+    "description": "On successful completion of the course and capstone project, you will receive an industry-recognized Full Stack Course Completion Certificate.",
+    "highlights": [
+      "Validates end-to-end project work from frontend to backend and deployment",
+      "Shareable on LinkedIn and with recruiters",
+      "Backed by a portfolio-ready application you can demonstrate in interviews"
+    ],
+    "note": "The certificate is awarded only after project submission and evaluation so it reflects real skill, not just attendance."
+  },
+  "java": {
+    "title": "Java Developer Certification",
+    "description": "On successful completion of the course and capstone project, you'll receive an industry-recognized Java Developer Certification from our institute.",
+    "highlights": [
+      "Completion of all course modules",
+      "A minimum score on module-wise assessments",
+      "Successful submission and presentation of your capstone project",
+      "Verifiable certificate with unique ID"
+    ],
+    "note": "The certificate is designed to be a credible signal for recruiters — not just a participation memento. It's added to your LinkedIn-ready profile and can be verified by employers through a unique certificate ID."
+  },
+  "python": {
+    "title": "Python Course Completion Certificate",
+    "description": "On successful completion of the course and capstone project, you'll receive an industry-recognized Python Course Completion Certificate.",
+    "highlights": [
+      "Verifiable certificate with unique ID",
+      "Recognized by our hiring partner network across Mumbai",
+      "Adds credibility to your resume and LinkedIn profile",
+      "Issued only after project submission and evaluation"
+    ],
+    "note": "The certificate actually reflects your skill, not just your attendance."
+  },
+  "salesforce": {
+    "title": "Salesforce Course Completion Certificate",
+    "description": "On successful completion of this Salesforce course in Mumbai, you'll receive a course completion certificate recognizing your hands-on training in Salesforce Administration and Development.",
+    "highlights": [
+      "Institute Course Completion Certificate",
+      "Portfolio-ready capstone project",
+      "Exam readiness for Salesforce Administrator (ADM-201) and Platform Developer I certifications",
+      "LinkedIn-ready skill endorsements from your trainer"
+    ],
+    "note": "Beyond the institute certificate, our curriculum is mapped directly to the official Salesforce Certified Administrator and Platform Developer I exam guides."
+  },
+  "tableau": {
+    "title": "Tableau Course Completion Certificate",
+    "description": "On successful completion of the course and capstone projects, you will receive an industry-recognized Tableau Course Completion Certificate.",
+    "highlights": [
+      "Certificate includes your project portfolio summary",
+      "Shareable directly on LinkedIn and with recruiters",
+      "Verifiable certificate ID for employer verification",
+      "Recommended preparation track included for the official Tableau Desktop Specialist certification exam"
+    ],
+    "note": "This certificate, combined with a hands-on project portfolio, is designed to strengthen your resume for data analyst, BI analyst, and reporting analyst roles."
+  },
+  "powerbi": {
+    "title": "Power BI Course Completion Certificate",
+    "description": "On successful completion of the course and capstone projects, you'll receive an industry-recognised Power BI Course Completion Certificate.",
+    "highlights": [
+      "Confirms hands-on training covering data modelling, DAX, Power Query, and dashboard design",
+      "Shareable directly on LinkedIn",
+      "Can be added to your resume and portfolio",
+      "Awarded only after project submission"
+    ],
+    "note": "This certificate reflects real, demonstrated ability — not just attendance."
+  },
+  "datavisualization": {
+    "title": "Data Visualization with AI Certification",
+    "description": "On successful completion of the course and capstone project, you'll receive an industry-recognized Data Visualization with AI Certification.",
+    "highlights": [
+      "Validates hands-on experience with Power BI, Tableau, Python, and AI visualization tools",
+      "Backed by a portfolio of real, reviewed projects — not just a test score",
+      "Shareable directly on LinkedIn to strengthen your professional profile",
+      "Recognized by hiring partners as proof of practical, job-ready skills"
+    ],
+    "note": "This isn't a certificate for attendance — it's a certificate for capability."
+  },
+  "corehr": {
+    "title": "Core HR Course Completion Certificate",
+    "description": "On successful completion of the course, you will receive an industry-recognized Core HR Course Completion Certificate.",
+    "highlights": [
+      "Certificate is awarded after project submission and final assessment",
+      "Highlights the specific HR modules covered — useful for resumes and LinkedIn",
+      "Digitally verifiable certificate with a unique ID",
+      "Widely accepted by HR consultancies and hiring companies in Mumbai for HR Executive and HR Generalist roles"
+    ],
+    "note": "Certificate can be added directly to your LinkedIn profile with one click."
+  },
+  "hrpayroll": {
+    "title": "Payroll & HR Operations Certificate",
+    "description": "On successful completion of the course and capstone project, you'll receive a professional Payroll & HR Operations Certificate.",
+    "highlights": [
+      "Recognised by HR departments and consultancies across Mumbai and pan-India",
+      "Includes a verifiable certificate ID for employer authentication",
+      "Reflects practical training on payroll software, not just classroom theory",
+      "Adds direct credibility to your resume and LinkedIn profile for payroll and HR-operations roles"
+    ],
+    "note": "Awarded only after completing the capstone project and assessments."
+  },
+  "hrmanagement": {
+    "title": "HR Management Course Certificate",
+    "description": "On successful completion of the course including the capstone project and final assessment you'll receive an HR Management Course Certificate that verifies your training in recruitment, payroll, compliance, HR operations, and HRMS tools.",
+    "highlights": [
+      "Recognised by HR consultancies, staffing firms, and hiring managers across Mumbai",
+      "Includes a unique verification ID that employers can check online",
+      "Lists the specific modules and tools you've trained on — not just a generic \"HR Certificate\" line",
+      "Shareable directly on LinkedIn to strengthen your profile for HR job applications"
+    ],
+    "note": "This certificate is designed to give recruiters confidence that you've completed hands-on, industry-relevant training."
+  },
+  "hrgeneralist": {
+    "title": "HR Generalist Certification",
+    "description": "On successful completion of the course, you will receive an HR Generalist Certification that validates your practical training in recruitment, payroll, compliance, and employee relations.",
+    "highlights": [
+      "Certificate includes your project work and skills covered",
+      "Recognized by our placement and hiring partners across Mumbai",
+      "Shareable on LinkedIn and with potential employers",
+      "Awarded only after completing the capstone project and assessments"
+    ],
+    "note": "This certificate is designed to give recruiters confidence that you've completed hands-on, industry-relevant HR Generalist training — not just a theoretical course."
+  },
+  "hranalytics": {
+    "title": "Certificate in HR Analytics",
+    "description": "On successful completion of this HR Analytics Course, you receive a verified Certificate in HR Analytics.",
+    "highlights": [
+      "Your name, course duration, and modules covered",
+      "A unique verification ID and QR code for employer verification",
+      "Recognition of your capstone project score",
+      "LinkedIn-shareable digital certificate"
+    ],
+    "note": "Employers in Mumbai increasingly ask for proof of applied HR Analytics skills — not just attendance. That's why the certificate is tied directly to your capstone dashboard project and assessment scores, not just seat time."
+  },
+  "hrtraining": {
+    "title": "HR Training Certificate",
+    "description": "On successful completion of the course, you will receive an industry-recognized HR Training Certificate.",
+    "highlights": [
+      "Practical proficiency in core HR functions",
+      "Completion of a live capstone project",
+      "Readiness for entry-level to mid-level HR roles",
+      "Digital certificate with a unique verification ID"
+    ],
+    "note": "Shareable on LinkedIn, resumes, and job applications. Certification requirement: Minimum 80% attendance + completion of the final assessment and capstone project."
+  },
+  "aws": {
+    "title": "AWS Course Completion Certificate",
+    "description": "On successful completion of the course, you'll receive a verified Course Completion Certificate, recognized by hiring partners and shareable directly on LinkedIn.",
+    "highlights": [
+      "Reflects real, project-based learning — every learner completes a capstone deployment before graduating",
+      "Prepares you for the official AWS Certified Cloud Practitioner and Solutions Architect Associate exams",
+      "Curriculum mapped to the latest exam blueprint",
+      "Includes mock exams, revision sessions, and one-on-one doubt resolution"
+    ],
+    "note": "This program prepares you specifically for the official AWS certifications that Amazon Web Services itself issues. Your certificate reflects real, project-based learning — not just attendance."
+  },
+  "devops": {
+    "title": "DevOps Engineer Certificate",
+    "description": "On successful completion of this DevOps training in Mumbai, you'll receive an industry-recognized DevOps Engineer Certificate that validates your hands-on skills across the complete DevOps toolchain.",
+    "highlights": [
+      "Awarded only after completing the capstone CI/CD project",
+      "Includes a verifiable digital certificate ID you can add to LinkedIn and your resume",
+      "Reflects practical, project-based learning — not just attendance",
+      "Recognized by our hiring partners during placement assistance"
+    ],
+    "note": "The certificate validates hands-on skills across the complete DevOps toolchain and is designed to strengthen your profile for DevOps and cloud engineering roles."
+  },
+  "genai": {
+    "title": "Generative AI Course Certificate",
+    "description": "On successful completion of the course and capstone project, you'll receive a Generative AI Course Certificate, recognising your training in prompt engineering, LLM applications, RAG, and AI-driven workflows.",
+    "highlights": [
+      "Shareable on LinkedIn and with employers",
+      "Backed by a portfolio of hands-on projects, not just attendance",
+      "Verifiable certificate ID for employers or clients to confirm authenticity",
+      "Optional letter of recommendation for top-performing learners"
+    ],
+    "note": "This certificate reflects that you've actually built working Generative AI solutions — which is exactly what hiring managers want to see."
+  },
+  "agenticai": {
+    "title": "Certificate of Completion in Agentic AI",
+    "description": "On completing the course, you'll receive a Certificate of Completion in Agentic AI, along with a project portfolio you can showcase on LinkedIn, GitHub, and in interviews.",
+    "highlights": [
+      "Awarded after completing all modules and the capstone project",
+      "Verifiable certificate with a unique ID",
+      "Reviewed and signed off by your mentor based on project quality",
+      "Shareable directly on LinkedIn",
+      "Backed by real, demonstrable project work — not just attendance"
+    ],
+    "note": "This isn't a \"watch and get a certificate\" program. The certificate reflects that you've actually built working agentic AI systems, which is exactly what hiring managers in Mumbai's AI job market want to see."
+  }
+}

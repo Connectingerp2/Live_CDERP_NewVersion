@@ -1,0 +1,722 @@
+{
+    "homepage": {
+        "number": "+919004008313",
+        "badge": "Free Guidance",
+        "title": "Not Sure which Course Fits You?",
+        "subtitle": "Get personalized career guidance from our experts and discover the right course based on your skills, experience, and career goals.",
+        "primaryBtn": "WhatsApp Us",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Raipur classroom + online options · Free career counselling",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "sap": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP Career Journey Today",
+        "subtitle": "Join thousands of learners who transformed their careers with industry-relevant SAP training and placement support.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Raipur classroom + online options · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "fico": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP FICO?",
+        "subtitle": "Join Raipur's hands-on SAP FICO training program and start learning from professionals who've worked on real implementations.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "mm": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your SAP MM Career in Raipur?",
+        "subtitle": "Seats for the next batch are filling up fast. Get hands-on training, expert mentorship, and real project experience — all in one course.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Chat with Us on WhatsApp · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "hrhcm": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP HCM Career Journey in Raipur Today",
+        "subtitle": "Seats are limited for the upcoming batch of our SAP HCM course in Raipur. Get hands-on training, real-time projects, and placement support — all in one program.",
+        "primaryBtn": "Enrol Now",
+        "secondaryBtn": "Book a Free Counselling Session",
+        "trust": "Download Course Brochure · Call us today",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "qm": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP QM?",
+        "subtitle": "Seats are limited for the next batch of our SAP QM course in Raipur. Get hands-on training, expert mentorship, and placement support — all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Download Detailed Syllabus PDF · Limited seats left",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ps": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to build your career with SAP Project Systems?",
+        "subtitle": "Join the most trusted SAP PS course in Raipur and learn directly from industry consultants. Seats are limited for the upcoming batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Download Free Brochure · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "scm": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your SAP SCM Career in Raipur?",
+        "subtitle": "Seats are limited per batch to keep training practical and personal. Talk to our counsellor today and find the right batch for you.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Download Brochure",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ehs": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to build your career in SAP EHS?",
+        "subtitle": "Join the most trusted SAP EHS course in Raipur and get the hands-on training, mentorship, and placement support you need to move into a real SAP career.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ibp": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to build a career in SAP Supply Chain Planning?",
+        "subtitle": "Seats in our next SAP IBP training batch in Raipur are filling up. Get hands-on with the same tools companies are actively hiring for, and walk out with a certificate, a portfolio of project work, and placement support behind you.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Talk to Our Course Counselor · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ariba": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP Procurement?",
+        "subtitle": "Join the most practical SAP Ariba course in Raipur and get trained by experts who've worked on real Ariba implementations. Limited seats per batch — reserve yours today.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Download Free Brochure · Raipur, Chhattisgarh",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "sd": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP Sales and Distribution?",
+        "subtitle": "Join the most practical SAP SD course in Raipur and get trained the way real implementation projects actually work — live server access, real scenarios, and a trainer who's been in the field.",
+        "primaryBtn": "Book Your Free Demo Class Now",
+        "secondaryBtn": "Talk to Our Counsellor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "pp": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your SAP PP Career in Raipur?",
+        "subtitle": "Join a training program built around real SAP projects, practical configuration, and expert mentorship. Limited seats available for the next batch.",
+        "primaryBtn": "Book Your Free Demo Class Now",
+        "secondaryBtn": "Talk to a Counsellor",
+        "trust": "Download Brochure · Call us today",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "pm": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your SAP PM Career in Raipur?",
+        "subtitle": "Seats for the next batch of our SAP PM course in Raipur are filling up fast. Get hands-on training, real project experience, and placement support all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Chat with Us on WhatsApp · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "ewm": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to build a career in SAP Warehouse Management?",
+        "subtitle": "Join the next batch of our SAP EWM course in Raipur and get hands-on with real warehouse scenarios, expert mentorship, and a project you can actually talk about in interviews.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "btp": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to build a career in SAP BTP?",
+        "subtitle": "Join the next batch of our SAP BTP course in Raipur and get hands-on with the same platform that top enterprises use to run their cloud operations. Limited seats per batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Classroom sessions in Raipur | Live online batches available | Free demo class",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "grc": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in SAP GRC?",
+        "subtitle": "Join Raipur's hands-on SAP GRC course and get trained on real SAP systems, real projects, and real mentorship — not just slides.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "successfactors": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build Your Career in SAP SuccessFactors?",
+        "subtitle": "Join Raipur's leading SAP SF training program and get hands-on skills, expert mentorship, and certification support all in one place.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book Your Free Demo Class",
+        "trust": "Chat with Us on WhatsApp · Limited seats available",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "abap": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your SAP Career Starts Right Here in Raipur",
+        "subtitle": "Join the most trusted SAP ABAP course in Raipur and learn directly from experienced SAP professionals. Limited seats available for the upcoming batch.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "hana": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your SAP S/4 HANA Career in Raipur?",
+        "subtitle": "Seats are limited in every batch to keep training practical and personal. Take the first step toward a stable, in-demand career in enterprise technology.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "bwbi": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP BW/BI Career Today — Right Here in Raipur",
+        "subtitle": "Seats for the next batch of our SAP BW/BI course in Raipur are filling fast. Get hands-on SAP training, real project exposure, and placement support — all in one program.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Advisor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "basis": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Start Your SAP Basis Career Today with Raipur's Most Practical SAP Basis Course",
+        "subtitle": "Seats are limited for our upcoming batch. Join hands-on SAP Basis training in Raipur and take the first step toward a stable, high-demand IT career.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Chat with Our Course Advisor · Raipur, Chhattisgarh",
+        "screenTitle": "SAP S/4HANA Live System",
+        "widgets": [
+            "FI/CO",
+            "MM/SD",
+            "Reports",
+            "Master Data"
+        ]
+    },
+    "datascience": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your Data Science and AI Career in Raipur Starts Here",
+        "subtitle": "Seats for the next batch of our Data Science with AI course in Raipur are filling fast. Take the first step toward a data-driven career today.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book Your Free Demo Class",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Data Science Live Lab",
+        "widgets": [
+            "Python",
+            "ML Models",
+            "Gen AI",
+            "Projects"
+        ]
+    },
+    "dataanalytics": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your Data Analytics with Gen AI Career Starts Right Here in Raipur",
+        "subtitle": "Seats for the next batch are filling fast. Learn the exact skills companies are hiring for — data analytics powered by Generative AI.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to Our Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Analytics Dashboard Lab",
+        "widgets": [
+            "Excel",
+            "SQL",
+            "Power BI",
+            "Gen AI"
+        ]
+    },
+    "businessanalytics": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in Business Analytics?",
+        "subtitle": "Join Raipur's practical Business Analytics program and learn to turn data into decisions that drive growth. Seats for the next batch are limited.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Business Analytics Lab",
+        "widgets": [
+            "Dashboards",
+            "KPIs",
+            "Insights",
+            "Reports"
+        ]
+    },
+    "aiml": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build Your Career in AI & Machine Learning?",
+        "subtitle": "Join Raipur's AI & ML course and go from beginner to job-ready with real projects, expert mentorship, and placement support.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "AI & ML Live Lab",
+        "widgets": [
+            "Python",
+            "Deep Learning",
+            "NLP",
+            "Projects"
+        ]
+    },
+    "genai": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Future-Proof Your Career with Generative AI?",
+        "subtitle": "Join Raipur's leading Generative AI course and start building real, in-demand AI skills with expert mentors, hands-on projects, and a certificate that means something.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Generative AI Lab",
+        "widgets": [
+            "Prompt Eng.",
+            "LLMs",
+            "Chatbots",
+            "Projects"
+        ]
+    },
+    "agenticai": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build with Agentic AI in Raipur?",
+        "subtitle": "Join Raipur's practical Agentic AI course and learn to design, build, and deploy intelligent AI agents with hands-on projects and expert mentorship.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Agentic AI Lab",
+        "widgets": [
+            "Agents",
+            "LLMs",
+            "Automation",
+            "Projects"
+        ]
+    },
+    "fullstack": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Become a Full-Stack Developer in Raipur?",
+        "subtitle": "Join Raipur's practical Full-Stack program and learn front-end to back-end development with real projects and placement support. Seats are limited.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Full-Stack Dev Lab",
+        "widgets": [
+            "Frontend",
+            "Backend",
+            "APIs",
+            "Projects"
+        ]
+    },
+    "java": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your Java Developer Journey Starts Right Here in Raipur",
+        "subtitle": "Seats are limited for the upcoming batch. Book your free demo class today and see how we teach before you commit.",
+        "primaryBtn": "Book Free Demo Class",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Java Development Lab",
+        "widgets": [
+            "Core Java",
+            "Advanced Java",
+            "Projects",
+            "Git"
+        ]
+    },
+    "python": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your AI-Powered Career Starts Here in Raipur",
+        "subtitle": "Seats for the next batch of our Python with AI course in Raipur are filling fast. Join a training program built on real projects, real mentorship, and real career outcomes.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Career Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Python & AI Lab",
+        "widgets": [
+            "Python",
+            "ML",
+            "Automation",
+            "Projects"
+        ]
+    },
+    "salesforce": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your Salesforce Career Starts Right Here in Raipur",
+        "subtitle": "Seats are limited for the upcoming batch. Enroll in Raipur's leading Salesforce course today and take the first step toward a high-growth career in CRM and cloud technology.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Salesforce Live Org",
+        "widgets": [
+            "Admin",
+            "Flows",
+            "Reports",
+            "Projects"
+        ]
+    },
+    "tableau": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your Data Analytics Career?",
+        "subtitle": "Join Raipur's most hands-on Tableau course and start building dashboards that actually get noticed by recruiters.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counsellor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Tableau Dashboard Lab",
+        "widgets": [
+            "Dashboards",
+            "Calcs",
+            "Storytelling",
+            "Projects"
+        ]
+    },
+    "powerbi": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career Around Data?",
+        "subtitle": "Enroll in Raipur's most practical Power BI course and start building dashboards that get noticed — by employers, by clients, and by your own business.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Power BI Dashboard Lab",
+        "widgets": [
+            "Power Query",
+            "DAX",
+            "Dashboards",
+            "Projects"
+        ]
+    },
+    "aws": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Start Your Cloud Career with the Best AWS Course in Raipur?",
+        "subtitle": "Limited seats available for the upcoming batch. Learn from experienced trainers, work on real projects, and get certified.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "AWS Cloud Lab",
+        "widgets": [
+            "EC2",
+            "S3",
+            "IAM",
+            "Projects"
+        ]
+    },
+    "devops": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your DevOps Career Starts Right Here in Raipur",
+        "subtitle": "Seats are limited for the upcoming batch. Get hands-on training, real projects, and placement support to launch your career as a DevOps engineer.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "DevOps Pipeline Lab",
+        "widgets": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Projects"
+        ]
+    },
+    "corehr": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your HR Career Starts Here — Right Here in Raipur",
+        "subtitle": "Don't just learn HR theory — master the practical skills companies actually hire for. Join the most trusted Core HR Course in Raipur and take your first confident step toward an HR career.",
+        "primaryBtn": "Book Your Free Demo Class",
+        "secondaryBtn": "Download Course Brochure",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "HR Practice Lab",
+        "widgets": [
+            "Recruitment",
+            "Payroll",
+            "Compliance",
+            "Policies"
+        ]
+    },
+    "hrpayroll": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in HR and Payroll?",
+        "subtitle": "Seats for the next batch of our HR Payroll Course in Raipur are filling fast. Learn practical payroll skills, master the tools employers want, and get placement support to land your first — or next — HR payroll role.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counsellor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Payroll Practice Lab",
+        "widgets": [
+            "Salary Struct.",
+            "PF / ESI",
+            "TDS",
+            "Settlements"
+        ]
+    },
+    "hrmanagement": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your HR Career Starts Right Here in Raipur",
+        "subtitle": "Don't just learn HR, practice it, live it, and get certified for it. Join the HR Management Course in Raipur trusted by 500+ learners and start building a career that puts people first.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Counseling Call",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "HR Management Lab",
+        "widgets": [
+            "Lifecycle",
+            "Appraisals",
+            "Policies",
+            "Reports"
+        ]
+    },
+    "hrgeneralist": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your HR Career Starts With One Decision — Make It Today",
+        "subtitle": "Seats for the next batch of our HR Generalist course in Raipur are filling up fast. Whether you are a fresher exploring HR for the first time or a professional ready to step into a generalist role, this is your moment.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Counselling Session",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "HR Generalist Lab",
+        "widgets": [
+            "Recruitment",
+            "Onboarding",
+            "Payroll",
+            "Compliance"
+        ]
+    },
+    "hranalytics": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build Your Career in HR Analytics?",
+        "subtitle": "Join Raipur's most practical, project-based HR Analytics course and turn workforce data into your biggest career advantage. Seats for the next batch are filling fast.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to Our Career Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "HR Analytics Lab",
+        "widgets": [
+            "Dashboards",
+            "Attrition",
+            "KPIs",
+            "Power BI"
+        ]
+    },
+    "hrtraining": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to build a real career in HR?",
+        "subtitle": "Join the most practical HR training in Raipur and get hands-on with recruitment, payroll, compliance, and everything else a real HR job demands. Seats for the next batch are filling up fast.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Book a Free Demo Class",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "HR Training Lab",
+        "widgets": [
+            "Recruitment",
+            "Payroll",
+            "Compliance",
+            "Policies"
+        ]
+    },
+    "itcourses": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Launch Your IT Career in Raipur?",
+        "subtitle": "Explore our full range of practical IT, Data, and AI courses designed for job-ready skills, real projects, and placement support. Seats are limited across batches.",
+        "primaryBtn": "Explore Courses",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Raipur classroom + online options · Real placement support",
+        "screenTitle": "IT Career Lab",
+        "widgets": [
+            "Data",
+            "AI",
+            "Cloud",
+            "Dev"
+        ]
+    },
+    "hrcourses": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Ready to Build a Career in Human Resources?",
+        "subtitle": "Join Raipur's practical HR training programs covering Core HR, Payroll, Generalist, Analytics, and more — with hands-on projects and placement support.",
+        "primaryBtn": "Explore HR Courses",
+        "secondaryBtn": "Talk to a Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "HR Career Lab",
+        "widgets": [
+            "Core HR",
+            "Payroll",
+            "Analytics",
+            "Generalist"
+        ]
+    },
+    "datavisualization": {
+        "number": "+919004008313",
+        "badge": "Free Live Demo",
+        "title": "Your Data Visualization with AI Career Starts Right Here in Raipur",
+        "subtitle": "Seats are limited to keep batches personal and mentor-led. Join the next batch and start building dashboards, charts, and AI-powered reports that get you noticed.",
+        "primaryBtn": "Enroll Now",
+        "secondaryBtn": "Talk to a Course Counselor",
+        "trust": "Limited seats available · Real placement support",
+        "screenTitle": "Data Viz Lab",
+        "widgets": [
+            "Power BI",
+            "Tableau",
+            "Python Viz",
+            "AI Tools"
+        ]
+    }
+}

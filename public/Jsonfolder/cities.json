@@ -1,0 +1,929 @@
+{
+    "pune": {
+        "name": "Pune",
+        "state": "Maharashtra",
+        "hasOffice": true,
+        "coordinates": {
+            "lat": 18.5863803,
+            "lng": 73.7814047
+        },
+        "office": {
+            "address": "1st Floor,101, Police, Wireless Colony, Vishal Nagar, Pimple Nilakh, Pune, Pimpri-Chinchwad, Maharashtra 411027",
+            "phone": "+919004002941",
+            "email": "pune@connectingdotserp.com",
+            "hours": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "rating": 4.7,
+            "reviewCount": 403,
+            "mapUrl": "https://maps.app.goo.gl/apH8RoQ6551xZD3w6",
+            "postalCode": "411027",
+            "instructor": "Archana"
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "geoPosition": "18.58743790026325;73.78149053049741",
+            "priceRange": "30000-200000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "mumbai": {
+        "name": "Mumbai",
+        "state": "Maharashtra",
+        "hasOffice": true,
+        "coordinates": {
+            "lat": 19.1876097,
+            "lng": 72.9752467
+        },
+        "office": {
+            "address": "Office No. 806, 8th Floor, Paradise Tower, next to MCDonalds, Naupada, Thane West, Mumbai, Thane, Maharashtra 400601",
+            "phone": "+919004001938",
+            "email": "mumbai@connectingdotserp.com",
+            "hours": {
+                "open": "09:00",
+                "close": "21:00"
+            },
+            "rating": 4.8,
+            "reviewCount": 56,
+            "mapUrl": "https://maps.app.goo.gl/mQ13CkQSAcMTbeh96",
+            "postalCode": "400601",
+            "instructor": "Ravi"
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "geoPosition": "19.201375381925807;72.97502413356385",
+            "priceRange": "35000-185000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "raipur": {
+        "name": "Raipur",
+        "state": "Chhattisgarh",
+        "hasOffice": true,
+        "coordinates": {
+            "lat": 21.2373024,
+            "lng": 81.653947
+        },
+        "office": {
+            "address": "G-54, New Panchsheel Nagar, Civil Lines, Raipur, Chhattisgarh 492001",
+            "phone": "+919325701555",
+            "email": "raipur@connectingdotserp.com",
+            "hours": {
+                "open": "08:00",
+                "close": "20:00"
+            },
+            "rating": 5.0,
+            "reviewCount": 31,
+            "mapUrl": "https://maps.app.goo.gl/MpkCdwPHhmN5Kkzo8",
+            "postalCode": "492001",
+            "instructor": "Amol Patil"
+        },
+        "seoData": {
+            "geoRegion": "IN-CG",
+            "geoPosition": "21.2375225749676;81.65421950344226",
+            "priceRange": "30000-200000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "delhi": {
+        "name": "Delhi",
+        "state": "Delhi",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 28.7041,
+            "lng": 77.1025
+        },
+        "seoData": {
+            "geoRegion": "IN-DL",
+            "priceRange": "40000-180000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "kolkata": {
+        "name": "Kolkata",
+        "state": "West Bengal",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 22.5726,
+            "lng": 88.3639
+        },
+        "seoData": {
+            "geoRegion": "IN-WB",
+            "priceRange": "30000-150000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "chennai": {
+        "name": "Chennai",
+        "state": "Tamil Nadu",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 13.0827,
+            "lng": 80.2707
+        },
+        "seoData": {
+            "geoRegion": "IN-TN",
+            "priceRange": "30000-160000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "bangalore": {
+        "name": "Bangalore",
+        "state": "Karnataka",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 12.9716,
+            "lng": 77.5946
+        },
+        "seoData": {
+            "geoRegion": "IN-KA",
+            "priceRange": "35000-170000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "hyderabad": {
+        "name": "Hyderabad",
+        "state": "Telangana",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 17.385,
+            "lng": 78.4867
+        },
+        "seoData": {
+            "geoRegion": "IN-TG",
+            "priceRange": "32000-165000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "ahmedabad": {
+        "name": "Ahmedabad",
+        "state": "Gujarat",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 23.0225,
+            "lng": 72.5714
+        },
+        "seoData": {
+            "geoRegion": "IN-GJ",
+            "priceRange": "28000-145000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "jaipur": {
+        "name": "Jaipur",
+        "state": "Rajasthan",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 26.9124,
+            "lng": 75.7873
+        },
+        "seoData": {
+            "geoRegion": "IN-RJ",
+            "priceRange": "26000-135000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "lucknow": {
+        "name": "Lucknow",
+        "state": "Uttar Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 26.8467,
+            "lng": 80.9462
+        },
+        "seoData": {
+            "geoRegion": "IN-UP",
+            "priceRange": "25000-130000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "kanpur": {
+        "name": "Kanpur",
+        "state": "Uttar Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 26.4499,
+            "lng": 80.3319
+        },
+        "seoData": {
+            "geoRegion": "IN-UP",
+            "priceRange": "24000-125000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "nagpur": {
+        "name": "Nagpur",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 21.1458,
+            "lng": 79.0882
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "26000-140000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "patna": {
+        "name": "Patna",
+        "state": "Bihar",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 25.5941,
+            "lng": 85.1376
+        },
+        "seoData": {
+            "geoRegion": "IN-BR",
+            "priceRange": "22000-115000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "indore": {
+        "name": "Indore",
+        "state": "Madhya Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 22.7196,
+            "lng": 75.8577
+        },
+        "seoData": {
+            "geoRegion": "IN-MP",
+            "priceRange": "25000-135000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "bhopal": {
+        "name": "Bhopal",
+        "state": "Madhya Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 23.2599,
+            "lng": 77.4126
+        },
+        "seoData": {
+            "geoRegion": "IN-MP",
+            "priceRange": "24000-130000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "visakhapatnam": {
+        "name": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 17.6868,
+            "lng": 83.2185
+        },
+        "seoData": {
+            "geoRegion": "IN-AP",
+            "priceRange": "26000-140000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "vadodara": {
+        "name": "Vadodara",
+        "state": "Gujarat",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 22.3072,
+            "lng": 73.1812
+        },
+        "seoData": {
+            "geoRegion": "IN-GJ",
+            "priceRange": "27000-142000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "ludhiana": {
+        "name": "Ludhiana",
+        "state": "Punjab",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 30.901,
+            "lng": 75.8573
+        },
+        "seoData": {
+            "geoRegion": "IN-PB",
+            "priceRange": "28000-145000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "agra": {
+        "name": "Agra",
+        "state": "Uttar Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 27.1767,
+            "lng": 78.0081
+        },
+        "seoData": {
+            "geoRegion": "IN-UP",
+            "priceRange": "25000-120000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "nashik": {
+        "name": "Nashik",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.9975,
+            "lng": 73.7898
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "26000-138000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "rajkot": {
+        "name": "Rajkot",
+        "state": "Gujarat",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 22.3039,
+            "lng": 70.8022
+        },
+        "seoData": {
+            "geoRegion": "IN-GJ",
+            "priceRange": "25000-135000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "varanasi": {
+        "name": "Varanasi",
+        "state": "Uttar Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 25.3176,
+            "lng": 82.9739
+        },
+        "seoData": {
+            "geoRegion": "IN-UP",
+            "priceRange": "23000-118000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "kerala": {
+        "name": "Kerala",
+        "state": "Kerala",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 10.8505,
+            "lng": 76.2711
+        },
+        "seoData": {
+            "geoRegion": "IN-KL",
+            "priceRange": "28000-148000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "surat": {
+        "name": "Surat",
+        "state": "Gujarat",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 21.1702,
+            "lng": 72.8311
+        },
+        "seoData": {
+            "geoRegion": "IN-GJ",
+            "priceRange": "27000-142000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "dehradun": {
+        "name": "Dehradun",
+        "state": "Uttarakhand",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 30.3165,
+            "lng": 78.0322
+        },
+        "seoData": {
+            "geoRegion": "IN-UT",
+            "priceRange": "26000-138000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "madurai": {
+        "name": "Madurai",
+        "state": "Tamil Nadu",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 9.9252,
+            "lng": 78.1198
+        },
+        "seoData": {
+            "geoRegion": "IN-TN",
+            "priceRange": "24000-128000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "mysore": {
+        "name": "Mysore",
+        "state": "Karnataka",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 12.2958,
+            "lng": 76.6394
+        },
+        "seoData": {
+            "geoRegion": "IN-KA",
+            "priceRange": "25000-132000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "pondicherry": {
+        "name": "Pondicherry",
+        "state": "Puducherry",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 11.9416,
+            "lng": 79.8083
+        },
+        "seoData": {
+            "geoRegion": "IN-PY",
+            "priceRange": "26000-135000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "ranchi": {
+        "name": "Ranchi",
+        "state": "Jharkhand",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 23.3441,
+            "lng": 85.3096
+        },
+        "seoData": {
+            "geoRegion": "IN-JH",
+            "priceRange": "23000-120000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "coimbatore": {
+        "name": "Coimbatore",
+        "state": "Tamil Nadu",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 11.0168,
+            "lng": 76.9558
+        },
+        "seoData": {
+            "geoRegion": "IN-TN",
+            "priceRange": "26000-138000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "chandigarh": {
+        "name": "Chandigarh",
+        "state": "Chandigarh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 30.7333,
+            "lng": 76.7794
+        },
+        "seoData": {
+            "geoRegion": "IN-CH",
+            "priceRange": "29000-148000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "bhubaneswar": {
+        "name": "Bhubaneswar",
+        "state": "Odisha",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 20.2961,
+            "lng": 85.8245
+        },
+        "seoData": {
+            "geoRegion": "IN-OR",
+            "priceRange": "24000-125000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "tirupati": {
+        "name": "Tirupati",
+        "state": "Andhra Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 13.6288,
+            "lng": 79.4192
+        },
+        "seoData": {
+            "geoRegion": "IN-AP",
+            "priceRange": "24000-128000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "vizag": {
+        "name": "Vizag",
+        "state": "Andhra Pradesh",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 17.6868,
+            "lng": 83.2185
+        },
+        "seoData": {
+            "geoRegion": "IN-AP",
+            "priceRange": "26000-140000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "trivandrum": {
+        "name": "Trivandrum",
+        "state": "Kerala",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 8.5241,
+            "lng": 76.9366
+        },
+        "seoData": {
+            "geoRegion": "IN-KL",
+            "priceRange": "27000-142000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "jalandhar": {
+        "name": "Jalandhar",
+        "state": "Punjab",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 31.326,
+            "lng": 75.5762
+        },
+        "seoData": {
+            "geoRegion": "IN-PB",
+            "priceRange": "27000-140000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "mohali": {
+        "name": "Mohali",
+        "state": "Punjab",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 30.7046,
+            "lng": 76.7179
+        },
+        "seoData": {
+            "geoRegion": "IN-PB",
+            "priceRange": "28000-145000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "cochin": {
+        "name": "Cochin",
+        "state": "Kerala",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 9.9312,
+            "lng": 76.2673
+        },
+        "seoData": {
+            "geoRegion": "IN-KL",
+            "priceRange": "28000-148000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "mangalore": {
+        "name": "Mangalore",
+        "state": "Karnataka",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 12.9141,
+            "lng": 74.856
+        },
+        "seoData": {
+            "geoRegion": "IN-KA",
+            "priceRange": "26000-138000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "katraj": {
+        "name": "Katraj",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.4529,
+            "lng": 73.8644
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "30000-180000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "pimpri-chinchwad": {
+        "name": "Pimpri-Chinchwad",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.6298,
+            "lng": 73.7997
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "30000-185000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "shivaji-nagar": {
+        "name": "Shivaji Nagar",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5304,
+            "lng": 73.8567
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "32000-190000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "koregaon-park": {
+        "name": "Koregaon Park",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5362,
+            "lng": 73.898
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "35000-200000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "viman-nagar": {
+        "name": "Viman Nagar",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5679,
+            "lng": 73.9143
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "33000-195000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "pimple-saudagar": {
+        "name": "Pimple Saudagar",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.6186,
+            "lng": 73.8037
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "31000-185000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "baner": {
+        "name": "Baner",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5593,
+            "lng": 73.7804
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "34000-195000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "hinjewadi": {
+        "name": "Hinjewadi",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5912,
+            "lng": 73.7389
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "33000-190000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "wakad": {
+        "name": "Wakad",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5975,
+            "lng": 73.7898
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "32000-188000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "kothrud": {
+        "name": "Kothrud",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5074,
+            "lng": 73.8077
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "31000-185000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "hadapsar": {
+        "name": "Hadapsar",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5089,
+            "lng": 73.926
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "30000-180000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "aundh": {
+        "name": "Aundh",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 18.5593,
+            "lng": 73.8078
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "33000-192000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "navi-mumbai": {
+        "name": "Navi Mumbai",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.033,
+            "lng": 73.0297
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "35000-185000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "thane": {
+        "name": "Thane",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.2183,
+            "lng": 72.9781
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "34000-180000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "kalyan": {
+        "name": "Kalyan",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.2437,
+            "lng": 73.1355
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "32000-175000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "bandra": {
+        "name": "Bandra",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.0596,
+            "lng": 72.8295
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "40000-200000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "andheri": {
+        "name": "Andheri",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.1136,
+            "lng": 72.8697
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "38000-195000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "powai": {
+        "name": "Powai",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.1197,
+            "lng": 72.9059
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "37000-190000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "worli": {
+        "name": "Worli",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.0176,
+            "lng": 72.8118
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "42000-205000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "chembur": {
+        "name": "Chembur",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.0633,
+            "lng": 72.8997
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "35000-185000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "malad": {
+        "name": "Malad",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.1868,
+            "lng": 72.8479
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "36000-188000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "vile-parle": {
+        "name": "Vile Parle",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.099,
+            "lng": 72.847
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "37000-190000",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "matunga": {
+        "name": "Matunga",
+        "state": "Maharashtra",
+        "hasOffice": false,
+        "coordinates": {
+            "lat": 19.027,
+            "lng": 72.857
+        },
+        "seoData": {
+            "geoRegion": "IN-MH",
+            "priceRange": "38000-192000",
+            "timezone": "Asia/Kolkata"
+        }
+    }
+}

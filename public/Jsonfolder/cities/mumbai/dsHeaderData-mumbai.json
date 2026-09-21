@@ -1,0 +1,2205 @@
+{
+  "MDSpage": {
+    "MDSHeader": {
+      "title": "Data Science with AI Course in Mumbai",
+      "subtitle": "Become a Data Scientist Who Actually Understands AI",
+      "description": "Mumbai's most practical Data Science with AI course, built for people who want real skills, real projects, and a real shot at a data science job not just another certificate on the wall. This Data Science with AI course in Mumbai takes you from Python fundamentals to building and deploying machine learning and generative AI models, the same tools companies are actually hiring for right now.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Data Science Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "MDApage": {
+    "MDAHeader": {
+      "title": "Data Analytics with AI Course in Mumbai",
+      "subtitle": "Learn to Turn Raw Numbers into Real Business Decisions",
+      "description": "This Data Analytics with AI course in Mumbai combines hands-on analytics training with practical AI tools like ChatGPT, Python-based machine learning, and automated reporting so you graduate job-ready, not just certificate-ready. 100% live, instructor-led sessions | Real datasets from actual businesses | Weekend and weekday batches in Mumbai.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Data Analytics Program"
+        },
+        {
+          "text": "Download Full Syllabus (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "GPTpage": {
+    "GPTHeader": {
+      "title": "Generative AI Course in Mumbai",
+      "subtitle": "Build Real Skills for the AI-First Job Market",
+      "description": "Learn to design, train, and deploy Generative AI applications using ChatGPT, LangChain, RAG pipelines, and open-source LLMs. A hands-on Generative AI course in Mumbai built for working professionals, freshers, and career switchers who want to move into AI roles fast.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Generative AI"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "fullstackheader": {
+    "FullStackHeader": {
+      "title": "Full Stack Course in Mumbai",
+      "subtitle": "Master Front-End & Back-End Development with Real Projects",
+      "description": "Join Mumbai's most practical Full Stack Development course and learn to build complete web applications from scratch. Master HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and deployment — all through live projects and industry-relevant training. Whether you're a fresher, a working professional, or a career switcher, this course is designed to make you job-ready with a strong portfolio.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Full Stack Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "javaheader": {
+    "JavaHeader": {
+      "title": "Java Course in Mumbai",
+      "subtitle": "Learn to Code, Build Real Projects, Get Hired",
+      "description": "Join Mumbai's most practical Java training program and go from writing your first line of code to building production-ready applications. Whether you're a fresher, a college student, or a working professional switching careers, this Java course in Mumbai is designed to get you job-ready not just certificate-ready.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Java Training Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "pythonheader": {
+    "PythonHeader": {
+      "title": "Python Course in Mumbai",
+      "subtitle": "Master Python with Mumbai's Most Practical Python Course",
+      "description": "Join the leading Python course in Mumbai designed for beginners, working professionals, and career switchers. Learn Python programming, data structures, automation, and real-world projects with mentorship from industry experts who've built software that actually ships.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "PYTHON Program"
+        },
+        {
+          "text": "Download Syllabus PDF",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "salesheader": {
+    "SalesHeader": {
+      "title": "Salesforce Course in Mumbai",
+      "subtitle": "Become a Certified Salesforce Professional",
+      "description": "Learn Salesforce Admin, Developer, and CRM skills from industry experts. Our Salesforce course in Mumbai combines live projects, real CRM case studies, and placement support to help you launch a career in the world's #1 CRM platform.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Salesforce Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "powerbi": {
+    "POWERBI": {
+      "title": "Power BI Course in Mumbai",
+      "subtitle": "Become a Certified Power BI Analyst",
+      "description": "Data is everywhere, but professionals who can turn it into decisions are still rare. This Power BI course in Mumbai is built to change that for you. Over the next few weeks, you'll go from opening Power BI for the first time to publishing dashboards that actual businesses rely on no fluff, no filler, just the skills that get you hired or promoted.Whether you're a fresh graduate, a working professional switching to analytics, or someone who's tired of manually updating Excel reports every Monday morning, this course meets you where you are.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "Power BI Program"
+        },
+        {
+          "text": "Download Curriculum PDF",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "tableau": {
+    "TABLEAU": {
+      "title": "Tableau Course in Mumbai",
+      "subtitle": "Turn Raw Data Into Real Decisions",
+      "description": "Learn Tableau the way working analysts actually use it through live dashboards, real datasets, and a mentor who's built reports for actual businesses, not just slides.Mumbai's job market is full of roles asking for Tableau proficiency, but most people learning it online never touch a real business problem. This Tableau course in Mumbai is built differently. You'll work with messy, real-world data, build dashboards that a manager would actually approve of, and leave with a portfolio you can show in an interview instead of just a certificate you have to explain.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Tableau Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "datavisualheader": {
+    "DataVisualHeader": {
+      "title": "Data Visualization with AI Course in Mumbai",
+      "subtitle": "Turn Raw Numbers into Decisions That Get Noticed",
+      "description": "Learn to build dashboards, tell stories with data, and use AI tools to work faster — all in a hands-on program designed for working professionals in Mumbai. From Excel to Power BI, Tableau to AI-assisted analytics this course takes you from \"I can make a chart\" to \"I can make a chart that changes minds.\"",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Data Visualization Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "coreheader": {
+    "CoreHeader": {
+      "title": "Core HR Course in Mumbai",
+      "subtitle": "Build a Career in Human Resources That Actually Goes Somewhere",
+      "description": "Learn the real, day-to-day skills HR teams use — recruitment, payroll, compliance, performance management, and HRMS tools — through a practical Core HR Course in Mumbai designed with working professionals and freshers in mind.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Core HR Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "manpage": {
+    "MANHeader": {
+      "title": "HR Management Course in Mumbai",
+      "subtitle": "Build a Career in HR with Practical HR Management Training",
+      "description": "Looking for an HR Management Course in Mumbai that actually prepares you for the job floor, not just the exam hall? You are in the right place. Our HR Management Course in Mumbai is designed by industry practitioners, covering everything from recruitment and payroll to labour law and HR analytics with real case studies, live projects, and placement support built in.Whether you're a fresh graduate, a working professional switching careers, or an HR executive looking to upskill, this HR Management Course in Mumbai gives you the tools, templates, and confidence to walk into any HR role and deliver from day one.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "HR Management Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Counselling Call",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "payrollmanpage": {
+    "PAYROLLHeader": {
+      "title": "HR Payroll Course in Mumbai",
+      "subtitle": "Become a Job-Ready Payroll Professional",
+      "description": "Learn end-to-end payroll processing, statutory compliance, and HR operations with hands-on training designed by industry practitioners. Join Mumbai's most practical HR Payroll Course and get placement support from day one.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "HR Payroll Program"
+        },
+        {
+          "text": "Download Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "genpage": {
+    "GENHeader": {
+      "title": "HR Generalist Course in Mumbai",
+      "subtitle": "Become a Job-Ready HR Generalist in Just 3 Months",
+      "description": "If you are looking to build a career in Human Resources, this HR Generalist Course in Mumbai is designed to take you from the basics of HR to handling real, end-to-end HR operations with confidence. You'll learn recruitment, payroll, compliance, performance management, and HR software all taught by working HR professionals, not just trainers reading from slides.Whether you are a fresher, a career-switcher, or someone already in HR who wants formal skills and a certificate to back your experience, this course is built for you.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "HR Generalist Program"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "anapage": {
+    "ANAHeader": {
+      "title": "HR Analytics Course in Mumbai",
+      "subtitle": "Become a Certified HR Analytics Professional",
+      "description": "Learn to turn people's data into business decisions. Our HR Analytics Course in Mumbai is built for HR professionals who want to move from intuition-based HR to data-driven HR using real tools, real datasets, and real hiring, attrition, and performance case studies.Join Mumbai's most practical, project-based HR Analytics Course and get hands-on with Excel, Power BI, SQL, and People Analytics dashboards used by top companies.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll in the HR Analytics Course",
+          "courseName": "HR Analytics Program"
+        },
+        {
+          "text": "Download Full Syllabus (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hrtraining": {
+    "HRTrainingHeader": {
+      "title": "HR Training Course in Mumbai",
+      "subtitle": "Build a Career in Human Resources with Practical HR Training",
+      "description": "Our HR Training in Mumbai covers recruitment, payroll, compliance, HRBP strategy, and HRMS tools, taught by working HR professionals — with real company projects, live case studies, and placement support.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "HR Training Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "agenticheader": {
+    "AgenticHeader": {
+      "title": "Agentic AI Course in Mumbai",
+      "subtitle": "Build Autonomous AI Agents That Actually Get Work Done",
+      "description": "Classroom sessions in Mumbai + live online batches | Real projects Scenario, not just theory | Certificate on completion | Placement support for eligible learners",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "Agentic AI Program"
+        },
+        {
+          "text": "Download Curriculum",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "aimlheader": {
+    "AIMLHeader": {
+      "title": "AI & ML Course in Mumbai",
+      "subtitle": "Learn Artificial Intelligence & Machine Learning the Practical Way",
+      "description": "Mumbai has become one of India's fastest-growing hubs for artificial intelligence and data-driven careers, and this AI ML course in Mumbai is built to help you become part of that growth story. Whether you're a fresh graduate exploring your first tech role or a working professional planning a shift into AI, this course walks you through everything from Python fundamentals to advanced machine learning and deep learning concepts taught by mentors who've actually worked in the field. You won't just watch lectures. You'll build models, work on live datasets, and walk away with a portfolio you can show in interviews.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Enroll Now",
+          "courseName": "AIML Program"
+        },
+        {
+          "text": "Download Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "awsheader": {
+    "AWSHeader": {
+      "title": "AWS Course in Mumbai",
+      "subtitle": "Become a Certified AWS Cloud Professional",
+      "description": "Whether you're a fresher, a working IT professional, or a business owner exploring the cloud, this AWS course in Mumbai is built to take you from fundamentals to job-ready skills in a few short weeks.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "AWS Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Career Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "devopsheader": {
+    "DevOpsHeader": {
+      "title": "DevOps Course in Mumbai",
+      "subtitle": "Become a Job-Ready DevOps Engineer",
+      "description": "Learn Git, Docker, Kubernetes, Jenkins, AWS, and Terraform through hands-on projects. Our DevOps course in Mumbai is designed by industry practitioners to get you interview-ready in 4 months, not 4 years.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "DevOps Program"
+        },
+        {
+          "text": "Download Detailed Curriculum (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "abapheader": {
+    "AbapHeader": {
+      "title": "SAP ABAP Course in Mumbai",
+      "subtitle": "Become a Job-Ready SAP ABAP Developer",
+      "description": "Hands-on SAP ABAP training with real-world projects and placement support in Mumbai.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP ABAP Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "aribaheader": {
+    "AribaHeader": {
+      "title": "SAP Ariba Course in Mumbai",
+      "subtitle": "Become a Certified SAP Ariba Professional",
+      "description": "Live classes in Mumbai (with online options) | Real Ariba project scenarios | Resume & interview support included",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP Ariba Program"
+        },
+        {
+          "text": "Talk to a Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "basisheader": {
+    "BasisHeader": {
+      "title": "SAP BASIS Course in Mumbai",
+      "subtitle": "Become a Certified SAP BASIS Consultant",
+      "description": "Whether you're an IT graduate looking for your first break or a working professional planning to move into SAP administration, this SAP Basis training in Mumbai gives you the hands-on exposure that recruiters actually ask for.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP BASIS Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "bwbiheader": {
+    "BwbiHeader": {
+      "title": "SAP BW/BI Course in Mumbai",
+      "subtitle": "Become a Certified SAP BW/BI Consultant",
+      "description": "Next batch starting soon | Weekday & Weekend options | Classroom + Online",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP BI Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ewmheader": {
+    "EWMHeader": {
+      "title": "SAP EWM Course in Mumbai",
+      "subtitle": "Become a Certified SAP EWM Professional",
+      "description": "Live classes. Real-time server access. Trainers who've actually implemented SAP EWM on the shop floor — not just taught it from slides. Classroom & Online | Weekday & Weekend Batches | Certificate on Completion | Placement Assistance",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP EWM Program"
+        },
+        {
+          "text": "Talk to a Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ficoheader": {
+    "FICOHeader": {
+      "title": "SAP FICO Course in Mumbai",
+      "subtitle": "Become a Job-Ready SAP FICO Consultant",
+      "description": "Classroom in Mumbai or live online — your call. Batches for beginners, working professionals, and career switchers.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Join a Free Demo Class",
+          "courseName": "SAP FICO Program"
+        },
+        {
+          "text": "Get the Brochure on WhatsApp",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hanaheader": {
+    "HanaHeader": {
+      "title": "SAP S/4HANA Course in Mumbai",
+      "subtitle": "Become a Certified SAP S/4HANA Professional",
+      "description": "Hands-on SAP S/4HANA training with live projects and placement support in Mumbai.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP S/4 HANA Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Career Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "mmheader": {
+    "MMHeader": {
+      "title": "SAP MM Course in Mumbai",
+      "subtitle": "Become a Certified SAP MM Consultant",
+      "description": "100% Practical Training on Live SAP GUI. Industry-Expert Trainers (10+ Years SAP Experience). Placement Assistance. Globally Recognized Course Completion Certificate. Classroom (Mumbai) + Online Live Batches.",
+      "features": [
+        "100% Practical Training on Live SAP GUI",
+        "Industry-Expert Trainers (10+ Years SAP Experience)",
+        "Placement Assistance",
+        "Globally Recognized Course Completion Certificate",
+        "Classroom (Mumbai) + Online Live Batches"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP MM Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "sdheader": {
+    "SDHeader": {
+      "title": "SAP SD Course in Mumbai",
+      "subtitle": "Become a Certified SAP SD Consultant",
+      "description": "Next batch starting soon in Mumbai | Weekday & Weekend batches available | Online & Classroom options",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP SD Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ppheader": {
+    "PPHeader": {
+      "title": "SAP PP Course in Mumbai",
+      "subtitle": "Become a Certified SAP PP Consultant",
+      "description": "100% Practical, Project-Based SAP PP Training. Live SAP Server Access. Certified Trainers with 10+ Years Industry Experience. Placement Assistance After Course Completion. Weekday & Weekend Batches Available in Mumbai.",
+      "features": [
+        "100% Practical, Project-Based SAP PP Training",
+        "Live SAP Server Access",
+        "Certified Trainers with 10+ Years Industry Experience",
+        "Placement Assistance After Course Completion",
+        "Weekday & Weekend Batches Available in Mumbai"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP PP Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "qmheader": {
+    "QMHeader": {
+      "title": "SAP QM Course in Mumbai",
+      "subtitle": "Become a Certified SAP QM Consultant",
+      "description": "Weekday & weekend batches | Classroom (Andheri/Powai) + Online | Next batch starts soon.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP QM Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Counsellor (Call/WhatsApp)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "psheader": {
+    "PSHeader": {
+      "title": "SAP PS Course in Mumbai",
+      "subtitle": "Become a Certified SAP PS Consultant",
+      "description": "Classroom sessions in Mumbai + live online batches. Real client-style project scenarios, not just textbook demos. SAP system access for practice, included in the course. Resume building and interview prep before you finish.",
+      "features": [
+        "Classroom sessions in Mumbai + live online batches",
+        "Real client-style project scenarios",
+        "SAP system access for practice",
+        "Resume building and interview prep"
+      ],
+      "buttons": [
+        {
+          "text": "Talk to a Course Advisor",
+          "courseName": "SAP PS Program"
+        },
+        {
+          "text": "Download Detailed Syllabus (PDF)",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "scmheader": {
+    "SCMHeader": {
+      "title": "SAP SCM Course in Mumbai",
+      "subtitle": "Become a Certified SAP SCM Consultant",
+      "description": "Whether you're a fresher trying to break into SAP, a supply chain professional wanting to move into consulting, or someone switching careers into IT — this course is designed to get you job-ready, not just \"aware\" of SAP.",
+      "features": [
+        "100% Practical, Hands-on SAP S/4HANA Training",
+        "Trainers with 8+ Years of Real SAP Implementation Experience",
+        "Classroom (Mumbai) + Live Online Batches",
+        "Resume Building, Mock Interviews & Placement Support",
+        "Course Completion Certificate"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP SCM Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "succheader": {
+    "SuccHeader": {
+      "title": "SAP SuccessFactors Course in Mumbai",
+      "subtitle": "Become a Certified SAP SuccessFactors Consultant",
+      "description": "This SAP SF course in Mumbai is built for working professionals, HR practitioners, and freshers who want to break into SAP's cloud HCM ecosystem. You'll work on live client-style scenarios, not just theory slides.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP SuccessFactors Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        },
+        {
+          "text": "Talk to a Career Counsellor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ehsheader": {
+    "EHSHeader": {
+      "title": "SAP EHS Course in Mumbai",
+      "subtitle": "Become a Certified SAP EHS Professional",
+      "description": "Live SAP access · Real EHS case studies from process industries · Placement support.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP EHS Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "btpheader": {
+    "BTPHeader": {
+      "title": "SAP BTP Course in Mumbai",
+      "subtitle": "Become a Certified SAP BTP Professional",
+      "description": "Hands-on SAP BTP training with live server access and placement support.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP BTP Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "grcheader": {
+    "GRCHeader": {
+      "title": "SAP GRC Course in Mumbai",
+      "subtitle": "Become a Certified SAP GRC Professional",
+      "description": "100% Practical Training | Live SAP GRC Server Access | Industry-Recognized Certificate | Weekday & Weekend Batches Available in Mumbai",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP GRC Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "ibpheader": {
+    "IBPHeader": {
+      "title": "SAP IBP Course in Mumbai",
+      "subtitle": "Become a Certified SAP IBP Professional",
+      "description": "Hands-on SAP IBP training with live system access, real demand & supply planning scenarios, and placement support in Mumbai.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP IBP Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hrhcmheader": {
+    "HRHCMHeader": {
+      "title": "SAP HR/HCM Course in Mumbai",
+      "subtitle": "Become a Certified SAP HR/HCM Consultant",
+      "description": "Personnel Administration • Organizational Management • Time Management • Payroll India • ESS/MSS. Classroom in Mumbai + Live Online Batches | Weekday & Weekend Batches | Real SAP Server Access | Certificate on Completion.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP HR/HCM Program"
+        },
+        {
+          "text": "Talk to a Course Advisor",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "netheader": {
+    "NetHeader": {
+      "title": "SAP NetWeaver Course in Mumbai",
+      "subtitle": "Become a Certified SAP NetWeaver Professional",
+      "description": "Practical Training on SAP's core technological platform, including integration, system management, and security, is provided via the SAP NetWeaver Course in {city}. Acquire hands-on experience in real-world projects to get ready for positions such as SAP NetWeaver Consultant and System Administrator. This course gives you the tools to handle enterprise-level, scalable solutions in various SAP environments.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "SAP NetWeaver Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "pmheader": {
+    "PMHeader": {
+      "title": "SAP PM Course in Mumbai",
+      "subtitle": "Become a Certified SAP PM Consultant",
+      "description": "Learn directly from certified SAP PM trainers, work on real-time maintenance scenarios, and walk away job-ready — with lifetime access to class recordings and placement support. Weekday & Weekend Batches Available | Classroom + Live Online Training | 100% Practical Learning",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Book a Free Demo Class",
+          "courseName": "SAP PM Program"
+        },
+        {
+          "text": "Download Course Brochure",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "of Passing"
+          },
+          {
+            "type": "tel",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "sapheader": {
+    "SapHeader": {
+      "title": "SAP Course in Mumbai",
+      "subtitle": "Get Certified with the Best SAP Training Institute in Mumbai",
+      "description": "Grow Your Career with the Best SAP Course in {city}. Accelerate your professional journey with our industry-leading SAP training in {city}, featuring specialized courses in SAP FICO, SAP MM, and SAP SD. Our comprehensive and hands-on training program is designed to build deep expertise in core SAP modules like Financial Accounting, Materials Management, and Sales & Distribution. Whether you're a fresher or a working professional, we’ll help you land your dream job in top MNCs.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Digital Marketing Training Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "itcoursesheader": {
+    "ITcoursesHeader": {
+      "title": "IT Course in Mumbai",
+      "subtitle": "Get Certified with Advanced IT Training in Mumbai",
+      "description": "Connecting Dots ERP offers an advanced IT course in {city} designed to equip you with the essential skills to excel in the fast-evolving tech industry. Our advance and detailed training program covers key modules such as Data Science, Data Analytics, Python, and Java, ensuring you gain the expertise to work with cutting-edge technologies and solve complex business problems. By mastering these modules, you'll be prepared to take on roles like Data Scientist, Data Analyst, Python Developer, and Java Developer. Our course is tailored to help you build a strong foundation and land your dream job in the dynamic field of IT.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Digital Marketing Training Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  },
+  "hrcoursesheader": {
+    "HRcoursesHeader": {
+      "title": "HR Course in Mumbai",
+      "subtitle": "Get Certified with the Best HR Training Institute in Mumbai",
+      "description": "Connecting Dots ERP offers a advance HR course in {city} designed to equip you with the essential skills to excel in Human Resources. Our advanced and detailed HR training program covers key modules such as Personnel Administration, Payroll, Time Management, and Organizational Management.By mastering these modules, you'll gain the expertise to streamline HR processes, optimize workforce management, and drive organizational success. Our course is tailored to help you land your dream job in the dynamic field of HR.",
+      "features": [
+        "Live Class",
+        "1:1 mentorship",
+        "Industry projects"
+      ],
+      "buttons": [
+        {
+          "text": "Request Call back",
+          "courseName": "Digital Marketing Training Program"
+        },
+        {
+          "text": "Download Syllabus",
+          "courseName": "Book Live Demo"
+        }
+      ],
+      "form": {
+        "title": "Book a FREE live class",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "name",
+            "placeholder": "Enter your name"
+          },
+          {
+            "type": "email",
+            "name": "email",
+            "placeholder": "Enter your Email"
+          },
+          {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "contactname",
+            "placeholder": "Enter your phone number",
+            "countryCode": "+91"
+          }
+        ],
+        "submitText": "Book Live Class"
+      }
+    }
+  }
+}

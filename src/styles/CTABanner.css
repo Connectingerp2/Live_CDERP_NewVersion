@@ -1,0 +1,289 @@
+/* SAP Free Demo – Footer CTA Banner
+   Pixel-perfect styles, kept in their own stylesheet and imported into the
+   JSX component rather than inlined. Layout basics (flex, grid, etc.) use
+   Tailwind utility classes in the JSX; everything below is the precise
+   sizing, color, gradient, and breakpoint detail Tailwind's default scale
+   can't express exactly. */
+
+.sapdemo-root {
+    max-width: 1280px;
+    min-height: 340px;
+    border-radius: 14px;
+    background: linear-gradient(90deg, #0f172a 0%, #1e3a5f 50%, #0c4a6e 100%);
+    box-shadow: 0 12px 32px rgba(15, 23, 42, 0.22);
+}
+
+.sapdemo-glow {
+    top: -50%;
+    right: 12%;
+    width: 280px;
+    height: 280px;
+    background: radial-gradient(circle, rgba(56, 189, 248, 0.14) 0%, transparent 70%);
+}
+
+.sapdemo-content {
+    padding: 24px 28px 24px 36px;
+}
+
+.sapdemo-badge {
+    background: rgba(56, 189, 248, 0.15);
+    border: 1px solid rgba(56, 189, 248, 0.35);
+    color: #7dd3fc;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    padding: 4px 11px;
+    margin-bottom: 9px;
+}
+
+.sapdemo-badge svg {
+    width: 13px;
+    height: 13px;
+}
+
+.sapdemo-h2 {
+    font-size: 21px;
+    line-height: 1.28;
+    margin-bottom: 7px;
+    letter-spacing: -0.3px;
+}
+
+.sapdemo-subtext {
+    font-size: 13.5px;
+    line-height: 1.5;
+    max-width: 540px;
+    margin-bottom: 14px;
+}
+
+.sapdemo-row {
+    gap: 10px;
+    margin-bottom: 11px;
+}
+
+.sapdemo-btn-primary {
+    font-size: 13.5px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    background: #38bdf8;
+    color: #0f172a;
+    transition: background 0.2s, transform 0.15s;
+}
+
+.sapdemo-btn-primary:hover {
+    background: #7dd3fc;
+    transform: translateY(-1px);
+}
+
+.sapdemo-btn-secondary {
+    font-size: 13.5px;
+    padding: 10px 18px;
+    border-radius: 8px;
+    border: 1.5px solid rgba(226, 232, 240, 0.4);
+    background: transparent;
+    color: #e2e8f0;
+    transition: border-color 0.2s, background 0.2s;
+}
+
+.sapdemo-btn-secondary:hover {
+    border-color: #e2e8f0;
+    background: rgba(255, 255, 255, 0.06);
+}
+
+.sapdemo-trust {
+    font-size: 12px;
+    line-height: 1.4;
+}
+
+.sapdemo-visual {
+    width: 340px;
+    padding: 24px 20px 22px;
+    border-left: none;
+    background: transparent;
+}
+
+.sapdemo-screen {
+    width: 260px;
+    height: 140px;
+    background: #0f172a;
+    border-radius: 12px;
+    border: 3px solid #334155;
+    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.4);
+    margin-bottom: 16px;
+}
+
+.sapdemo-screen-bar {
+    height: 22px;
+    background: #1e293b;
+    border-bottom: 1px solid #334155;
+}
+
+.sapdemo-dot {
+    top: 8px;
+    width: 8px;
+    height: 8px;
+}
+
+.sapdemo-dot.r {
+    left: 14px;
+    background: #f87171;
+}
+
+.sapdemo-dot.y {
+    left: 26px;
+    background: #fbbf24;
+}
+
+.sapdemo-dot.g {
+    left: 38px;
+    background: #4ade80;
+}
+
+.sapdemo-screen-content {
+    padding: 30px 14px 10px;
+    gap: 8px;
+}
+
+.sapdemo-widget {
+    height: 34px;
+    font-size: 12px;
+    background: #1e293b;
+    border: 1px solid #334155;
+    color: #94a3b8;
+    border-radius: 5px;
+}
+
+.sapdemo-widget.wide {
+    height: 30px;
+    font-size: 13px;
+    background: linear-gradient(90deg, #0ea5e9 0%, #0284c7 100%);
+    color: #fff;
+    border: none;
+}
+
+.sapdemo-icons {
+    gap: 10px;
+}
+
+.sapdemo-icon-pill {
+    background: rgba(56, 189, 248, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.22);
+    border-radius: 8px;
+    padding: 9px 12px;
+    gap: 4px;
+    min-width: 76px;
+}
+
+.sapdemo-icon-pill svg {
+    width: 22px;
+    height: 22px;
+    color: #38bdf8;
+}
+
+.sapdemo-icon-pill span {
+    font-size: 11px;
+    color: #94a3b8;
+}
+
+/* ========== RESPONSIVE ========== */
+
+@media (max-width: 1024px) {
+    .sapdemo-root {
+        max-width: 100%;
+    }
+
+    .sapdemo-h2 {
+        font-size: 19.5px;
+    }
+
+    .sapdemo-visual {
+        width: 300px;
+    }
+
+    .sapdemo-screen {
+        width: 230px;
+        height: 124px;
+    }
+}
+
+@media (max-width: 860px) {
+    .sapdemo-root {
+        flex-direction: column;
+        min-height: auto;
+    }
+
+    .sapdemo-content {
+        padding: 22px 22px 14px;
+        order: 1;
+    }
+
+    .sapdemo-visual {
+        width: 100%;
+        border-left: none;
+        border-top: 1px solid rgba(148, 163, 184, 0.12);
+        padding: 16px 18px 18px;
+        flex-direction: row;
+        justify-content: center;
+        gap: 20px;
+        order: 2;
+    }
+
+    .sapdemo-screen {
+        margin-bottom: 0;
+    }
+
+    .sapdemo-h2 {
+        font-size: 18px;
+    }
+
+    .sapdemo-subtext {
+        font-size: 13px;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 560px) {
+    .sapdemo-content {
+        padding: 18px 16px 12px;
+    }
+
+    .sapdemo-h2 {
+        font-size: 16.5px;
+    }
+
+    .sapdemo-subtext {
+        font-size: 12.5px;
+        margin-bottom: 12px;
+    }
+
+    .sapdemo-row {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .sapdemo-row button {
+        width: 100%;
+        text-align: center;
+        padding: 11px 16px;
+    }
+
+    .sapdemo-trust {
+        font-size: 11px;
+    }
+
+    .sapdemo-visual {
+        flex-direction: column;
+        gap: 10px;
+        padding: 14px 14px 16px;
+    }
+
+    .sapdemo-screen {
+        width: 100%;
+        max-width: 260px;
+        height: 130px;
+    }
+
+    .sapdemo-icons {
+        width: 100%;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,535 @@
+/* ============================================================
+   UPCOMING BATCHES — "boarding pass" design
+   Shares the Fraunces / Inter / JetBrains Mono system used by
+   Why.module.css for visual continuity across the courses page.
+   ============================================================ */
+
+.containerYds {
+  --ink: #0b1f4b;
+  --ink-soft: #4a5568;
+  --teal: #03a3c4;
+  --paper: #fbf8f2;
+  --line: #e4ddc9;
+  --morning-a: #f2a007;
+  --morning-b: #ffcf5c;
+  --evening-a: #4a3ad1;
+  --evening-b: #7c5cfc;
+  --urgent: #d63a3a;
+  --whatsapp: #25d366;
+
+  width: 100%;
+  max-width: 1800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 3.5rem 3rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  opacity: 0;
+  transform: translateY(30px);
+  position: relative;
+}
+
+.fadeIn {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hidden {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.eyebrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--urgent);
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.eyebrowIcon {
+  font-size: 0.75rem;
+  animation: pulseIcon 1.6s ease-in-out infinite;
+}
+
+.title {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 2.6rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  text-align: center;
+  line-height: 1.2;
+  margin: 0 0 0.5rem;
+}
+
+.accent {
+  background: linear-gradient(90deg, var(--ink) 20%, var(--teal) 50%, var(--ink) 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  color: var(--ink-soft);
+  font-size: 1rem;
+  max-width: 560px;
+  margin: 0 auto 2.5rem;
+}
+
+.noBatches {
+  text-align: center;
+  padding: 2rem;
+  color: var(--ink-soft);
+  font-family: "Fraunces", Georgia, serif;
+  font-style: italic;
+}
+
+/* ============================================================
+   BATCH ROW
+   ============================================================ */
+.batchRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding-top: 1rem;
+}
+
+/* ============================================================
+   TICKET
+   ============================================================ */
+.ticket {
+  --accent-a: var(--morning-a);
+  --accent-b: var(--morning-b);
+
+  display: flex;
+  width: 100%;
+  max-width: 460px;
+  min-width: 320px;
+  flex: 1 1 400px;
+  background: var(--paper);
+  border-radius: 14px;
+  box-shadow: 0 12px 28px rgba(11, 31, 75, 0.12);
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(30px);
+  position: relative;
+}
+
+.ticket[data-session="evening"] {
+  --accent-a: var(--evening-a);
+  --accent-b: var(--evening-b);
+}
+
+.ticket::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(90deg, var(--accent-a), var(--accent-b));
+}
+
+.ticketVisible {
+  animation: ticketIn 0.7s cubic-bezier(0.22, 0.8, 0.25, 1) forwards;
+  animation-delay: var(--ticket-delay, 0s);
+}
+
+.ticketHidden {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+/* ---- info stub ---- */
+.ticketStub {
+  flex: 1 1 62%;
+  padding: 1.75rem 1.5rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.sessionBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  align-self: flex-start;
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: var(--ink);
+}
+
+.sessionIcon {
+  color: var(--accent-a);
+  font-size: 1rem;
+}
+
+.hurryFlag {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: var(--urgent);
+  color: #fff;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  animation: pulseBadge 1.8s ease-in-out infinite;
+}
+
+.timeRow,
+.dateRow {
+  font-family: "Inter", sans-serif;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dateRow {
+  padding-left: 1.4rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.rowIcon {
+  color: var(--accent-a);
+  width: 0.9rem;
+}
+
+.modeChip {
+  align-self: flex-start;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: rgba(11, 31, 75, 0.06);
+  padding: 0.25rem 0.55rem;
+  border-radius: 4px;
+}
+
+.countdownRow {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+  font-family: "JetBrains Mono", monospace;
+}
+
+.countdownValue {
+  background: rgba(11, 31, 75, 0.06);
+  color: var(--ink);
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+}
+
+.countdownLabel {
+  font-family: "Inter", sans-serif;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}
+
+.seatsBlock {
+  margin-top: 0.5rem;
+}
+
+.seatsLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: "Inter", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+}
+
+.seatsTrack {
+  width: 100%;
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(11, 31, 75, 0.08);
+  overflow: hidden;
+}
+
+.seatsFill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent-a), var(--urgent));
+  transition: width 0.6s ease;
+}
+
+/* ---- tear line ---- */
+.tearLine {
+  position: relative;
+  width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.perforation {
+  flex-grow: 1;
+  width: 0;
+  border-left: 2px dashed var(--line);
+  margin: 14px 0;
+}
+
+.notch {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 0 0 1px var(--line) inset;
+  flex-shrink: 0;
+}
+
+.notch[data-side="left"] {
+  transform: translateX(0px);
+  transform: translateY(10px);
+}
+
+.notch[data-side="right"] {
+  transform: translateX(0px);
+  transform: translateY(-10px);
+}
+
+/* ---- action stub ---- */
+.actionStub {
+  flex: 1 1 38%;
+  background: rgba(11, 31, 75, 0.02);
+  padding: 1.75rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.enrollButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: #ffffff;
+  text-decoration: none;
+  background: linear-gradient(90deg, var(--ink) 0%, var(--teal) 130%);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  box-shadow: 0 8px 18px rgba(11, 31, 75, 0.25);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.enrollButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 22px rgba(11, 31, 75, 0.32);
+}
+
+.enrollButton:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+}
+
+.whatsappButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 0.70rem;
+  color: var(--whatsapp);
+  text-decoration: none;
+  background: #ffffff;
+  border: 1.5px solid var(--whatsapp);
+  padding: 0.65rem 1rem;
+  border-radius: 8px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.whatsappButton:hover {
+  background: var(--whatsapp);
+  color: #ffffff;
+}
+
+.whatsappButton:focus-visible {
+  outline: 2px solid var(--whatsapp);
+  outline-offset: 3px;
+}
+
+/* ============================================================
+   LOADING STATE
+   ============================================================ */
+.loadingContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 500px;
+  border-radius: 1rem;
+  background-color: white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  font-family: "Inter", sans-serif;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid rgba(3, 163, 196, 0.2);
+  border-top: 5px solid rgba(3, 163, 196, 1);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+/* ============================================================
+   ANIMATIONS
+   ============================================================ */
+@keyframes ticketIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseBadge {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(214, 58, 58, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(214, 58, 58, 0);
+  }
+}
+
+@keyframes pulseIcon {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .containerYds,
+  .ticket,
+  .eyebrowIcon,
+  .hurryFlag {
+    animation: none !important;
+    transition: none !important;
+  }
+  .ticket {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 900px) {
+  .ticket {
+    flex-direction: column;
+    max-width: 460px;
+  }
+
+  .tearLine {
+    width: 100%;
+    height: 0;
+    flex-direction: row;
+  }
+
+  .perforation {
+    width: auto;
+    height: 0;
+    flex-grow: 1;
+    border-left: none;
+    border-top: 2px dashed var(--line);
+    margin: 0 14px;
+  }
+
+  .notch[data-side="left"] {
+    transform: translateY(-10px);
+  }
+
+  .notch[data-side="right"] {
+    transform: translateY(10px);
+  }
+
+  .actionStub {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .enrollButton,
+  .whatsappButton {
+    flex: 1 1 45%;
+  }
+}
+
+@media (max-width: 576px) {
+  .containerYds {
+    padding: 2rem 1.25rem;
+  }
+
+  .title {
+    font-size: 1.9rem;
+  }
+
+  .ticketStub {
+    padding: 1.5rem 1.25rem 1.25rem;
+  }
+
+  .actionStub {
+    padding: 1.25rem;
+  }
+
+  .enrollButton,
+  .whatsappButton {
+    flex: 1 1 100%;
+  }
+}
