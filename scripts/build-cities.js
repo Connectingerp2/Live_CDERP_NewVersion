@@ -3,10 +3,18 @@ const path = require('path');
 
 const citiesPath = path.join(__dirname, '..', 'public', 'Jsonfolder', 'cities.json');
 const all = JSON.parse(fs.readFileSync(citiesPath, 'utf8'));
+const cities = Array.isArray(all)
+  ? all
+  : Object.values(all).map(city => ({
+    ...city,
+    subcountry: city.subcountry || city.state || null,
+    country: city.country || 'IN',
+    population: city.population || 0,
+  }));
 
 const allowedIntl = ['US', 'UK', 'CA', 'AU', 'DE', 'FR', 'SG', 'AE', 'JP'];
 
-const trimmed = all.filter(city => {
+const trimmed = cities.filter(city => {
   if (city.country === 'IN') return true;
   if (allowedIntl.includes(city.country) && Number(city.population) > 5000000) return true;
   return false;
