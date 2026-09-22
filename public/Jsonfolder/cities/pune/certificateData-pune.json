@@ -409,12 +409,11 @@
   "sap": {
     "courseTitle": "SAP Training Certificate",
     "image": "/Certificate/Certificate-1.avif",
-    "completionText": "The Connecting Dots SAP Certification Course is designed to enhance your expertise in SAP systems.",
-    "description": "Our program goes beyond theoretical learning, offering hands-on practical sessions across various SAP modules.",
+    "completionText": "Certification adds credibility to your profile and demonstrates verified, hands-on SAP proficiency to recruiters.",
     "highlights": [
-      "Industry-recognized certificate",
-      "Hands-on across multiple modules",
-      "Real-world scenario based learning"
+      "A Course Completion Certificate recognized by industry partners",
+      "Guidance and preparation support for official SAP certification exams",
+      "A certificate that can be added to your resume and LinkedIn profile to showcase your skills to employers"
     ]
   },
   "itcourses": {
