@@ -1,0 +1,48 @@
+{
+    "coursePageReviews": [
+        {
+            "id": "raipur-review-1",
+            "name": "Prince Kumar Arya",
+            "course": "SAP Course in Raipur",
+            "batch": "Weekend batch, Sep 2025",
+            "rating": 5,
+            "quote": "I recently completed the SAP course at a top training institute in Raipur, and it was a truly rewarding experience. The syllabus was industry-oriented, covering all key modules with hands-on practice. The trainers were highly experienced, bringing real-world insights into every session, which made learning both practical and engaging. What truly set this institute apart was the supportive staff and their commitment to student success. They provided constant guidance, timely doubt-clearing sessions, and placement assistance. The learning environment was inspiring and growth-focused.",
+            "date": "1 year ago",
+            "verified": true,
+            "avatarInitials": "PA"
+        },
+        {
+            "id": "raipur-review-2",
+            "name": "Azhar Hussain",
+            "course": "SAP Course in Raipur",
+            "batch": "Evening batch, 2024",
+            "rating": 5,
+            "quote": "I did my SAP course in Raipur. And I would say that they have the best Trainers, and all the staff is very cooperative. I took a long break after the completion of my course but still after that long period of time they co-operate with me, guide me and help me in every way possible. I'll highly recommend this SAP Training Institute in Raipur to everyone who wants to learn SAP.",
+            "date": "2 years ago",
+            "verified": true,
+            "avatarInitials": "AH"
+        },
+        {
+            "id": "raipur-review-3",
+            "name": "Sanket Kakani",
+            "course": "SAP FICO Course in Raipur",
+            "batch": "Morning batch, 2024",
+            "rating": 5,
+            "quote": "This institute is a Value for money for SAP FICO course aspirants. The trainers are not just knowledgeable but also incredibly supportive. Trainers are Working Professionals. They have a skill for simplifying complex concepts. The extra doubt-clearing sessions were good. The placement cell is equally impressive, guiding us through the entire job hunting process. I will recommend it to my friends and my Brother. Thank You Sir for your support. This is Best SAP training Institute in Raipur.",
+            "date": "2 years ago",
+            "verified": true,
+            "avatarInitials": "SK"
+        },
+        {
+            "id": "raipur-review-4",
+            "name": "Krish Martiwar",
+            "course": "SAP FICO Course in Raipur",
+            "batch": "Weekend batch, 2024",
+            "rating": 5,
+            "quote": "Thank you to the Connecting Dot team. The SAP Training Institute in Raipur offers an exceptional learning environment for the SAP FICO course. The trainer's extensive knowledge and engaging teaching style made this complex subject both accessible and interesting. The practical assignments were particularly beneficial, allowing me to apply what I learned to real-world scenarios. I am grateful for the high-quality education I received here. This is truly one of the best SAP training institutes in Raipur.",
+            "date": "2 years ago",
+            "verified": true,
+            "avatarInitials": "KM"
+        }
+    ]
+}

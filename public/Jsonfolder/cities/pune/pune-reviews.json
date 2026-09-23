@@ -1,0 +1,48 @@
+{
+    "coursePageReviews": [
+        {
+            "id": "pune-review-1",
+            "name": "Durvesh Salunke",
+            "course": "SAP SD Training",
+            "batch": "Weekend batch, Aug 2026",
+            "rating": 5,
+            "quote": "I completed my SAP SD training from Connecting Dots ERP and came away with a much clearer understanding of the module. The trainer explained the topics patiently and encouraged us to work on practical exercises. I also found the interview preparation and career guidance useful as I started thinking about the next step. It was a good experience overall, especially for getting more comfortable with SAP SD concepts and practical workflows.",
+            "date": "3 weeks ago",
+            "verified": true,
+            "avatarInitials": "DS"
+        },
+        {
+            "id": "pune-review-2",
+            "name": "Avani Joshi",
+            "course": "SAP Course in Pune",
+            "batch": "Evening batch, Jul 2026",
+            "rating": 5,
+            "quote": "I joined Connecting Dots ERP to learn SAP and found the training much more practical than I expected. The trainer did not just explain the theory but also showed us how different concepts are applied in real business situations. The learning material and exercises were useful for revision between sessions. As someone looking for a good SAP Course in Pune, I found the overall learning experience comfortable and well organised. The doubt-solving support was also very helpful.",
+            "date": "1 month ago",
+            "verified": true,
+            "avatarInitials": "AJ"
+        },
+        {
+            "id": "pune-review-3",
+            "name": "Onkar Kulkarni",
+            "course": "SAP Training in Pune",
+            "batch": "Morning batch, Jun 2026",
+            "rating": 5,
+            "quote": "I had a great experience with this training institute in Pune. The trainers are knowledgeable, supportive, and explain every concept with practical examples. The teaching quality is excellent, and the learning environment is very professional. Their placement support helped students prepare for interviews and improve confidence for career opportunities. If you are searching for a reliable SAP training institute in Pune for skill development and career growth, this institute is a very good choice for professional training and practical learning.",
+            "date": "2 months ago",
+            "verified": true,
+            "avatarInitials": "OK"
+        },
+        {
+            "id": "pune-review-4",
+            "name": "Yash Gosavi",
+            "course": "SAP FICO Training in Pune",
+            "batch": "Weekend batch, Sep 2026",
+            "rating": 5,
+            "quote": "I enrolled in the SAP Course in Pune at Connecting Dots ERP, and it was truly an excellent learning experience. The SAP FICO Training in Pune was highly practical and focused on real-time Financial Accounting and Controlling concepts, which helped me understand industry requirements clearly. The trainers explained every topic in a simple and professional manner and provided continuous support throughout the training sessions. The hands-on practice, real-time case studies, and interview preparation sessions added great value to the learning process. I would highly recommend Connecting Dots ERP to anyone looking for professional SAP FICO Training in Pune with practical exposure and strong career guidance.",
+            "date": "2 weeks ago",
+            "verified": true,
+            "avatarInitials": "YG"
+        }
+    ]
+}

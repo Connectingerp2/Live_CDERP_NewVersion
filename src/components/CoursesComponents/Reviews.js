@@ -7,66 +7,72 @@ import styles from "@/styles/CoursesComponents/Reviews.module.css";
 import SectionHeading from "./SectionHeading";
 import { useInView } from "react-intersection-observer";
 import { Star, Pin, BadgeCheck, Quote } from "lucide-react";
-import { coursePageReviews, getReviewStats, ReviewStarRow } from "../Common/SharedReviews";
+import { getReviewStats, ReviewStarRow } from "../Common/SharedReviews";
 
 /*
-  Expected `data` shape:
-  {
-    title: "<html string>",
-    subtitle: "optional plain text",
-    reviews: [
-      {
-        id: "r1",
-        name: "Aditi Sharma",
-        course: "Full-Stack Web Development",
-        batch: "Morning batch, Aug 2026",
-        rating: 5,                 // 1–5, drives the star row + aggregate stats
-        quote: "The plain-text review copy...",
-        date: "2 weeks ago",
-        verified: true,
-        avatarInitials: "AS"       // used instead of a photo
-      },
-      ...
-    ]
-  }
+  Expected props (either shape works):
 
-  Everything under "AGGREGATE STATS" below is computed live from `reviews`
-  — average rating, total count, and the per-star distribution — rather
-  than being passed in as static numbers, so it always reflects whatever
-  review data the page is given.
+  1. data = {
+       title?: "<html string>",
+       subtitle?: "optional plain text",
+       reviews: [ { id, name, course, batch, rating, quote, date, verified, avatarInitials }, ... ]
+     }
+
+  2. data = [ { id, name, ... }, ... ]          // plain array from getReviewsForCity
+
+  3. reviews = [ ... ]                           // direct reviews array prop
+
+  Aggregate stats (average, total, distribution) are computed live from the
+  reviews array so they always match the data the page supplies.
 */
 
 const PIN_TILTS = [-4, 3, -2, 5, -3, 2];
 
-const defaultData = {
-  title: "What Our Students Say",
-  subtitle: "Real experiences from learners who built practical skills with us.",
-  reviews: coursePageReviews,
-};
+const DEFAULT_TITLE = "What Our Students Say";
+const DEFAULT_SUBTITLE =
+  "Real experiences from learners who built practical skills with us.";
 
-const Reviews = ({ data }) => {
+const Reviews = ({ data, reviews: reviewsProp }) => {
   const [sectionRef, sectionInView] = useInView({
     triggerOnce: true,
     threshold: 0.1,
   });
 
-  data = data || defaultData;
+  // Normalise whatever the parent passes into a clean reviews array + title/subtitle
+  let title = DEFAULT_TITLE;
+  let subtitle = DEFAULT_SUBTITLE;
+  let reviews = [];
 
-  const reviews = data.reviews || [];
+  if (data) {
+    if (Array.isArray(data)) {
+      // Parent passed the array directly (e.g. reviewsData from getReviewsForCity)
+      reviews = data;
+    } else if (typeof data === "object") {
+      title = data.title || DEFAULT_TITLE;
+      subtitle = data.subtitle || DEFAULT_SUBTITLE;
+      reviews = Array.isArray(data.reviews) ? data.reviews : [];
+    }
+  }
+
+  // Explicit reviews prop takes priority if provided
+  if (Array.isArray(reviewsProp) && reviewsProp.length > 0) {
+    reviews = reviewsProp;
+  }
 
   return (
     <div
       ref={sectionRef}
-      className={`${styles.containerYds} ${
-        sectionInView ? styles.fadeIn : styles.hidden
-      }`}
+      className={`${styles.containerYds} ${sectionInView ? styles.fadeIn : styles.hidden
+        }`}
     >
-      <SectionHeading titleHtml={data.title} description={data.subtitle} />
+      <SectionHeading titleHtml={title} description={subtitle} />
 
       {reviews.length > 0 ? (
         <ReviewsBody reviews={reviews} sectionInView={sectionInView} />
       ) : (
-        <p className={styles.noReviews}>No reviews yet — be the first to leave one.</p>
+        <p className={styles.noReviews}>
+          No reviews yet — be the first to leave one.
+        </p>
       )}
     </div>
   );
@@ -95,8 +101,9 @@ const ReviewsBody = ({ reviews, sectionInView }) => {
 
       {activeFilter && (
         <div className={styles.filterNotice}>
-          Showing {visibleReviews.length} review{visibleReviews.length !== 1 ? "s" : ""} rated{" "}
-          {activeFilter} star{activeFilter !== 1 ? "s" : ""}
+          Showing {visibleReviews.length} review
+          {visibleReviews.length !== 1 ? "s" : ""} rated {activeFilter} star
+          {activeFilter !== 1 ? "s" : ""}
           <button
             className={styles.clearFilter}
             onClick={() => setActiveFilter(null)}
@@ -108,7 +115,11 @@ const ReviewsBody = ({ reviews, sectionInView }) => {
 
       <div className={styles.corkboard}>
         {visibleReviews.map((review, index) => (
-          <ReviewPin key={index} review={review} index={index} />
+          <ReviewPin
+            key={review.id || index}
+            review={review}
+            index={index}
+          />
         ))}
       </div>
     </>
@@ -144,9 +155,15 @@ const StatsPanel = ({ stats, activeFilter, onFilterToggle, animate }) => {
   return (
     <div className={styles.statsPanel}>
       <div className={styles.statsSummary}>
-        <div className={styles.averageNumber}>{displayedAverage.toFixed(1)}</div>
+        <div className={styles.averageNumber}>
+          {displayedAverage.toFixed(1)}
+        </div>
         <div className={styles.averageStars}>
-          <ReviewStarRow rating={stats.average} size={16} className={styles.starRow} />
+          <ReviewStarRow
+            rating={stats.average}
+            size={16}
+            className={styles.starRow}
+          />
         </div>
         <div className={styles.totalLabel}>
           Based on {displayedTotal} review{displayedTotal !== 1 ? "s" : ""}
@@ -154,12 +171,11 @@ const StatsPanel = ({ stats, activeFilter, onFilterToggle, animate }) => {
       </div>
 
       <div className={styles.distribution}>
-        {stats.distribution.slice(0,3).map(({ star, count, pct }) => (
+        {stats.distribution.slice(0, 3).map(({ star, count, pct }) => (
           <button
             key={star}
-            className={`${styles.distRow} ${
-              activeFilter === star ? styles.distRowActive : ""
-            }`}
+            className={`${styles.distRow} ${activeFilter === star ? styles.distRowActive : ""
+              }`}
             onClick={() => count > 0 && onFilterToggle(star)}
             disabled={count === 0}
             aria-pressed={activeFilter === star}
@@ -195,9 +211,8 @@ const ReviewPin = ({ review, index }) => {
   return (
     <div
       ref={cardRef}
-      className={`${styles.noteCard} ${
-        cardInView ? styles.noteVisible : styles.noteHidden
-      }`}
+      className={`${styles.noteCard} ${cardInView ? styles.noteVisible : styles.noteHidden
+        }`}
       style={{ "--tilt": `${tilt}deg`, "--note-delay": `${index * 0.1}s` }}
     >
       <Pin className={styles.pinIcon} size={18} strokeWidth={2} />
@@ -226,7 +241,6 @@ const ReviewPin = ({ review, index }) => {
           )}
         </div>
       </div>
-
     </div>
   );
 };

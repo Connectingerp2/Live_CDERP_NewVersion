@@ -1,18 +1,106 @@
 // components/CoursesComponents/FAQ.js
 "use client";
 
-import { useState } from "react";
+import React, { useState, useRef, useLayoutEffect, useEffect } from "react";
 import { Headphones, MessageCircle, Phone, Plus, Minus } from "lucide-react";
 import SectionBackground from "../BackgroundCss/SectionBackground";
 import Container from "../StandardContainer";
 import SectionHeading from "./SectionHeading";
 
+// Isolated so that opening/closing a question only re-renders THIS
+// subtree, not Container / SectionBackground / the image / left column.
+const FaqList = React.memo(function FaqList({ FAQ_DATA }) {
+  const [openIndex, setOpenIndex] = useState(0);
+
+  // Refs to each answer's inner content, used to measure its real height
+  const answerRefs = useRef([]);
+  const [heights, setHeights] = useState({});
+
+  // Measure the open answer's height whenever it changes (content, open index, or resize)
+  useLayoutEffect(() => {
+    if (openIndex === null) return;
+    const el = answerRefs.current[openIndex];
+    if (el) {
+      setHeights((prev) =>
+        prev[openIndex] === el.scrollHeight
+          ? prev
+          : { ...prev, [openIndex]: el.scrollHeight }
+      );
+    }
+  }, [openIndex, FAQ_DATA]);
+
+  useEffect(() => {
+    const handleResize = () => {
+      if (openIndex === null) return;
+      const el = answerRefs.current[openIndex];
+      if (el) {
+        setHeights((prev) =>
+          prev[openIndex] === el.scrollHeight
+            ? prev
+            : { ...prev, [openIndex]: el.scrollHeight }
+        );
+      }
+    };
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, [openIndex]);
+
+  return (
+    <div className="faqList">
+      {FAQ_DATA.map((item, index) => {
+        const isOpen = openIndex === index;
+        return (
+          <div key={index} className={`faqRow${isOpen ? " faqRowOpen" : ""}`}>
+            <button
+              className="faqRowButton"
+              aria-expanded={isOpen}
+              onClick={() => setOpenIndex(isOpen ? null : index)}
+            >
+              <span className="faqQuestionLeft">
+                <span className="faqNumber" aria-hidden="true">
+                  {index + 1}
+                </span>
+                <span
+                  className={`faqQuestion${isOpen ? " faqQuestionOpen" : ""}`}
+                >
+                  {item.question}
+                </span>
+              </span>
+              <span
+                className={`faqToggle${isOpen ? " faqToggleOpen" : ""}`}
+                aria-hidden="true"
+              >
+                {isOpen ? (
+                  <Minus size={14} strokeWidth={2.5} color="#ffffff" />
+                ) : (
+                  <Plus size={16} strokeWidth={2.5} color="#0b1220" />
+                )}
+              </span>
+            </button>
+
+            {/* Smooth, non-laggy accordion content (height-based) */}
+            <div
+              className={`faqAnswerWrap${isOpen ? " faqAnswerWrapOpen" : ""}`}
+              style={{ height: isOpen ? heights[index] ?? "auto" : 0 }}
+            >
+              <div
+                className="faqAnswerInner"
+                ref={(el) => (answerRefs.current[index] = el)}
+              >
+                <p className="faqAnswer">{item.answer}</p>
+              </div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+});
 
 export default function FAQAccordion({ data }) {
-  const [openIndex, setOpenIndex] = useState(0);
-  const FAQ_DATA = data['items'] || [];
+  const FAQ_DATA = data["items"] || [];
+
   return (
-    // <section className="w-screen flex items-center justify-center relative left-1/2 -translate-x-1/2">
     <Container>
       <SectionBackground>
         <div className="faqOuter w-full flex items-center justify-center">
@@ -47,13 +135,15 @@ export default function FAQAccordion({ data }) {
                   Chat on WhatsApp
                 </a>
 
-                <button 
+                <button
                   onClick={() => {
-                                window.open(
-                                    "https://wa.me/9004002941?text=Hi%20I'm%20interested%20in%20your%20courses.",
-                                    "_blank"
-                                );}}
-                className="faqHelpBtn faqHelpBtnCall">
+                    window.open(
+                      "https://wa.me/9004002941?text=Hi%20I'm%20interested%20in%20your%20courses.",
+                      "_blank"
+                    );
+                  }}
+                  className="faqHelpBtn faqHelpBtnCall"
+                >
                   <Phone size={16} strokeWidth={2} />
                   Call Us Now
                 </button>
@@ -71,58 +161,11 @@ export default function FAQAccordion({ data }) {
 
             {/* Right column */}
             <div className="faqRight">
-              <div className="faqList">
-                {FAQ_DATA.map((item, index) => {
-                  const isOpen = openIndex === index;
-                  return (
-                    <div
-                      key={index}
-                      className={`faqRow${isOpen ? " faqRowOpen" : ""}`}
-                    >
-                      <button
-                        className="faqRowButton"
-                        aria-expanded={isOpen}
-                        onClick={() => setOpenIndex(isOpen ? null : index)}
-                      >
-                        <span className="faqQuestionLeft">
-                          <span className="faqNumber" aria-hidden="true">
-                            {index + 1}
-                          </span>
-                          <span
-                            className={`faqQuestion${isOpen ? " faqQuestionOpen" : ""}`}
-                          >
-                            {item.question}
-                          </span>
-                        </span>
-                        <span
-                          className={`faqToggle${isOpen ? " faqToggleOpen" : ""}`}
-                          aria-hidden="true"
-                        >
-                          {isOpen ? (
-                            <Minus size={14} strokeWidth={2.5} color="#ffffff" />
-                          ) : (
-                            <Plus size={16} strokeWidth={2.5} color="#0b1220" />
-                          )}
-                        </span>
-                      </button>
-                      <div
-                        className="faqAnswerWrap"
-                        style={{
-                          gridTemplateRows: isOpen ? "1fr" : "0fr",
-                        }}
-                      >
-                        <div className="faqAnswerInner">
-                          <p className="faqAnswer">{item.answer}</p>
-                        </div>
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
+              <FaqList FAQ_DATA={FAQ_DATA} />
             </div>
           </div>
 
-          <style jsx>{`
+          <style jsx global>{`
             .faqOuter {
               background-image: Transparent;
               background-size: cover;
@@ -397,13 +440,14 @@ export default function FAQAccordion({ data }) {
               background: #2f6fed;
             }
 
+            /* ---------- Smooth accordion (height-based, no grid-rows lag) ---------- */
             .faqAnswerWrap {
-              display: grid;
-              transition: grid-template-rows 260ms cubic-bezier(0.4, 0, 0.2, 1);
+              overflow: hidden;
+              transition: height 280ms cubic-bezier(0.4, 0, 0.2, 1);
             }
 
             .faqAnswerInner {
-              overflow: hidden;
+              min-height: 0;
             }
 
             .faqAnswer {
@@ -500,7 +544,7 @@ export default function FAQAccordion({ data }) {
               }
 
               .faqFigureImg {
-              width:auto;
+                width: auto;
                 max-width: 80vw;
               }
             }
@@ -508,6 +552,5 @@ export default function FAQAccordion({ data }) {
         </div>
       </SectionBackground>
     </Container>
-    // </section >
   );
 }

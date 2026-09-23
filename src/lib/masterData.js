@@ -1,3 +1,4 @@
+
 // lib/masterData.js
 // Only helpers + assembly logic. All pure data lives in public/Jsonfolder/*.json
 
@@ -38,6 +39,10 @@ import CTABannerData from "../../public/Jsonfolder/cities/pune/CTAbanner.json";
 import CTABannerDataMumbai from "../../public/Jsonfolder/cities/mumbai/CTAbanner-mumbai.json";
 import CTABannerDataRaipur from "../../public/Jsonfolder/cities/raipur/CTAbanner-raipur.json";
 
+// Reviews data
+import reviewdatapune from "../../public/Jsonfolder/cities/pune/pune-reviews.json";
+import reviewdatamumbai from "../../public/Jsonfolder/cities/mumbai/mumbai-reviews.json";
+import reviewdataraipur from "../../public/Jsonfolder/cities/raipur/raipur-reviews.json";
 
 import alumni from "../../public/Jsonfolder/alumni.json";
 import icons from "../../public/Jsonfolder/icons.json";
@@ -473,7 +478,7 @@ if (coursesData.chatgpt) {
 }
 
 // =====================================================
-// 7. CITY-AWARE HELPER
+// 7. CITY-AWARE HELPERS
 // =====================================================
 
 /**
@@ -535,7 +540,6 @@ export function getWhoThisIsForForCity(courseSlug, citySlug = "pune") {
   return source?.[whoKey] || null;
 }
 
-
 /**
  * Returns the correct WhatYouWillLearn array for a course + city.
  * Uses WhatYouWillLearn-mumbai.json for mumbai, otherwise the default (Pune) file.
@@ -564,6 +568,46 @@ export function getSkillsForCity(courseSlug, citySlug = "pune") {
   return source?.[skillsKey] || null;
 }
 
+export function getCertificateForCity(courseSlug, citySlug = "pune") {
+  const source =
+    citySlug === "mumbai" ? certificateDataMumbai : citySlug === "raipur" ? certificateDataRaipur : certificateDataPune;
+
+  const certKey = enrichmentMaps?.certificateMap?.[courseSlug];
+  if (!certKey) return null;
+
+  return source?.[certKey] || null;
+}
+
+/**
+ * Returns the Demo / CTA Banner object for a course + city.
+ * Currently uses the single SapDemoBanner.json; swap the source
+ * when you create city-specific files.
+ */
+export function getDemoBannerForCity(courseSlug, citySlug = "pune") {
+  const source = citySlug === "mumbai" ? CTABannerDataMumbai
+    : citySlug === "raipur" ? CTABannerDataRaipur
+      : CTABannerData;
+  const bannerKey = enrichmentMaps?.demoBannerMap?.[courseSlug];
+  if (!bannerKey) return null;
+
+  return source?.[bannerKey] || null;
+}
+
+/**
+ * Returns the reviews array for a given city.
+ * Defaults to Pune when city is missing or unknown.
+ */
+export function getReviewsForCity(citySlug = "pune") {
+  if (citySlug === "mumbai") {
+    return reviewdatamumbai?.coursePageReviews || [];
+  }
+  if (citySlug === "raipur") {
+    return reviewdataraipur?.coursePageReviews || [];
+  }
+  // default → Pune
+  return reviewdatapune?.coursePageReviews || [];
+}
+
 export function getCourseData(slug, citySlug = "pune") {
   const base = coursesData[slug];
   if (!base) return null;
@@ -589,33 +633,31 @@ export function getCourseData(slug, citySlug = "pune") {
     course.demoBanner = cityDemoBanner;
   }
 
+  // City-specific reviews (defaults to Pune)
+  course.reviews = getReviewsForCity(citySlug);
+
+  // Optional: also override other city-aware sections when available
+  const cityWhat = getWhatYouWillLearnForCity(slug, citySlug);
+  if (cityWhat) {
+    course.whatYouWillLearn = cityWhat;
+  }
+
+  const citySkills = getSkillsForCity(slug, citySlug);
+  if (citySkills) {
+    course.skillsndtools = citySkills;
+  }
+
+  const cityWho = getWhoThisIsForForCity(slug, citySlug);
+  if (cityWho) {
+    course.whothisisfor = cityWho;
+  }
+
+  const cityCert = getCertificateForCity(slug, citySlug);
+  if (cityCert) {
+    course.certificate = cityCert;
+  }
+
   return course;
-}
-
-
-export function getCertificateForCity(courseSlug, citySlug = "pune") {
-  const source =
-    citySlug === "mumbai" ? certificateDataMumbai : citySlug === "raipur" ? certificateDataRaipur : certificateDataPune;
-
-  const certKey = enrichmentMaps?.certificateMap?.[courseSlug];
-  if (!certKey) return null;
-
-  return source?.[certKey] || null;
-}
-
-/**
- * Returns the Demo / CTA Banner object for a course + city.
- * Currently uses the single SapDemoBanner.json; swap the source
- * when you create city-specific files.
- */
-export function getDemoBannerForCity(courseSlug, citySlug = "pune") {
-  const source = citySlug === "mumbai" ? CTABannerDataMumbai
-    : citySlug === "raipur" ? CTABannerDataRaipur
-      : CTABannerData;
-  const bannerKey = enrichmentMaps?.demoBannerMap?.[courseSlug];
-  if (!bannerKey) return null;
-
-  return source?.[bannerKey] || null;
 }
 
 // =====================================================
