@@ -51,7 +51,7 @@ export default function CareerHeroSlide({ onOpenForm }) {
               </span>
             </div>
 
-            <h1
+            <h2
               className={`${barlow.className} heroHeading relative mt-3 text-[30px] xs:text-[36px] leading-[0.95] xs:leading-[0.9] font-extrabold uppercase tracking-[0.05em] text-[#1b3a6d]`}
             >
               From <span className="font-normal">&#x22;</span>Just applying<span className="font-normal">&#x22;</span> to
@@ -60,7 +60,7 @@ export default function CareerHeroSlide({ onOpenForm }) {
                 <span className="font-normal">&#x22;</span>just got hired<span className="font-normal">&#x22;</span>
               </span>
               <br />
-            </h1>
+            </h2>
 
             <style jsx>{`
               /* Underline */
