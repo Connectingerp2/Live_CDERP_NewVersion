@@ -289,7 +289,7 @@ export default function Hero() {
     <style>
       {`
         .backgroundImgAbout{
-          background-image: url("/aboutImageUP.png");
+          background-image: url("https://res.cloudinary.com/bropujss/image/upload/v1790138891/aboutImageUP_yltrvy.webp");
           background-position:center;
           background-size:cover;
         }

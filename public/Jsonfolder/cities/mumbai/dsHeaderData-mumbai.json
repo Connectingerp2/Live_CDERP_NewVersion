@@ -33,6 +33,16 @@
             "placeholder": "Enter your Email"
           },
           {
+            "type": "text",
+            "name": "year",
+            "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -80,6 +90,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -131,6 +146,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -145,7 +165,7 @@
     "FullStackHeader": {
       "title": "Full Stack Course in Mumbai",
       "subtitle": "Master Front-End & Back-End Development with Real Projects",
-      "description": "Join Mumbai's most practical Full Stack Development course and learn to build complete web applications from scratch. Master HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and deployment — all through live projects and industry-relevant training. Whether you're a fresher, a working professional, or a career switcher, this course is designed to make you job-ready with a strong portfolio.",
+      "description": "Join Mumbai's most practical Full Stack Development course and learn to build complete web applications from scratch. Master HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and deployment \u2014 all through live projects and industry-relevant training. Whether you're a fresher, a working professional, or a career switcher, this course is designed to make you job-ready with a strong portfolio.",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -178,6 +198,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -229,6 +254,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -278,6 +308,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -325,6 +360,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -380,6 +420,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -429,6 +474,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -443,7 +493,7 @@
     "DataVisualHeader": {
       "title": "Data Visualization with AI Course in Mumbai",
       "subtitle": "Turn Raw Numbers into Decisions That Get Noticed",
-      "description": "Learn to build dashboards, tell stories with data, and use AI tools to work faster — all in a hands-on program designed for working professionals in Mumbai. From Excel to Power BI, Tableau to AI-assisted analytics this course takes you from \"I can make a chart\" to \"I can make a chart that changes minds.\"",
+      "description": "Learn to build dashboards, tell stories with data, and use AI tools to work faster \u2014 all in a hands-on program designed for working professionals in Mumbai. From Excel to Power BI, Tableau to AI-assisted analytics this course takes you from \"I can make a chart\" to \"I can make a chart that changes minds.\"",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -478,6 +528,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -492,7 +547,7 @@
     "CoreHeader": {
       "title": "Core HR Course in Mumbai",
       "subtitle": "Build a Career in Human Resources That Actually Goes Somewhere",
-      "description": "Learn the real, day-to-day skills HR teams use — recruitment, payroll, compliance, performance management, and HRMS tools — through a practical Core HR Course in Mumbai designed with working professionals and freshers in mind.",
+      "description": "Learn the real, day-to-day skills HR teams use \u2014 recruitment, payroll, compliance, performance management, and HRMS tools \u2014 through a practical Core HR Course in Mumbai designed with working professionals and freshers in mind.",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -525,6 +580,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -580,6 +640,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -631,6 +696,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -686,6 +756,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -735,6 +810,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -749,7 +829,7 @@
     "HRTrainingHeader": {
       "title": "HR Training Course in Mumbai",
       "subtitle": "Build a Career in Human Resources with Practical HR Training",
-      "description": "Our HR Training in Mumbai covers recruitment, payroll, compliance, HRBP strategy, and HRMS tools, taught by working HR professionals — with real company projects, live case studies, and placement support.",
+      "description": "Our HR Training in Mumbai covers recruitment, payroll, compliance, HRBP strategy, and HRMS tools, taught by working HR professionals \u2014 with real company projects, live case studies, and placement support.",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -782,6 +862,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -837,6 +922,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -888,6 +978,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -943,6 +1038,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -990,6 +1090,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1041,6 +1146,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1088,6 +1198,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1139,6 +1254,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1188,6 +1308,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1202,7 +1327,7 @@
     "EWMHeader": {
       "title": "SAP EWM Course in Mumbai",
       "subtitle": "Become a Certified SAP EWM Professional",
-      "description": "Live classes. Real-time server access. Trainers who've actually implemented SAP EWM on the shop floor — not just taught it from slides. Classroom & Online | Weekday & Weekend Batches | Certificate on Completion | Placement Assistance",
+      "description": "Live classes. Real-time server access. Trainers who've actually implemented SAP EWM on the shop floor \u2014 not just taught it from slides. Classroom & Online | Weekday & Weekend Batches | Certificate on Completion | Placement Assistance",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -1237,6 +1362,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1251,7 +1381,7 @@
     "FICOHeader": {
       "title": "SAP FICO Course in Mumbai",
       "subtitle": "Become a Job-Ready SAP FICO Consultant",
-      "description": "Classroom in Mumbai or live online — your call. Batches for beginners, working professionals, and career switchers.",
+      "description": "Classroom in Mumbai or live online \u2014 your call. Batches for beginners, working professionals, and career switchers.",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -1344,6 +1474,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1395,6 +1530,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1442,6 +1582,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1493,6 +1638,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1548,6 +1698,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1598,6 +1753,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1612,7 +1772,7 @@
     "SCMHeader": {
       "title": "SAP SCM Course in Mumbai",
       "subtitle": "Become a Certified SAP SCM Consultant",
-      "description": "Whether you're a fresher trying to break into SAP, a supply chain professional wanting to move into consulting, or someone switching careers into IT — this course is designed to get you job-ready, not just \"aware\" of SAP.",
+      "description": "Whether you're a fresher trying to break into SAP, a supply chain professional wanting to move into consulting, or someone switching careers into IT \u2014 this course is designed to get you job-ready, not just \"aware\" of SAP.",
       "features": [
         "100% Practical, Hands-on SAP S/4HANA Training",
         "Trainers with 8+ Years of Real SAP Implementation Experience",
@@ -1647,6 +1807,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1702,6 +1867,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1716,7 +1886,7 @@
     "EHSHeader": {
       "title": "SAP EHS Course in Mumbai",
       "subtitle": "Become a Certified SAP EHS Professional",
-      "description": "Live SAP access · Real EHS case studies from process industries · Placement support.",
+      "description": "Live SAP access \u00b7 Real EHS case studies from process industries \u00b7 Placement support.",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -1749,6 +1919,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1800,6 +1975,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1847,6 +2027,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1898,6 +2083,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -1912,7 +2102,7 @@
     "HRHCMHeader": {
       "title": "SAP HR/HCM Course in Mumbai",
       "subtitle": "Become a Certified SAP HR/HCM Consultant",
-      "description": "Personnel Administration • Organizational Management • Time Management • Payroll India • ESS/MSS. Classroom in Mumbai + Live Online Batches | Weekday & Weekend Batches | Real SAP Server Access | Certificate on Completion.",
+      "description": "Personnel Administration \u2022 Organizational Management \u2022 Time Management \u2022 Payroll India \u2022 ESS/MSS. Classroom in Mumbai + Live Online Batches | Weekday & Weekend Batches | Real SAP Server Access | Certificate on Completion.",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -1945,6 +2135,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -1996,6 +2191,11 @@
             "placeholder": "Year of Passing"
           },
           {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
             "type": "tel",
             "name": "contactname",
             "placeholder": "Enter your phone number",
@@ -2010,7 +2210,7 @@
     "PMHeader": {
       "title": "SAP PM Course in Mumbai",
       "subtitle": "Become a Certified SAP PM Consultant",
-      "description": "Learn directly from certified SAP PM trainers, work on real-time maintenance scenarios, and walk away job-ready — with lifetime access to class recordings and placement support. Weekday & Weekend Batches Available | Classroom + Live Online Training | 100% Practical Learning",
+      "description": "Learn directly from certified SAP PM trainers, work on real-time maintenance scenarios, and walk away job-ready \u2014 with lifetime access to class recordings and placement support. Weekday & Weekend Batches Available | Classroom + Live Online Training | 100% Practical Learning",
       "features": [
         "Live Class",
         "1:1 mentorship",
@@ -2043,6 +2243,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "tel",
@@ -2095,6 +2300,11 @@
           },
           {
             "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
+            "type": "text",
             "name": "contactname",
             "placeholder": "Enter your phone number",
             "countryCode": "+91"
@@ -2144,6 +2354,11 @@
           },
           {
             "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
+          },
+          {
+            "type": "text",
             "name": "contactname",
             "placeholder": "Enter your phone number",
             "countryCode": "+91"
@@ -2190,6 +2405,11 @@
             "type": "text",
             "name": "year",
             "placeholder": "Year of Passing"
+          },
+          {
+            "type": "text",
+            "name": "location",
+            "placeholder": "Add your location"
           },
           {
             "type": "text",

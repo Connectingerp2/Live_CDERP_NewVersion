@@ -273,7 +273,7 @@ export default function page() {
                         </p>
                         <div className="relative mt-4 h-40 w-full">
                             <Image
-                                src="/onboarding-illustration.png"
+                                src="https://res.cloudinary.com/bropujss/image/upload/v1790138891/onboarding-illustration_sqr2fu.webp"
                                 alt="Illustration of a person holding a laptop with charts on screen"
                                 fill
                                 className="object-contain"

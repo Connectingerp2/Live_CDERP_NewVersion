@@ -50,7 +50,7 @@ export default function HiringBanner() {
           {/* Illustration - using your image from public folder */}
           <div className="flex-shrink-0 w-56 md:w-64">
             <img
-              src="/mountain_apply.png"
+              src="https://res.cloudinary.com/bropujss/image/upload/v1790138891/mountain_apply_busxot.webp"
               alt="Mountain with flag"
               className="w-full h-auto object-contain"
             />
