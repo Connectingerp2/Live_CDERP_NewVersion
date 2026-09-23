@@ -39,7 +39,7 @@ export default function HiringBanner() {
             </p>
 
             <a
-              href="#"
+              href="/career"
               className="inline-flex items-center gap-1.5 text-blue-600 font-semibold text-sm hover:text-blue-700 transition-colors"
             >
               APPLY NOW

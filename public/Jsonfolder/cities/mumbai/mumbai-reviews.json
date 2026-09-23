@@ -1,0 +1,48 @@
+{
+    "coursePageReviews": [
+        {
+            "id": "mumbai-review-1",
+            "name": "Yukta Mokashi",
+            "course": "SAP FICO Course in Mumbai",
+            "batch": "Weekend batch, Sep 2026",
+            "rating": 5,
+            "quote": "Excited to share that I have successfully completed my SAP FICO course at Connecting Dots ERP, Mumbai! It wasn't just about theory—4 months of round-the-clock SAP S/4HANA server access meant true hands-on skill development. Combined with a dedicated counselling team and end-to-end career guidance (resume building, LinkedIn optimization, mock interviews, and direct job opportunities), the preparation was complete. Thankful to the team for the incredible support. Highly recommending Connecting Dots ERP to anyone looking to build a strong career in SAP!",
+            "date": "16 hours ago",
+            "verified": true,
+            "avatarInitials": "YM"
+        },
+        {
+            "id": "mumbai-review-2",
+            "name": "Chaitali Gaikwad",
+            "course": "SAP FICO Course in Mumbai",
+            "batch": "Evening batch, Sep 2026",
+            "rating": 5,
+            "quote": "I recently completed my SAP FICO Course in Mumbai from Connecting Dots ERP, and I had a really positive experience. The counsellor team was supportive and always available to guide me. The 4 months of 24×7 free SAP S/4HANA practice server access was very helpful for gaining hands-on practice. I also appreciated the HR team's support with resume building, mock interviews, and LinkedIn profile improvement. They also shared relevant job openings after my course. I'm happy with my experience and would recommend Connecting Dots ERP.",
+            "date": "1 day ago",
+            "verified": true,
+            "avatarInitials": "CG"
+        },
+        {
+            "id": "mumbai-review-3",
+            "name": "Mainuddin Shikalgar",
+            "course": "Data Analytics Course in Mumbai",
+            "batch": "Weekend batch, May 2026",
+            "rating": 5,
+            "quote": "I recently completed the Data Analytics course in Mumbai at this institute and had an excellent learning experience. The training was practical, industry-focused, and covered important concepts like Excel, SQL, Power BI, Python, data visualization, and real-time analytics projects. The trainers explained every topic clearly and provided hands-on practice that helped me understand how data analytics is used in real business environments. The institute also offered useful career guidance, assignments, and interview preparation sessions that improved my confidence and technical skills. Anyone looking for professional Data Analytics training in Mumbai to build strong analytical and business intelligence skills can definitely consider this institute for practical learning and career growth.",
+            "date": "4 months ago",
+            "verified": true,
+            "avatarInitials": "MS"
+        },
+        {
+            "id": "mumbai-review-4",
+            "name": "Nitesh Pardeshi",
+            "course": "SAP MM Course in Mumbai",
+            "batch": "Morning batch, May 2026",
+            "rating": 5,
+            "quote": "I recently joined the SAP MM course in Mumbai at this institute and had a very good learning experience. The training was focused on practical knowledge of material management, procurement processes, inventory management, and real-time SAP business workflows. The trainers explained every concept clearly with hands-on practice, which made learning simple and effective. The institute also provides a supportive learning environment, practical assignments, and interview guidance that helps students gain confidence for career opportunities. If you are searching for professional SAP training in Mumbai to build strong SAP MM skills and improve job prospects, this institute is definitely a great choice for practical and career-oriented learning.",
+            "date": "4 months ago",
+            "verified": true,
+            "avatarInitials": "NP"
+        }
+    ]
+}

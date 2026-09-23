@@ -1,16 +1,17 @@
 // seoMeta.js
 
 export const citySpecificMeta = {
+  // SAP
   "sap-fico": {
-    "pune": {
-      title: "SAP FICO course in Pune updated 2026 | Practical Training",
+        "pune": {
+      title: "SAP FICO Course in Pune | with Placement Support",
       description:
-        "Join our SAP FICO course in Pune with certified trainers, hands-on sessions, and 100% placement support. Learn and advance your career today!",
+        "Boost your career with SAP FICO Classes in Pune from Connecting Dots ERP. Get practical training, real-time Scenario, and Working Professional Training.",
     },
-    "mumbai": {
-      title: "SAP FICO Course in Mumbai | Learn from Industry Experts",
+        "mumbai": {
+      title: "SAP FICO Course in Mumbai | with placement Support",
       description:
-        "Enroll in Best SAP FICO training in mumbai. Get practical experience, working professional trainers, and 100% placement assistance for a successful career.",
+        "Join the best SAP FICO Course in Mumbai with Working Professional trainers Our SAP FICO Training in Mumbai provides career guidance to reach your dream job.",
     },
     "delhi": {
       title: "SAP FICO course in Delhi | SAP Fico Trending Course 2026",
@@ -187,10 +188,10 @@ export const citySpecificMeta = {
       description:
         "Master SAP FICO modules covering financial accounting, controlling, and profitability analysis for career-ready finance skills.",
     },
-    "raipur": {
-      title: "SAP FICO Course in Raipur – Professional Training",
+        "raipur": {
+      title: "SAP FICO Course in Raipur | Finance & Controlling",
       description:
-        "Understand SAP FICO concepts like general ledger, accounts management, and financial reporting for corporate finance roles.",
+        "Join the SAP FICO course in Raipur — learn Finance & Controlling modules with real-time projects, practical training and certification. Enroll now!",
     },
     "cochin": {
       title: "SAP FICO Training in Cochin – Expert Classes",
@@ -319,15 +320,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-sd": {
-    "pune": {
-      title: "SAP SD Course in Pune | Master Sales & Distribution",
+        "pune": {
+      title: "SAP SD course in Pune | training on S/4 Hana",
       description:
-        "SAP SD course in Pune covers order-to-cash, billing, shipping, and pricing configuration. Build SAP SD skills for global career growth.",
+        "Connecting Dots ERP is the best SAP SD Training institute in Pune with Placements support. Learn to manage customer orders, deliveries, and billing.",
     },
-    "mumbai": {
-      title: "SAP SD Course in Mumbai | Expert Sales Training",
+        "mumbai": {
+      title: "SAP SD Course in Mumbai | Placement Support",
       description:
-        "SAP SD course in Mumbai teaches order processing, delivery, and billing. Learn practical SAP SD modules for enterprise sales roles.",
+        "SAP SD course in Mumbai teaches order processing, delivery, and billing. The best SAP SD Training in Mumbai opens doors for fresher and working professionals",
     },
     "delhi": {
       title: "SAP SD Course in Delhi | Sales Process Mastery",
@@ -365,286 +366,286 @@ export const citySpecificMeta = {
         "SAP SD course in Jaipur covers quotations, orders, and billing flow. Learn SAP SD for managing enterprise sales efficiently. Sales Process Training.",
     },
     "lucknow": {
-  title: "SAP SD Course in Lucknow | Sales Process Training",
-  description:
-    "SAP SD course in Lucknow includes order handling, shipping, and pricing. Build SAP SD skills for business process automation. Expert Sales Learning.",
-},
-"kanpur": {
-  title: "SAP SD Course in Kanpur | Expert Sales Learning",
-  description:
-    "SAP SD course in Kanpur teaches order management, delivery, and billing. Learn SAP SD modules for ERP-based sales operations. Sales & Distribution Skills 2026",
-},
-"nagpur": {
-  title: "SAP SD Course in Nagpur | Sales & Distribution Skills",
-  description:
-    "SAP SD course in Nagpur focuses on order-to-cash, returns, and invoicing. Gain SAP SD configuration and reporting skills. Learn 2026 Enterprise Sales.",
-},
-"patna": {
-  title: "SAP SD Course in Patna | Learn Enterprise Sales",
-  description:
-    "SAP SD course in Patna covers order processing, billing, and customer master setup. Build SAP SD expertise for business growth.",
-},
-"indore": {
-  title: "SAP SD Course in Indore – Sales System Training",
-  description:
-    "SAP SD course in Indore focuses on order-to-cash, credit control, and billing. Learn SAP SD integration for ERP solutions. Master Sales Modules.",
-},
-"bhopal": {
-  title: "SAP SD Course in Bhopal | Master Sales Modules",
-  description:
-    "SAP SD course in Bhopal covers pricing, delivery, and reporting. Gain hands-on SAP SD knowledge for professional advancement.",
-},
-"visakhapatnam": {
-  title: "SAP SD Course in Visakhapatnam | Sales Excellence",
-  description:
-    "SAP SD course in Visakhapatnam teaches order management, pricing, and invoicing. Build SAP SD configuration skills confidently. Sales Excellence.",
-},
-"vadodara": {
-  title: "SAP SD Course in Vadodara | Learn Sales Modules",
-  description:
-    "SAP SD course in Vadodara covers order-to-cash, billing, and dispatch. Master SAP SD processes for enterprise sales operations. Join SAP SD Trending Course.",
-},
-"ludhiana": {
-  title: "SAP SD Course in Ludhiana | Expert Sales Learning",
-  description:
-    "SAP SD course in Ludhiana focuses on orders, pricing, and shipping. Gain real-time SAP SD practical knowledge for SAP jobs 2026.",
-},
-"agra": {
-  title: "SAP SD Course in Agra | Sales & Billing Expertise",
-  description:
-    "SAP SD course in Ludhiana focuses on orders, pricing, and shipping. Gain real-time SAP SD practical knowledge for SAP jobs 2026. Sales & Billing Expertise.",
-},
-"nashik": {
-  title: "SAP SD Course in Nashik | Learn Sales Management",
-  description:
-    "SAP SD course in Nashik covers order handling, shipping, and invoicing. Build SAP SD process knowledge for enterprise systems. SAP training in Nashik.",
-},
-"rajkot": {
-  title: "SAP SD Course in Rajkot | Expert Sales Skills",
-  description:
-    "SAP SD course in Rajkot includes order-to-cash, credit control, and billing. Gain SAP SD training for real-time business processes.",
-},
-"varanasi": {
-  title: "SAP SD Course in Varanasi | Learn Distribution",
-  description:
-    "SAP SD course in Varanasi focuses on sales flow, billing, and returns. Master SAP SD modules for efficient sales operations and Learn Sales Management.",
-},
-"kerala": {
-  title: "SAP SD Course in Kerala | Sales Process Training",
-  description:
-    "SAP SD course in Kerala covers pricing, invoicing, and order tracking. Build core SAP SD skills for global ERP systems and Learn the best SAP SD skill of 2026.",
-},
-"surat": {
-  title: "SAP SD Course in Surat | Master Sales & Billing",
-  description:
-    "SAP SD course in Surat teaches order-to-cash, shipment, and billing. Learn SAP SD configuration for real-time business use and Learn Distribution Flow.",
-},
-"dehradun": {
-  title: "SAP SD Course in Dehradun | Expert Sales Training",
-  description:
-    "SAP SD course in Dehradun covers order management, pricing, and billing modules. Build SAP SD expertise for finance and logistics. Enroll Now!",
-},
-"madurai": {
-  title: "SAP SD Course in Madurai | Learn Distribution Flow",
-  description:
-    "SAP SD course in Madurai focuses on order-to-cash, pricing, and dispatch. Gain SAP SD practical skills for enterprise use and Learn Distribution Flow.",
-},
-"mysore": {
-  title: "SAP SD Course in Mysore | Master Sales Operations",
-  description:
-    "SAP SD course in Mysore covers sales processing, billing, and reporting. Learn SAP SD tools for efficient sales control and Master Sales Operations",
-},
-"pondicherry": {
-  title: "SAP SD Course in Pondicherry | Learn Order System",
-  description:
-    "SAP SD course in Pondicherry includes quotation, delivery, and billing setup. Build SAP SD knowledge for ERP solutions and Learn Order System.",
-},
-"ranchi": {
-  title: "SAP SD Course in Ranchi | Sales System Training",
-  description:
-    "SAP SD course in Ranchi focuses on pricing, shipment, and invoicing. Learn SAP SD modules for SAP consulting roles and Sales System Training.",
-},
-"coimbatore": {
-  title: "SAP SD Course in Coimbatore | Learn Sales Process",
-  description:
-    "SAP SD course in Coimbatore teaches order management, billing, and delivery tracking. Gain SAP SD expertise confidently and Learn Sales Process.",
-},
-"chandigarh": {
-  title: "SAP SD Course in Chandigarh | Expert Sales Modules",
-  description:
-    "SAP SD course in Chandigarh covers pricing, logistics, and billing flow. Learn SAP SD configuration for professional careers and Expert Sales Modules.",
-},
-"bhubaneswar": {
-  title: "SAP SD Course in Bhubaneswar | Sales Excellence",
-  description:
-    "SAP SD course in Bhubaneswar includes order processing, billing, and pricing setup. Master SAP SD modules for business systems and Sales Excellence.",
-},
-"tirupati": {
-  title: "SAP SD Course in Tirupati | Sales Process Learning",
-  description:
-    "SAP SD course in Tirupati focuses on delivery, returns, and billing. Learn SAP SD functions for enterprise management and Sales Process Learning.",
-},
-"vizag": {
-  title: "SAP SD Course in Vizag | Learn Sales Operations",
-  description:
-    "SAP SD course in Vizag covers order-to-cash, pricing, and reporting. Build SAP SD expertise for ERP finance integration and Learn Sales Operations.",
-},
-"trivandrum": {
-  title: "SAP SD Course in Trivandrum | Expert Sales Skills",
-  description:
-    "SAP SD course in Trivandrum includes billing, logistics, and order management. Learn SAP SD for professional ERP careers and Expert Sales Skills.",
-},
-"jalandhar": {
-  title: "SAP SD Course in Jalandhar | Sales & Billing Flow",
-  description:
-    "SAP SD course in Jalandhar teaches order handling, invoicing, and returns. Master SAP SD modules for real-time operations and Sales & Billing Flow.",
-},
-"mohali": {
-  title: "SAP SD Course in Mohali | Learn Sales Systems",
-  description:
-    "SAP SD course in Mohali covers pricing, delivery, and order management. Build SAP SD knowledge for business applications and Learn Sales Systems.",
-},
-"raipur": {
-  title: "SAP SD Course in Raipur | Expert Sales Training",
-  description:
-    "SAP SD course in Raipur focuses on billing, order-to-cash, and pricing. Learn SAP SD integration for corporate systems and join our SAP SD Course in Raipur.",
-},
-"cochin": {
-  title: "SAP SD Course in Cochin | Sales & Billing Training",
-  description:
-    "SAP SD course in Cochin includes delivery, invoicing, and reporting. Gain SAP SD configuration skills for enterprise use and Sales & Billing Training.",
-},
-"mangalore": {
-  title: "SAP SD Course in Mangalore | Learn Sales Control",
-  description:
-    "SAP SD course in Mangalore covers order processing, pricing, and billing. Build SAP SD expertise for ERP implementation and Learn Sales Control.",
-},
-"katraj": {
-  title: "SAP SD Course in Katraj | Sales Process Training",
-  description:
-    "SAP SD course in Katraj teaches billing, delivery, and order setup. Gain SAP SD hands-on skills for SAP jobs.",
-},
-"pimpri-chinchwad": {
-  title: "SAP SD Course in Pimpri Chinchwad | Learn Sales Flow",
-  description:
-    "SAP SD course in Pimpri Chinchwad includes order, billing, and pricing modules. Master SAP SD concepts for real-time business and Learn Sales Flow.",
-},
-"shivaji-nagar": {
-  title: "SAP SD Course in Shivaji Nagar | Expert Sales Learning",
-  description:
-    "SAP SD course in Shivaji Nagar focuses on order-to-cash, returns, and reporting. Learn SAP SD modules for ERP operations and Expert Sales Learning.",
-},
-"koregaon-park": {
-  title: "SAP SD Course in Koregaon Park | Learn Distribution",
-  description:
-    "SAP SD course in Koregaon Park teaches order processing, billing, and pricing. Build SAP SD knowledge for enterprise finance and Learn Distribution.",
-},
-"viman-nagar": {
-  title: "SAP SD Course in Viman Nagar | Master Sales Process",
-  description:
-    "SAP SD course in Viman Nagar covers order flow, billing, and logistics. Learn SAP SD setup for efficient ERP systems and Master Sales Process.",
-},
-"pimple-saudagar": {
-  title: "SAP SD Course in Pimple Saudagar | Sales Training",
-  description:
-    "SAP SD course in Pimple Saudagar teaches order-to-cash, invoicing, and pricing. Gain SAP SD knowledge for consulting roles and Sales Training.",
-},
-"baner": {
-  title: "SAP SD Course in Baner | Learn Order Management",
-  description:
-    "SAP SD course in Baner includes quotation, billing, and delivery flow. Build SAP SD expertise for ERP implementation and Learn Order Management.",
-},
-"hinjewadi": {
-  title: "SAP SD Course in Hinjewadi | Sales Process Expert",
-  description:
-    "SAP SD course in Hinjewadi covers pricing, shipment, and billing. Learn SAP SD modules for professional SAP careers and Sales Process Expert.",
-},
-"wakad": {
-  title: "SAP SD Course in Wakad | Learn Sales & Billing",
-  description:
-    "SAP SD course in Wakad teaches order management, pricing, and invoicing. Build SAP SD skills for ERP-based sales systems and Learn Sales & Billing.",
-},
-"kothrud": {
-  title: "SAP SD Course in Kothrud | Sales Process Training",
-  description:
-    "SAP SD course in Kothrud covers order handling, delivery, and reporting. Learn SAP SD functions for real-world business and Sales Process Training.",
-},
-"hadapsar": {
-  title: "SAP SD Course in Hadapsar | Expert Sales Learning",
-  description:
-    "SAP SD course in Hadapsar focuses on billing, order flow, and pricing. Gain SAP SD configuration skills for ERP jobs and Expert Sales Learning.",
-},
-"aundh": {
-  title: "SAP SD Course in Aundh | Learn Distribution System",
-  description:
-    "SAP SD course in Aundh includes pricing, delivery, and invoicing modules. Build SAP SD knowledge for SAP certification and Learn the Distribution System.",
-},
-"navi-mumbai": {
-  title: "SAP SD Course in Navi Mumbai | Sales Process Expert",
-  description:
-    "SAP SD course in Navi Mumbai covers order-to-cash, billing, and shipment. Learn SAP SD for real-time enterprise solutions and Sales Process Expert.",
-},
-"thane": {
-  title: "SAP SD Course in Thane | Learn Sales Operations",
-  description:
-    "SAP SD course in Thane teaches pricing, order flow, and invoicing. Gain SAP SD expertise for professional ERP roles and Learn Sales Operations.",
-},
-"kalyan": {
-  title: "SAP SD Course in Kalyan | Expert Sales Training",
-  description:
-    "SAP SD course in Kalyan includes delivery, billing, and order management. Build SAP SD skills for business process control and Expert Sales Training.",
-},
-"bandra": {
-  title: "SAP SD Course in Bandra | Learn Order-to-Cash",
-  description:
-    "SAP SD course in Bandra covers quotation, billing, and shipping modules. Gain SAP SD configuration expertise for ERP roles and Learn Order-to-Cash.",
-},
-"andheri": {
-  title: "SAP SD Course in Andheri | Sales Management Expert",
-  description:
-    "SAP SD course in Andheri teaches pricing, delivery, and reporting. Learn SAP SD modules for enterprise finance integration and Sales Management Expert.",
-},
-"powai": {
-  title: "SAP SD Course in Powai | Learn Sales Configuration",
-  description:
-    "SAP SD course in Powai covers billing, shipping, and order handling. Gain SAP SD knowledge for real-time SAP projects and Learn Sales Configuration.",
-},
-"worli": {
-  title: "SAP SD Course in Worli | Sales Process Mastery",
-  description:
-    "SAP SD course in Worli includes quotation, invoicing, and logistics setup. Build SAP SD configuration expertise efficiently and Sales Process Mastery.",
-},
-"chembur": {
-  title: "SAP SD Course in Chembur | Learn Sales Process",
-  description:
-    "SAP SD course in Chembur focuses on order-to-cash, billing, and reporting. Gain SAP SD skills for business operations and Learn Sales Process.",
-},
-"malad": {
-  title: "SAP SD Course in Malad | Sales & Billing Training",
-  description:
-    "SAP SD course in Malad covers pricing, delivery, and invoicing. Learn SAP SD modules for ERP-based corporate systems and Sales & Billing Training.",
-},
-"vile-parle": {
-  title: "SAP SD Course in Vile Parle | Learn Distribution",
-  description:
-    "SAP SD course in Vile Parle includes billing, delivery, and pricing. Build SAP SD configuration skills for SAP projects and Learn Distribution.",
-},
-"matunga": {
-  title: "SAP SD Course in Matunga | Master Sales Process",
-  description:
-    "SAP SD course in Matunga teaches order-to-cash, pricing, and billing. Gain SAP SD skills for enterprise ERP careers and Master Sales Process.",
+      title: "SAP SD Course in Lucknow | Sales Process Training",
+      description:
+        "SAP SD course in Lucknow includes order handling, shipping, and pricing. Build SAP SD skills for business process automation. Expert Sales Learning.",
+    },
+    "kanpur": {
+      title: "SAP SD Course in Kanpur | Expert Sales Learning",
+      description:
+        "SAP SD course in Kanpur teaches order management, delivery, and billing. Learn SAP SD modules for ERP-based sales operations. Sales & Distribution Skills 2026",
+    },
+    "nagpur": {
+      title: "SAP SD Course in Nagpur | Sales & Distribution Skills",
+      description:
+        "SAP SD course in Nagpur focuses on order-to-cash, returns, and invoicing. Gain SAP SD configuration and reporting skills. Learn 2026 Enterprise Sales.",
+    },
+    "patna": {
+      title: "SAP SD Course in Patna | Learn Enterprise Sales",
+      description:
+        "SAP SD course in Patna covers order processing, billing, and customer master setup. Build SAP SD expertise for business growth.",
+    },
+    "indore": {
+      title: "SAP SD Course in Indore – Sales System Training",
+      description:
+        "SAP SD course in Indore focuses on order-to-cash, credit control, and billing. Learn SAP SD integration for ERP solutions. Master Sales Modules.",
+    },
+    "bhopal": {
+      title: "SAP SD Course in Bhopal | Master Sales Modules",
+      description:
+        "SAP SD course in Bhopal covers pricing, delivery, and reporting. Gain hands-on SAP SD knowledge for professional advancement.",
+    },
+    "visakhapatnam": {
+      title: "SAP SD Course in Visakhapatnam | Sales Excellence",
+      description:
+        "SAP SD course in Visakhapatnam teaches order management, pricing, and invoicing. Build SAP SD configuration skills confidently. Sales Excellence.",
+    },
+    "vadodara": {
+      title: "SAP SD Course in Vadodara | Learn Sales Modules",
+      description:
+        "SAP SD course in Vadodara covers order-to-cash, billing, and dispatch. Master SAP SD processes for enterprise sales operations. Join SAP SD Trending Course.",
+    },
+    "ludhiana": {
+      title: "SAP SD Course in Ludhiana | Expert Sales Learning",
+      description:
+        "SAP SD course in Ludhiana focuses on orders, pricing, and shipping. Gain real-time SAP SD practical knowledge for SAP jobs 2026.",
+    },
+    "agra": {
+      title: "SAP SD Course in Agra | Sales & Billing Expertise",
+      description:
+        "SAP SD course in Ludhiana focuses on orders, pricing, and shipping. Gain real-time SAP SD practical knowledge for SAP jobs 2026. Sales & Billing Expertise.",
+    },
+    "nashik": {
+      title: "SAP SD Course in Nashik | Learn Sales Management",
+      description:
+        "SAP SD course in Nashik covers order handling, shipping, and invoicing. Build SAP SD process knowledge for enterprise systems. SAP training in Nashik.",
+    },
+    "rajkot": {
+      title: "SAP SD Course in Rajkot | Expert Sales Skills",
+      description:
+        "SAP SD course in Rajkot includes order-to-cash, credit control, and billing. Gain SAP SD training for real-time business processes.",
+    },
+    "varanasi": {
+      title: "SAP SD Course in Varanasi | Learn Distribution",
+      description:
+        "SAP SD course in Varanasi focuses on sales flow, billing, and returns. Master SAP SD modules for efficient sales operations and Learn Sales Management.",
+    },
+    "kerala": {
+      title: "SAP SD Course in Kerala | Sales Process Training",
+      description:
+        "SAP SD course in Kerala covers pricing, invoicing, and order tracking. Build core SAP SD skills for global ERP systems and Learn the best SAP SD skill of 2026.",
+    },
+    "surat": {
+      title: "SAP SD Course in Surat | Master Sales & Billing",
+      description:
+        "SAP SD course in Surat teaches order-to-cash, shipment, and billing. Learn SAP SD configuration for real-time business use and Learn Distribution Flow.",
+    },
+    "dehradun": {
+      title: "SAP SD Course in Dehradun | Expert Sales Training",
+      description:
+        "SAP SD course in Dehradun covers order management, pricing, and billing modules. Build SAP SD expertise for finance and logistics. Enroll Now!",
+    },
+    "madurai": {
+      title: "SAP SD Course in Madurai | Learn Distribution Flow",
+      description:
+        "SAP SD course in Madurai focuses on order-to-cash, pricing, and dispatch. Gain SAP SD practical skills for enterprise use and Learn Distribution Flow.",
+    },
+    "mysore": {
+      title: "SAP SD Course in Mysore | Master Sales Operations",
+      description:
+        "SAP SD course in Mysore covers sales processing, billing, and reporting. Learn SAP SD tools for efficient sales control and Master Sales Operations",
+    },
+    "pondicherry": {
+      title: "SAP SD Course in Pondicherry | Learn Order System",
+      description:
+        "SAP SD course in Pondicherry includes quotation, delivery, and billing setup. Build SAP SD knowledge for ERP solutions and Learn Order System.",
+    },
+    "ranchi": {
+      title: "SAP SD Course in Ranchi | Sales System Training",
+      description:
+        "SAP SD course in Ranchi focuses on pricing, shipment, and invoicing. Learn SAP SD modules for SAP consulting roles and Sales System Training.",
+    },
+    "coimbatore": {
+      title: "SAP SD Course in Coimbatore | Learn Sales Process",
+      description:
+        "SAP SD course in Coimbatore teaches order management, billing, and delivery tracking. Gain SAP SD expertise confidently and Learn Sales Process.",
+    },
+    "chandigarh": {
+      title: "SAP SD Course in Chandigarh | Expert Sales Modules",
+      description:
+        "SAP SD course in Chandigarh covers pricing, logistics, and billing flow. Learn SAP SD configuration for professional careers and Expert Sales Modules.",
+    },
+    "bhubaneswar": {
+      title: "SAP SD Course in Bhubaneswar | Sales Excellence",
+      description:
+        "SAP SD course in Bhubaneswar includes order processing, billing, and pricing setup. Master SAP SD modules for business systems and Sales Excellence.",
+    },
+    "tirupati": {
+      title: "SAP SD Course in Tirupati | Sales Process Learning",
+      description:
+        "SAP SD course in Tirupati focuses on delivery, returns, and billing. Learn SAP SD functions for enterprise management and Sales Process Learning.",
+    },
+    "vizag": {
+      title: "SAP SD Course in Vizag | Learn Sales Operations",
+      description:
+        "SAP SD course in Vizag covers order-to-cash, pricing, and reporting. Build SAP SD expertise for ERP finance integration and Learn Sales Operations.",
+    },
+    "trivandrum": {
+      title: "SAP SD Course in Trivandrum | Expert Sales Skills",
+      description:
+        "SAP SD course in Trivandrum includes billing, logistics, and order management. Learn SAP SD for professional ERP careers and Expert Sales Skills.",
+    },
+    "jalandhar": {
+      title: "SAP SD Course in Jalandhar | Sales & Billing Flow",
+      description:
+        "SAP SD course in Jalandhar teaches order handling, invoicing, and returns. Master SAP SD modules for real-time operations and Sales & Billing Flow.",
+    },
+    "mohali": {
+      title: "SAP SD Course in Mohali | Learn Sales Systems",
+      description:
+        "SAP SD course in Mohali covers pricing, delivery, and order management. Build SAP SD knowledge for business applications and Learn Sales Systems.",
+    },
+        "raipur": {
+      title: "SAP SD Course in Raipur | Sales & Distribution",
+      description:
+        "Learn SAP SD in Raipur — Sales & Distribution, order management, pricing & billing with real-time projects. Practical training, certificate on completion.",
+    },
+    "cochin": {
+      title: "SAP SD Course in Cochin | Sales & Billing Training",
+      description:
+        "SAP SD course in Cochin includes delivery, invoicing, and reporting. Gain SAP SD configuration skills for enterprise use and Sales & Billing Training.",
+    },
+    "mangalore": {
+      title: "SAP SD Course in Mangalore | Learn Sales Control",
+      description:
+        "SAP SD course in Mangalore covers order processing, pricing, and billing. Build SAP SD expertise for ERP implementation and Learn Sales Control.",
+    },
+    "katraj": {
+      title: "SAP SD Course in Katraj | Sales Process Training",
+      description:
+        "SAP SD course in Katraj teaches billing, delivery, and order setup. Gain SAP SD hands-on skills for SAP jobs.",
+    },
+    "pimpri-chinchwad": {
+      title: "SAP SD Course in Pimpri Chinchwad | Learn Sales Flow",
+      description:
+        "SAP SD course in Pimpri Chinchwad includes order, billing, and pricing modules. Master SAP SD concepts for real-time business and Learn Sales Flow.",
+    },
+    "shivaji-nagar": {
+      title: "SAP SD Course in Shivaji Nagar | Expert Sales Learning",
+      description:
+        "SAP SD course in Shivaji Nagar focuses on order-to-cash, returns, and reporting. Learn SAP SD modules for ERP operations and Expert Sales Learning.",
+    },
+    "koregaon-park": {
+      title: "SAP SD Course in Koregaon Park | Learn Distribution",
+      description:
+        "SAP SD course in Koregaon Park teaches order processing, billing, and pricing. Build SAP SD knowledge for enterprise finance and Learn Distribution.",
+    },
+    "viman-nagar": {
+      title: "SAP SD Course in Viman Nagar | Master Sales Process",
+      description:
+        "SAP SD course in Viman Nagar covers order flow, billing, and logistics. Learn SAP SD setup for efficient ERP systems and Master Sales Process.",
+    },
+    "pimple-saudagar": {
+      title: "SAP SD Course in Pimple Saudagar | Sales Training",
+      description:
+        "SAP SD course in Pimple Saudagar teaches order-to-cash, invoicing, and pricing. Gain SAP SD knowledge for consulting roles and Sales Training.",
+    },
+    "baner": {
+      title: "SAP SD Course in Baner | Learn Order Management",
+      description:
+        "SAP SD course in Baner includes quotation, billing, and delivery flow. Build SAP SD expertise for ERP implementation and Learn Order Management.",
+    },
+    "hinjewadi": {
+      title: "SAP SD Course in Hinjewadi | Sales Process Expert",
+      description:
+        "SAP SD course in Hinjewadi covers pricing, shipment, and billing. Learn SAP SD modules for professional SAP careers and Sales Process Expert.",
+    },
+    "wakad": {
+      title: "SAP SD Course in Wakad | Learn Sales & Billing",
+      description:
+        "SAP SD course in Wakad teaches order management, pricing, and invoicing. Build SAP SD skills for ERP-based sales systems and Learn Sales & Billing.",
+    },
+    "kothrud": {
+      title: "SAP SD Course in Kothrud | Sales Process Training",
+      description:
+        "SAP SD course in Kothrud covers order handling, delivery, and reporting. Learn SAP SD functions for real-world business and Sales Process Training.",
+    },
+    "hadapsar": {
+      title: "SAP SD Course in Hadapsar | Expert Sales Learning",
+      description:
+        "SAP SD course in Hadapsar focuses on billing, order flow, and pricing. Gain SAP SD configuration skills for ERP jobs and Expert Sales Learning.",
+    },
+    "aundh": {
+      title: "SAP SD Course in Aundh | Learn Distribution System",
+      description:
+        "SAP SD course in Aundh includes pricing, delivery, and invoicing modules. Build SAP SD knowledge for SAP certification and Learn the Distribution System.",
+    },
+    "navi-mumbai": {
+      title: "SAP SD Course in Navi Mumbai | Sales Process Expert",
+      description:
+        "SAP SD course in Navi Mumbai covers order-to-cash, billing, and shipment. Learn SAP SD for real-time enterprise solutions and Sales Process Expert.",
+    },
+    "thane": {
+      title: "SAP SD Course in Thane | Learn Sales Operations",
+      description:
+        "SAP SD course in Thane teaches pricing, order flow, and invoicing. Gain SAP SD expertise for professional ERP roles and Learn Sales Operations.",
+    },
+    "kalyan": {
+      title: "SAP SD Course in Kalyan | Expert Sales Training",
+      description:
+        "SAP SD course in Kalyan includes delivery, billing, and order management. Build SAP SD skills for business process control and Expert Sales Training.",
+    },
+    "bandra": {
+      title: "SAP SD Course in Bandra | Learn Order-to-Cash",
+      description:
+        "SAP SD course in Bandra covers quotation, billing, and shipping modules. Gain SAP SD configuration expertise for ERP roles and Learn Order-to-Cash.",
+    },
+    "andheri": {
+      title: "SAP SD Course in Andheri | Sales Management Expert",
+      description:
+        "SAP SD course in Andheri teaches pricing, delivery, and reporting. Learn SAP SD modules for enterprise finance integration and Sales Management Expert.",
+    },
+    "powai": {
+      title: "SAP SD Course in Powai | Learn Sales Configuration",
+      description:
+        "SAP SD course in Powai covers billing, shipping, and order handling. Gain SAP SD knowledge for real-time SAP projects and Learn Sales Configuration.",
+    },
+    "worli": {
+      title: "SAP SD Course in Worli | Sales Process Mastery",
+      description:
+        "SAP SD course in Worli includes quotation, invoicing, and logistics setup. Build SAP SD configuration expertise efficiently and Sales Process Mastery.",
+    },
+    "chembur": {
+      title: "SAP SD Course in Chembur | Learn Sales Process",
+      description:
+        "SAP SD course in Chembur focuses on order-to-cash, billing, and reporting. Gain SAP SD skills for business operations and Learn Sales Process.",
+    },
+    "malad": {
+      title: "SAP SD Course in Malad | Sales & Billing Training",
+      description:
+        "SAP SD course in Malad covers pricing, delivery, and invoicing. Learn SAP SD modules for ERP-based corporate systems and Sales & Billing Training.",
+    },
+    "vile-parle": {
+      title: "SAP SD Course in Vile Parle | Learn Distribution",
+      description:
+        "SAP SD course in Vile Parle includes billing, delivery, and pricing. Build SAP SD configuration skills for SAP projects and Learn Distribution.",
+    },
+    "matunga": {
+      title: "SAP SD Course in Matunga | Master Sales Process",
+      description:
+        "SAP SD course in Matunga teaches order-to-cash, pricing, and billing. Gain SAP SD skills for enterprise ERP careers and Master Sales Process.",
     },
   },
   "sap-mm": {
-    "pune": {
-      title: "Master SAP MM in Pune | Career-Boosting Course",
+        "pune": {
+      title: "SAP MM Course in Pune | with job assistance",
       description:
-        "Master SAP MM course in Pune by learning material planning, procurement, inventory control, purchase order processing, and MRP for efficient supply chain operations",
+        "Learn SAP MM Course in Pune at Connecting Dots ERP– Expert training in Material Management to advance your SAP career with hands-on practice.",
     },
-    "mumbai": {
-      title: "SAP MM Training in Mumbai | Hands-On Learning",
+        "mumbai": {
+      title: "SAP MM Course in Mumbai | certification training",
       description:
-        "Explore SAP MM course in Mumbai to understand vendor management, purchase requisitions, goods receipts, and stock transfer with hands-on ERP simulations",
+        "Enroll with the best SAP MM Training in Mumbai with Working Professional trainers Our SAP MM Course in Mumbai provides 100% placement Support, S/4 HANA server",
     },
     "delhi": {
       title: "Learn SAP MM in Delhi | Advance Your Skills",
@@ -821,10 +822,10 @@ export const citySpecificMeta = {
       description:
         "Learn SAP MM Course in Mohali to handle purchase orders, inventory management, material master, goods receipt, and vendor evaluation efficiently",
     },
-    "raipur": {
-      title: "SAP MM Course in Raipur | Inventory & Material Expertise",
+        "raipur": {
+      title: "SAP MM Course in Raipur | Materials Management",
       description:
-        "SAP MM course in Raipur teaches material planning, procurement cycles, stock transfer, purchase info records, and goods movements for smooth operations",
+        "Get trained in SAP MM at Raipur — procurement, inventory management, vendor evaluation & material planning. Real-time projects with certification.",
     },
     "cochin": {
       title: "SAP MM course in Cochin | Material & Procurement Mastery",
@@ -953,15 +954,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-abap": {
-    "pune": {
-      title: "SAP ABAP Course in Pune | Master Advanced ERP Programming",
+        "pune": {
+      title: "SAP ABAP Course in Pune | with Certification in pune",
       description:
-        "Learn SAP ABAP Course in Pune by mastering report creation, modularization, enhancements, user exits, and efficient ERP development coding techniques",
+        "Learn SAP ABAP Course in Pune through practical training, and industry-focused sessions. Get career guidance and placement support from experts.",
     },
-    "mumbai": {
-      title: "SAP ABAP Course in Mumbai | Expert Coding & Report Skills",
+        "mumbai": {
+      title: "SAP ABAP Course in Mumbai | Programming Training",
       description:
-        "SAP ABAP course in Mumbai teaches hands-on coding, BDC programming, enhancements, modularization, ALV reporting, and data dictionary management",
+        "Build SAP development skills with SAP ABAP Training in Mumbai. Learn Reports, BAPIs, User Exits & SmartForms through hands-on practice with certified trainers",
     },
     "delhi": {
       title: "SAP ABAP Course in Delhi | Developer Training & ERP Reports",
@@ -1138,10 +1139,10 @@ export const citySpecificMeta = {
       description:
         "Learn SAP ABAP Course in Mohali to handle coding, report creation, modular programs, ALV grids, enhancements, user exits, BDC, and ERP data dictionary",
     },
-    "raipur": {
-      title: "SAP ABAP Course in Raipur | Developer ERP Programming",
+        "raipur": {
+      title: "SAP ABAP Course in Raipur | Programming & Coding",
       description:
-        "SAP ABAP course in Raipur teaches coding, report generation, ALV programming, modularization, enhancements, BDC, user exits, and data dictionary handling",
+        "Learn SAP ABAP in Raipur — programming fundamentals, reports, module pool, RICEF objects & debugging. Hands-on coding practice with certification.",
     },
     "cochin": {
       title: "SAP ABAP Course in Cochin | Advanced Coding & Reports",
@@ -1236,7 +1237,7 @@ export const citySpecificMeta = {
     "andheri": {
       title: "SAP ABAP Course in Andheri | Coding & ERP Reports Training",
       description:
-        "Gain SAP ABAP skills in Andheri with real-world practice in report writing, modularization,  BDC, enhancements, and performance tuning for ERP systems.",
+        "Gain SAP ABAP skills in Andheri with real-world practice in report writing, modularization,  BDC, enhancements, and performance tuning for ERP systems.",
     },
     "powai": {
       title: "SAP ABAP Course in Powai | Developer Programming & Reports",
@@ -1270,175 +1271,175 @@ export const citySpecificMeta = {
     },
   },
   "sap-hcm": {
-    "pune": {
-      title: "SAP HCM Course in Pune | Learn Core HR Concepts",
-      description: 
-      "Build your HR career with SAP HCM training in Pune. Explore payroll, organizational management, and real-world applications through expert-designed modules.",
+        "pune": {
+      title: "SAP HR Course in Pune | SAP HCM Course in pune - best",
+      description:
+        "sap hr course in pune help you to learn skills like Personnel Administration, payroll, Organization Management, Time Management. join best sap hr training.",
     },
-    "mumbai": {
-      title: "SAP HCM Course in Mumbai | Master HR Modules",
-      description: 
-      "Gain practical skills in HR management with SAP HCM course in Mumbai. Learn payroll, time management, and personnel administration through structured training.",
+        "mumbai": {
+      title: "SAP HR HCM Training in Mumbai | Certification Course",
+      description:
+        "Join the best SAP HR Training in Mumbai with Working Professional trainers, Our SAP HCM Course in Mumbai Learn payroll, recruitment, and workforce management.",
     },
     "delhi": {
       title: "SAP HCM Course in Delhi | Upgrade HR Expertise",
-      description: 
-      "Strengthen your understanding of SAP HCM in Delhi with advanced training that covers HR processes, data management, and system integration concepts.",
+      description:
+        "Strengthen your understanding of SAP HCM in Delhi with advanced training that covers HR processes, data management, and system integration concepts.",
     },
     "kolkata": {
       title: "SAP HCM Course in Kolkata | Advance HR Knowledge",
-      description: 
-      "Learn SAP HCM in Kolkata to enhance HR process efficiency. Get comprehensive insights into personnel management and payroll configuration.",
+      description:
+        "Learn SAP HCM in Kolkata to enhance HR process efficiency. Get comprehensive insights into personnel management and payroll configuration.",
     },
     "chennai": {
       title: "SAP HCM Course in Chennai | Learn HR Analytics",
-      description: 
-      "Become proficient in SAP HCM with in-depth learning in Chennai. Explore HR structures, reporting, and real-world examples for complete conceptual mastery.",
+      description:
+        "Become proficient in SAP HCM with in-depth learning in Chennai. Explore HR structures, reporting, and real-world examples for complete conceptual mastery.",
     },
     "bangalore": {
       title: "SAP HCM Course in Bangalore | Transform HR Skills",
-      description: 
-      "Elevate your HR management career with SAP HCM course in Bangalore. Learn HR modules, data flow, and integration for modern workforce management.",
+      description:
+        "Elevate your HR management career with SAP HCM course in Bangalore. Learn HR modules, data flow, and integration for modern workforce management.",
     },
     "hyderabad": {
       title: "SAP HCM Course in Hyderabad | Advance HR Systems",
-      description: 
-      "Explore SAP HCM Course in Hyderabad with expert-led modules. Understand HR data structures, employee lifecycle, and automation tools for better decision-making.",
+      description:
+        "Explore SAP HCM Course in Hyderabad with expert-led modules. Understand HR data structures, employee lifecycle, and automation tools for better decision-making.",
     },
     "ahmedabad": {
       title: "SAP HCM Course in Ahmedabad | Boost HR Career",
-      description: 
-      "Develop deep HR functional expertise through SAP HCM Course in Ahmedabad. Learn system configuration, time management, and personnel development techniques.",
+      description:
+        "Develop deep HR functional expertise through SAP HCM Course in Ahmedabad. Learn system configuration, time management, and personnel development techniques.",
     },
     "jaipur": {
       title: "SAP HCM Course in Jaipur | Learn HR Operations",
-      description: 
-      "Study SAP HCM Course in Jaipur and understand HR operations, payroll, and business process alignment to upgrade your professional skills.",
+      description:
+        "Study SAP HCM Course in Jaipur and understand HR operations, payroll, and business process alignment to upgrade your professional skills.",
     },
     "lucknow": {
       title: "SAP HCM Course in Lucknow | Grow Your HR Skills",
-      description: 
-      "Master HR and payroll processes with SAP HCM training in Lucknow. Learn through structured modules focused on real-world business applications.",
+      description:
+        "Master HR and payroll processes with SAP HCM training in Lucknow. Learn through structured modules focused on real-world business applications.",
     },
     "kanpur": {
       title: "SAP HCM Course in Kanpur | HR System Learning",
-      description: 
-      "Build HR process expertise with SAP HCM course in Kanpur. Learn personnel administration, time management, and workforce planning in depth.",
+      description:
+        "Build HR process expertise with SAP HCM course in Kanpur. Learn personnel administration, time management, and workforce planning in depth.",
     },
     "nagpur": {
       title: "SAP HCM Course in Nagpur | Advance Your HR Path",
-      description: 
-      "Discover SAP HCM concepts in Nagpur and gain knowledge in HR systems, employee data handling, and core business process automation.",
+      description:
+        "Discover SAP HCM concepts in Nagpur and gain knowledge in HR systems, employee data handling, and core business process automation.",
     },
     "patna": {
       title: "SAP HCM Course in Patna | Master HR Management",
-      description: 
-      "Learn how SAP HCM in Patna transforms HR operations. Explore organizational structures, payroll processing, and personnel administration modules.",
+      description:
+        "Learn how SAP HCM in Patna transforms HR operations. Explore organizational structures, payroll processing, and personnel administration modules.",
     },
     "indore": {
       title: "SAP HCM Course in Indore | Learn Core HR Modules",
-      description: 
-      "Build a solid HR foundation through SAP HCM course in Indore. Study HR processes, employee data, and system functionality with hands-on learning.",
+      description:
+        "Build a solid HR foundation through SAP HCM course in Indore. Study HR processes, employee data, and system functionality with hands-on learning.",
     },
     "bhopal": {
       title: "SAP HCM Course in Bhopal | Build HR Expertise",
-      description: 
-      "Enhance your HR skills with SAP HCM training in Bhopal. Learn time management, payroll, and HR configuration with a comprehensive approach.",
+      description:
+        "Enhance your HR skills with SAP HCM training in Bhopal. Learn time management, payroll, and HR configuration with a comprehensive approach.",
     },
     "visakhapatnam": {
       title: "SAP HCM Course in Visakhapatnam | HR Process Skills",
-      description: 
-      "Learn SAP HCM Course in Visakhapatnam to strengthen your HR process knowledge. Explore organizational management, payroll, and time configuration concepts.",
+      description:
+        "Learn SAP HCM Course in Visakhapatnam to strengthen your HR process knowledge. Explore organizational management, payroll, and time configuration concepts.",
     },
     "vadodara": {
       title: "SAP HCM Course in Vadodara | Master Payroll System",
-      description: 
-      "Advance your HR management knowledge through SAP HCM training in Vadodara. Understand HR structures, payroll, and personnel data management techniques.",
+      description:
+        "Advance your HR management knowledge through SAP HCM training in Vadodara. Understand HR structures, payroll, and personnel data management techniques.",
     },
     "ludhiana": {
       title: "SAP HCM Course in Ludhiana | HR Technology Skills",
-      description: 
-      "Study SAP HCM Course in Ludhiana to enhance HR process automation and employee management. Learn to configure systems for organizational efficiency.",
+      description:
+        "Study SAP HCM Course in Ludhiana to enhance HR process automation and employee management. Learn to configure systems for organizational efficiency.",
     },
     "agra": {
       title: "SAP HCM Course in Agra | Enhance HR Proficiency",
-      description: 
-      "Build strong HR management skills with SAP HCM course in Agra. Understand workforce administration, payroll, and time management systems.",
+      description:
+        "Build strong HR management skills with SAP HCM course in Agra. Understand workforce administration, payroll, and time management systems.",
     },
     "nashik": {
       title: "SAP HCM Course in Nashik | Learn Workforce Tools",
-      description: 
-      "Gain deep knowledge of SAP HCM Course in Nashik. Learn HR module configuration, payroll structures, and integration for professional development.",
+      description:
+        "Gain deep knowledge of SAP HCM Course in Nashik. Learn HR module configuration, payroll structures, and integration for professional development.",
     },
     "rajkot": {
       title: "SAP HCM Course in Rajkot | HR System Learning",
-      description: 
-      "Explore SAP HCM Course in Rajkot and learn about employee data management, payroll processes, and business alignment within HR functions.",
+      description:
+        "Explore SAP HCM Course in Rajkot and learn about employee data management, payroll processes, and business alignment within HR functions.",
     },
     "varanasi": {
       title: "SAP HCM Course in Varanasi | HR Career Growth",
-      description: 
-      "Strengthen your HR career with SAP HCM Course in Varanasi. Understand system modules, time management, and payroll configuration in practical detail.",
+      description:
+        "Strengthen your HR career with SAP HCM Course in Varanasi. Understand system modules, time management, and payroll configuration in practical detail.",
     },
     "kerala": {
       title: "SAP HCM Course in Kerala | HR Systems Training",
-      description: 
-      "Learn SAP HCM Course in Kerala and gain complete understanding of HR management, employee data, and reporting tools for business optimization.",
+      description:
+        "Learn SAP HCM Course in Kerala and gain complete understanding of HR management, employee data, and reporting tools for business optimization.",
     },
     "surat": {
       title: "SAP HCM Course in Surat | Learn HR Frameworks",
-      description: 
-      "Master SAP HCM Course in Surat to improve HR systems. Study payroll processing, personnel development, and configuration methods.",
+      description:
+        "Master SAP HCM Course in Surat to improve HR systems. Study payroll processing, personnel development, and configuration methods.",
     },
     "dehradun": {
       title: "SAP HCM Course in Dehradun | Advance HR Concepts",
-      description: 
-      "Develop advanced HR process knowledge with SAP HCM Course in Dehradun. Learn payroll systems, HR structures, and automation frameworks.",
+      description:
+        "Develop advanced HR process knowledge with SAP HCM Course in Dehradun. Learn payroll systems, HR structures, and automation frameworks.",
     },
     "madurai": {
       title: "SAP HCM Course in Madurai | Master HR Functions",
-      description: 
-      "Learn SAP HCM Course in Madurai to boost your HR career. Gain insight into personnel administration, payroll setup, and reporting features.",
+      description:
+        "Learn SAP HCM Course in Madurai to boost your HR career. Gain insight into personnel administration, payroll setup, and reporting features.",
     },
     "mysore": {
       title: "SAP HCM Course in Mysore | HR Digital Learning",
-      description: 
-      "Discover SAP HCM Course in Mysore for a deeper understanding of digital HR systems, payroll, and personnel management with applied learning.",
+      description:
+        "Discover SAP HCM Course in Mysore for a deeper understanding of digital HR systems, payroll, and personnel management with applied learning.",
     },
     "pondicherry": {
       title: "SAP HCM Course in Pondicherry | HR Skill Growth",
-      description: 
-      "Study SAP HCM Course in Pondicherry to enhance your HR management capabilities. Learn configuration, data flow, and reporting for efficiency.",
+      description:
+        "Study SAP HCM Course in Pondicherry to enhance your HR management capabilities. Learn configuration, data flow, and reporting for efficiency.",
     },
     "ranchi": {
       title: "SAP HCM Course in Ranchi | Learn Payroll Systems",
-      description: 
-      "Build expertise in SAP HCM in Ranchi with structured learning. Understand HR operations, time management, and payroll system alignment.",
+      description:
+        "Build expertise in SAP HCM in Ranchi with structured learning. Understand HR operations, time management, and payroll system alignment.",
     },
     "coimbatore": {
       title: "SAP HCM Course in Coimbatore | HR Transformation",
-      description: 
-      "Explore SAP HCM Course in Coimbatore to transform your HR skills. Learn payroll integration, employee records, and system-based reporting tools.",
+      description:
+        "Explore SAP HCM Course in Coimbatore to transform your HR skills. Learn payroll integration, employee records, and system-based reporting tools.",
     },
     "chandigarh": {
       title: "SAP HCM Course in Chandigarh | Master HR Systems",
-      description: 
-      "Study SAP HCM Course in Chandigarh and learn core HR functionalities including employee data, payroll, and organizational configuration modules.",
+      description:
+        "Study SAP HCM Course in Chandigarh and learn core HR functionalities including employee data, payroll, and organizational configuration modules.",
     },
     "bhubaneswar": {
       title: "SAP HCM Course in Bhubaneswar | HR Process Study",
-      description: 
-      "Learn SAP HCM Course in Bhubaneswar to gain expertise in HR structures, personnel data, and system integration for effective HR operations.",
+      description:
+        "Learn SAP HCM Course in Bhubaneswar to gain expertise in HR structures, personnel data, and system integration for effective HR operations.",
     },
     "tirupati": {
       title: "SAP HCM Course in Tirupati | Learn HR Processes",
       description:
-       "Build your HR system knowledge through SAP HCM Course in Tirupati. Study payroll, employee lifecycle, and reporting tools for better HR control.",
+        "Build your HR system knowledge through SAP HCM Course in Tirupati. Study payroll, employee lifecycle, and reporting tools for better HR control.",
     },
     "vizag": {
       title: "SAP HCM Course in Vizag | Advance HR Knowledge",
       description:
-       "Learn SAP HCM Course in Vizag and develop professional HR process understanding. Explore payroll, time tracking, and data management modules.",
+        "Learn SAP HCM Course in Vizag and develop professional HR process understanding. Explore payroll, time tracking, and data management modules.",
     },
     "trivandrum": {
       title: "SAP HCM Course in Trivandrum | Build HCM Expertise",
@@ -1448,152 +1449,154 @@ export const citySpecificMeta = {
     "jalandhar": {
       title: "SAP HCM Course in Jalandhar | Build HCM Expertise",
       description:
-       "Explore SAP HCM training in Jalandhar to understand organizational management, payroll, and employee lifecycle handling effectively.",
+        "Explore SAP HCM training in Jalandhar to understand organizational management, payroll, and employee lifecycle handling effectively.",
     },
     "mohali": {
       title: "SAP HCM Course in Mohali | HR Module Mastery",
       description:
-       "Strengthen your HR process understanding through SAP HCM course in Mohali. Learn payroll, workforce data, and reporting concepts.",
+        "Strengthen your HR process understanding through SAP HCM course in Mohali. Learn payroll, workforce data, and reporting concepts.",
     },
-    "raipur": {
-      title: "SAP HCM Course in Raipur | Learn HR Management",
+        "raipur": {
+      title: "SAP HCM Course in Raipur | Human Capital Management",
       description:
-       "Learn SAP HCM course in Raipur for practical HR process insights. Study personnel administration, time management, and configuration design.",
+        "Build your career with SAP HCM training in Raipur — payroll, time management, personnel administration & recruitment. Practical sessions, certification.",
     },
     "cochin": {
       title: "SAP HCM Course in Cochin | HR Process Training",
       description:
-       "Master SAP HCM course in Cochin with focus on HR systems, data management, and payroll configuration through conceptual and practical learning.",
+        "Master SAP HCM course in Cochin with focus on HR systems, data management, and payroll configuration through conceptual and practical learning.",
     },
     "mangalore": {
       title: "SAP HCM Course in Mangalore | Learn HR Systems",
       description:
-       "Gain proficiency in SAP HCM training in Mangalore. Explore employee management, payroll setup, and time data handling concepts.",
+        "Gain proficiency in SAP HCM training in Mangalore. Explore employee management, payroll setup, and time data handling concepts.",
     },
     "katraj": {
       title: "SAP HCM Course in Katraj | HR Skills Development",
       description:
-       "Learn SAP HCM Course in Katraj to enhance HR knowledge. Master payroll, personnel management, and time tracking for professional career growth.",
+        "Learn SAP HCM Course in Katraj to enhance HR knowledge. Master payroll, personnel management, and time tracking for professional career growth.",
     },
     "pimpri-chinchwad": {
       title: "SAP HCM Course in Pimpri Chinchwad | HR Modules",
       description:
-       "Gain expertise in SAP HCM Course in Pimpri Chinchwad. Learn employee lifecycle, payroll, and HR system management with practical applications.",
+        "Gain expertise in SAP HCM Course in Pimpri Chinchwad. Learn employee lifecycle, payroll, and HR system management with practical applications.",
     },
     "shivaji-nagar": {
       title: "SAP HCM Course in Shivaji Nagar | Learn HR Systems",
       description:
-       "Advance your HR career with SAP HCM Course in Shivaji Nagar. Explore personnel administration, payroll, and reporting for workforce management.",
+        "Advance your HR career with SAP HCM Course in Shivaji Nagar. Explore personnel administration, payroll, and reporting for workforce management.",
     },
     "koregaon-park": {
       title: "SAP HCM Course in Koregaon Park | HR Process Skills",
       description:
-       "Master concepts of SAP HCM Course in Koregaon Park. Learn payroll processing, time management, and organizational data handling for career growth.",
+        "Master concepts of SAP HCM Course in Koregaon Park. Learn payroll processing, time management, and organizational data handling for career growth.",
     },
     "viman-nagar": {
       title: "SAP HCM Course in Viman Nagar | HR Management Training",
       description:
-       "Learn SAP HCM Course in Viman Nagar to strengthen HR system knowledge. Study payroll configuration, personnel management, and reporting tools.",
+        "Learn SAP HCM Course in Viman Nagar to strengthen HR system knowledge. Study payroll configuration, personnel management, and reporting tools.",
     },
     "pimple-saudagar": {
       title: "SAP HCM Course in Pimple Saudagar | HR Digital Learning",
       description:
-       "Build HR expertise with SAP HCM Course in Pimple Saudagar. Understand employee lifecycle, payroll systems, and organizational data processes.",
+        "Build HR expertise with SAP HCM Course in Pimple Saudagar. Understand employee lifecycle, payroll systems, and organizational data processes.",
     },
     "baner": {
       title: "SAP HCM Course in Baner | Learn Payroll & HR Skills",
       description:
-       "Develop professional HR skills with SAP HCM Course in Baner. Learn payroll management, personnel administration, and HR module integration.",
+        "Develop professional HR skills with SAP HCM Course in Baner. Learn payroll management, personnel administration, and HR module integration.",
     },
     "hinjewadi": {
       title: "SAP HCM Course in Hinjewadi | HR Career Advancement",
       description:
-       "Explore SAP HCM Course in Hinjewadi to advance your HR career. Gain knowledge in system configuration, payroll, and employee management processes.",
+        "Explore SAP HCM Course in Hinjewadi to advance your HR career. Gain knowledge in system configuration, payroll, and employee management processes.",
     },
     "wakad": {
       title: "SAP HCM Course in Wakad | HR System Mastery",
       description:
-       "Strengthen HR expertise with SAP HCM training in Wakad. Learn personnel management, payroll processing, and HR workflow integration.",
+        "Strengthen HR expertise with SAP HCM training in Wakad. Learn personnel management, payroll processing, and HR workflow integration.",
     },
     "kothrud": {
       title: "SAP HCM Course in Kothrud | HR Functional Learning",
       description:
-       "Learn SAP HCM Course in Kothrud to build a strong foundation in HR processes. Explore payroll, reporting, and organizational management modules.",
+        "Learn SAP HCM Course in Kothrud to build a strong foundation in HR processes. Explore payroll, reporting, and organizational management modules.",
     },
     "hadapsar": {
       title: "SAP HCM Course in Hadapsar | HR Skills Development",
       description:
-       "Gain practical HR knowledge with SAP HCM Course in Hadapsar. Study payroll, personnel administration, and time management for career growth.",
+        "Gain practical HR knowledge with SAP HCM Course in Hadapsar. Study payroll, personnel administration, and time management for career growth.",
     },
     "aundh": {
       title: "SAP HCM Course in Aundh | Master HR Management",
       description:
-       "Enhance HR skills with SAP HCM training in Aundh. Learn payroll setup, employee lifecycle, and organizational process management.",
+        "Enhance HR skills with SAP HCM training in Aundh. Learn payroll setup, employee lifecycle, and organizational process management.",
     },
     "navi-mumbai": {
       title: "SAP HCM Course in Navi Mumbai | HR System Training",
       description:
-       "Learn SAP HCM Course in Navi Mumbai to advance HR career. Understand payroll, personnel management, and time tracking for efficient HR operations.",
+        "Learn SAP HCM Course in Navi Mumbai to advance HR career. Understand payroll, personnel management, and time tracking for efficient HR operations.",
     },
     "thane": {
       title: "SAP HCM Course in Thane | HR Process Expertise",
       description:
-       "Build HR management skills with SAP HCM Course in Thane. Learn payroll systems, personnel data, and workflow configuration for practical application.",
+        "Build HR management skills with SAP HCM Course in Thane. Learn payroll systems, personnel data, and workflow configuration for practical application.",
     },
     "kalyan": {
       title: "SAP HCM Course in Kalyan | HR Module Learning",
       description:
-       "Study SAP HCM Course in Kalyan to gain complete HR knowledge. Explore payroll, employee management, and organizational process modules.",
+        "Study SAP HCM Course in Kalyan to gain complete HR knowledge. Explore payroll, employee management, and organizational process modules.",
     },
     "bandra": {
       title: "SAP HCM Course in Bandra | Learn HR System Skills",
-      description: 
-      "Gain HR expertise with SAP HCM training in Bandra. Master payroll, employee lifecycle, and reporting systems for professional development.",
+      description:
+        "Gain HR expertise with SAP HCM training in Bandra. Master payroll, employee lifecycle, and reporting systems for professional development.",
     },
     "andheri": {
       title: "SAP HCM Course in Andheri | HR Skills Advancement",
-      description: 
-      "Learn SAP HCM Course in Andheri to enhance your HR career. Study personnel management, payroll systems, and HR reporting tools for real-world use.",
+      description:
+        "Learn SAP HCM Course in Andheri to enhance your HR career. Study personnel management, payroll systems, and HR reporting tools for real-world use.",
     },
     "powai": {
       title: "SAP HCM Course in Powai | Advance HR Expertise",
-      description: 
-      "Master SAP HCM Course in Powai for HR process excellence. Learn payroll, organizational data handling, and HR module configuration in depth.",
+      description:
+        "Master SAP HCM Course in Powai for HR process excellence. Learn payroll, organizational data handling, and HR module configuration in depth.",
     },
     "worli": {
       title: "SAP HCM Course in Worli | HR Management Learning",
       description:
-       "Build HR system expertise with SAP HCM Course in Worli. Explore payroll, personnel administration, and time management modules practically.",
+        "Build HR system expertise with SAP HCM Course in Worli. Explore payroll, personnel administration, and time management modules practically.",
     },
     "chembur": {
       title: "SAP HCM Course in Chembur | Learn HR Process Skills",
       description:
-       "Advance your HR career with SAP HCM Course in Chembur. Gain knowledge in payroll management, personnel administration, and HR workflow processes.",
+        "Advance your HR career with SAP HCM Course in Chembur. Gain knowledge in payroll management, personnel administration, and HR workflow processes.",
     },
     "malad": {
       title: "SAP HCM Course in Malad | HR Module Mastery",
       description:
-       "Learn SAP HCM Course in Malad to enhance HR skills. Study payroll configuration, employee lifecycle management, and organizational data flow.",
+        "Learn SAP HCM Course in Malad to enhance HR skills. Study payroll configuration, employee lifecycle management, and organizational data flow.",
     },
     "vile-parle": {
       title: "SAP HCM Course in Vile Parle | HR Functional Learning",
       description:
-       "Gain expertise in SAP HCM Course in Vile Parle. Learn personnel management, payroll systems, and reporting processes for HR career growth.",
+        "Gain expertise in SAP HCM Course in Vile Parle. Learn personnel management, payroll systems, and reporting processes for HR career growth.",
     },
     "matunga": {
       title: "SAP HCM Course in Matunga | Master HR Systems",
       description:
-       "Strengthen HR knowledge with SAP HCM Course in Matunga. Study payroll, employee lifecycle, and organizational process management modules.",
+        "Strengthen HR knowledge with SAP HCM Course in Matunga. Study payroll, employee lifecycle, and organizational process management modules.",
     },
   },
   "sap-scm": {
-    "pune": {
-      title: "SAP SCM Course in Pune | Boost Your Career",
-      description: "Learn SAP SCM Course in Pune with practical insights, ERP integration, and real-world knowledge to advance your supply chain management career.",
+        "pune": {
+      title: "SAP SCM s/4 hana Course in Pune",
+      description:
+        "We provide the best sap scm course in pune. Job assistance, placement support, working professional trainer. best sap scm training institute in pune.",
     },
-    "mumbai": {
-      title: "SAP SCM Training in Mumbai | Enhance Skills",
-      description: "Master SAP SCM Course in Mumbai with expert-led sessions, in-depth training, and hands-on experience to excel in supply chain management roles.",
+        "mumbai": {
+      title: "SAP SCM Course in Mumbai | Certification Training",
+      description:
+        "Join Connecting Dots ERP SAP SCM Course in Mumbai with Working professional trainer, Practical training, and 100% placement Support.",
     },
     "delhi": {
       title: "SAP SCM Course in Delhi | Career Growth",
@@ -1645,7 +1648,7 @@ export const citySpecificMeta = {
     },
     "bhopal": {
       title: "SAP SCM Course in Bhopal | Learn Effectively",
-      description: "Explore SAP SCM course  in Bhopal with ERP tools training, practical exercises, and strategic supply chain management insights.",
+      description: "Explore SAP SCM course  in Bhopal with ERP tools training, practical exercises, and strategic supply chain management insights.",
     },
     "visakhapatnam": {
       title: "SAP SCM Training in Visakhapatnam | Boost Career",
@@ -1735,9 +1738,10 @@ export const citySpecificMeta = {
       title: "SAP SCM Course in Mohali | Skill Enhancement",
       description: "Advance your career with SAP SCM training in Mohali, gaining hands-on ERP knowledge and supply chain management strategies. SAP SCM Course in Mohali.",
     },
-    "raipur": {
-      title: "SAP SCM Training in Raipur | Professional Skills",
-      description: "Learn SAP SCM Course in Raipur with ERP learning, practical exercises, and supply chain management insights to boost career growth.",
+        "raipur": {
+      title: "SAP SCM Course in Raipur | Supply Chain Management",
+      description:
+        "Advance your career with SAP SCM training in Raipur — demand planning, logistics, procurement & supply chain integration. Practical, project-based learning.",
     },
     "cochin": {
       title: "SAP SCM Course in Cochin | Learn SAP Efficiently",
@@ -1765,7 +1769,7 @@ export const citySpecificMeta = {
     },
     "viman-nagar": {
       title: "SAP SCM Course in Viman Nagar | Career Advancement",
-      description: "Gain practical skills  SAP SCM Course in Viman Nagar with ERP knowledge and supply chain management strategies for professional growth.",
+      description: "Gain practical skills  SAP SCM Course in Viman Nagar with ERP knowledge and supply chain management strategies for professional growth.",
     },
     "pimple-saudagar": {
       title: "SAP SCM Training in Pimple Saudagar | Skill Boost",
@@ -1841,13 +1845,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-pp": {
-    "pune": {
-      title: "SAP PP Course in Pune | Master Production Planning",
-      description: "Advance your manufacturing skills with our SAP PP Course in Pune. Learn production planning, material management, and process optimization effectively.",
+        "pune": {
+      title: "SAP PP Course in Pune With Placements",
+      description:
+        "Connecting Dots ERP is one the best SAP PP Training Institute in pune with 100% placement Support. Our SAP PP course covers all production planning syllabus.",
     },
-    "mumbai": {
-      title: "SAP PP Training in Mumbai | Production Planning Mastery",
-      description: "Build your expertise in SAP PP Course in Mumbai. Learn production scheduling, process integration, and demand management to enhance manufacturing efficiency.",
+        "mumbai": {
+      title: "SAP PP Courses in Mumbai | Connecting Dots ERP",
+      description:
+        "Join Connecting Dots ERP SAP PP Training in Mumbai for expert training. Our SAP Production Planning Course in Mumbai provides 100% placement Support.",
     },
     "delhi": {
       title: "SAP PP Course in Delhi | Learn End-to-End Planning",
@@ -1963,11 +1969,11 @@ export const citySpecificMeta = {
     },
     "chandigarh": {
       title: "SAP PP Training in Chandigarh | Learn Production Flow",
-      description: "Gain expertise  SAP PP Course in Chandigarh. Learn demand management, routing, and scheduling for streamlined production planning and control.",
+      description: "Gain expertise  SAP PP Course in Chandigarh. Learn demand management, routing, and scheduling for streamlined production planning and control.",
     },
     "bhubaneswar": {
       title: "SAP PP Course in Bhubaneswar | Learn Smart Planning",
-      description: "Develop skills  SAP PP Course in Bhubaneswar. Learn BOM configuration, MRP setup, and workflow optimization for manufacturing excellence.",
+      description: "Develop skills  SAP PP Course in Bhubaneswar. Learn BOM configuration, MRP setup, and workflow optimization for manufacturing excellence.",
     },
     "tirupati": {
       title: "SAP PP Training in Tirupati | Production Planning Course",
@@ -1989,9 +1995,10 @@ export const citySpecificMeta = {
       title: "SAP PP Training in Mohali | Learn Manufacturing Setup",
       description: "Learn SAP PP Course in Mohali and understand process flow, BOM management, and production scheduling to enhance manufacturing outcomes.",
     },
-    "raipur": {
-      title: "SAP PP Course in Raipur | Master Planning Techniques",
-      description: "Build understanding SAP PP Course in Raipur. Learn MRP execution, demand control, and workflow design to improve production efficiency.",
+        "raipur": {
+      title: "SAP PP Course in Raipur | Production Planning",
+      description:
+        "Enroll in SAP PP training at Raipur — production planning, material requirement planning, shop floor control & scheduling. Live projects, certificate.",
     },
     "cochin": {
       title: "SAP PP Training in Cochin | Learn Production Cycles",
@@ -2095,13 +2102,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-basis": {
-    "pune": {
-      title: "SAP Basis Course in Pune | Master SAP Admin Skills",
-      description: "Learn SAP Basis Course in Pune with hands-on training covering system administration, configuration, troubleshooting, and career-ready SAP skills.",
+        "pune": {
+      title: "SAP Basis Course in Pune | SAP Basis Certification Training",
+      description:
+        "Join SAP Basis Course in Pune and learn SAP system administration, installation, monitoring, transport management, and SAP HANA concepts. Enroll today.",
     },
-    "mumbai": {
-      title: "SAP Basis Training in Mumbai | Advance Your Career",
-      description: "Gain expertise in SAP Basis Course in Mumbai with practical sessions on system management, performance tuning, and SAP administration techniques.",
+        "mumbai": {
+      title: "SAP Basis Training in Mumbai | System Admin Course",
+      description:
+        "Become a certified SAP Basis Administrator in Mumbai. Learn installation, client management & transport system with real SAP server access & placement support",
     },
     "delhi": {
       title: "SAP Basis Course in Delhi | Boost Your SAP Knowledge",
@@ -2161,7 +2170,7 @@ export const citySpecificMeta = {
     },
     "vadodara": {
       title: "SAP Basis Course in Vadodara | Learn SAP System Admin",
-      description: "Enhance your skills  SAP Basis course in Vadodara with training on Basis administration, system configuration, performance optimization, and troubleshooting.",
+      description: "Enhance your skills  SAP Basis course in Vadodara with training on Basis administration, system configuration, performance optimization, and troubleshooting.",
     },
     "ludhiana": {
       title: "SAP Basis Training in Ludhiana | Boost SAP Knowledge",
@@ -2243,9 +2252,10 @@ export const citySpecificMeta = {
       title: "SAP Basis Course Mohali | Expert SAP Administration",
       description: "Learn SAP Basis in Mohali with hands-on training on system administration, configuration, troubleshooting, performance tuning, and SAP operational skills.",
     },
-    "raipur": {
-      title: "SAP Basis Training in Raipur | Advance Your SAP Skills",
-      description: "Master SAP Basis Course in Raipur with training covering system setup, administration, monitoring, troubleshooting, and advanced career-focused SAP techniques.",
+        "raipur": {
+      title: "SAP Basis Course in Raipur | System Administration",
+      description:
+        "Learn SAP Basis in Raipur — installation, system monitoring, client administration & performance tuning. Hands-on training with real-time scenarios.",
     },
     "cochin": {
       title: "SAP Basis Course Cochin | Learn SAP Admin Expertise",
@@ -2261,7 +2271,7 @@ export const citySpecificMeta = {
     },
     "pimpri-chinchwad": {
       title: "SAP Basis Training in Pimpri Chinchwad | Expert Skills",
-      description: "  Master SAP Basis Course in Pimpri Chinchwad with practical sessions on system administration, configuration, monitoring, and troubleshooting.",
+      description: "  Master SAP Basis Course in Pimpri Chinchwad with practical sessions on system administration, configuration, monitoring, and troubleshooting.",
     },
     "shivaji-nagar": {
       title: "SAP Basis Course in Shivaji Nagar | Professional SAP Skills",
@@ -2349,13 +2359,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-qm": {
-    "pune": {
-      title: "SAP QM Course in Pune | Master Quality Management",
-      description: "Learn SAP QM Course in Pune with hands-on training, covering quality planning, inspection, and control to advance your career in quality management.",
+        "pune": {
+      title: "SAP QM Course in Pune | Connecting Dots ERP",
+      description:
+        "Join SAP QM Course in Pune and gain practical knowledge of quality management processes, quality planning, inspection, and quality control.",
     },
-    "mumbai": {
-      title: "SAP QM Course in Mumbai | Advance Your Skills",
-      description: "Join SAP QM Course in Mumbai to gain practical knowledge of quality management, inspection processes, and real-world SAP QM applications.",
+        "mumbai": {
+      title: "SAP QM Course in Mumbai | Training Certificate",
+      description:
+        "Join SAP QM Training in Mumbai to gain practical knowledge of quality management, inspection processes, and SAP QM applications with 100% Placement support.",
     },
     "delhi": {
       title: "SAP QM Course in Delhi | Become a QM Expert",
@@ -2411,7 +2423,7 @@ export const citySpecificMeta = {
     },
     "visakhapatnam": {
       title: "SAP QM Course in Visakhapatnam | Hands-On Learning",
-      description: "Gain practical skills  SAP QM Course in Visakhapatnam, covering inspection, quality planning, and control processes for career enhancement.",
+      description: "Gain practical skills  SAP QM Course in Visakhapatnam, covering inspection, quality planning, and control processes for career enhancement.",
     },
     "vadodara": {
       title: "SAP QM Course in Vadodara | Quality Management Skills",
@@ -2497,9 +2509,10 @@ export const citySpecificMeta = {
       title: "SAP QM Course in Mohali | Professional Quality Training",
       description: "Learn SAP QM Course in Mohali with hands-on lessons in quality inspection, planning, and reporting to boost your professional expertise.",
     },
-    "raipur": {
-      title: "SAP QM Course in Raipur | Master Quality Management",
-      description: "Gain practical skills in SAP QM Course in Raipur, covering quality planning, inspection, and control processes to excel professionally in QM.",
+        "raipur": {
+      title: "SAP QM Course in Raipur | Quality Management",
+      description:
+        "Gain expertise in SAP QM at Raipur — quality planning, inspection, quality control & certification management. Practical training with real projects.",
     },
     "cochin": {
       title: "SAP QM Course in Cochin | Expert Quality Training",
@@ -2604,13 +2617,15 @@ export const citySpecificMeta = {
   },
 
   "sap-ewm": {
-    "pune": {
-      title: "SAP EWM Course in Pune | Advance Your Skills",
-      description: "Enroll in the SAP EWM Course in Pune to master warehouse management, optimize logistics, and enhance your SAP career with practical expertise.",
+        "pune": {
+      title: "SAP EWM Course in Pune | with Placement Support",
+      description:
+        "Learn SAP EWM Course in Pune with Connecting Dots ERP. designed to help learners develop a solid foundation in SAP EWM. join our working professional trainer.",
     },
-    "mumbai": {
-      title: "SAP EWM Course in Mumbai | Boost Your Career",
-      description: "Learn SAP EWM Course in Mumbai and gain in-depth knowledge of warehouse management, supply chain optimization, and real-world SAP applications.",
+        "mumbai": {
+      title: "SAP EWM Training Course in Mumbai | Certification Course",
+      description:
+        "Excel in EWM with SAP EWM Training Course in Mumbai to optimise your logistics and warehouse operations. Best SAP EWM Certification Training for Supply Chain",
     },
     "delhi": {
       title: "SAP EWM Course in Delhi | Learn Advanced EWM",
@@ -2752,9 +2767,10 @@ export const citySpecificMeta = {
       title: "SAP EWM Course in Mohali | Advanced Warehouse Management",
       description: "SAP EWM Course in Mohali teaches inventory optimization, warehouse efficiency, and practical supply chain management skills to boost SAP expertise.",
     },
-    "raipur": {
-      title: "SAP EWM Course in Raipur | Learn Logistics Expertise",
-      description: "Enroll in SAP EWM Course in Raipur to gain hands-on experience in warehouse management, optimize inventory processes, and advance supply chain skills.",
+        "raipur": {
+      title: "SAP EWM Course in Raipur | Extended Warehouse Mgmt",
+      description:
+        "Get certified in SAP EWM at Raipur — warehouse operations, inventory tracking, inbound/outbound processing & yard management. Real-time practical training.",
     },
     "cochin": {
       title: "SAP EWM Course in Cochin | Expert Warehouse Skills",
@@ -2818,7 +2834,7 @@ export const citySpecificMeta = {
     },
     "thane": {
       title: "SAP EWM Course in Thane | Optimize Warehouse Operations",
-      description: "Enroll in SAP EWM Course in Thane  to improve logistics, manage inventory efficiently, and gain practical knowledge in advanced warehouse management.",
+      description: "Enroll in SAP EWM Course in Thane  to improve logistics, manage inventory efficiently, and gain practical knowledge in advanced warehouse management.",
     },
     "kalyan": {
       title: "SAP EWM Course in Kalyan | Advanced Supply Chain Training",
@@ -2826,7 +2842,7 @@ export const citySpecificMeta = {
     },
     "bandra": {
       title: "SAP EWM Course in Bandra | Expert Warehouse Skills",
-      description: "SAP EWM Course in Bandra  helps professionals gain practical knowledge in warehouse management, improve logistics, and excel in SAP EWM operations.",
+      description: "SAP EWM Course in Bandra  helps professionals gain practical knowledge in warehouse management, improve logistics, and excel in SAP EWM operations.",
     },
     "andheri": {
       title: "SAP EWM Course in Andheri | Learn Inventory Management",
@@ -2858,13 +2874,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-pm": {
-    "pune": {
-      title: "SAP PM Course in Pune | Master Plant Maintenance",
-      description: "Learn SAP PM Course in Pune to gain expertise in plant maintenance, equipment management, and preventive maintenance using SAP PM practical modules.",
+        "pune": {
+      title: "SAP PM Course in Pune With Placement support",
+      description:
+        "Join SAP PM Course in Pune with Placement Assistant. Learn plant maintenance, equipment management, and SAP PM processes through practical training.",
     },
-    "mumbai": {
+        "mumbai": {
       title: "SAP PM Course in Mumbai | Learn Maintenance Management",
-      description: "Enroll in SAP PM Course in Mumbai to master equipment maintenance, breakdown handling, and maintenance planning using real SAP PM applications.",
+      description:
+        "Enroll in SAP PM Course in Mumbai to master equipment maintenance, breakdown handling, and maintenance planning using real SAP PM applications",
     },
     "delhi": {
       title: "SAP PM Course in Delhi | Advance Maintenance Skills",
@@ -3006,9 +3024,10 @@ export const citySpecificMeta = {
       title: "SAP PM Course in Mohali | Expert Maintenance Skills",
       description: "Learn SAP PM Course in Mohali to handle maintenance planning, equipment inspection, and breakdown tracking with SAP PM real-time modules.",
     },
-    "raipur": {
-      title: "SAP PM Course in Raipur | Master Equipment Management",
-      description: "Join SAP PM Course in Raipur to gain practical skills in equipment servicing, preventive maintenance, and asset reliability in SAP PM.",
+        "raipur": {
+      title: "SAP PM Course in Raipur | Plant Maintenance",
+      description:
+        "Start your SAP PM journey in Raipur — preventive maintenance, breakdown maintenance, work order management & asset tracking. Certification included.",
     },
     "cochin": {
       title: "SAP PM Course in Cochin | Learn Preventive Maintenance",
@@ -3112,13 +3131,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-ariba": {
-    "pune": {
-      title: "SAP Ariba Course in Pune | Master Procurement Skills",
-      description: "Learn SAP Ariba Course in Pune to master sourcing, supplier management, and procurement processes using SAP Ariba’s advanced cloud-based solutions.",
+        "pune": {
+      title: "SAP Ariba Course in Pune | Connecting Dots ERP",
+      description:
+        "This SAP Ariba Course in Pune with real time working professional experts. equips you with essential procurement & supplier management skills.",
     },
-    "mumbai": {
-      title: "SAP Ariba Course in Mumbai | Learn Strategic Sourcing",
-      description: "Join SAP Ariba Course in Mumbai to gain expertise in procurement, supplier collaboration, and spend management with SAP’s Ariba platform.",
+        "mumbai": {
+      title: "SAP Ariba Training Course in Mumbai | placement support",
+      description:
+        "SAP Ariba Training in Mumbai equips you with how to streamline sourcing, contracts, workflows. online and Offline Batches, & placement assistance.",
     },
     "delhi": {
       title: "SAP Ariba Course in Delhi | Advance Procurement Skills",
@@ -3260,9 +3281,10 @@ export const citySpecificMeta = {
       title: "SAP Ariba Course in Mohali | Learn Cloud Procurement",
       description: "Learn SAP Ariba Course in Mohali to handle supplier collaboration, contract creation, and spend optimization using SAP Ariba solutions.",
     },
-    "raipur": {
-      title: "SAP Ariba Course in Raipur | Learn Procurement Automation",
-      description: "Enroll in SAP Ariba Course in Raipur to gain hands-on skills in e-sourcing, supplier management, and spend analytics using SAP Ariba.",
+        "raipur": {
+      title: "SAP Ariba Course in Raipur | Procurement & Sourcing",
+      description:
+        "Master SAP Ariba in Raipur — supplier management, sourcing, procurement & contract management on the cloud platform. Hands-on training, certificate included.",
     },
     "cochin": {
       title: "SAP Ariba Course in Cochin | Master Supplier Networks",
@@ -3366,13 +3388,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-bwbi": {
-    "pune": {
-      title: "SAP BI Course in Pune | Master Business Intelligence",
-      description: "Learn SAP BI Course in Pune to analyze enterprise data, create insightful reports, and make data-driven business decisions using advanced SAP BI tools.",
+        "pune": {
+      title: "SAP BW Course in Pune | with Placement Support",
+      description:
+        "Join our SAP BW Course in Pune and learn SAP Business Warehouse concepts, data modeling, reporting, and analytics through practical training.",
     },
-    "mumbai": {
-      title: "SAP BI Course in Mumbai | Learn Data Analytics Skills",
-      description: "Master SAP BI Course in Mumbai to transform data into business insights, manage reporting systems, and enhance decision-making with SAP BI solutions.",
+        "mumbai": {
+      title: "SAP BW Course in Mumbai | Data Warehousing Training",
+      description:
+        "Gain expertise in SAP BW with data modelling, ETL process & reporting tools. Join Connecting Dots ERP Mumbai for certified training with hands-on system access",
     },
     "delhi": {
       title: "SAP BI Course in Delhi | Advance Data Intelligence Skills",
@@ -3514,9 +3538,10 @@ export const citySpecificMeta = {
       title: "SAP BI Course in Mohali | Learn Business Analysis",
       description: "Learn SAP BI Course in Mohali to understand reporting, data management, and visualization that enhance business intelligence outcomes.",
     },
-    "raipur": {
-      title: "SAP BI Course in Raipur | Master BI Data Analysis",
-      description: "Enroll in SAP BI Course in Raipur to develop analytical skills, build dashboards, and generate insights with SAP BI tools. Master BI Data Analysis.",
+        "raipur": {
+      title: "SAP BW Course in Raipur | Business Warehouse & BI",
+      description:
+        "Master SAP BW in Raipur — data warehousing, ETL processing, reporting & business intelligence. Practical training with real-time data scenarios.",
     },
     "cochin": {
       title: "SAP BI Course in Cochin | Learn Data Visualization",
@@ -3620,13 +3645,15 @@ export const citySpecificMeta = {
     },
   },
   "sap-successfactors": {
-    "pune": {
-      title: "SAP SuccessFactors Course in Pune | Learn HR Cloud",
-      description: "Master SAP SuccessFactors Course in Pune to enhance HR analytics, performance management, and workforce planning through SAP’s advanced cloud platform.",
+        "pune": {
+      title: "SAP SuccessFactors Course in Pune",
+      description:
+        "Learn SAP SF from industry experts. Get practical SAP SuccessFactors Course in Pune, certification support, and career-focused placement assistance.",
     },
-    "mumbai": {
-      title: "SAP SuccessFactors Course in Mumbai | Master HR Skills",
-      description: "Learn SAP SuccessFactors Course in Mumbai to manage employee lifecycle, payroll, and talent management using SAP’s powerful cloud-based HR tools.",
+        "mumbai": {
+      title: "SAP SuccessFactors Training in Mumbai | SAP HR Course",
+      description:
+        "Enroll in SAP SuccessFactors Course in Mumbai to learn HR, payroll, learning & performance modules. Practical training with job-ready placement assistance.",
     },
     "delhi": {
       title: "SAP SuccessFactors Course in Delhi | Learn HR Analytics",
@@ -3768,9 +3795,10 @@ export const citySpecificMeta = {
       title: "SAP SuccessFactors Course in Mohali | HR Analytics",
       description: "Master SAP SuccessFactors Course in Mohali to understand HR analytics, employee data, and talent management using SAP modules.",
     },
-    "raipur": {
-      title: "SAP SuccessFactors Course in Raipur | HR Cloud Tools",
-      description: "Learn SAP SuccessFactors Course in Raipur to enhance workforce planning, performance tracking, and employee engagement using SAP.",
+        "raipur": {
+      title: "SAP SF Course in Raipur | SuccessFactors HR Cloud",
+      description:
+        "Get skilled in SAP SuccessFactors at Raipur — employee central, recruiting, performance & learning management on the cloud. Certification included.",
     },
     "cochin": {
       title: "SAP SuccessFactors Course in Cochin | HR Analytics",
@@ -3876,13 +3904,15 @@ export const citySpecificMeta = {
 
 
   "sap-btp": {
-    "pune": {
-      title: "SAP BTP Course in Pune | Business Technology Platform",
-      description: "Join SAP BTP course in Pune covering BTP Foundation, Integration Suite, Extension Suite. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "SAP BTP Course in Pune | SAP BTP Training in pune.",
+      description:
+        "Join the SAP BTP Course in Pune and learn SAP BTP, Analytics, AI, SAP HANA Cloud. Practical training, certification guidance, and placement support.",
     },
-    "mumbai": {
-      title: "SAP BTP Training in Mumbai | Integration Suite Training",
-      description: "Learn SAP Business Technology Platform in Mumbai. Master Integration Suite, Extension Suite, and cloud integration with expert-led classes.",
+        "mumbai": {
+      title: "SAP BTP Training in Mumbai | Certification course",
+      description:
+        "Join connecting Dots ERP for SAP BTP Training in Mumbai Master Integration Suite, Extension Suite, and cloud integration with expert led classes",
     },
     "delhi": {
       title: "Best SAP BTP Course in Delhi | Practical Training",
@@ -4024,9 +4054,10 @@ export const citySpecificMeta = {
       title: "SAP BTP Course in Mohali | Business Technology Platform",
       description: "Join SAP BTP course in Mohali covering BTP Foundation, Integration Suite, Extension Suite. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "SAP BTP Training in Raipur | Integration Suite Training",
-      description: "Learn SAP Business Technology Platform in Raipur. Master Integration Suite, Extension Suite, and cloud integration with expert-led classes.",
+        "raipur": {
+      title: "SAP BTP Course in Raipur | Cloud & Integration",
+      description:
+        "Learn SAP BTP in Raipur — cloud application development, integration suite, extension apps & analytics. Hands-on training with real-world scenarios.",
     },
     "cochin": {
       title: "Best SAP BTP Course in Cochin | Practical Training",
@@ -4131,13 +4162,15 @@ export const citySpecificMeta = {
   },
 
   "sap-ehs": {
-    "pune": {
-      title: "SAP EHS Course in Pune | Environment Health Safety",
-      description: "Join SAP EHS course in Pune covering Product Safety, Dangerous Goods, Incident Management. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "SAP EHS Course in Pune | SAP EHS Training & Certification",
+      description:
+        "Build expertise with our SAP EHS Course in Pune. Learn compliance management, incident management, and reporting through our SAP EHS Training in Pune.",
     },
-    "mumbai": {
-      title: "SAP EHS Training in Mumbai | Compliance Training",
-      description: "Learn SAP Environment, Health and Safety in Mumbai. Master Dangerous Goods, Incident Management, and compliance reporting with expert-led classes.",
+        "mumbai": {
+      title: "SAP EHS Course in Mumbai | Online & Offline Training",
+      description:
+        "Master environmental health & safety compliance with SAP EHS Course in Mumbai. Industry expert trainers, hands-on SAP system access & placement guidance.",
     },
     "delhi": {
       title: "Best SAP EHS Course in Delhi | Practical Training",
@@ -4279,9 +4312,10 @@ export const citySpecificMeta = {
       title: "SAP EHS Course in Mohali | Environment Health Safety",
       description: "Join SAP EHS course in Mohali covering Product Safety, Dangerous Goods, Incident Management. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "SAP EHS Training in Raipur | Compliance Training",
-      description: "Learn SAP Environment, Health and Safety in Raipur. Master Dangerous Goods, Incident Management, and compliance reporting with expert-led classes.",
+        "raipur": {
+      title: "SAP EHS Course in Raipur | Environment, Health & Safety",
+      description:
+        "Train in SAP EHS at Raipur — incident management, risk assessment, industrial hygiene & regulatory compliance. Practical sessions with certification.",
     },
     "cochin": {
       title: "Best SAP EHS Course in Cochin | Practical Training",
@@ -4386,13 +4420,15 @@ export const citySpecificMeta = {
   },
 
   "sap-grc": {
-    "pune": {
-      title: "SAP GRC Course in Pune | Governance Risk Compliance",
-      description: "Join SAP GRC course in Pune covering Access Control, Risk Analysis, EAM. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "SAP GRC Course in Pune | SAP Security GRC Course",
+      description:
+        "Join the SAP GRC Course in Pune and learn Governance, Risk & Compliance concepts with practical training. Get expert guidance, and placement assistance.",
     },
-    "mumbai": {
-      title: "SAP GRC Training in Mumbai | Access Control Training",
-      description: "Learn SAP Governance, Risk and Compliance in Mumbai. Master Risk Analysis, EAM, and audit reporting with expert-led classes.",
+        "mumbai": {
+      title: "SAP GRC Course in Mumbai | Risk & Compliance Training",
+      description:
+        "Learn SAP GRC access control, audit management & risk frameworks in Mumbai. Connecting Dots ERP offers certified training with 100% job assistance.",
     },
     "delhi": {
       title: "Best SAP GRC Course in Delhi | Practical Training",
@@ -4534,9 +4570,10 @@ export const citySpecificMeta = {
       title: "SAP GRC Course in Mohali | Governance Risk Compliance",
       description: "Join SAP GRC course in Mohali covering Access Control, Risk Analysis, EAM. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "SAP GRC Training in Raipur | Access Control Training",
-      description: "Learn SAP Governance, Risk and Compliance in Raipur. Master Risk Analysis, EAM, and audit reporting with expert-led classes.",
+        "raipur": {
+      title: "SAP GRC Course in Raipur | Governance, Risk & Compliance",
+      description:
+        "Specialize in SAP GRC at Raipur — access control, risk management, audit management & regulatory compliance. Practical training with certification.",
     },
     "cochin": {
       title: "Best SAP GRC Course in Cochin | Practical Training",
@@ -4641,13 +4678,15 @@ export const citySpecificMeta = {
   },
 
   "sap-ibp": {
-    "pune": {
-      title: "SAP IBP Course in Pune | Integrated Business Planning",
-      description: "Join SAP IBP course in Pune covering Demand Planning, Supply Planning, S&OP. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "SAP IBP Course Certification with Training in Pune",
+      description:
+        "Looking for SAP IBP Course in Pune? Learn demand planning, supply chain planning, forecasting, and SAP IBP implementation through practical sessions.",
     },
-    "mumbai": {
-      title: "SAP IBP Training in Mumbai | Demand Planning Training",
-      description: "Learn SAP Integrated Business Planning in Mumbai. Master Supply Planning, S&OP, and forecasting with expert-led classes.",
+        "mumbai": {
+      title: "SAP IBP Training in Mumbai | Supply Chain Planning",
+      description:
+        "Start your career with SAP IBP Training in Mumbai. Cover demand forecasting, inventory optimisation & S&OP planning with certified trainers & placement support",
     },
     "delhi": {
       title: "Best SAP IBP Course in Delhi | Practical Training",
@@ -4789,9 +4828,10 @@ export const citySpecificMeta = {
       title: "SAP IBP Course in Mohali | Integrated Business Planning",
       description: "Join SAP IBP course in Mohali covering Demand Planning, Supply Planning, S&OP. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "SAP IBP Training in Raipur | Demand Planning Training",
-      description: "Learn SAP Integrated Business Planning in Raipur. Master Supply Planning, S&OP, and forecasting with expert-led classes.",
+        "raipur": {
+      title: "SAP IBP Course in Raipur | Integrated Business Plan",
+      description:
+        "Upskill with SAP IBP training in Raipur — demand forecasting, supply planning, sales & operations planning on the cloud. Practical, project-based sessions.",
     },
     "cochin": {
       title: "Best SAP IBP Course in Cochin | Practical Training",
@@ -4893,14 +4933,17 @@ export const citySpecificMeta = {
       title: "Best SAP IBP Course in Matunga | Practical Training",
       description: "Master SAP IBP training in Matunga with hands-on modules in Demand Planning, Supply Planning, and planning models. Build career-ready skills.",
     },
-  },  "sap-ps": {
-    "pune": {
-      title: "SAP PS Course in Pune | Learn Project Systems Skills",
-      description: "Master SAP Project System Course in Pune to plan, monitor, and control projects effectively using SAP PS modules and integrated management tools.",
+  },
+  "sap-ps": {
+        "pune": {
+      title: "SAP PS Course in Pune | with job assistance",
+      description:
+        "Connecting Dots ERP provides Pune's leading SAP PS Training in Pune, offering globally recognized certification and 100% placement Support.",
     },
-    "mumbai": {
-      title: "SAP PS Course in Mumbai | Master Project Control",
-      description: "Learn SAP Project System Course in Mumbai to gain practical expertise in project planning, budgeting, and execution using SAP PS functionalities.",
+        "mumbai": {
+      title: "SAP PS Training in Mumbai | Certification Course",
+      description:
+        "Join Connecting Dots ERP SAP PS Training in Mumbai Get Certified! Master project systems, WBS structures cost planning with 100% placement Support.",
     },
     "delhi": {
       title: "SAP PS Course in Delhi | Learn Project Planning Tools",
@@ -5042,9 +5085,10 @@ export const citySpecificMeta = {
       title: "SAP PS Course in Mohali | Project Control Skills",
       description: "Master SAP Project System Course in Mohali to manage project budgeting, execution, control project, and analytics efficiently through SAP.",
     },
-    "raipur": {
-      title: "SAP PS Course in Raipur | Learn Project Tracking",
-      description: "Learn SAP PS Course in Raipur to enhance skills in project scheduling, financial control, execution, and data analysis using SAP.",
+        "raipur": {
+      title: "SAP PS Course in Raipur | Project Systems",
+      description:
+        "Explore SAP PS training in Raipur — project planning, budgeting, resource scheduling & project execution tracking. Hands-on learning, certificate provided.",
     },
     "cochin": {
       title: "SAP PS Course in Cochin | Project System Expertise",
@@ -5148,13 +5192,15 @@ export const citySpecificMeta = {
     },
   },
   "data-science": {
-    "pune": {
-      title: "Data Science Course in Pune - Certification Fee 50% Off",
-      description: "Learn Data Science Course in Pune with real-time project scenarios and hands-on training at Connecting Dots ERP Institute. Enjoy up to 50% off on fees!",
+        "pune": {
+      title: "Data Science Course in Pune With 100% Placement & gen AI",
+      description:
+        "Data Science Course in Pune with 100% Placement & Gen AI. hands-on Training & placement support, GenAI curriculum, Microsoft cert & Placement.",
     },
-    "mumbai": {
-      title: "Advanced Data Science Course in Mumbai – Enroll Now",
-      description: "Learn Data Science Course in Mumbai with Python, AI, and ML training. Build job-ready skills and unlock your potential in analytics with expert mentors.",
+        "mumbai": {
+      title: "Data Science Course in Mumbai | Certification Training",
+      description:
+        "Enroll in Data Science Course in Mumbai to master Python, ML, data visualisation & analytics. Hands-on Training, certified trainers & 100% placement support.",
     },
     "delhi": {
       title: "Top Data Science Course in Delhi – 100% Job Oriented",
@@ -5296,9 +5342,10 @@ export const citySpecificMeta = {
       title: "Upgrade Your Career with Data Science Course in Mohali",
       description: "Learn Data Science Course in Mohali with Python, AI, and ML. Build future-ready skills to open job opportunities and career growth.",
     },
-    "raipur": {
-      title: "Learn Data Science Course in Raipur – Get Job Ready",
-      description: "Master Data Science Course in Raipur with AI and Python. Gain job-ready skills for career transition and success in the data-driven world.",
+        "raipur": {
+      title: "Data Science Course in Raipur | Python, ML & AI",
+      description:
+        "Join a Data Science course in Raipur — Python, statistics, machine learning, deep learning & data visualization. Hands-on projects with certification.",
     },
     "cochin": {
       title: "Learn Data Science Course in Cochin for Future Growth",
@@ -5402,13 +5449,15 @@ export const citySpecificMeta = {
     },
   },
   "data-analytics": {
-    "pune": {
-      title: "Data Analytics Course in Pune | Learn Data Skills",
-      description: "Master data analytics Course in Pune with hands-on training in Python, SQL, Excel, and visualization tools for practical learning experience.",
+        "pune": {
+      title: "Data Analytics Course in Pune - Placement & Certification",
+      description:
+        "Join now Data Analytics Course in pune. The Data Analyst Course covers technologies like Excel, Advanced Excel, Tableau, SQL, Power BI, Basics of R & Python.",
     },
-    "mumbai": {
-      title: "Data Analytics Course in Mumbai | Learn Data Insights",
-      description: "Learn data analytics Course in Mumbai with Python, SQL, Excel, and Power BI, focusing on hands-on projects to strengthen your data skills.",
+        "mumbai": {
+      title: "Data Analytics Course in Mumbai | Job Ready Training",
+      description:
+        "Join Data Analytics Course in Mumbai to learn Excel, SQL, Power BI & Tableau. Real-world projects, expert trainers & career placement assistance for all levels",
     },
     "delhi": {
       title: "Data Analytics Course in Delhi | Master Data Techniques",
@@ -5550,9 +5599,10 @@ export const citySpecificMeta = {
       title: "Data Analytics Course in Mohali | Master Analytics",
       description: "Master data analytics Course in Mohali with Python, SQL, Excel, and Power BI for hands-on projects to strengthen educational analytical skills.",
     },
-    "raipur": {
-      title: "Data Analytics Course in Raipur | Learn Data Techniques",
-      description: "Learn data analytics Course in Raipur using Python, SQL, Excel, and visualization tools for practical hands-on educational skill development.",
+        "raipur": {
+      title: "Data Analytics Course in Raipur | Excel, SQL & Power BI",
+      description:
+        "Learn Data Analytics in Raipur — Excel, SQL, Power BI, Tableau & statistical analysis. Practical, project-based training with placement support.",
     },
     "cochin": {
       title: "Data Analytics Course in Cochin | Master BI & Python",
@@ -5655,522 +5705,18 @@ export const citySpecificMeta = {
       description: "Master data analytics Course in Matunga using Python, SQL, Excel, and Power BI exercises for practical educational hands-on learning experience.",
     },
   },
-  "business-analytics": {
-    "pune": {
-      title: "Business Analytics Course in Pune for Career Growth",
-      description: "Enroll in a Business Analytics Course in Pune to gain data skills, master Python and Power BI, and unlock new job opportunities for long-term career growth.",
-    },
-    "mumbai": {
-      title: "Business Analytics Course in Mumbai with Placement",
-      description: "Learn with the best Business Analytics Course in Mumbai. Get hands-on training in Excel, Python, and data insights to enhance your career growth and job success.",
-    },
-    "delhi": {
-      title: "Business Analytics Course in Delhi for Future Growth",
-      description: "Take a Business Analytics Course in Delhi to master data analytics tools, improve decision-making, and open doors to high-paying job opportunities.",
-    },
-    "kolkata": {
-      title: "Business Analytics Course in Kolkata for Job Roles",
-      description: "Join a Business Analytics Course in Kolkata to gain skills in Python, Excel, and BI tools. Advance your career with better job opportunities and growth.",
-    },
-    "chennai": {
-      title: "Business Analytics Course in Chennai with Live Training",
-      description: "Upskill with a Business Analytics Course in Chennai. Learn business analysis, visualization, and decision-making to drive your career transition and growth.",
-    },
-    "bangalore": {
-      title: "Business Analytics Course in Bangalore for Jobs",
-      description: "Learn Business Analytics Course in Bangalore with real-time data projects. Gain skills in Python and BI tools for job-ready expertise and future growth.",
-    },
-    "hyderabad": {
-      title: "Business Analytics Course in Hyderabad for Success",
-      description: "Build your career with a Business Analytics Course in Hyderabad. Learn to analyze business data, unlock job opportunities, and ensure long-term growth.",
-    },
-    "ahmedabad": {
-      title: "Business Analytics Course in Ahmedabad with Skills",
-      description: "Take a Business Analytics Course in Ahmedabad to master data analysis, Excel, and visualization tools for better job roles and career opportunities.",
-    },
-    "jaipur": {
-      title: "Business Analytics Course in Jaipur for Professionals",
-      description: "Enroll in a Business Analytics Course in Jaipur to gain data-driven skills, explore job opportunities, and transition to a rewarding analytics career.",
-    },
-    "lucknow": {
-      title: "Business Analytics Course in Lucknow with Jobs",
-      description: "Master data insights with a Business Analytics Course in Lucknow. Learn Python, Power BI, and analytics skills to boost your career and job prospects.",
-    },
-    "kanpur": {
-      title: "Business Analytics Course in Kanpur for Data Careers",
-      description: "Enroll in a Business Analytics Course in Kanpur to learn Python, Excel, and Power BI. Build data analytics skills for better job roles and career advancement.",
-    },
-    "nagpur": {
-      title: "Business Analytics Course in Nagpur – Learn & Grow",
-      description: "Join the Business Analytics Course in Nagpur to gain real-world analytics experience. Master data tools and prepare for high-paying analytics job roles.",
-    },
-    "patna": {
-      title: "Business Analytics Course in Patna for Career Growth",
-      description: "Learn Business Analytics Course in Patna to develop data skills, master Excel and Power BI, and open pathways to future-ready career opportunities.",
-    },
-    "indore": {
-      title: "Business Analytics Course in Indore with Live Projects",
-      description: "Take the Business Analytics Course in Indore to gain hands-on experience in Python and BI tools. Build strong skills for analytics and business success.",
-    },
-    "bhopal": {
-      title: "Business Analytics Course in Bhopal for Future Jobs",
-      description: "Learn Business Analytics Course in Bhopal to master data analytics, Python, and Excel. Unlock new job opportunities and accelerate your career growth.",
-    },
-    "visakhapatnam": {
-      title: "Business Analytics Course in Visakhapatnam – Learn AI Tools",
-      description: "Join a Business Analytics Course in Visakhapatnam to build analytics and visualization skills. Prepare for data-driven job roles and future growth.",
-    },
-    "vadodara": {
-      title: "Business Analytics Course in Vadodara with Placement",
-      description: "Learn Business Analytics Course in Vadodara and gain expertise in Excel, Python, and BI tools. Get trained for job-ready skills and career advancement.",
-    },
-    "ludhiana": {
-      title: "Business Analytics Course in Ludhiana – Career Boost",
-      description: "Enroll in the Business Analytics Course in Ludhiana to master business data tools and open opportunities for growth in the analytics field.",
-    },
-    "agra": {
-      title: "Business Analytics Course in Agra for Job Success",
-      description: "Learn Business Analytics Course in Agra to develop skills in Python, Power BI, and data analytics. Build a foundation for strong career growth.",
-    },
-    "nashik": {
-      title: "Business Analytics Course in Nashik – Learn Practically",
-      description: "Join a Business Analytics Course in Nashik to master real-time analytics tools, gain business insights, and achieve career transition and growth.",
-    },
-    "rajkot": {
-      title: "Business Analytics Course in Rajkot – Learn Data Tools",
-      description: "Enroll in a Business Analytics Course in Rajkot to master Excel, Python, and BI tools. Build future-ready data skills for career growth and opportunities.",
-    },
-    "varanasi": {
-      title: "Business Analytics Course in Varanasi – Enroll Now",
-      description: "Learn Business Analytics Course in Varanasi and gain hands-on expertise in Excel, Power BI, and data insights. Advance your career with analytics skills.",
-    },
-    "kerala": {
-      title: "Business Analytics Course in Kerala – Learn & Grow",
-      description: "Join a Business Analytics Course in Kerala to build strong analytical skills. Learn Excel, BI, and data tools for job success and career advancement.",
-    },
-    "surat": {
-      title: "Business Analytics Course in Surat – Get Certified",
-      description: "Learn Business Analytics Course in Surat with real-world data training. Master Excel, Power BI, and analytics tools for job-ready business skills.",
-    },
-    "dehradun": {
-      title: "Business Analytics Course in Dehradun – Learn Today",
-      description: "Master Business Analytics Course in Dehradun to gain practical data and BI skills. Unlock career growth and opportunities in the analytics domain.",
-    },
-    "madurai": {
-      title: "Business Analytics Course in Madurai – Learn Analytics",
-      description: "Learn Business Analytics Course in Madurai to build Excel, Python, and data analysis skills. Prepare for high-paying analytics jobs and future growth.",
-    },
-    "mysore": {
-      title: "Business Analytics Course in Mysore – Job-Ready Skills",
-      description: "Enroll in a Business Analytics Course in Mysore to master Excel, Power BI, and analytics. Build strong skills for a successful data-driven career.",
-    },
-    "pondicherry": {
-      title: "Business Analytics Course in Pondicherry – Enroll Now",
-      description: "Learn Business Analytics Course in Pondicherry to gain data insights, BI skills, and Excel mastery for better job roles and career transitions.",
-    },
-    "ranchi": {
-      title: "Business Analytics Course in Ranchi – Career Growth",
-      description: "Learn Business Analytics Course in Ranchi to build analytics, Excel, and BI skills. Boost your job opportunities and prepare for future career success.",
-    },
-    "coimbatore": {
-      title: "Business Analytics Course in Coimbatore – Learn BI",
-      description: "Join a Business Analytics Course in Coimbatore to master Excel, Power BI, and analytics tools. Gain job-ready skills for business data careers.",
-    },
-    "chandigarh": {
-      title: "Business Analytics Course in Chandigarh – Learn Now",
-      description: "Learn Business Analytics Course in Chandigarh with practical training in Excel, BI, and data analysis for better job roles and career growth.",
-    },
-    "bhubaneswar": {
-      title: "Business Analytics Course in Bhubaneswar – Upskill",
-      description: "Master Business Analytics Course in Bhubaneswar to gain real-time analytics knowledge. Build your career with BI, Excel, and Python skills.",
-    },
-    "tirupati": {
-      title: "Business Analytics Course in Tirupati – Learn BI Tools",
-      description: "Learn Business Analytics Course in Tirupati to master Power BI, Excel, and analytics. Prepare for job opportunities and future data-driven careers.",
-    },
-    "vizag": {
-      title: "Business Analytics Course in Vizag – Career Upgrade",
-      description: "Enroll in a Business Analytics Course in Vizag to build BI and Excel expertise. Open doors to job opportunities and analytics-driven career growth.",
-    },
-    "trivandrum": {
-      title: "Business Analytics Course in Trivandrum – Get Skilled",
-      description: "Learn Business Analytics Course in Trivandrum to gain real-world data experience. Build Excel and Power BI skills for career transitions.",
-    },
-    "jalandhar": {
-      title: "Business Analytics Course in Jalandhar – Learn AI Tools",
-      description: "Enroll in a Business Analytics Course in Jalandhar to master BI, Excel, and data analytics. Build strong business skills for career success.",
-    },
-    "mohali": {
-      title: "Business Analytics Course in Mohali – Learn Practically",
-      description: "Learn Business Analytics Course in Mohali through live BI projects. Build data analytics skills to boost career growth and job opportunities.",
-    },
-    "raipur": {
-      title: "Business Analytics Course in Raipur – Learn BI Skills",
-      description: "Master Business Analytics Course in Raipur to gain Excel, BI, and analytics expertise. Build career growth and transition into high-paying data jobs.",
-    },
-    "cochin": {
-      title: "Business Analytics Course in Cochin – Enroll for Growth",
-      description: "Learn Business Analytics Course in Cochin with data analytics and BI tools. Build skills that open job opportunities and professional growth.",
-    },
-    "mangalore": {
-      title: "Business Analytics Course in Mangalore – Learn BI Tools",
-      description: "Enroll in a Business Analytics Course in Mangalore to master analytics, Excel, and Power BI. Gain job-ready data skills for career advancement.",
-    },
-    "katraj": {
-      title: "Business Analytics Course in Katraj – Learn Analytics",
-      description: "Learn Business Analytics Course in Katraj to master Excel and BI tools. Gain data analytics skills for job growth and career transitions.",
-    },
-    "pimpri-chinchwad": {
-      title: "Business Analytics Course in Pimpri Chinchwad – Learn BI",
-      description: "Join a Business Analytics Course in Pimpri Chinchwad to master Power BI, Excel, and analytics tools for job-ready business data careers.",
-    },
-    "shivaji-nagar": {
-      title: "Business Analytics Course in Shivaji Nagar Pune",
-      description: "Learn Business Analytics Course in Shivaji Nagar to develop BI and Excel skills. Build strong data knowledge for job and career growth.",
-    },
-    "koregaon-park": {
-      title: "Business Analytics Course in Koregaon Park – Enroll",
-      description: "Enroll in a Business Analytics Course in Koregaon Park to learn data analytics tools and gain job-ready skills for business growth.",
-    },
-    "viman-nagar": {
-      title: "Business Analytics Course in Viman Nagar – Learn BI",
-      description: "Learn Business Analytics Course in Viman Nagar with Excel and BI tools. Build practical skills for career transitions and job growth.",
-    },
-    "pimple-saudagar": {
-      title: "Business Analytics Course in Pimple Saudagar – Learn",
-      description: "Enroll in a Business Analytics Course in Pimple Saudagar to master Power BI, analytics, and data skills for a successful business career.",
-    },
-    "baner": {
-      title: "Business Analytics Course in Baner – Career Growth",
-      description: "Learn Business Analytics Course in Baner to build BI and Excel skills. Prepare for analytics jobs and accelerate your business career.",
-    },
-    "hinjewadi": {
-      title: "Business Analytics Course in Hinjewadi – Learn BI Tools",
-      description: "Join the Business Analytics Course in Hinjewadi to gain Excel, Power BI, and analytics skills. Build your career in the tech and business world.",
-    },
-    "wakad": {
-      title: "Business Analytics Course in Wakad – Build Data Skills",
-      description: "Learn Business Analytics Course in Wakad with live BI and Excel training. Gain job-ready skills for analytics-driven business careers.",
-    },
-    "kothrud": {
-      title: "Business Analytics Course in Kothrud – Learn BI Tools",
-      description: "Enroll in a Business Analytics Course in Kothrud to gain real-world data analytics skills. Build your business insights and job opportunities.",
-    },
-    "hadapsar": {
-      title: "Business Analytics Course in Hadapsar – Learn BI",
-      description: "Master Business Analytics Course in Hadapsar with Excel and Power BI. Build practical analytics skills for future job opportunities.",
-    },
-    "aundh": {
-      title: "Business Analytics Course in Aundh – Learn Analytics",
-      description: "Enroll in a Business Analytics Course in Aundh to gain BI, Excel, and data analysis expertise. Build job-ready skills for analytics careers.",
-    },
-    "navi-mumbai": {
-      title: "Business Analytics Course in Navi Mumbai – Enroll Now",
-      description: "Learn Business Analytics Course in Navi Mumbai with Excel, BI, and analytics training. Prepare for data careers and job growth opportunities.",
-    },
-    "thane": {
-      title: "Business Analytics Course in Thane – Build BI Skills",
-      description: "Join a Business Analytics Course in Thane to gain hands-on experience with analytics tools. Build data insights for business and job success.",
-    },
-    "kalyan": {
-      title: "Business Analytics Course in Kalyan – Learn & Grow",
-      description: "Learn Business Analytics Course in Kalyan to master BI, Excel, and analytics. Boost your career and explore high-demand data jobs.",
-    },
-    "bandra": {
-      title: "Business Analytics Course in Bandra – Career Boost",
-      description: "Enroll in a Business Analytics Course in Bandra to learn Power BI, Excel, and analytics. Build skills that drive career transition and growth.",
-    },
-    "andheri": {
-      title: "Business Analytics Course in Andheri – Learn BI Tools",
-      description: "Learn Business Analytics Course in Andheri with BI, Excel, and data tools. Build analytics skills for job opportunities and business success.",
-    },
-    "powai": {
-      title: "Business Analytics Course in Powai – Learn Analytics",
-      description: "Join a Business Analytics Course in Powai to develop data and BI skills. Build a successful career through analytics and insights training.",
-    },
-    "worli": {
-      title: "Business Analytics Course in Worli – Build BI Skills",
-      description: "Learn Business Analytics Course in Worli to master Excel, BI, and analytics. Gain the skills to grow in your career and business field.",
-    },
-    "chembur": {
-      title: "Business Analytics Course in Chembur – Enroll Now",
-      description: "Master Business Analytics Course in Chembur to gain real-world data analytics skills. Build your career with BI and Power BI expertise.",
-    },
-    "malad": {
-      title: "Business Analytics Course in Malad – Learn BI Tools",
-      description: "Learn Business Analytics Course in Malad with Excel and Power BI. Build job-ready analytics skills and accelerate your business career growth.",
-    },
-    "vile-parle": {
-      title: "Business Analytics Course in Vile Parle – Learn BI",
-      description: "Join a Business Analytics Course in Vile Parle to gain BI, Excel, and analytics expertise. Build skills for job success and career transitions.",
-    },
-    "matunga": {
-      title: "Business Analytics Course in Matunga – Career Skills",
-      description: "Learn Business Analytics Course in Matunga to build BI, Excel, Analytics, and data insights. Gain job-ready skills for analytics-driven business growth.",
-    },
-  },
-  "generative-ai": {
-    "pune": {
-      title: "Generative AI Course in Pune – Master AI & Future Skills",
-      description: "Learn Generative AI Course in Pune with AI tools, prompt writing, and automation. Build your career, explore freelancing opportunities, and AI job prospects.",
-    },
-    "mumbai": {
-      title: "Generative AI Course in Mumbai – Build Your AI Career in Pune",
-      description: "Join Generative AI Course in Mumbai to upskill in AI content, automation, and prompt creation. Unlock new career paths and job-ready AI expertise for the future.",
-    },
-    "delhi": {
-      title: "Generative AI Course in Delhi – Upskill with AI-Powered tools",
-      description: "Master Generative AI Course in Delhi with live sessions and real-world AI scenarios. Learn to craft prompts and advance your career in tech and digital fields.",
-    },
-    "kolkata": {
-      title: "Generative AI Course in Kolkata – Future-Ready Learning",
-      description: "Enroll in Generative AI Course in Kolkata to gain automation, AI writing, and prompt design skills. Build a strong base for career growth in the evolving AI era.",
-    },
-    "chennai": {
-      title: "Generative AI Course in Chennai – Learn AI Content Skills",
-      description: "Learn Generative AI Course in Chennai with hands-on AI experience, content automation, and prompt training. Prepare for high-paying job roles in the AI industry.",
-    },
-    "bangalore": {
-      title: "Generative AI Course in Bangalore – Step Into the AI Future",
-      description: "Join Generative AI Course in Bangalore to master automation, AI prompts, and digital content creation. Boost your skills for next-gen job opportunities in AI.",
-    },
-    "hyderabad": {
-      title: "Generative AI Course in Hyderabad – Master AI Tools Now",
-      description: "Join Generative AI Course in Hyderabad and explore prompt writing, AI automation, and content generation. Future-proof your career with the power of AI tools.",
-    },
-    "ahmedabad": {
-      title: "Generative AI Course in Ahmedabad – Learn AI Prompt writing",
-      description: "Learn Generative AI Course in Ahmedabad with expert training in AI-driven writing and automation. Build practical skills to unlock job opportunities in the AI era.",
-    },
-    "jaipur": {
-      title: "Generative AI Course in Jaipur – Transform Your Career in AI",
-      description: "Master Generative AI Course in Jaipur to develop automation, AI, and prompt engineering skills. Achieve a successful career transition into the growing AI field.",
-    },
-    "lucknow": {
-      title: "Generative AI Course in Lucknow – Build AI Job Skills",
-      description: "Learn Generative AI Course in Lucknow with expert-led lessons on AI tools, automation, and prompt mastery. Open doors to career growth in the AI-driven market.",
-    },
-    "kanpur": {
-      title: "Generative AI Course in Kanpur – Learn AI Skills Fast",
-      description: "Learn Generative AI Course in Kanpur to master AI-powered content creation and automation. Get ready for job opportunities and career growth in the AI industry.",
-    },
-    "nagpur": {
-      title: "Generative AI Course in Nagpur – Build Future in AI Automation",
-      description: "Join Generative AI Course in Nagpur and explore prompt design, AI automation, and digital tools | Upskill for freelancing, job roles, and fast-growing AI careers.",
-    },
-    "patna": {
-      title: "Generative AI Course in Patna – Master AI & Automation",
-      description: "Enroll in Generative AI Course in Patna to learn prompt engineering, AI prompt writing, and automation. Build the expertise needed for high-demand careers in AI.",
-    },
-    "indore": {
-      title: "Generative AI Course in Indore – Upskill for AI Future",
-      description: "Learn Generative AI Course in Indore with hands-on AI tools and creative prompt writing. Strengthen your skills and open doors to future AI job opportunities.",
-    },
-    "bhopal": {
-      title: "Generative AI Course in Bhopal – Boost your Career with AI",
-      description: "Join Generative AI Course in Bhopal to explore automation, AI prompt writing, and content generation. Prepare yourself for a successful career transition into AI.",
-    },
-    "visakhapatnam": {
-      title: "Generative AI Course in Visakhapatnam – Learn AI Automation",
-      description: "Enroll in Generative AI Course in Visakhapatnam to master prompt writing, automation, and AI integration. Build valuable skills for career growth in Ai technology.",
-    },
-    "vadodara": {
-      title: "Generative AI Course in Vadodara – Master AI Prompt Writing",
-      description: "Learn Generative AI Course in Vadodara with interactive sessions and real-time AI tools. Develop in-demand skills to boost your future career in AI automation.",
-    },
-    "ludhiana": {
-      title: "Generative AI Course in Ludhiana – Advance Your AI Career",
-      description: "Master Generative AI Course in Ludhiana to enhance your AI, prompt writing, and content automation expertise. Build the skills needed for the next-gen workforce.",
-    },
-    "agra": {
-      title: "Generative AI Course in Agra – Learn Future-Ready AI Skills",
-      description: "Enroll in Generative AI Course in Agra and gain mastery in automation, AI content writing, and smart prompt creation. Get ahead with future AI career growth.",
-    },
-    "nashik": {
-      title: "Generative AI Course in Nashik – Learn AI & Grow Career",
-      description: "Learn Generative AI Course in Nashik with expert training on prompt writing, AI automation, and content creation. Build job-ready AI skills for career transition.",
-    },
-    "rajkot": {
-      title: "Generative AI Course in Rajkot – Build Smart AI Writing Skills",
-      description: "Join Generative AI Course in Rajkot to learn AI-based tools, automation, and prompt crafting. Start your career transformation with powerful ChatGPT expertise.",
-    },
-    "varanasi": {
-      title: "Generative AI Course in Varanasi – Future-Proof Your AI Skills",
-      description: "Enroll in Generative AI Course in Varanasi and explore AI prompts, content automation, and digital innovation. Build confidence for future career growth.",
-    },
-    "kerala": {
-      title: "Generative AI Course in Kerala – Step Into the AI Future",
-      description: "Learn Generative AI Course in Kerala to explore AI automation, prompt creation, and digital applications. Build your foundation for a successful AI-driven career.",
-    },
-    "surat": {
-      title: "Generative AI Course in Surat – Master AI Creativity",
-      description: "Join Generative AI Course in Surat and unlock AI writing, prompt design, and automation mastery. Strengthen your career and get ready for the AI revolution.",
-    },
-    "dehradun": {
-      title: "Generative AI Course in Dehradun – Learn future AI Automation",
-      description: "Enroll in Generative AI Course in Dehradun to develop AI-based content, automation, designing, and prompt writing skills. Build a successful career in AI.",
-    },
-    "madurai": {
-      title: "Generative AI Course in Madurai – Build AI Expertise",
-      description: "Learn Generative AI Course in Madurai with hands-on AI tools and prompt writing. Gain automation skills to accelerate your career growth in the digital world.",
-    },
-    "mysore": {
-      title: "Learn Generative AI Course in Mysore – With Modern AI Tools",
-      description: "Learn and Master Generative AI Course in Mysore and gain expertise in AI-powered automation and writing. Step into the world of job-ready skills and career growth.",
-    },
-    "pondicherry": {
-      title: "Generative AI Course in Pondicherry – Start Future AI Career",
-      description: "Learn Generative AI Course in Pondicherry and explore AI tools, creative prompting, and content generation. Transform your career with the power of AI.",
-    },
-    "ranchi": {
-      title: "Generative AI Course in Ranchi – Learn AI Prompting Skills",
-      description: "Enroll in Generative AI Course in Ranchi to build AI, prompt writing, and automation skills. Gain job-ready knowledge for fast-growing opportunities in AI fields.",
-    },
-    "coimbatore": {
-      title: "Generative AI Course in Coimbatore – Build AI Skills",
-      description: "Join Generative AI Course in Coimbatore and learn prompt design, automation, and AI writing. Get ready to upskill for better jobs and future career growth.",
-    },
-    "chandigarh": {
-      title: "Generative AI Course in Chandigarh – Master AI Tools",
-      description: "Learn Generative AI Course in Chandigarh and gain AI automation, writing, and prompting skills. Build your pathway to successful job opportunities in tech.",
-    },
-    "bhubaneswar": {
-      title: "Generative AI Course in Bhubaneswar – Build AI Future",
-      description: "Master Generative AI Course in Bhubaneswar and learn automation, content writing, and AI prompt creation. Prepare for career transformation in the AI field.",
-    },
-    "tirupati": {
-      title: "Generative AI Course in Tirupati – Learn Future AI Tools",
-      description: "Join Generative AI Course in Tirupati to master AI-based writing and automation skills. Build future-ready abilities to thrive in the AI-driven job market.",
-    },
-    "vizag": {
-      title: "Generative AI Course in Vizag – Master AI Content Skills",
-      description: "Learn Generative AI Course in Vizag to explore AI tools, prompt engineering, and creative automation. Build the right skills for career growth in technology.",
-    },
-    "trivandrum": {
-      title: "Generative AI Course in Trivandrum – Advanced in AI Tools",
-      description: "Join the Generative AI Course in Trivandrum to learn AI writing, automation, and prompt development. Elevate your professional profile with future AI skills.",
-    },
-    "jalandhar": {
-      title: "Generative AI Course in Jalandhar – Learn AI Prompting",
-      description: "Enroll in Generative AI Course in Jalandhar to explore prompt writing, AI-powered content, and automation. Build high-demand skills for your dream career.",
-    },
-    "mohali": {
-      title: "Generative AI Course in Mohali – Future-proof AI Career",
-      description: "Learn Generative AI Course in Mohali and gain AI writing and automation expertise. Upgrade your skills and open up job opportunities in the growing AI industry.",
-    },
-    "raipur": {
-      title: "Generative AI Course in Raipur – Learn AI Applications",
-      description: "Master Generative AI Course in Raipur to explore AI tools, automation, and smart prompt writing. Step into future-ready job roles with in-demand AI skills.",
-    },
-    "cochin": {
-      title: "Generative AI Course in Cochin – Master AI & Prompt writing",
-      description: "Enroll in the Generative AI Course in Cochin to gain AI automation, creative prompt writing, and digital skills. Prepare for future job opportunities in AI.",
-    },
-    "mangalore": {
-      title: "Generative AI Course in Mangalore – Boost AI Career",
-      description: "Learn Generative AI Course in Mangalore to explore AI tools, automation, and prompting. Develop future-ready expertise for growth in tech and digital jobs.",
-    },
-    "katraj": {
-      title: "Generative AI Course in Katraj – Build AI Automation",
-      description: "Join Generative AI Course in Katraj to gain practical knowledge in AI prompts and automation. Develop job-ready skills for a fast-growing AI future.",
-    },
-    "pimpri-chinchwad": {
-      title: "Generative AI Course in Pimpri Chinchwad – Build your AI Skills",
-      description: "Learn Generative AI Course in Pimpri Chinchwad with AI-powered writing, prompt design, and automation. Build skills that shape your future career growth.",
-    },
-    "shivaji-nagar": {
-      title: "Generative AI Course in Shivaji Nagar – Learn AI Tools",
-      description: "Enroll in Generative AI Course in Shivaji Nagar to master prompt writing, automation, and creative AI. Build a strong foundation for a successful AI career.",
-    },
-    "koregaon-park": {
-      title: "Generative AI Course in Koregaon Park – AI Mastery",
-      description: "Join Generative AI Course in Koregaon Park and learn AI-driven writing and automation. Strengthen your skillset for future-ready job opportunities in AI.",
-    },
-    "viman-nagar": {
-      title: "Generative AI Course in Viman Nagar – Career in AI",
-      description: "Learn Generative AI Course in Viman Nagar with real-time AI tools and prompt practice. Gain career growth with in-demand automation and content skills.",
-    },
-    "pimple-saudagar": {
-      title: "Generative AI Course in Pimple Saudagar – AI Growth",
-      description: "Enroll in Generative AI Course in Pimple Saudagar to learn AI, prompt writing, and automation. Gain industry-ready skills for a successful AI-powered career.",
-    },
-    "baner": {
-      title: "Generative AI Course in Baner – Future in AI Awaits",
-      description: "Join Generative AI Course in Baner to learn prompt engineering, AI automation, and smart content creation. Build a career in the growing world of AI.",
-    },
-    "hinjewadi": {
-      title: "Generative AI Course in Hinjewadi – Build AI Future",
-      description: "Learn Generative AI Course in Hinjewadi and explore automation, AI tools, and digital creation. Develop career-ready skills for success in the AI revolution.",
-    },
-    "wakad": {
-      title: "Generative AI Course in Wakad – Learn AI Automation",
-      description: "Enroll in Generative AI Course in Wakad and gain mastery over AI writing, automation, and prompt creation. Build your future career with trending AI skills.",
-    },
-    "kothrud": {
-      title: "Generative AI Course in Kothrud – AI Skills for Career",
-      description: "Learn Generative AI Course in Kothrud with hands-on AI and automation tools. Build real-world skills that unlock new career opportunities in technology.",
-    },
-    "hadapsar": {
-      title: "Generative AI Course in Hadapsar – Master AI Tools",
-      description: "Join Generative AI Course in Hadapsar and gain practical knowledge in AI, prompt creation, and content automation. Prepare for high-growth job roles in AI.",
-    },
-    "aundh": {
-      title: "Generative AI Course in Aundh – Learn Modern AI",
-      description: "Learn Generative AI Course in Aundh with real-time AI tools, prompt creation, and automation skills. Step into your AI career journey with confidence and growth.",
-    },
-    "navi-mumbai": {
-      title: "Generative AI Course in Navi Mumbai – Boost AI Career",
-      description: "Enroll in Generative AI Course in Navi Mumbai to explore AI automation, prompts, and creative writing. Build future-ready skills for growing tech careers.",
-    },
-    "thane": {
-      title: "Generative AI Course in Thane – Learn AI Content",
-      description: "Master Generative AI Course in Thane with expert AI and automation guidance. Gain future-oriented skills that help in career transition and growth.",
-    },
-    "kalyan": {
-      title: "Generative AI Course in Kalyan – Build Future Skills",
-      description: "Learn Generative AI Course in Kalyan and explore prompt writing, automation, and AI tools. Equip yourself with skills that define the future of work.",
-    },
-    "bandra": {
-      title: "Generative AI Course in Bandra – Learn AI & Automation",
-      description: "Enroll in Generative AI Course in Bandra to master AI content writing, automation, and prompting. Build a career powered by innovation and AI technology.",
-    },
-    "andheri": {
-      title: "Generative AI Course in Andheri – Grow with AI Skills",
-      description: "Join Generative AI Course in Andheri to learn automation, prompts, and AI content. Build expertise that opens doors to exciting new-age job opportunities.",
-    },
-    "powai": {
-      title: "Generative AI Course in Powai – Learn Smart AI Tools",
-      description: "Learn Generative AI Course in Powai with advanced automation and prompting techniques. Gain hands-on experience and grow your career in the AI era.",
-    },
-    "worli": {
-      title: "Generative AI Course in Worli – Future Career in AI",
-      description: "Enroll in Generative AI Course in Worli to learn prompt writing, automation, and AI innovation. Get career-ready for the evolving AI-driven marketplace.",
-    },
-    "chembur": {
-      title: "Generative AI Course in Chembur – Build AI Future",
-      description: "Join Generative AI Course in Chembur to master AI tools, creative automation, and prompt writing. Learn skills that lead to better job opportunities in AI.",
-    },
-    "malad": {
-      title: "Generative AI Course in Malad – Advance AI Skills",
-      description: "Learn Generative AI Course in Malad with hands-on AI projects and automation. Strengthen your expertise for high-demand jobs and career transformation.",
-    },
-    "vile-parle": {
-      title: "Generative AI Course in Vile Parle – AI Career Growth",
-      description: "Enroll in Generative AI Course in Vile Parle to learn automation, prompts, and AI content. Build skills that ensure long-term career success in the AI world.",
-    },
-    "matunga": {
-      title: "Generative AI Course in Matunga – Learn AI Prompting",
-      description: "Join Generative AI Course in Matunga and gain skills in AI writing, automation, and prompt design. Build your career growth path with next-gen AI expertise.",
-    },
-  },
+  
+  
   "full-stack": {
-    "pune": {
-      title: "Full Stack Developer Course in Pune – Learn to Code Smart",
-      description: "Master Full Stack Developer Course in Pune with hands-on coding, frontend & backend tools, and job-ready skills. Build your career with real-time scenarios.",
+        "pune": {
+      title: "Full Stack Developer Course in Pune | Practical training",
+      description:
+        "Gain practical coding skills with job-oriented Full Stack Course in Pune at Connecting Dots ERP, guided by industry experts with real-world experience.",
     },
-    "mumbai": {
-      title: "Full Stack Developer Course in Mumbai – Build Future Skills",
-      description: "Learn a Full Stack Developer Course in Mumbai to master JavaScript, React, and Node.js. Gain career growth and high-demand developer jobs through projects.",
+        "mumbai": {
+      title: "Full Stack Course in Mumbai | Web Development Training",
+      description:
+        "Master frontend & backend development with Full Stack Course in Mumbai. Learn HTML, CSS, JavaScript, React & Node.js with live training & placement support.",
     },
     "delhi": {
       title: "Full Stack Developer Course in Delhi – Get Job Ready",
@@ -6312,9 +5858,10 @@ export const citySpecificMeta = {
       title: "Full Stack Developer Course in Mohali – Learn Modern Web Dev",
       description: "Enroll in Full Stack Developer Course in Mohali to learn HTML, CSS, JS, React, and Python. Gain the skills to secure top full-stack developer roles.",
     },
-    "raipur": {
-      title: "Full Stack Developer Course in Raipur – Build Your Coding Career",
-      description: "Learn Full Stack Developer Course in Raipur with project-based training. Master all layers of web development and prepare for top IT opportunities.",
+        "raipur": {
+      title: "Full Stack Course in Raipur | MERN & Java Development",
+      description:
+        "Become a Full Stack Developer in Raipur — HTML, CSS, JavaScript, React, Node.js & databases. Live projects, real-world training with certification.",
     },
     "cochin": {
       title: "Full Stack Developer Course in Cochin – Build Real Skills",
@@ -6417,14 +5964,650 @@ export const citySpecificMeta = {
       description: "Learn Full Stack Developer Course in Matunga with expert-led training. Gain front-end to back-end coding skills and start a rewarding tech career.",
     },
   },
-  "java": {
+  "mern-stack": {
     "pune": {
-      title: "Java Course in Pune – Learn Full Stack & Get Certified",
-      description: "Join Java Course in Pune to master Core & Advanced Java, Spring Boot, and backend development. Build real-world projects and unlock top career opportunities.",
+      title: "MERN Stack Course in Pune | Connecting Dots ERP",
+      description:
+        "The MERN Stack Course in pune at Connecting Dots erp equips developers with Practical skills in React, MongoDB, Express, and Node.js for MERN Stack.",
     },
     "mumbai": {
-      title: "Java Course in Mumbai – Master Coding & Get Placed",
-      description: "Enroll in a Java Course in Mumbai and gain job-ready skills in SQL and Spring Framework. Start your journey toward a high-growth career in software development.",
+      title: "MERN Stack Course in Mumbai | Full Stack Training",
+      description:
+        "Become a MERN Stack Developer with our MERN Stack training in Mumbai. Learn MongoDB, Express, React & Node.js through real projects with certified trainers & job support.",
+    },
+    "delhi": {
+      title: "MERN Stack Course in Delhi | Expert Training",
+      description:
+        "Join our MERN Stack Course in Delhi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kolkata": {
+      title: "MERN Stack Course in Kolkata | Expert Training",
+      description:
+        "Join our MERN Stack Course in Kolkata. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "chennai": {
+      title: "MERN Stack Course in Chennai | Expert Training",
+      description:
+        "Join our MERN Stack Course in Chennai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bangalore": {
+      title: "MERN Stack Course in Bangalore | Expert Training",
+      description:
+        "Join our MERN Stack Course in Bangalore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "hyderabad": {
+      title: "MERN Stack Course in Hyderabad | Expert Training",
+      description:
+        "Join our MERN Stack Course in Hyderabad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "ahmedabad": {
+      title: "MERN Stack Course in Ahmedabad | Expert Training",
+      description:
+        "Join our MERN Stack Course in Ahmedabad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "jaipur": {
+      title: "MERN Stack Course in Jaipur | Expert Training",
+      description:
+        "Join our MERN Stack Course in Jaipur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "lucknow": {
+      title: "MERN Stack Course in Lucknow | Expert Training",
+      description:
+        "Join our MERN Stack Course in Lucknow. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kanpur": {
+      title: "MERN Stack Course in Kanpur | Expert Training",
+      description:
+        "Join our MERN Stack Course in Kanpur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "nagpur": {
+      title: "MERN Stack Course in Nagpur | Expert Training",
+      description:
+        "Join our MERN Stack Course in Nagpur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "patna": {
+      title: "MERN Stack Course in Patna | Expert Training",
+      description:
+        "Join our MERN Stack Course in Patna. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "indore": {
+      title: "MERN Stack Course in Indore | Expert Training",
+      description:
+        "Join our MERN Stack Course in Indore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bhopal": {
+      title: "MERN Stack Course in Bhopal | Expert Training",
+      description:
+        "Join our MERN Stack Course in Bhopal. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "visakhapatnam": {
+      title: "MERN Stack Course in Visakhapatnam | Expert Training",
+      description:
+        "Join our MERN Stack Course in Visakhapatnam. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "vadodara": {
+      title: "MERN Stack Course in Vadodara | Expert Training",
+      description:
+        "Join our MERN Stack Course in Vadodara. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "ludhiana": {
+      title: "MERN Stack Course in Ludhiana | Expert Training",
+      description:
+        "Join our MERN Stack Course in Ludhiana. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "agra": {
+      title: "MERN Stack Course in Agra | Expert Training",
+      description:
+        "Join our MERN Stack Course in Agra. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "nashik": {
+      title: "MERN Stack Course in Nashik | Expert Training",
+      description:
+        "Join our MERN Stack Course in Nashik. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "rajkot": {
+      title: "MERN Stack Course in Rajkot | Expert Training",
+      description:
+        "Join our MERN Stack Course in Rajkot. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "varanasi": {
+      title: "MERN Stack Course in Varanasi | Expert Training",
+      description:
+        "Join our MERN Stack Course in Varanasi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kerala": {
+      title: "MERN Stack Course in Kerala | Expert Training",
+      description:
+        "Join our MERN Stack Course in Kerala. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "surat": {
+      title: "MERN Stack Course in Surat | Expert Training",
+      description:
+        "Join our MERN Stack Course in Surat. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "dehradun": {
+      title: "MERN Stack Course in Dehradun | Expert Training",
+      description:
+        "Join our MERN Stack Course in Dehradun. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "madurai": {
+      title: "MERN Stack Course in Madurai | Expert Training",
+      description:
+        "Join our MERN Stack Course in Madurai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "mysore": {
+      title: "MERN Stack Course in Mysore | Expert Training",
+      description:
+        "Join our MERN Stack Course in Mysore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "pondicherry": {
+      title: "MERN Stack Course in Pondicherry | Expert Training",
+      description:
+        "Join our MERN Stack Course in Pondicherry. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "ranchi": {
+      title: "MERN Stack Course in Ranchi | Expert Training",
+      description:
+        "Join our MERN Stack Course in Ranchi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "coimbatore": {
+      title: "MERN Stack Course in Coimbatore | Expert Training",
+      description:
+        "Join our MERN Stack Course in Coimbatore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "chandigarh": {
+      title: "MERN Stack Course in Chandigarh | Expert Training",
+      description:
+        "Join our MERN Stack Course in Chandigarh. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bhubaneswar": {
+      title: "MERN Stack Course in Bhubaneswar | Expert Training",
+      description:
+        "Join our MERN Stack Course in Bhubaneswar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "tirupati": {
+      title: "MERN Stack Course in Tirupati | Expert Training",
+      description:
+        "Join our MERN Stack Course in Tirupati. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "vizag": {
+      title: "MERN Stack Course in Vizag | Expert Training",
+      description:
+        "Join our MERN Stack Course in Vizag. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "trivandrum": {
+      title: "MERN Stack Course in Trivandrum | Expert Training",
+      description:
+        "Join our MERN Stack Course in Trivandrum. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "jalandhar": {
+      title: "MERN Stack Course in Jalandhar | Expert Training",
+      description:
+        "Join our MERN Stack Course in Jalandhar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "mohali": {
+      title: "MERN Stack Course in Mohali | Expert Training",
+      description:
+        "Join our MERN Stack Course in Mohali. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "raipur": {
+      title: "MERN Stack Course in Raipur | MongoDB, Express, React",
+      description:
+        "Master the MERN stack in Raipur — MongoDB, Express.js, React & Node.js with hands-on projects. Build job-ready full stack skills with certification.",
+    },
+    "cochin": {
+      title: "MERN Stack Course in Cochin | Expert Training",
+      description:
+        "Join our MERN Stack Course in Cochin. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "mangalore": {
+      title: "MERN Stack Course in Mangalore | Expert Training",
+      description:
+        "Join our MERN Stack Course in Mangalore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "katraj": {
+      title: "MERN Stack Course in Katraj | Expert Training",
+      description:
+        "Join our MERN Stack Course in Katraj. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "pimpri-chinchwad": {
+      title: "MERN Stack Course in Pimpri Chinchwad | Expert Training",
+      description:
+        "Join our MERN Stack Course in Pimpri Chinchwad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "shivaji-nagar": {
+      title: "MERN Stack Course in Shivaji Nagar | Expert Training",
+      description:
+        "Join our MERN Stack Course in Shivaji Nagar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "koregaon-park": {
+      title: "MERN Stack Course in Koregaon Park | Expert Training",
+      description:
+        "Join our MERN Stack Course in Koregaon Park. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "viman-nagar": {
+      title: "MERN Stack Course in Viman Nagar | Expert Training",
+      description:
+        "Join our MERN Stack Course in Viman Nagar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "pimple-saudagar": {
+      title: "MERN Stack Course in Pimple Saudagar | Expert Training",
+      description:
+        "Join our MERN Stack Course in Pimple Saudagar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "baner": {
+      title: "MERN Stack Course in Baner | Expert Training",
+      description:
+        "Join our MERN Stack Course in Baner. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "hinjewadi": {
+      title: "MERN Stack Course in Hinjewadi | Expert Training",
+      description:
+        "Join our MERN Stack Course in Hinjewadi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "wakad": {
+      title: "MERN Stack Course in Wakad | Expert Training",
+      description:
+        "Join our MERN Stack Course in Wakad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kothrud": {
+      title: "MERN Stack Course in Kothrud | Expert Training",
+      description:
+        "Join our MERN Stack Course in Kothrud. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "hadapsar": {
+      title: "MERN Stack Course in Hadapsar | Expert Training",
+      description:
+        "Join our MERN Stack Course in Hadapsar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "aundh": {
+      title: "MERN Stack Course in Aundh | Expert Training",
+      description:
+        "Join our MERN Stack Course in Aundh. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "navi-mumbai": {
+      title: "MERN Stack Course in Navi Mumbai | Expert Training",
+      description:
+        "Join our MERN Stack Course in Navi Mumbai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "thane": {
+      title: "MERN Stack Course in Thane | Expert Training",
+      description:
+        "Join our MERN Stack Course in Thane. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kalyan": {
+      title: "MERN Stack Course in Kalyan | Expert Training",
+      description:
+        "Join our MERN Stack Course in Kalyan. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bandra": {
+      title: "MERN Stack Course in Bandra | Expert Training",
+      description:
+        "Join our MERN Stack Course in Bandra. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "andheri": {
+      title: "MERN Stack Course in Andheri | Expert Training",
+      description:
+        "Join our MERN Stack Course in Andheri. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "powai": {
+      title: "MERN Stack Course in Powai | Expert Training",
+      description:
+        "Join our MERN Stack Course in Powai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "worli": {
+      title: "MERN Stack Course in Worli | Expert Training",
+      description:
+        "Join our MERN Stack Course in Worli. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "chembur": {
+      title: "MERN Stack Course in Chembur | Expert Training",
+      description:
+        "Join our MERN Stack Course in Chembur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "malad": {
+      title: "MERN Stack Course in Malad | Expert Training",
+      description:
+        "Join our MERN Stack Course in Malad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "vile-parle": {
+      title: "MERN Stack Course in Vile Parle | Expert Training",
+      description:
+        "Join our MERN Stack Course in Vile Parle. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "matunga": {
+      title: "MERN Stack Course in Matunga | Expert Training",
+      description:
+        "Join our MERN Stack Course in Matunga. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    }
+  },
+  "ui-ux": {
+    "pune": {
+      title: "UI UX Design Course in Pune with AI Certification",
+      description:
+        "UI/UX Course in Pune to master user experience, wireframing & prototyping. Get hands-on training & certification on sketching, 3D modeling, and prototyping.",
+    },
+    "mumbai": {
+      title: "UI/UX Design Course in Mumbai | Certification Training",
+      description:
+        "Join UI/UX Design Course in Mumbai to master Figma, wireframing, prototyping & user research. Build a strong portfolio with expert mentors & placement guidance",
+    },
+    "delhi": {
+      title: "UI/UX Course in Delhi | Expert Training",
+      description:
+        "Join our UI/UX Course in Delhi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kolkata": {
+      title: "UI/UX Course in Kolkata | Expert Training",
+      description:
+        "Join our UI/UX Course in Kolkata. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "chennai": {
+      title: "UI/UX Course in Chennai | Expert Training",
+      description:
+        "Join our UI/UX Course in Chennai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bangalore": {
+      title: "UI/UX Course in Bangalore | Expert Training",
+      description:
+        "Join our UI/UX Course in Bangalore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "hyderabad": {
+      title: "UI/UX Course in Hyderabad | Expert Training",
+      description:
+        "Join our UI/UX Course in Hyderabad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "ahmedabad": {
+      title: "UI/UX Course in Ahmedabad | Expert Training",
+      description:
+        "Join our UI/UX Course in Ahmedabad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "jaipur": {
+      title: "UI/UX Course in Jaipur | Expert Training",
+      description:
+        "Join our UI/UX Course in Jaipur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "lucknow": {
+      title: "UI/UX Course in Lucknow | Expert Training",
+      description:
+        "Join our UI/UX Course in Lucknow. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kanpur": {
+      title: "UI/UX Course in Kanpur | Expert Training",
+      description:
+        "Join our UI/UX Course in Kanpur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "nagpur": {
+      title: "UI/UX Course in Nagpur | Expert Training",
+      description:
+        "Join our UI/UX Course in Nagpur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "patna": {
+      title: "UI/UX Course in Patna | Expert Training",
+      description:
+        "Join our UI/UX Course in Patna. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "indore": {
+      title: "UI/UX Course in Indore | Expert Training",
+      description:
+        "Join our UI/UX Course in Indore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bhopal": {
+      title: "UI/UX Course in Bhopal | Expert Training",
+      description:
+        "Join our UI/UX Course in Bhopal. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "visakhapatnam": {
+      title: "UI/UX Course in Visakhapatnam | Expert Training",
+      description:
+        "Join our UI/UX Course in Visakhapatnam. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "vadodara": {
+      title: "UI/UX Course in Vadodara | Expert Training",
+      description:
+        "Join our UI/UX Course in Vadodara. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "ludhiana": {
+      title: "UI/UX Course in Ludhiana | Expert Training",
+      description:
+        "Join our UI/UX Course in Ludhiana. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "agra": {
+      title: "UI/UX Course in Agra | Expert Training",
+      description:
+        "Join our UI/UX Course in Agra. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "nashik": {
+      title: "UI/UX Course in Nashik | Expert Training",
+      description:
+        "Join our UI/UX Course in Nashik. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "rajkot": {
+      title: "UI/UX Course in Rajkot | Expert Training",
+      description:
+        "Join our UI/UX Course in Rajkot. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "varanasi": {
+      title: "UI/UX Course in Varanasi | Expert Training",
+      description:
+        "Join our UI/UX Course in Varanasi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kerala": {
+      title: "UI/UX Course in Kerala | Expert Training",
+      description:
+        "Join our UI/UX Course in Kerala. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "surat": {
+      title: "UI/UX Course in Surat | Expert Training",
+      description:
+        "Join our UI/UX Course in Surat. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "dehradun": {
+      title: "UI/UX Course in Dehradun | Expert Training",
+      description:
+        "Join our UI/UX Course in Dehradun. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "madurai": {
+      title: "UI/UX Course in Madurai | Expert Training",
+      description:
+        "Join our UI/UX Course in Madurai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "mysore": {
+      title: "UI/UX Course in Mysore | Expert Training",
+      description:
+        "Join our UI/UX Course in Mysore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "pondicherry": {
+      title: "UI/UX Course in Pondicherry | Expert Training",
+      description:
+        "Join our UI/UX Course in Pondicherry. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "ranchi": {
+      title: "UI/UX Course in Ranchi | Expert Training",
+      description:
+        "Join our UI/UX Course in Ranchi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "coimbatore": {
+      title: "UI/UX Course in Coimbatore | Expert Training",
+      description:
+        "Join our UI/UX Course in Coimbatore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "chandigarh": {
+      title: "UI/UX Course in Chandigarh | Expert Training",
+      description:
+        "Join our UI/UX Course in Chandigarh. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bhubaneswar": {
+      title: "UI/UX Course in Bhubaneswar | Expert Training",
+      description:
+        "Join our UI/UX Course in Bhubaneswar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "tirupati": {
+      title: "UI/UX Course in Tirupati | Expert Training",
+      description:
+        "Join our UI/UX Course in Tirupati. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "vizag": {
+      title: "UI/UX Course in Vizag | Expert Training",
+      description:
+        "Join our UI/UX Course in Vizag. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "trivandrum": {
+      title: "UI/UX Course in Trivandrum | Expert Training",
+      description:
+        "Join our UI/UX Course in Trivandrum. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "jalandhar": {
+      title: "UI/UX Course in Jalandhar | Expert Training",
+      description:
+        "Join our UI/UX Course in Jalandhar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "mohali": {
+      title: "UI/UX Course in Mohali | Expert Training",
+      description:
+        "Join our UI/UX Course in Mohali. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "raipur": {
+      title: "UI/UX Course in Raipur | Design Tools & Principles",
+      description:
+        "Learn UI/UX Design in Raipur — Figma, Adobe XD, wireframing, prototyping & user research. Portfolio-building projects with certification support.",
+    },
+    "cochin": {
+      title: "UI/UX Course in Cochin | Expert Training",
+      description:
+        "Join our UI/UX Course in Cochin. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "mangalore": {
+      title: "UI/UX Course in Mangalore | Expert Training",
+      description:
+        "Join our UI/UX Course in Mangalore. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "katraj": {
+      title: "UI/UX Course in Katraj | Expert Training",
+      description:
+        "Join our UI/UX Course in Katraj. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "pimpri-chinchwad": {
+      title: "UI/UX Course in Pimpri Chinchwad | Expert Training",
+      description:
+        "Join our UI/UX Course in Pimpri Chinchwad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "shivaji-nagar": {
+      title: "UI/UX Course in Shivaji Nagar | Expert Training",
+      description:
+        "Join our UI/UX Course in Shivaji Nagar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "koregaon-park": {
+      title: "UI/UX Course in Koregaon Park | Expert Training",
+      description:
+        "Join our UI/UX Course in Koregaon Park. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "viman-nagar": {
+      title: "UI/UX Course in Viman Nagar | Expert Training",
+      description:
+        "Join our UI/UX Course in Viman Nagar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "pimple-saudagar": {
+      title: "UI/UX Course in Pimple Saudagar | Expert Training",
+      description:
+        "Join our UI/UX Course in Pimple Saudagar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "baner": {
+      title: "UI/UX Course in Baner | Expert Training",
+      description:
+        "Join our UI/UX Course in Baner. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "hinjewadi": {
+      title: "UI/UX Course in Hinjewadi | Expert Training",
+      description:
+        "Join our UI/UX Course in Hinjewadi. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "wakad": {
+      title: "UI/UX Course in Wakad | Expert Training",
+      description:
+        "Join our UI/UX Course in Wakad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kothrud": {
+      title: "UI/UX Course in Kothrud | Expert Training",
+      description:
+        "Join our UI/UX Course in Kothrud. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "hadapsar": {
+      title: "UI/UX Course in Hadapsar | Expert Training",
+      description:
+        "Join our UI/UX Course in Hadapsar. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "aundh": {
+      title: "UI/UX Course in Aundh | Expert Training",
+      description:
+        "Join our UI/UX Course in Aundh. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "navi-mumbai": {
+      title: "UI/UX Course in Navi Mumbai | Expert Training",
+      description:
+        "Join our UI/UX Course in Navi Mumbai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "thane": {
+      title: "UI/UX Course in Thane | Expert Training",
+      description:
+        "Join our UI/UX Course in Thane. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "kalyan": {
+      title: "UI/UX Course in Kalyan | Expert Training",
+      description:
+        "Join our UI/UX Course in Kalyan. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "bandra": {
+      title: "UI/UX Course in Bandra | Expert Training",
+      description:
+        "Join our UI/UX Course in Bandra. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "andheri": {
+      title: "UI/UX Course in Andheri | Expert Training",
+      description:
+        "Join our UI/UX Course in Andheri. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "powai": {
+      title: "UI/UX Course in Powai | Expert Training",
+      description:
+        "Join our UI/UX Course in Powai. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "worli": {
+      title: "UI/UX Course in Worli | Expert Training",
+      description:
+        "Join our UI/UX Course in Worli. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "chembur": {
+      title: "UI/UX Course in Chembur | Expert Training",
+      description:
+        "Join our UI/UX Course in Chembur. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "malad": {
+      title: "UI/UX Course in Malad | Expert Training",
+      description:
+        "Join our UI/UX Course in Malad. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "vile-parle": {
+      title: "UI/UX Course in Vile Parle | Expert Training",
+      description:
+        "Join our UI/UX Course in Vile Parle. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    },
+    "matunga": {
+      title: "UI/UX Course in Matunga | Expert Training",
+      description:
+        "Join our UI/UX Course in Matunga. Practical training, industry experts, hands-on projects and placement support. Enroll today!",
+    }
+  },
+  "java": {
+        "pune": {
+      title: "Top Java Course in Pune with 100% Placement support.",
+      description:
+        "Join our Advanced Java Course in Pune with Practical training, Working professional trainers, placement Support. Learn Spring Boot, Hibernate, SQL, Frontend.",
+    },
+        "mumbai": {
+      title: "Java Course in Mumbai | Core & Advanced Training",
+      description:
+        "Join Java training in Mumbai and Learn Core Java, OOPs, Spring Boot & Hibernate with hands-on coding practice and 100% placement assistance.",
     },
     "delhi": {
       title: "Java Course in Delhi – Become a Java Developer Fast",
@@ -6566,9 +6749,10 @@ export const citySpecificMeta = {
       title: "Java Course in Mohali – Get Trained in Java Coding",
       description: "Learn Java Course in Mohali and gain expertise in Core Java, Spring, and frameworks. Build a successful coding career with job-ready programming skills.",
     },
-    "raipur": {
-      title: "Java Course in Raipur – Build Java Developer Skills",
-      description: "Join Java Course in Raipur to master backend programming, APIs, and Java tools. Start your journey toward a stable, high-growth software career.",
+        "raipur": {
+      title: "Java Course in Raipur | Core & Advanced Java",
+      description:
+        "Learn Java in Raipur — core Java, OOP concepts, advanced Java, Spring Boot & real-time projects. Practical training with certification and support.",
     },
     "cochin": {
       title: "Java Course in Cochin – Learn Full Stack Java",
@@ -6672,15 +6856,15 @@ export const citySpecificMeta = {
     },
   },
 
-  
+
   "hr-payroll": {
-    "pune": {
-      "title": "HR Payroll Course in Pune | Practical Training",
-      "description": "Master Indian payroll processing, PF, ESIC, and tax laws in Pune. This course teaches salary structuring and legal compliance with hands-on practice."
+        "pune": {
+      "title": "Payroll Training in Pune | Certification Course",
+      "description": "This HR Payroll Course in Pune includes real-world payroll processing, hands-on compliance reporting, in-depth HR payroll training courses In Pune."
     },
-    "mumbai": {
-      "title": "Best HR Payroll Training Mumbai | Certification",
-      "description": "Join our advanced HR Payroll training in Mumbai. Learn end-to-end payroll management, statutory compliance, and salary slip generation for all employees."
+        "mumbai": {
+      "title": "HR Payroll Course in Mumbai | Learn Payroll & Compliance",
+      "description": "Join our HR payroll course in Mumbai — salary structuring, statutory compliance, PF/ESI, TDS & payroll software training. Certificate included!"
     },
     "delhi": {
       "title": "HR Payroll Classes Delhi | Learn Salary Processing",
@@ -6822,9 +7006,9 @@ export const citySpecificMeta = {
       "title": "HR Payroll Course Mohali | Certification Program",
       "description": "Join our HR Payroll program in Mohali. Learn the end-to-end process of payroll implementation, from attendance capture to the final bank transfer."
     },
-    "raipur": {
-      "title": "HR Payroll Training Raipur | Salary Administration",
-      "description": "Master salary administration in Raipur. Learn to design compensation packages, handle annual increments, and manage arrears with statutory accuracy."
+        "raipur": {
+      "title": "HR Payroll Course in Raipur | Learn Payroll & Compliance",
+      "description": "Join our HR payroll course in Raipur — salary structuring, statutory compliance, PF/ESI, TDS & payroll software training. Certificate included!"
     },
     "cochin": {
       "title": "HR Payroll Course Cochin | Statutory Compliance",
@@ -6928,269 +7112,16 @@ export const citySpecificMeta = {
     }
   },
 
-  "hr-management": {
-    "pune": {
-      "title": "HR Management Course in Pune | Strategic HR",
-      "description": "Master strategic HR management in Pune. Learn talent acquisition, performance appraisal systems, and employee engagement strategies for corporate success."
-    },
-    "mumbai": {
-      "title": "HR Management Training Mumbai | Leadership",
-      "description": "Advanced HR management training in Mumbai. Develop leadership skills, master conflict resolution, and learn to design effective organizational structures."
-    },
-    "delhi": {
-      "title": "HR Management Classes Delhi | Core HR Skills",
-      "description": "Join expert HR management classes in Delhi. Learn core HR functions including recruitment life cycles, workforce planning, and training needs analysis."
-    },
-    "kolkata": {
-      "title": "HR Management Course Kolkata | Talent Mgmt",
-      "description": "Specialized HR management course in Kolkata. Master talent management strategies, succession planning, and employee retention techniques for growth."
-    },
-    "chennai": {
-      "title": "HR Management Training Chennai | HR Analytics",
-      "description": "Learn data-driven HR management in Chennai. Master HR analytics, metric tracking, and how to use data to drive strategic business decisions effectively."
-    },
-    "bangalore": {
-      "title": "HR Management Certification Bangalore | Tech",
-      "description": "Get certified in HR management in Bangalore. Learn to integrate modern HR technology, manage remote teams, and streamline operations for IT companies."
-    },
-    "hyderabad": {
-      "title": "HR Management Course Hyderabad | Compliance",
-      "description": "Comprehensive HR management course in Hyderabad. Focus on regulatory compliance, industrial relations, and managing diversity in the modern workplace."
-    },
-    "ahmedabad": {
-      "title": "HR Management Classes Ahmedabad | Operations",
-      "description": "Practical HR management classes in Ahmedabad. Learn to handle daily HR operations, grievance redressal mechanisms, and efficient policy implementation."
-    },
-    "jaipur": {
-      "title": "HR Management Course Jaipur | Culture Building",
-      "description": "Master organizational culture in Jaipur. Learn to build positive work environments, manage change effectively, and drive employee motivation and morale."
-    },
-    "lucknow": {
-      "title": "HR Management Training Lucknow | Soft Skills",
-      "description": "Enhance your soft skills with HR management training in Lucknow. Learn negotiation, effective communication, and team-building strategies for HR roles."
-    },
-    "kanpur": {
-      "title": "HR Management Certification Kanpur | Recruit",
-      "description": "HR management certification in Kanpur covers recruitment skills. Learn sourcing, interviewing, and accurate candidate assessment techniques daily."
-    },
-    "nagpur": {
-      "title": "HR Management Course Nagpur | Performance",
-      "description": "Specialized course on performance management in Nagpur. Learn to design appraisal forms, conduct feedback sessions, and manage employee growth plans."
-    },
-    "patna": {
-      "title": "HR Management Training Patna | HR Generalist",
-      "description": "Become an HR Generalist in Patna. Our training covers the entire employee lifecycle from onboarding to exit interviews, ensuring total process mastery."
-    },
-    "indore": {
-      "title": "HR Management Classes Indore | Compensation",
-      "description": "Learn compensation management in Indore. Master the art of designing salary structures, benefits packages, and reward systems that attract top talent."
-    },
-    "bhopal": {
-      "title": "HR Management Course Bhopal | Strategic Roles",
-      "description": "Prepare for strategic roles in Bhopal. Learn to align HR strategies with business goals, manage organizational change, and drive productivity effectively."
-    },
-    "visakhapatnam": {
-      "title": "HR Management Certification Vizag | HR Policy",
-      "description": "HR management certification in Vizag. Learn to draft comprehensive HR policies, employee handbooks, and code of conduct documents for organizations."
-    },
-    "vadodara": {
-      "title": "HR Management Training Vadodara | Ind. Relations",
-      "description": "Master industrial relations in Vadodara. Learn to manage trade unions, handle collective bargaining, and ensure smooth factory operations and peace."
-    },
-    "ludhiana": {
-      "title": "HR Management Course Ludhiana | HR Admin",
-      "description": "Practical HR administration course in Ludhiana. Learn to manage personnel files, track attendance data, and handle administrative HR tasks efficiently."
-    },
-    "agra": {
-      "title": "HR Management Classes Agra | Learn L&D",
-      "description": "Focus on Learning & Development in Agra. Learn to design training modules, measure training effectiveness, and manage employee skill development plans."
-    },
-    "nashik": {
-      "title": "HR Management Course Nashik | HR Business Partner",
-      "description": "Become an HR Business Partner in Nashik. Learn to advise management, solve people issues, and drive strong business results through strategic HR work."
-    },
-    "rajkot": {
-      "title": "HR Management Training Rajkot | Small Biz HR",
-      "description": "HR management training for small businesses in Rajkot. Learn to set up HR departments, manage limited resources, and scale teams cost-effectively."
-    },
-    "varanasi": {
-      "title": "HR Management Certification Varanasi | Ethics",
-      "description": "Learn HR ethics and governance in Varanasi. Master the principles of fair employment, diversity inclusion, and ethical decision-making in workplaces."
-    },
-    "kerala": {
-      "title": "HR Management Course Kerala | Global HR",
-      "description": "Global HR management course in Kerala. Learn to manage cross-cultural teams, international assignments, and global HR policies for multinational firms."
-    },
-    "surat": {
-      "title": "HR Management Classes Surat | HR Auditing",
-      "description": "Specialized training in HR auditing in Surat. Learn to conduct HR process audits, identify compliance gaps and recommend process improvements efficiently."
-    },
-    "dehradun": {
-      "title": "HR Management Training Dehradun | Leadership",
-      "description": "Leadership focused HR training in Dehradun. Develop skills to lead HR teams, influence senior management, and drive organizational transformation."
-    },
-    "madurai": {
-      "title": "HR Management Course Madurai | HR Software",
-      "description": "Learn popular HR software in Madurai. Master HRIS tools for data management, automated recruitment, and performance tracking to boost efficiency."
-    },
-    "mysore": {
-      "title": "HR Management Certification Mysore | Wellness",
-      "description": "Focus on employee wellness in Mysore. Learn to design health programs, manage work-life balance initiatives, and create safe psychological environments."
-    },
-    "pondicherry": {
-      "title": "HR Management Training Pondicherry | HRM",
-      "description": "Comprehensive HRM training in Pondicherry. Covers human resource planning, job analysis, and the strategic utilization of human capital in firms."
-    },
-    "ranchi": {
-      "title": "HR Management Course Ranchi | Conflict Mgmt",
-      "description": "Master conflict management in Ranchi. Learn mediation techniques, grievance handling procedures, and how to maintain workplace harmony effectively."
-    },
-    "coimbatore": {
-      "title": "HR Management Classes Coimbatore | Staffing",
-      "description": "Advanced staffing solutions in Coimbatore. Learn about contract staffing, permanent recruitment, and managing vendor relationships for hiring needs."
-    },
-    "chandigarh": {
-      "title": "HR Management Course Chandigarh | Career Dev",
-      "description": "Focus on career development in Chandigarh. Learn to design career paths, mentorship programs, and succession plans to retain top performers effectively."
-    },
-    "bhubaneswar": {
-      "title": "HR Management Training Bhubaneswar | Metrics",
-      "description": "Learn HR metrics and reporting in Bhubaneswar and master calculating attrition rates, cost per hire, and ROI on human capital investments accurately now."
-    },
-    "tirupati": {
-      "title": "HR Management Certification Tirupati | Admin",
-      "description": "HR Administration certification in Tirupati. Learn to manage facility services, employee transport, and general administrative functions for offices."
-    },
-    "vizag": {
-      "title": "HR Management Course Vizag | Strategic Planning",
-      "description": "Strategic HR planning course in Vizag. Learn to forecast workforce needs, budget for HR costs, and align human resources with long-term company goals."
-    },
-    "trivandrum": {
-      "title": "HR Management Training Trivandrum | IT HR",
-      "description": "Specialized HR training for IT in Trivandrum. Learn to manage technical talent, handle remote work policies, and address IT-specific retention issues."
-    },
-    "jalandhar": {
-      "title": "HR Management Classes Jalandhar | Operations",
-      "description": "HR Operations mastery in Jalandhar. Learn to streamline onboarding, manage employee records, and optimize daily HR workflows for maximum efficiency."
-    },
-    "mohali": {
-      "title": "HR Management Course Mohali | Talent Acquisition",
-      "description": "Advanced Talent Acquisition course in Mohali. Learn employer branding, social media recruiting, and building talent pipelines for future hiring needs."
-    },
-    "raipur": {
-      "title": "HR Management Training Raipur | Emp Engagement",
-      "description": "Master employee engagement in Raipur. Learn to design survey tools, analyze engagement data, and implement action plans to boost workforce morale."
-    },
-    "cochin": {
-      "title": "HR Management Course Cochin | Legal HR",
-      "description": "Legal aspects of HR management in Cochin. Learn about employment contracts, termination procedures, and avoiding legal pitfalls in people management."
-    },
-    "mangalore": {
-      "title": "HR Management Certification Mangalore | Core",
-      "description": "Core HR management certification in Mangalore teaches key HR functions including recruitment, training, appraisal, and compensation workplace success."
-    },
-    "katraj": {
-      "title": "HR Management Course Katraj | Practical HR",
-      "description": "Practical HR management course in Katraj with real-world scenarios, role-play tasks, and case studies designed to build hands-on HR learning skills."
-    },
-    "pimpri-chinchwad": {
-      "title": "HR Management Training PCMC | Manufacturing",
-      "description": "HR for manufacturing in Pimpri Chinchwad. Learn to manage blue-collar workers, handle shift scheduling, and ensure safety compliance in factories."
-    },
-    "shivaji-nagar": {
-      "title": "HR Management Classes Shivaji Nagar | Urban HR",
-      "description": "Urban HR management classes in Shivaji Nagar. Learn to manage diverse city workforces, handle commuting challenges, and modern office administration."
-    },
-    "koregaon-park": {
-      "title": "HR Management Course Koregaon Park | Strategy",
-      "description": "Strategic HR management in Koregaon Park. Learn to be a strategic partner to the CEO, driving business growth through innovative people strategies."
-    },
-    "viman-nagar": {
-      "title": "HR Management Training Viman Nagar | Corporate",
-      "description": "Corporate HR training in Viman Nagar builds skills to navigate complex structures, manage stakeholder expectations, and lead essential HR initiatives."
-    },
-    "pimple-saudagar": {
-      "title": "HR Management Course Pimple Saudagar | Tech",
-      "description": "HR technology course in Pimple Saudagar teaches how to implement and manage HRMS systems, applicant tracking tools, and key digital employee platforms."
-    },
-    "baner": {
-      "title": "HR Management Certification Baner | Startups",
-      "description": "HR for Startups certification in Baner. Learn to build HR from scratch, create agile policies, and hire fast in high-growth startup environments."
-    },
-    "hinjewadi": {
-      "title": "HR Management Training Hinjewadi | IT Sector",
-      "description": "IT sector focused HR training in Hinjewadi. Learn to manage bench strength, handle project allocations, and retain niche technical talent effectively."
-    },
-    "wakad": {
-      "title": "HR Management Course Wakad | Modern HR",
-      "description": "Modern HR management course in Wakad covers workforce management, flexible work models, and new-age performance systems for organizational success."
-    },
-    "kothrud": {
-      "title": "HR Management Classes Kothrud | Psychology",
-      "description": "Organizational psychology in Kothrud teaches understanding employee behavior, motivation theories and applying psychology well to HR team management."
-    },
-    "hadapsar": {
-      "title": "HR Management Training Hadapsar | Industrial",
-      "description": "Industrial HR training in Hadapsar. Learn to manage large workforces, handle industrial disputes, and ensure compliance with factory regulations."
-    },
-    "aundh": {
-      "title": "HR Management Course Aundh | Leadership Dev",
-      "description": "Leadership development focus in Aundh. Learn to identify high-potential employees, design leadership programs, and groom future company leaders."
-    },
-    "navi-mumbai": {
-      "title": "HR Management Training Navi Mumbai | Logistics",
-      "description": "HR for logistics and supply chain in Navi Mumbai. Learn to manage field staff, handle shift rosters, and ensure compliance in logistics operations."
-    },
-    "thane": {
-      "title": "HR Management Course Thane | Service Sector",
-      "description": "Service sector HR management in Thane. Learn to manage customer-facing staff, train for service excellence, and handle high attrition in services."
-    },
-    "kalyan": {
-      "title": "HR Management Classes Kalyan | Essentials",
-      "description": "Essential HR management classes in Kalyan. Learn the foundational blocks of HR including job descriptions, offer letters, and induction programs."
-    },
-    "bandra": {
-      "title": "HR Management Training Bandra | Media HR",
-      "description": "HR for media and entertainment in Bandra teaches managing creative talent, handling freelance contracts, and fostering a strong and creative culture."
-    },
-    "andheri": {
-      "title": "HR Management Course Andheri | Corp Strategy",
-      "description": "Corporate strategy aligned HR in Andheri. Learn to translate business strategy into HR action plans, ensuring the workforce meets business goals."
-    },
-    "powai": {
-      "title": "HR Management Certification Powai | Analytics",
-      "description": "Advanced HR analytics certification in Powai teaches predictive modeling for attrition, optimizing recruitment spend, and measuring key HR impact also."
-    },
-    "worli": {
-      "title": "HR Management Training Worli | Finance HR",
-      "description": "HR for the finance sector in Worli. Learn to manage high - performance banking professionals, handle compliance in finance, and structure bonuses."
-    },
-    "chembur": {
-      "title": "HR Management Course Chembur | Public Sector",
-      "description": "Public sector HR analytics in Chembur cover government service rules managing unions in PSUs, and handling long-term employee benefits with clarity always."
-    },
-    "malad": {
-      "title": "HR Management Classes Malad | Retail HR",
-      "description": "Retail HR management classes in Malad. Learn to manage store staff, handle peak season hiring, and train employees for customer service excellence."
-    },
-    "vile-parle": {
-      "title": "HR Management Training Vile Parle | Education",
-      "description": "HR for education sector in Vile Parle. Learn to manage academic staff, handle faculty contracts, and ensure compliance with educational regulations."
-    },
-    "matunga": {
-      "title": "HR Management Course Matunga | Healthcare",
-      "description": "Healthcare HR management in Matunga. Learn to manage hospital staff, ensure credentialing compliance, and handle 24/7 shift management efficiently."
-    }
-  },
+  
 
   "hr-generalist": {
-    "pune": {
-      "title": "HR Generalist Course in Pune | Practical HR",
-      "description": "Master HR Generalist skills in Pune. Learn full recruitment, payroll processing, and statutory compliance handling for all major industries right now."
+        "pune": {
+      "title": "HR Generalist Course in Pune | Certification",
+      "description": "HR generalist Certification Training in Pune with Placement offer by Connecting Dots ERP. Practical training in recruitment, payroll, labour law, PMS."
     },
-    "mumbai": {
-      "title": "HR Generalist Training Mumbai | Core Skills",
-      "description": "Complete HR Generalist training in Mumbai. Learn to manage the full employee lifecycle, from onboarding to exit, with practical legal compliance use."
+        "mumbai": {
+      "title": "HR Generalist Course in Mumbai | End-to-End HR Training",
+      "description": "Become a skilled HR Generalist in Mumbai. Learn recruitment, payroll, compliance, performance management & HR operations. Certification included!"
     },
     "delhi": {
       "title": "HR Generalist Classes Delhi | Job Ready",
@@ -7332,9 +7263,9 @@ export const citySpecificMeta = {
       "title": "HR Generalist Course Mohali | Talent",
       "description": "Advanced Talent Management in Mohali. Learn to identify high - potential employees, retain top talent, and reduce organizational turnover smartly."
     },
-    "raipur": {
-      "title": "HR Generalist Training Raipur | Engagement",
-      "description": "Master employee engagement in Raipur by learning to organize fun at work, conduct satisfaction surveys, and build a strong and positive workplace culture."
+        "raipur": {
+      "title": "HR Generalist Course in Raipur | End-to-End HR Training",
+      "description": "Become a skilled HR Generalist in Raipur. Learn recruitment, payroll, compliance, performance management & HR operations. Certification included!"
     },
     "cochin": {
       "title": "HR Generalist Course Cochin | Discipline",
@@ -7439,13 +7370,13 @@ export const citySpecificMeta = {
   },
 
   "hr-analytics": {
-    "pune": {
-      "title": "HR Analytics Course in Pune | Data Skills",
-      "description": "Master HR Analytics in Pune. Learn to use data for better hiring, track key metrics, and build dashboards to drive smart business decisions effectively."
+        "pune": {
+      "title": "HR Analytics Course in Pune | certification training",
+      "description": "HR Analytics Course in Pune enhances analytics capabilities & designed for HR leaders and practitioners. Join Connecting Dots ERP Today."
     },
-    "mumbai": {
-      "title": "HR Analytics Training Mumbai | Insights",
-      "description": "Advanced HR Analytics training in Mumbai. Learn to interpret workforce data, predict attrition trends, and optimize recruitment costs with real insights."
+        "mumbai": {
+      "title": "HR Analytics Course in Mumbai | Data-Driven HR Skills",
+      "description": "Learn HR Analytics in Mumbai — workforce data, HR metrics, Excel & Power BI for HR, predictive analytics & dashboards. Hands-on training with certification!"
     },
     "delhi": {
       "title": "HR Analytics Classes Delhi | Metrics Focus",
@@ -7587,9 +7518,9 @@ export const citySpecificMeta = {
       "title": "HR Analytics Course Mohali | Engagement",
       "description": "Engagement analytics course in Mohali. Learn to link engagement scores with performance data to understand the drivers of productivity effectively."
     },
-    "raipur": {
-      "title": "HR Analytics Training Raipur | Operations",
-      "description": "Operational HR analytics in Raipur teaches tracking HR helpdesk tickets, resolution times, and service level agreements to enhance overall HR service work."
+        "raipur": {
+      "title": "HR Analytics Course in Raipur | Data-Driven HR Skills",
+      "description": "Learn HR Analytics in Raipur — workforce data, HR metrics, Excel & Power BI for HR, predictive analytics & dashboards. Hands-on training with certification!"
     },
     "cochin": {
       "title": "HR Analytics Course Cochin | Compliance",
@@ -7693,271 +7624,20 @@ export const citySpecificMeta = {
     }
   },
 
-  "it-course-with-ai": {
-    "pune": {
-      "title": "Pune IT Course for Advanced Career Skills",
-      "description": "Enhance your technical expertise in Pune with an IT Course that strengthens digital abilities, practical problem-solving, and future-ready competence."
-    },
-    "mumbai": {
-      "title": "Mumbai IT Course for Modern Tech Careers",
-      "description": "Build strong digital capabilities in Mumbai through an IT Course focused on practical skills, aligned concepts, and comprehensive knowledge for tech roles."
-    },
-    "delhi": {
-      "title": "Delhi IT Course for Future-Ready Professionals",
-      "description": "Gain essential digital knowledge in Delhi with an IT Course built to strengthen analytical skills, technical confidence, and readiness for modern demands."
-    },
-    "kolkata": {
-      "title": "Kolkata IT Course for Practical Skill Growth",
-      "description": "Advance your tech learning in Kolkata with an IT Course that builds real skills, sharpens digital understanding, and prepares you for key roles in tech."
-    },
-    "chennai": {
-      "title": "Chennai IT Course for Strong Technical Skills",
-      "description": "Develop strong technical strengths in Chennai with an IT Course that boosts digital proficiency, practical abilities, and confidence for advancement."
-    },
-    "bangalore": {
-      "title": "Bangalore IT Course for Emerging Tech Skills",
-      "description": "Improve your digital expertise in Bangalore with an IT Course focused on hands-on learning, problem-solving skills, and key knowledge for tech jobs."
-    },
-    "hyderabad": {
-      "title": "Hyderabad IT Course for Digital Excellence",
-      "description": "Strengthen your digital foundation in Hyderabad with an IT Course that builds analytical abilities, applied skills, and awareness needed for evolving tech."
-    },
-    "ahmedabad": {
-      "title": "Ahmedabad IT Course for Skill Development",
-      "description": "Boost your technical capabilities in Ahmedabad with an IT Course that improves practical skills, digital fluency, and confidence for future tech roles."
-    },
-    "jaipur": {
-      "title": "Jaipur IT Course for Career Advancement",
-      "description": "Advance your career in Jaipur with an IT Course that builds digital skills, supports applied learning, and develops key expertise for modern tech roles."
-    },
-    "lucknow": {
-      "title": "Lucknow IT Course for Professional Growth",
-      "description": "Strengthen your digital aptitude in Lucknow with an IT Course that builds practical skills, clear concepts, and readiness for growing tech key roles."
-    },
-    "kanpur": {
-      "title": "Kanpur IT Course for Technical Mastery",
-      "description": "Enhance your digital learning in Kanpur with an IT Course that builds strong basics, applied knowledge, and skills suited for evolving tech careers."
-    },
-    "nagpur": {
-      "title": "Nagpur IT Course for Digital Skill Building",
-      "description": "Expand your tech abilities in Nagpur with an IT Course that builds practical application, analytical thinking, and readiness for diverse career roles."
-    },
-    "patna": {
-      "title": "Patna IT Course for Practical Tech Skills",
-      "description": "Develop strong digital skills in Patna with an IT course that builds hands-on concepts, modern tools, and key knowledge for progressive tech roles."
-    },
-    "indore": {
-      "title": "Indore IT Course for Strong Career Skills",
-      "description": "Improve your digital competence in Indore with an IT Course that builds applied understanding, essential skills, and readiness for key core tech roles."
-    },
-    "bhopal": {
-      "title": "Bhopal IT Course for Advanced Learning",
-      "description": "Gain deeper technical knowledge in Bhopal with an IT Course that enhances digital fluency, real-world application, and confidence for future key roles."
-    },
-    "visakhapatnam": {
-      "title": "Visakhapatnam IT Course for Tech Growth",
-      "description": "Strengthen your technology skills in Visakhapatnam with an IT Course that builds applied learning, digital clarity, and expertise for tech roles."
-    },
-    "vadodara": {
-      "title": "Vadodara IT Course for Digital Upskilling",
-      "description": "Advance your capabilities in Vadodara with an IT Course that improves practical knowledge, analytical skills, and understanding of digital processes."
-    },
-    "ludhiana": {
-      "title": "Ludhiana IT Course for Tech Skill Progress",
-      "description": "Grow your digital proficiency in Ludhiana with an IT Course that refines technical understanding, practical abilities, and strong problem-solving."
-    },
-    "agra": {
-      "title": "Agra IT Course for Modern Skill Growth",
-      "description": "Enhance your professional potential in Agra with an IT Course built on digital basics, applied methods, and essential future-ready skills for growth."
-    },
-    "nashik": {
-      "title": "Nashik IT Course for Technical Excellence",
-      "description": "Build strong digital skills in Nashik with an IT Course focused on hands-on learning, modern tools, and essential knowledge for growing tech careers."
-    },
-    "rajkot": {
-      "title": "Rajkot IT Course for Digital Learning",
-      "description": "Strengthen your digital foundation in Rajkot with an IT Course that boosts practical application, clear concepts, and readiness for technology roles today."
-    },
-    "varanasi": {
-      "title": "Varanasi IT Course for Skill Enhancement",
-      "description": "Boost your tech proficiency in Varanasi with an IT Course that strengthens digital understanding, applied skills, and prepares you for evolving needs."
-    },
-    "kerala": {
-      "title": "Kerala IT Course for Advanced Tech Skills",
-      "description": "Enhance your digital expertise in Kerala with an IT Course that builds practical learning, analytical abilities, and essential knowledge for future tech."
-    },
-    "surat": {
-      "title": "Surat IT Course for Strong Digital Skills",
-      "description": "Develop advanced abilities in Surat with an IT Course focused on practical concepts, problem-solving, and foundational knowledge for tech careers."
-    },
-    "dehradun": {
-      "title": "Dehradun IT Course for Tech-Focused Growth",
-      "description": "Improve your digital capabilities in Dehradun with an IT Course that strengthens applied understanding, analytical thinking, and readiness for tech roles."
-    },
-    "madurai": {
-      "title": "Madurai IT Course for Career Readiness",
-      "description": "Boost your technical confidence in Madurai with an IT Course that improves digital clarity, practical skills, and expertise for modern workplaces."
-    },
-    "mysore": {
-      "title": "Mysore IT Course for Practical Skill Boost",
-      "description": "Grow your digital strengths in Mysore with an IT Course that refines technical understanding, hands-on proficiency, and adaptability for tech careers."
-    },
-    "pondicherry": {
-      "title": "Pondicherry IT Course for Technical Growth",
-      "description": "Advance your digital learning in Pondicherry with an IT Course that builds strong fundamentals, practical skills, and essential knowledge for tech fields."
-    },
-    "ranchi": {
-      "title": "Ranchi IT Course for Modern Tech Skills",
-      "description": "Strengthen your digital skill set in Ranchi with an IT Course that builds real-world application, analytical thinking, and readiness for tech roles."
-    },
-    "coimbatore": {
-      "title": "Coimbatore IT Course for Digital Mastery",
-      "description": "Improve your technical abilities in Coimbatore with an IT Course that sharpens digital skills, builds applied learning, and confidence for tech roles."
-    },
-    "chandigarh": {
-      "title": "Chandigarh IT Course for Future Careers",
-      "description": "Build strong expertise in Chandigarh with an IT Course that enhances conceptual clarity, practical knowledge, and advanced skills for tech pathways."
-    },
-    "bhubaneswar": {
-      "title": "Bhubaneswar IT Course for Skill Expansion",
-      "description": "Expand your digital understanding in Bhubaneswar with an IT Course that enhances hands-on skills, modern concepts, and confidence for tech roles."
-    },
-    "tirupati": {
-      "title": "Tirupati IT Course for Tech Skill Growth",
-      "description": "Boost your digital capabilities in Tirupati with an IT Course that builds analytical skills, enhances practical learning, and prepares you for tech roles."
-    },
-    "vizag": {
-      "title": "Vizag IT Course for Professional Upskilling",
-      "description": "Increase your digital competence in Vizag with an IT Course that improves technical clarity, applied skills, and readiness for dynamic tech careers."
-    },
-    "trivandrum": {
-      "title": "Trivandrum IT Course for Digital Expertise",
-      "description": "Enhance your technical strengths in Trivandrum with an IT Course that builds practical problem-solving, modern tools, and essential knowledge for growth."
-    },
-    "jalandhar": {
-      "title": "Jalandhar IT Course for Skill Advancement",
-      "description": "Advance your digital abilities in Jalandhar with an IT Course that improves foundational understanding, hands-on practice, and tech-ready skill sets."
-    },
-    "mohali": {
-      "title": "Mohali IT Course for Strong Tech Skills",
-      "description": "Improve your digital knowledge in Mohali with an IT Course that boosts applied capabilities, conceptual learning, and confidence for tech careers."
-    },
-    "raipur": {
-      "title": "Raipur IT Course for Digital Progress",
-      "description": "Strengthen your technical skill set in Raipur with an IT Course that enhances digital fluency, real-world application, and advancement in tech fields."
-    },
-    "cochin": {
-      "title": "Cochin IT Course for Practical Learning",
-      "description": "Boost your digital expertise in Cochin with an IT Course that emphasizes conceptual clarity, applied techniques, and essential skills for future careers."
-    },
-    "mangalore": {
-      "title": "Mangalore IT Course for Career Skills",
-      "description": "Develop modern digital abilities in Mangalore with an IT Course that builds practical understanding, analytical skills, and professional growth in tech."
-    },
-    "katraj": {
-      "title": "Katraj IT Course for Digital Skill Boost",
-      "description": "Improve your technical foundation in Katraj with an IT Course that enhances practical usage, modern concepts, and capability for tech-focused roles."
-    },
-    "pimpri-chinchwad": {
-      "title": "Pimpri Chinchwad IT Course for Tech-Focused Skills",
-      "description": "Build your digital strengths in Pimpri Chinchwad with an IT Course that enhances applied learning, solid fundamentals, and prepares you for tech careers."
-    },
-    "shivaji-nagar": {
-      "title": "Shivaji Nagar IT Course for Tech Growth",
-      "description": "Advance your digital knowledge in Shivaji Nagar with an IT Course that strengthens practical expertise, conceptual depth, and readiness for tech roles."
-    },
-    "koregaon-park": {
-      "title": "Koregaon Park IT Course for Skill Mastery",
-      "description": "Boost your technical capabilities in Koregaon Park with an IT Course that enhances applied skills, digital understanding, and preparation for tech growth."
-    },
-    "viman-nagar": {
-      "title": "Viman Nagar IT Course for Digital Learning",
-      "description": "Improve your digital expertise in Viman Nagar with an IT Course that builds real-world application, conceptual clarity, and essential technology skills."
-    },
-    "pimple-saudagar": {
-      "title": "Pimple Saudagar IT Course for Tech Skills",
-      "description": "Enhance your digital foundation in Pimple Saudagar with an IT Course that builds practical learning, analytical thinking, and readiness for tech roles."
-    },
-    "baner": {
-      "title": "Baner IT Course for Career Development",
-      "description": "Strengthen your tech abilities in Baner with an IT Course that improves digital competence, applied understanding, and readiness for technology careers."
-    },
-    "hinjewadi": {
-      "title": "Hinjewadi IT Course for Tech Advancement",
-      "description": "Build essential digital skills in Hinjewadi with an IT Course that enhances practical proficiency, problem-solving abilities, and preparation for roles."
-    },
-    "wakad": {
-      "title": "Wakad IT Course for Digital Skill Growth",
-      "description": "Improve your technical confidence in Wakad with an IT Course that builds practical learning, analytical skills, and readiness for tech-oriented careers."
-    },
-    "kothrud": {
-      "title": "Kothrud IT Course for Practical Tech Skills",
-      "description": "Advance your digital expertise in Kothrud with an IT Course that builds strong fundamentals, applied skills, and essential technological understanding."
-    },
-    "hadapsar": {
-      "title": "Hadapsar IT Course for Strong Digital Skills",
-      "description": "Enhance your technical foundation in Hadapsar with an IT Course that builds hands-on practice, conceptual clarity, and confidence for diverse tech careers."
-    },
-    "aundh": {
-      "title": "Aundh IT Course for Future-Ready Skills",
-      "description": "Boost your digital learning in Aundh with an IT Course that refines technical abilities, strengthens problem-solving, and supports professional growth."
-    },
-    "navi-mumbai": {
-      "title": "Navi Mumbai IT Course for Tech Expertise",
-      "description": "Improve your technical proficiency in Navi Mumbai with an IT Course that emphasizes practical understanding, digital depth, and readiness for tech fields."
-    },
-    "thane": {
-      "title": "Thane IT Course for Digital Skill Success",
-      "description": "Strengthen your digital skills in Thane with an IT Course that builds practical knowledge, analytical thinking, and readiness for tech-driven careers."
-    },
-    "kalyan": {
-      "title": "Kalyan IT Course for Tech-Based Skills",
-      "description": "Advance your digital understanding in Kalyan with an IT Course that builds applied concepts, real-world practice, and essential knowledge for tech growth."
-    },
-    "bandra": {
-      "title": "Bandra IT Course for Skill Improvement",
-      "description": "Enhance your digital strengths in Bandra with an IT Course that promotes practical skill, conceptual clarity, and development for technology-aligned roles."
-    },
-    "andheri": {
-      "title": "Andheri IT Course for Digital Readiness",
-      "description": "Boost your technical learning in Andheri with an IT Course that improves applied knowledge, digital fluency, and confidence for evolving tech fields."
-    },
-    "powai": {
-      "title": "Powai IT Course for Practical Tech Growth",
-      "description": "Develop your digital abilities in Powai with an IT Course that builds hands-on practice, analytical skills, and essential knowledge for tech success."
-    },
-    "worli": {
-      "title": "Worli IT Course for Technical Upskilling",
-      "description": "Strengthen your digital foundation in Worli with an IT Course that emphasizes conceptual development, practical experience, and readiness for tech roles."
-    },
-    "chembur": {
-      "title": "Chembur IT Course for Advanced Skills",
-      "description": "Improve your technical capabilities in Chembur with an IT Course that builds applied practice, analytical skills, and key digital skills for roles."
-    },
-    "malad": {
-      "title": "Malad IT Course for Career-Driven Skills",
-      "description": "Enhance your digital expertise in Malad with an IT Course that boosts foundational knowledge, practical application, and readiness for tech environments."
-    },
-    "vile-parle": {
-      "title": "Vile Parle IT Course for Digital Competence",
-      "description": "Build your technical strengths in Vile Parle with an IT Course that promotes applied learning, conceptual understanding, and readiness for tech careers."
-    },
-    "matunga": {
-      "title": "Matunga IT Course for Strong Tech Learning",
-      "description": "Advance your digital understanding in Matunga with an IT Course that enhances practical skills, analytical thinking, and readiness for future tech roles."
-    }
-  },
+  // IT 
 
-
+  
 
   "aws": {
-    "pune": {
-      title: "AWS Course in Pune | Cloud Computing",
-      description: "Join AWS course in Pune covering Cloud Foundations, EC2, S3. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "Join AWS Training Classes in Pune | placement assistance",
+      description:
+        "Connecting Dots ERP is a leading choice for AWS training in Pune for practical training, working professional trainer, 100% placement Support, etc.",
     },
-    "mumbai": {
-      title: "AWS Training in Mumbai | Solutions Architect Training",
-      description: "Learn Amazon Web Services Cloud Computing in Mumbai. Master EC2, S3, and IAM with expert-led classes.",
+        "mumbai": {
+      title: "AWS Course in Mumbai | Cloud Certification Training",
+      description:
+        "Get AWS Certified with our AWS Course in Mumbai. Learn EC2, S3, Lambda, IAM & cloud architecture with hands-on labs, expert trainers & career assistance.",
     },
     "delhi": {
       title: "Best AWS Course in Delhi | Practical Training",
@@ -8099,9 +7779,10 @@ export const citySpecificMeta = {
       title: "AWS Course in Mohali | Cloud Computing",
       description: "Join AWS course in Mohali covering Cloud Foundations, EC2, S3. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "AWS Training in Raipur | Solutions Architect Training",
-      description: "Learn Amazon Web Services Cloud Computing in Raipur. Master EC2, S3, and IAM with expert-led classes.",
+        "raipur": {
+      title: "AWS Course in Raipur | Cloud Computing Training",
+      description:
+        "Learn AWS in Raipur — EC2, S3, VPC, IAM, Lambda & cloud architecture. Hands-on labs with real-time projects and certification preparation.",
     },
     "cochin": {
       title: "Best AWS Course in Cochin | Practical Training",
@@ -8206,13 +7887,15 @@ export const citySpecificMeta = {
   },
 
   "azure": {
-    "pune": {
-      title: "Azure Course in Pune | Cloud Computing",
-      description: "Join Azure course in Pune covering Azure Fundamentals, Virtual Machines, Storage Accounts. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "Azure Training in Pune | Certification & 100% Placement",
+      description:
+        "Get Microsoft Azure Training in Pune offered by Connecting Dots ERP. We Provide Best Azure Training in pune with in-depth practical knowledge.",
     },
-    "mumbai": {
-      title: "Azure Training in Mumbai | Administrator Training",
-      description: "Learn Microsoft Azure Cloud Computing in Mumbai. Master Virtual Machines, Storage Accounts, and Entra ID with expert-led classes.",
+        "mumbai": {
+      title: "Azure Course in Mumbai | Microsoft Cloud Training",
+      description:
+        "Enroll in Microsoft Azure Course in Mumbai to master cloud computing, DevOps, virtual machines & Azure with certification guidance & placement support",
     },
     "delhi": {
       title: "Best Azure Course in Delhi | Practical Training",
@@ -8354,9 +8037,10 @@ export const citySpecificMeta = {
       title: "Azure Course in Mohali | Cloud Computing",
       description: "Join Azure course in Mohali covering Azure Fundamentals, Virtual Machines, Storage Accounts. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "Azure Training in Raipur | Administrator Training",
-      description: "Learn Microsoft Azure Cloud Computing in Raipur. Master Virtual Machines, Storage Accounts, and Entra ID with expert-led classes.",
+        "raipur": {
+      title: "Azure Course in Raipur | Microsoft Cloud Training",
+      description:
+        "Learn Microsoft Azure in Raipur — virtual machines, Azure AD, storage, networking & DevOps. Hands-on labs with certification preparation.",
     },
     "cochin": {
       title: "Best Azure Course in Cochin | Practical Training",
@@ -8460,269 +8144,18 @@ export const citySpecificMeta = {
     },
   },
 
-  "devops": {
-    "pune": {
-      title: "DevOps Course in Pune | CI/CD Training",
-      description: "Join DevOps course in Pune covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "mumbai": {
-      title: "DevOps Training in Mumbai | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Mumbai. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "delhi": {
-      title: "Best DevOps Course in Delhi | Practical Training",
-      description: "Master DevOps training in Delhi with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "kolkata": {
-      title: "DevOps Certification in Kolkata | Expert Classes",
-      description: "Enroll in DevOps classes in Kolkata and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "chennai": {
-      title: "DevOps Course in Chennai | CI/CD Training",
-      description: "Join DevOps course in Chennai covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "bangalore": {
-      title: "DevOps Training in Bangalore | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Bangalore. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "hyderabad": {
-      title: "Best DevOps Course in Hyderabad | Practical Training",
-      description: "Master DevOps training in Hyderabad with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "ahmedabad": {
-      title: "DevOps Certification in Ahmedabad | Expert Classes",
-      description: "Enroll in DevOps classes in Ahmedabad and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "jaipur": {
-      title: "DevOps Course in Jaipur | CI/CD Training",
-      description: "Join DevOps course in Jaipur covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "lucknow": {
-      title: "DevOps Training in Lucknow | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Lucknow. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "kanpur": {
-      title: "Best DevOps Course in Kanpur | Practical Training",
-      description: "Master DevOps training in Kanpur with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "nagpur": {
-      title: "DevOps Certification in Nagpur | Expert Classes",
-      description: "Enroll in DevOps classes in Nagpur and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "patna": {
-      title: "DevOps Course in Patna | CI/CD Training",
-      description: "Join DevOps course in Patna covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "indore": {
-      title: "DevOps Training in Indore | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Indore. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "bhopal": {
-      title: "Best DevOps Course in Bhopal | Practical Training",
-      description: "Master DevOps training in Bhopal with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "visakhapatnam": {
-      title: "DevOps Certification in Visakhapatnam | Expert Classes",
-      description: "Enroll in DevOps classes in Visakhapatnam and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "vadodara": {
-      title: "DevOps Course in Vadodara | CI/CD Training",
-      description: "Join DevOps course in Vadodara covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "ludhiana": {
-      title: "DevOps Training in Ludhiana | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Ludhiana. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "agra": {
-      title: "Best DevOps Course in Agra | Practical Training",
-      description: "Master DevOps training in Agra with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "nashik": {
-      title: "DevOps Certification in Nashik | Expert Classes",
-      description: "Enroll in DevOps classes in Nashik and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "rajkot": {
-      title: "DevOps Course in Rajkot | CI/CD Training",
-      description: "Join DevOps course in Rajkot covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "varanasi": {
-      title: "DevOps Training in Varanasi | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Varanasi. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "kerala": {
-      title: "Best DevOps Course in Kerala | Practical Training",
-      description: "Master DevOps training in Kerala with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "surat": {
-      title: "DevOps Certification in Surat | Expert Classes",
-      description: "Enroll in DevOps classes in Surat and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "dehradun": {
-      title: "DevOps Course in Dehradun | CI/CD Training",
-      description: "Join DevOps course in Dehradun covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "madurai": {
-      title: "DevOps Training in Madurai | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Madurai. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "mysore": {
-      title: "Best DevOps Course in Mysore | Practical Training",
-      description: "Master DevOps training in Mysore with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "pondicherry": {
-      title: "DevOps Certification in Pondicherry | Expert Classes",
-      description: "Enroll in DevOps classes in Pondicherry and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "ranchi": {
-      title: "DevOps Course in Ranchi | CI/CD Training",
-      description: "Join DevOps course in Ranchi covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "coimbatore": {
-      title: "DevOps Training in Coimbatore | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Coimbatore. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "chandigarh": {
-      title: "Best DevOps Course in Chandigarh | Practical Training",
-      description: "Master DevOps training in Chandigarh with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "bhubaneswar": {
-      title: "DevOps Certification in Bhubaneswar | Expert Classes",
-      description: "Enroll in DevOps classes in Bhubaneswar and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "tirupati": {
-      title: "DevOps Course in Tirupati | CI/CD Training",
-      description: "Join DevOps course in Tirupati covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "vizag": {
-      title: "DevOps Training in Vizag | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Vizag. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "trivandrum": {
-      title: "Best DevOps Course in Trivandrum | Practical Training",
-      description: "Master DevOps training in Trivandrum with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "jalandhar": {
-      title: "DevOps Certification in Jalandhar | Expert Classes",
-      description: "Enroll in DevOps classes in Jalandhar and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "mohali": {
-      title: "DevOps Course in Mohali | CI/CD Training",
-      description: "Join DevOps course in Mohali covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "raipur": {
-      title: "DevOps Training in Raipur | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Raipur. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "cochin": {
-      title: "Best DevOps Course in Cochin | Practical Training",
-      description: "Master DevOps training in Cochin with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "mangalore": {
-      title: "DevOps Certification in Mangalore | Expert Classes",
-      description: "Enroll in DevOps classes in Mangalore and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "katraj": {
-      title: "DevOps Course in Katraj | CI/CD Training",
-      description: "Join DevOps course in Katraj covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "pimpri-chinchwad": {
-      title: "DevOps Training in Pimpri Chinchwad | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Pimpri Chinchwad. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "shivaji-nagar": {
-      title: "Best DevOps Course in Shivaji Nagar | Practical Training",
-      description: "Master DevOps training in Shivaji Nagar with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "koregaon-park": {
-      title: "DevOps Certification in Koregaon Park | Expert Classes",
-      description: "Enroll in DevOps classes in Koregaon Park and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "viman-nagar": {
-      title: "DevOps Course in Viman Nagar | CI/CD Training",
-      description: "Join DevOps course in Viman Nagar covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "pimple-saudagar": {
-      title: "DevOps Training in Pimple Saudagar | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Pimple Saudagar. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "baner": {
-      title: "Best DevOps Course in Baner | Practical Training",
-      description: "Master DevOps training in Baner with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "hinjewadi": {
-      title: "DevOps Certification in Hinjewadi | Expert Classes",
-      description: "Enroll in DevOps classes in Hinjewadi and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "wakad": {
-      title: "DevOps Course in Wakad | CI/CD Training",
-      description: "Join DevOps course in Wakad covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "kothrud": {
-      title: "DevOps Training in Kothrud | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Kothrud. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "hadapsar": {
-      title: "Best DevOps Course in Hadapsar | Practical Training",
-      description: "Master DevOps training in Hadapsar with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "aundh": {
-      title: "DevOps Certification in Aundh | Expert Classes",
-      description: "Enroll in DevOps classes in Aundh and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "navi-mumbai": {
-      title: "DevOps Course in Navi Mumbai | CI/CD Training",
-      description: "Join DevOps course in Navi Mumbai covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "thane": {
-      title: "DevOps Training in Thane | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Thane. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "kalyan": {
-      title: "Best DevOps Course in Kalyan | Practical Training",
-      description: "Master DevOps training in Kalyan with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "bandra": {
-      title: "DevOps Certification in Bandra | Expert Classes",
-      description: "Enroll in DevOps classes in Bandra and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "andheri": {
-      title: "DevOps Course in Andheri | CI/CD Training",
-      description: "Join DevOps course in Andheri covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "powai": {
-      title: "DevOps Training in Powai | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Powai. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "worli": {
-      title: "Best DevOps Course in Worli | Practical Training",
-      description: "Master DevOps training in Worli with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-    "chembur": {
-      title: "DevOps Certification in Chembur | Expert Classes",
-      description: "Enroll in DevOps classes in Chembur and prepare for DevOps Engineer roles with certification guidance and interview support.",
-    },
-    "malad": {
-      title: "DevOps Course in Malad | CI/CD Training",
-      description: "Join DevOps course in Malad covering Linux and Git, Docker, Kubernetes. Get practical training, projects, and placement support.",
-    },
-    "vile-parle": {
-      title: "DevOps Training in Vile Parle | Engineering Course",
-      description: "Learn DevOps Engineering and CI/CD in Vile Parle. Master Docker, Kubernetes, and Terraform with expert-led classes.",
-    },
-    "matunga": {
-      title: "Best DevOps Course in Matunga | Practical Training",
-      description: "Master DevOps training in Matunga with hands-on modules in Linux and Git, Docker, and CI/CD. Build career-ready skills.",
-    },
-  },
+  
 
   "ai-ml": {
-    "pune": {
-      title: "AIML Course in Pune | AI ML Course",
-      description: "Join AIML course in Pune covering Python for AI, Statistics, Machine Learning. Get practical training, projects, and placement support.",
+        "pune": {
+      title: "Artificial Intelligence Course Training in Pune.",
+      description:
+        "Connecting Dots ERP our Artificial Intelligence (AI) Course Training in Pune. offering industry-focused learning and hands-on AI-ML training with placement.",
     },
-    "mumbai": {
-      title: "AIML Training in Mumbai | Machine Learning Training",
-      description: "Learn Artificial Intelligence and Machine Learning in Mumbai. Master Statistics, Machine Learning, and NLP with expert-led classes.",
+        "mumbai": {
+      title: "AI ML Course in Mumbai | Certification Training",
+      description:
+        "Advance your career with AI ML Course in Mumbai. Learn machine learning, deep learning, NLP & model deployment with real-world Training & expert-led training.",
     },
     "delhi": {
       title: "Best AIML Course in Delhi | Practical Training",
@@ -8864,9 +8297,10 @@ export const citySpecificMeta = {
       title: "AIML Course in Mohali | AI ML Course",
       description: "Join AIML course in Mohali covering Python for AI, Statistics, Machine Learning. Get practical training, projects, and placement support.",
     },
-    "raipur": {
-      title: "AIML Training in Raipur | Machine Learning Training",
-      description: "Learn Artificial Intelligence and Machine Learning in Raipur. Master Statistics, Machine Learning, and NLP with expert-led classes.",
+        "raipur": {
+      title: "AI/ML Course in Raipur | Artificial Intelligence",
+      description:
+        "Learn AI & Machine Learning in Raipur — Python, neural networks, deep learning, NLP & model deployment. Hands-on projects with certification.",
     },
     "cochin": {
       title: "Best AIML Course in Cochin | Practical Training",
@@ -8968,14 +8402,15 @@ export const citySpecificMeta = {
       title: "Best AIML Course in Matunga | Practical Training",
       description: "Master AIML training in Matunga with hands-on modules in Python for AI, Statistics, and model evaluation. Build career-ready skills.",
     },
-  },  "salesforce": {
-    "pune": {
-      "title": "Salesforce Training in Pune | CRM Certification",
-      "description": "Master Salesforce CRM with hands on training in Pune. Learn admin development, and integration skills. Industry recognized certification included and more."
+  },
+  "salesforce": {
+        "pune": {
+      "title": "Salesforce classes in Pune | 100% Placement Support",
+      "description": "Join Salesforce Classes in Pune at Connecting Dots ERP,  learn Salesforce CRM, automation, administration, and cloud applications through hands-on Training."
     },
-    "mumbai": {
-      "title": "Salesforce Course Mumbai | Expert CRM Training",
-      "description": "Comprehensive Salesforce training in Mumbai covering sales cloud, service cloud, and automation. Practical projects with real-world scenarios included."
+        "mumbai": {
+      "title": "Salesforce Course in Mumbai | CRM Certification Training",
+      "description": "Join Salesforce Course in Mumbai to master CRM, Sales Cloud, Service Cloud & admin skills. Become Salesforce certified with expert trainers & placement support."
     },
     "delhi": {
       "title": "Salesforce Classes Delhi | CRM Developer Course",
@@ -9117,9 +8552,9 @@ export const citySpecificMeta = {
       "title": "Salesforce Training Mohali | CRM Certification Course",
       "description": "Expert Salesforce training in Mohali covering schema design, relationship types, data modeling, and helping you build highly strong normalized CRM data."
     },
-    "raipur": {
-      "title": "Salesforce Course Raipur | Cloud Platform Training",
-      "description": "Professional Salesforce training in Raipur. Learn reports, dashboards, and analytic snapshots. Master data visualization and business intelligence."
+        "raipur": {
+      "title": "Salesforce Course in Raipur | CRM & Admin Training",
+      "description": "Learn Salesforce in Raipur — CRM basics, admin, Apex, Lightning & automation. Hands-on training with real-time projects and certification prep."
     },
     "cochin": {
       "title": "Salesforce Training Cochin | Developer Certification",
@@ -9223,1034 +8658,22 @@ export const citySpecificMeta = {
     }
   },
 
-  "tableau": {
-    "pune": {
-      "title": "Tableau Training in Pune | Data Visualization Course",
-      "description": "Master Tableau with hands-on training in Pune. Learn data visualization, dashboards, and analytics. Create interactive reports with real-world datasets."
-    },
-    "mumbai": {
-      "title": "Tableau Course Mumbai | Business Intelligence Training",
-      "description": "Comprehensive Tableau training in Mumbai covering data connections, calculated fields, and storytelling. Build professional visualizations and insights."
-    },
-    "delhi": {
-      "title": "Tableau Classes Delhi | Analytics Certification",
-      "description": "Enroll in Delhi's Tableau course to learn data blending, parameters, advanced charts, and develop skills for strong business intelligence careers."
-    },
-    "kolkata": {
-      "title": "Tableau Training Kolkata | Visualization Expert Course",
-      "description": "Professional Tableau training in Kolkata. Master filters, groups, and hierarchies. Create compelling data stories with interactive dashboards effectively."
-    },
-    "chennai": {
-      "title": "Tableau Course Chennai | BI Developer Training",
-      "description": "Advanced Tableau training in Chennai. Learn LOD expressions, table calculations, and performance optimization. Build enterprise-level analytics solutions."
-    },
-    "bangalore": {
-      "title": "Tableau Certification Bangalore | Data Analytics",
-      "description": "Join Bangalore's premier Tableau course. Cover mapping, forecasting, and trend analysis. Prepare for Tableau Desktop Specialist certification exam."
-    },
-    "hyderabad": {
-      "title": "Tableau Training Hyderabad | Visualization Course",
-      "description": "Complete Tableau training in Hyderabad covering data preparation, joins, unions, and creating dynamic dashboards with filters and drill-down views."
-    },
-    "ahmedabad": {
-      "title": "Tableau Course Ahmedabad | Analytics Expert Training",
-      "description": "Expert-led Tableau training in Ahmedabad. Master chart types, formatting, and design principles. Build visually appealing business intelligence reports."
-    },
-    "jaipur": {
-      "title": "Tableau Classes Jaipur | Data Visualization Training",
-      "description": "Professional Tableau course in Jaipur covering worksheet design, dashboard actions, and user interaction. Create engaging visual analytics experiences."
-    },
-    "lucknow": {
-      "title": "Tableau Training Lucknow | BI Specialist Course",
-      "description": "Comprehensive Tableau training in Lucknow. Explore statistical analysis, reference lines, and forecasting models. Develop predictive analytics expertise."
-    },
-    "kanpur": {
-      "title": "Tableau Course Kanpur | Data Analytics Training",
-      "description": "Industry-focused Tableau training in Kanpur. Learn data source connections, live vs extract, and refresh schedules. Master data management strategies."
-    },
-    "nagpur": {
-      "title": "Tableau Training Nagpur | Visualization Platform Course",
-      "description": "Master Tableau in Nagpur with training on sets, bins, custom territories, and creating complex calculations plus advanced analytical visualizations."
-    },
-    "patna": {
-      "title": "Tableau Course Patna | Business Analytics Training",
-      "description": "Professional Tableau training in Patna covering context filters, top N filters, and conditional logic. Build intelligent, filtered dashboard views."
-    },
-    "indore": {
-      "title": "Tableau Classes Indore | Data Reporting Course",
-      "description": "Join Indore's Tableau training program. Master dual-axis charts, combined fields, and mark cards. Create sophisticated multi-dimensional visualizations."
-    },
-    "bhopal": {
-      "title": "Tableau Training Bhopal | Analytics Developer Course",
-      "description": "Complete Tableau developer training in Bhopal. Learn Tableau Prep for data cleaning, transformation, and automation. Build efficient ETL workflows."
-    },
-    "visakhapatnam": {
-      "title": "Tableau Course Visakhapatnam | Visualization Training",
-      "description": "Expert Tableau training in Visakhapatnam. Cover geographic mapping, spatial analysis, and density maps. Create location-based business intelligence."
-    },
-    "vadodara": {
-      "title": "Tableau Training Vadodara | BI Platform Course",
-      "description": "Advance your career with Tableau training in Vadodara. Learn dashboard performance optimization, extracts, and aggregation. Build fast, efficient reports."
-    },
-    "ludhiana": {
-      "title": "Tableau Course Ludhiana | Analytics Specialist Training",
-      "description": "Comprehensive Tableau course in Ludhiana covering data storytelling, annotations, and narrative features. Communicate insights effectively through visuals."
-    },
-    "agra": {
-      "title": "Tableau Training Agra | Data Visualization Course",
-      "description": "Professional Tableau training in Agra. Master quick table calculations, running totals, and moving averages. Analyze time-series data comprehensively."
-    },
-    "nashik": {
-      "title": "Tableau Course Nashik | Business Intelligence Training",
-      "description": "Learn Tableau in Nashik with modules on dashboard design best practices, layout containers, and responsiveness. Create mobile-friendly visualizations."
-    },
-    "rajkot": {
-      "title": "Tableau Training Rajkot | Data Analytics Course",
-      "description": "Expert-led Tableau training in Rajkot. Study parameter controls, dynamic filters, and user-driven analysis. Build interactive self-service analytics tools."
-    },
-    "varanasi": {
-      "title": "Tableau Course Varanasi | Visualization Expert Training",
-      "description": "Join Tableau training in Varanasi covering data source filters, context optimization, and query performance. Master efficient data querying techniques."
-    },
-    "kerala": {
-      "title": "Tableau Training Kerala | Analytics Certification Course",
-      "description": "Comprehensive Tableau course in Kerala. Master Tableau Server, publishing workbooks, and collaboration. Learn enterprise deployment and user management."
-    },
-    "surat": {
-      "title": "Tableau Course Surat | BI Development Training",
-      "description": "Professional Tableau training in Surat focusing on complex joins, relationships, data modeling, and building robust multi-table analytical datasets."
-    },
-    "dehradun": {
-      "title": "Tableau Training Dehradun | Data Visualization Course",
-      "description": "Learn Tableau visualization in Dehradun. Cover trend lines, clustering, and statistical modeling. Apply advanced analytics to business problems."
-    },
-    "madurai": {
-      "title": "Tableau Course Madurai | Business Analytics Training",
-      "description": "Expert Tableau training in Madurai. Explore calculated fields, string functions, and date functions. Create dynamic, formula-driven visualizations."
-    },
-    "mysore": {
-      "title": "Tableau Training Mysore | Analytics Specialist Course",
-      "description": "Master Tableau in Mysore with training on data extracts, incremental refresh, and optimization. Manage large datasets efficiently in visualizations."
-    },
-    "pondicherry": {
-      "title": "Tableau Course Pondicherry | BI Developer Training",
-      "description": "Professional Tableau course in Pondicherry covering cross-database joins, data blending strategies, and union operations. Integrate multiple data sources."
-    },
-    "ranchi": {
-      "title": "Tableau Training Ranchi | Visualization Platform Course",
-      "description": "Comprehensive Tableau training in Ranchi. Learn dashboard actions, filter actions, and URL actions. Create interactive user navigation experiences."
-    },
-    "coimbatore": {
-      "title": "Tableau Course Coimbatore | Data Analytics Training",
-      "description": "Join Tableau training in Coimbatore covering LOD expressions, fixed/include/exclude, and mastering advanced calculation techniques thoroughly."
-    },
-    "chandigarh": {
-      "title": "Tableau Training Chandigarh | Visualization Development",
-      "description": "Expert-led Tableau course in Chandigarh. Master custom SQL, initial SQL, and database optimization. Write efficient queries for better performance."
-    },
-    "bhubaneswar": {
-      "title": "Tableau Course Bhubaneswar | Business Intelligence",
-      "description": "Learn Tableau in Bhubaneswar with focus on data governance, metadata management, and documentation. Build maintainable analytical solutions professionally."
-    },
-    "tirupati": {
-      "title": "Tableau Training Tirupati | Analytics Developer Course",
-      "description": "Professional Tableau training in Tirupati covering color theory, accessibility, and visual best practices. Design inclusive, effective data visualizations."
-    },
-    "vizag": {
-      "title": "Tableau Course Vizag | Data Visualization Training",
-      "description": "Advanced Tableau training in Vizag. Study dashboard interactivity, highlighting actions, and dynamic zones. Create engaging exploratory analytics tools."
-    },
-    "trivandrum": {
-      "title": "Tableau Training Trivandrum | BI Expert Course",
-      "description": "Comprehensive Tableau course in Trivandrum covering analytics extensions, R integration, and Python scripts. Enhance visualizations with statistical models."
-    },
-    "jalandhar": {
-      "title": "Tableau Course Jalandhar | Analytics Training",
-      "description": "Master Tableau in Jalandhar with training on tooltip customization, viz in tooltip, sheet selection and creating structured layered information hierarchies."
-    },
-    "mohali": {
-      "title": "Tableau Training Mohali | Data Visualization Certification",
-      "description": "Expert Tableau training in Mohali covering data security, row-level security, user filters, and building secure, advanced analytics solutions."
-    },
-    "raipur": {
-      "title": "Tableau Course Raipur | Business Analytics Training",
-      "description": "Professional Tableau training in Raipur. Learn export options, image generation, and PDF creation. Share insights across multiple formats effectively."
-    },
-    "cochin": {
-      "title": "Tableau Training Cochin | Visualization Developer Course",
-      "description": "Join Tableau course in Cochin covering Tableau Online, cloud deployment, and web authoring. Master cloud-based analytics and collaboration features."
-    },
-    "mangalore": {
-      "title": "Tableau Course Mangalore | Data Analytics Training",
-      "description": "Comprehensive Tableau training in Mangalore. Master data densification, domain padding, and addressing. Handle sparse data and missing values expertly."
-    },
-    "katraj": {
-      "title": "Tableau Training Katraj Pune | Visualization Course",
-      "description": "Expert-led Tableau course in Katraj covering mobile layout design, device-specific dashboards, and responsive design. Build cross-platform analytics."
-    },
-    "pimpri-chinchwad": {
-      "title": "Tableau Course Pimpri Chinchwad | Analytics Training",
-      "description": "Professional Tableau training in Pimpri Chinchwad. Study workbook optimization, extract filters, and performance recording. Diagnose visualization issues."
-    },
-    "shivaji-nagar": {
-      "title": "Tableau Training Shivaji Nagar | BI Course",
-      "description": "Learn Tableau in Shivaji Nagar with modules on data alerts, subscription scheduling, and automated reporting. Implement proactive analytics delivery."
-    },
-    "koregaon-park": {
-      "title": "Tableau Course Koregaon Park | Visualization Training",
-      "description": "Advanced Tableau training in Koregaon Park covering embedded analytics, JavaScript API, and integration. Build custom analytics applications seamlessly."
-    },
-    "viman-nagar": {
-      "title": "Tableau Training Viman Nagar | Data Analytics Course",
-      "description": "Expert Tableau course in Viman Nagar. Master heat maps, tree maps, and packed bubbles. Create diverse visualization types for different data patterns."
-    },
-    "pimple-saudagar": {
-      "title": "Tableau Course Pimple Saudagar | BI Platform Training",
-      "description": "Comprehensive Tableau training in Pimple Saudagar covering Gantt charts, bullet graphs, and funnel charts. Build specialized business visualizations."
-    },
-    "baner": {
-      "title": "Tableau Training Baner Pune | Analytics Developer",
-      "description": "Professional Tableau course in Baner. Learn waterfall charts, Pareto analysis, and variance charts. Create financial and operational analytics reports."
-    },
-    "hinjewadi": {
-      "title": "Tableau Course Hinjewadi | Data Visualization Training",
-      "description": "Join Tableau training in Hinjewadi covering animation, page transitions, and time-based analysis. Create dynamic temporal visualizations effectively."
-    },
-    "wakad": {
-      "title": "Tableau Training Wakad Pune | BI Developer Course",
-      "description": "Expert-led Tableau course in Wakad mastering data interpreter, pivot features, data structure transformation, and cleaning plus reshaping messy datasets."
-    },
-    "kothrud": {
-      "title": "Tableau Course Kothrud Pune | Visualization Training",
-      "description": "Learn Tableau in Kothrud with focus on regex functions, pattern matching, and text parsing. Extract insights from unstructured textual data sources."
-    },
-    "hadapsar": {
-      "title": "Tableau Training Hadapsar | Analytics Platform Course",
-      "description": "Professional Tableau training in Hadapsar covering window calculations, partitioning, and ranking functions. Perform comparative and relative analysis."
-    },
-    "aundh": {
-      "title": "Tableau Course Aundh Pune | Data Visualization Expert",
-      "description": "Comprehensive Tableau course in Aundh covering cohort analysis, retention metrics, customer segmentation, and building marketing analytics dashboards."
-    },
-    "navi-mumbai": {
-      "title": "Tableau Training Navi Mumbai | BI Developer Course",
-      "description": "Expert Tableau training in Navi Mumbai covering A/B testing visualization, statistical significance, and experiment analysis. Support data-driven decisions."
-    },
-    "thane": {
-      "title": "Tableau Course Thane | Data Analytics Training",
-      "description": "Professional Tableau training in Thane. Master KPI dashboards, metric tracking, and goal visualization. Create executive-level business scorecards."
-    },
-    "kalyan": {
-      "title": "Tableau Training Kalyan | Visualization Platform Course",
-      "description": "Learn Tableau in Kalyan with modules on web data connectors, API integration, and custom data sources. Connect to diverse data platforms seamlessly."
-    },
-    "bandra": {
-      "title": "Tableau Course Bandra Mumbai | Analytics Certification",
-      "description": "Expert-led Tableau training in Bandra covering data quality checks, validation rules, and error handling. Ensure accuracy in analytical visualizations."
-    },
-    "andheri": {
-      "title": "Tableau Training Andheri | BI Specialist Course",
-      "description": "Comprehensive Tableau course in Andheri. Study data sampling techniques, aggregation levels, and granularity management. Handle large-scale datasets."
-    },
-    "powai": {
-      "title": "Tableau Course Powai Mumbai | Visualization Training",
-      "description": "Professional Tableau training in Powai covering version control, revision history, and workbook management. Maintain organized analytical development."
-    },
-    "worli": {
-      "title": "Tableau Training Worli Mumbai | Data Analytics Course",
-      "description": "Master Tableau in Worli with training on distribution analysis, box plots, and quartile visualization. Understand data spread and variability patterns."
-    },
-    "chembur": {
-      "title": "Tableau Course Chembur | BI Developer Certification",
-      "description": "Expert Tableau training in Chembur covering drill-down hierarchies, custom date parts, and temporal grouping. Analyze time-based trends comprehensively."
-    },
-    "malad": {
-      "title": "Tableau Training Malad Mumbai | Visualization Course",
-      "description": "Join Tableau course in Malad covering dashboard templates, reusable components, and standardization. Build consistent analytics across organizations."
-    },
-    "vile-parle": {
-      "title": "Tableau Course Vile Parle | Data Analytics Training",
-      "description": "Professional Tableau training in Vile Parle. Master background images, custom geocoding, and spatial joins. Create custom geographic visualizations."
-    },
-    "matunga": {
-      "title": "Tableau Training Matunga | Analytics Developer Course",
-      "description": "Comprehensive Tableau course in Matunga covering certification prep, exam strategies, practice projects and helping you achieve strong Tableau credentials."
-    }
-  },
+  
 
-  "power-bi": {
-    "pune": {
-      "title": "Power BI Training in Pune | Data Analytics Course",
-      "description": "Master Power BI with hands-on training in Pune learning data modeling, DAX formulas, interactive reports, and building modern business-grade dashboards."
-    },
-    "mumbai": {
-      "title": "Power BI Course Mumbai | Business Intelligence Training",
-      "description": "Comprehensive Power BI training in Mumbai covering Power Query, data transformation, visualization, and creating dynamic reports for real-world scenarios."
-    },
-    "delhi": {
-      "title": "Power BI Classes Delhi | Analytics Certification",
-      "description": "Enroll in Delhi's expert Power BI course. Learn measures, calculated columns, and relationships. Develop skills for data analyst certification success."
-    },
-    "kolkata": {
-      "title": "Power BI Training Kolkata | BI Developer Course",
-      "description": "Professional Power BI training in Kolkata covering ETL processes, data cleansing, report design, and building compelling interactive visual analytics."
-    },
-    "chennai": {
-      "title": "Power BI Course Chennai | Data Visualization Training",
-      "description": "Advanced Power BI training in Chennai. Learn row-level security, gateway configuration, and service deployment. Build enterprise-grade analytics solutions."
-    },
-    "bangalore": {
-      "title": "Power BI Certification Bangalore | Analytics Course",
-      "description": "Join Bangalore's premier Power BI course. Cover slicers, filters, and drill-through features. Prepare for Microsoft Power BI analyst certification exam."
-    },
-    "hyderabad": {
-      "title": "Power BI Training Hyderabad | Business Analytics",
-      "description": "Complete Power BI training in Hyderabad. Learn data refresh, scheduled updates, and incremental refresh. Create automated reporting and analytics workflows."
-    },
-    "ahmedabad": {
-      "title": "Power BI Course Ahmedabad | BI Expert Training",
-      "description": "Expert-led Power BI training in Ahmedabad. Master custom visuals, marketplace integration, and Python visuals. Build advanced analytical visualizations."
-    },
-    "jaipur": {
-      "title": "Power BI Classes Jaipur | Data Analytics Training",
-      "description": "Professional Power BI course in Jaipur covering M language, query editing, data shaping, and transforming raw data into meaningful business insights."
-    },
-    "lucknow": {
-      "title": "Power BI Training Lucknow | BI Specialist Course",
-      "description": "Comprehensive Power BI training in Lucknow. Explore time intelligence functions, fiscal calendars, and period calculations. Master temporal data analysis."
-    },
-    "kanpur": {
-      "title": "Power BI Course Kanpur | Analytics Developer Training",
-      "description": "Industry-focused Power BI training in Kanpur learning composite models, aggregations, performance optimization, and building scalable BI solutions now."
-    },
-    "nagpur": {
-      "title": "Power BI Training Nagpur | Business Intelligence Course",
-      "description": "Master Power BI in Nagpur with training on bookmarks, page navigation, report storytelling, and creating guided analytical exploration experiences."
-    },
-    "patna": {
-      "title": "Power BI Course Patna | Data Analytics Training",
-      "description": "Professional Power BI training in Patna covering conditional formatting, field parameters, and dynamic titles. Build responsive, context-aware reports."
-    },
-    "indore": {
-      "title": "Power BI Classes Indore | Visualization Course",
-      "description": "Join Indore's Power BI training program Master quick measures, suggested questions and Q&A visuals. Enable natural language query capabilities effectively."
-    },
-    "bhopal": {
-      "title": "Power BI Training Bhopal | Analytics Platform Course",
-      "description": "Complete Power BI developer training in Bhopal. Learn Power BI Desktop, Service, and Mobile. Create cross-platform analytics and reporting solutions."
-    },
-    "visakhapatnam": {
-      "title": "Power BI Course Visakhapatnam | BI Training",
-      "description": "Expert Power BI training in Visakhapatnam. Cover dataflows, data lakes, and Azure integration. Build cloud-based enterprise data analytics architecture."
-    },
-    "vadodara": {
-      "title": "Power BI Training Vadodara | Data Analytics Course",
-      "description": "Advance your career with Power BI training in Vadodara. Learn paginated reports, pixel-perfect documents, and print layouts. Create formatted exports."
-    },
-    "ludhiana": {
-      "title": "Power BI Course Ludhiana | Business Intelligence",
-      "description": "Comprehensive Power BI course in Ludhiana covering workspace collaboration, app publishing, and content distribution. Share analytics across organizations."
-    },
-    "agra": {
-      "title": "Power BI Training Agra | Analytics Developer Course",
-      "description": "Professional Power BI training in Agra mastering DirectQuery, import mode, live connection, and optimizing data connectivity for varied use cases well."
-    },
-    "nashik": {
-      "title": "Power BI Course Nashik | BI Platform Training",
-      "description": "Learn Power BI in Nashik with modules on key influencers, decomposition tree, and AI visuals. Apply machine learning insights to business data analysis."
-    },
-    "rajkot": {
-      "title": "Power BI Training Rajkot | Data Visualization Course",
-      "description": "Expert-led Power BI training in Rajkot. Study what-if parameters, scenario analysis and sensitivity testing. Build dynamic planning and forecasting models."
-    },
-    "varanasi": {
-      "title": "Power BI Course Varanasi | Analytics Expert Training",
-      "description": "Join Power BI training in Varanasi covering drilldown, drillthrough, and cross-report navigation. Create interconnected multi-report analytics experiences."
-    },
-    "kerala": {
-      "title": "Power BI Training Kerala | BI Certification Course",
-      "description": "Comprehensive Power BI course in Kerala mastering row, filter, and evaluation contexts to grasp core DAX calculation engine fundamentals with clarity."
-    },
-    "surat": {
-      "title": "Power BI Course Surat | Data Analytics Training",
-      "description": "Professional Power BI training in Surat focusing on iterator functions, SUMX, AVERAGEX, and table operations. Write advanced DAX calculation formulas."
-    },
-    "dehradun": {
-      "title": "Power BI Training Dehradun | Visualization Course",
-      "description": "Learn Power BI visualization in Dehradun covering map visuals, ArcGIS integration, and geospatial analysis to create effective location-based BI reports."
-    },
-    "madurai": {
-      "title": "Power BI Course Madurai | Business Analytics Training",
-      "description": "Expert Power BI training in Madurai. Explore calculated tables, template tables, and date dimensions. Build robust star schema data models professionally."
-    },
-    "mysore": {
-      "title": "Power BI Training Mysore | BI Specialist Course",
-      "description": "Master Power BI in Mysore with training on data security, workspace roles, and permission management. Implement secure analytics governance structures."
-    },
-    "pondicherry": {
-      "title": "Power BI Course Pondicherry | Analytics Developer",
-      "description": "Professional Power BI course in Pondicherry covering Power Automate integration, alerts, and notifications. Automate report distribution and monitoring."
-    },
-    "ranchi": {
-      "title": "Power BI Training Ranchi | Data Visualization Course",
-      "description": "Comprehensive Power BI training in Ranchi. Learn dashboard design, tile pinning, and real-time streaming. Create executive-level monitoring dashboards."
-    },
-    "coimbatore": {
-      "title": "Power BI Course Coimbatore | Business Intelligence",
-      "description": "Join Power BI training in Coimbatore covering report themes, JSON customization, and branding. Design consistent, professional-looking analytics reports."
-    },
-    "chandigarh": {
-      "title": "Power BI Training Chandigarh | Analytics Development",
-      "description": "Expert-led Power BI course in Chandigarh. Master mobile report optimization, phone layouts, and touch interactions. Build mobile-first analytics solutions."
-    },
-    "bhubaneswar": {
-      "title": "Power BI Course Bhubaneswar | BI Platform Training",
-      "description": "Learn Power BI in Bhubaneswar with focus on R scripts, Python integration, and statistical modeling. Enhance reports with advanced analytics capabilities."
-    },
-    "tirupati": {
-      "title": "Power BI Training Tirupati | Data Analytics Course",
-      "description": "Professional Power BI training in Tirupati covering performance analyzer, query diagnostics, and optimization techniques. Build high-performance reports."
-    },
-    "vizag": {
-      "title": "Power BI Course Vizag | Visualization Expert Training",
-      "description": "Advanced Power BI training in Vizag covering incremental refresh policies, partition management, and large dataset handling to manage data efficiently."
-    },
-    "trivandrum": {
-      "title": "Power BI Training Trivandrum | Business Analytics",
-      "description": "Comprehensive Power BI course in Trivandrum covering deployment pipelines, ALM processes and version control. Implement professional development workflows."
-    },
-    "jalandhar": {
-      "title": "Power BI Course Jalandhar | BI Developer Training",
-      "description": "Master Power BI in Jalandhar with training on Excel integration, pivot tables, and Power Pivot. Bridge traditional and modern analytics tools seamlessly."
-    },
-    "mohali": {
-      "title": "Power BI Training Mohali | Analytics Certification",
-      "description": "Expert Power BI training in Mohali covering organizational visuals, custom templates, and standardization. Create consistent analytics across enterprises."
-    },
-    "raipur": {
-      "title": "Power BI Course Raipur | Data Visualization Training",
-      "description": "Professional Power BI training in Raipur. Learn SQL integration, database connections, and stored procedures. Connect to enterprise data warehouses effectively."
-    },
-    "cochin": {
-      "title": "Power BI Training Cochin | BI Analyst Course",
-      "description": "Join Power BI course in Cochin covering premium features, capacity planning, and resource management. Understand enterprise licensing and deployment."
-    },
-    "mangalore": {
-      "title": "Power BI Course Mangalore | Analytics Platform Training",
-      "description": "Comprehensive Power BI training in Mangalore mastering embedded analytics, REST APIs, and custom applications to build robust integrated BI solutions."
-    },
-    "katraj": {
-      "title": "Power BI Training Katraj Pune | BI Course",
-      "description": "Expert-led Power BI course in Katraj covering data profiling, column quality, error detection, ensuring data accuracy and reliability in reports daily."
-    },
-    "pimpri-chinchwad": {
-      "title": "Power BI Course Pimpri Chinchwad | Analytics Training",
-      "description": "Professional Power BI training in Pimpri Chinchwad covering tooltip customization, report page tooltips, hover interactions and enhancing user experience."
-    },
-    "shivaji-nagar": {
-      "title": "Power BI Training Shivaji Nagar | Visualization Course",
-      "description": "Learn Power BI in Shivaji Nagar with modules on export options, PowerPoint integration, and presentation modes. Share insights across multiple platforms."
-    },
-    "koregaon-park": {
-      "title": "Power BI Course Koregaon Park | BI Development",
-      "description": "Advanced Power BI training in Koregaon Park covering monitoring, usage metrics, and activity logs to track analytics adoption and user engagement better."
-    },
-    "viman-nagar": {
-      "title": "Power BI Training Viman Nagar | Data Analytics",
-      "description": "Expert Power BI course in Viman Nagar Master hierarchies, parent-child structures and organizational data. Build multi-level analytical drill-down reports."
-    },
-    "pimple-saudagar": {
-      "title": "Power BI Course Pimple Saudagar | BI Training",
-      "description": "Comprehensive Power BI training in Pimple Saudagar covering smart narratives, AI summaries, and automated insights. Generate natural language explanations."
-    },
-    "baner": {
-      "title": "Power BI Training Baner Pune | Analytics Developer",
-      "description": "Professional Power BI course in Baner learning datamart creation, self-service BI, and citizen development to empower business users with analytics."
-    },
-    "hinjewadi": {
-      "title": "Power BI Course Hinjewadi | Business Intelligence",
-      "description": "Join Power BI training in Hinjewadi covering sensitivity labels, data protection, compliance, and implementing secure analytics governance effectively."
-    },
-    "wakad": {
-      "title": "Power BI Training Wakad Pune | BI Developer Course",
-      "description": "Expert-led Power BI course in Wakad mastering goals, scorecards, and OKR tracking to build strategic performance management dashboards professionally."
-    },
-    "kothrud": {
-      "title": "Power BI Course Kothrud Pune | Analytics Training",
-      "description": "Learn Power BI in Kothrud with focus on change detection, data alerts, and anomaly detection. Implement proactive business monitoring and alerting systems."
-    },
-    "hadapsar": {
-      "title": "Power BI Training Hadapsar | Visualization Course",
-      "description": "Professional Power BI training in Hadapsar covering matrix visuals, cross-highlighting, and interaction design to create key tabular analytical reports."
-    },
-    "aundh": {
-      "title": "Power BI Course Aundh Pune | BI Expert Training",
-      "description": "Comprehensive Power BI course in Aundh. Study scatter charts, bubble charts, and correlation analysis. Visualize multivariate relationships and patterns."
-    },
-    "navi-mumbai": {
-      "title": "Power BI Training Navi Mumbai | Analytics Developer",
-      "description": "Expert Power BI training in Navi Mumbai covering waterfall charts, variance analysis, and bridge charts. Create financial and performance analytics reports."
-    },
-    "thane": {
-      "title": "Power BI Course Thane | Data Visualization Training",
-      "description": "Professional Power BI training in Thane. Master KPI visuals, gauge charts, and target tracking. Build executive dashboards for strategic decision-making."
-    },
-    "kalyan": {
-      "title": "Power BI Training Kalyan | Business Analytics Course",
-      "description": "Learn Power BI in Kalyan with modules on funnel charts, conversion analysis, and pipeline tracking. Create sales and marketing analytics visualizations."
-    },
-    "bandra": {
-      "title": "Power BI Course Bandra Mumbai | BI Certification",
-      "description": "Expert-led Power BI training in Bandra covering ribbon charts, ranking visualizations, comparative analysis, and displaying temporal ranking changes well."
-    },
-    "andheri": {
-      "title": "Power BI Training Andheri | Analytics Specialist",
-      "description": "Comprehensive Power BI course in Andheri covering decomposition, hierarchy analysis, and factor identification to grasp key drivers in business metrics."
-    },
-    "powai": {
-      "title": "Power BI Course Powai Mumbai | BI Platform Training",
-      "description": "Professional Power BI training in Powai covering query patterns, reusable queries, and parameter queries to create solid data transformation templates."
-    },
-    "worli": {
-      "title": "Power BI Training Worli Mumbai | Data Analytics",
-      "description": "Master Power BI in Worli with training on measure branching, calculation groups, and dynamic formatting. Implement advanced DAX patterns and techniques."
-    },
-    "chembur": {
-      "title": "Power BI Course Chembur | BI Developer Certification",
-      "description": "Expert Power BI training in Chembur covering field parameters, dynamic measures, and user selections. Create flexible, user-controlled analytical reports."
-    },
-    "malad": {
-      "title": "Power BI Training Malad Mumbai | Analytics Course",
-      "description": "Join Power BI course in Malad covering button navigation, bookmark actions, interactive experiences, and designing intuitive user-driven report flows."
-    },
-    "vile-parle": {
-      "title": "Power BI Course Vile Parle | Visualization Training",
-      "description": "Professional Power BI training in Vile Parle. Master sync slicers, cross-page filtering, and report-level filters. Create coordinated multi-page analytics."
-    },
-    "matunga": {
-      "title": "Power BI Training Matunga | Business Intelligence",
-      "description": "Comprehensive Power BI course in Matunga covering cert prep, exam strategies, practice datasets, and achieving Microsoft Power BI analyst credentials."
-    }
-  },
+  
 
-  "sql": {
-    "pune": {
-      "title": "SQL Training in Pune | Database Management Course",
-      "description": "Master SQL with hands-on training in Pune. Learn queries, joins and database design. Write complex queries for data manipulation and retrieval effectively."
-    },
-    "mumbai": {
-      "title": "SQL Course Mumbai | Database Developer Training",
-      "description": "Comprehensive SQL training in Mumbai covering SELECT statements, WHERE clauses and aggregate functions. Build expertise in relational database management."
-    },
-    "delhi": {
-      "title": "SQL Classes Delhi | Database Programming Course",
-      "description": "Enroll in Delhi's expert SQL course. Learn stored procedures, triggers, and views. Develop skills for database administrator certification success."
-    },
-    "kolkata": {
-      "title": "SQL Training Kolkata | Database Query Course",
-      "description": "Professional SQL training in Kolkata mastering INSERT, UPDATE, DELETE operations and transactions to build efficient database apps with proper design."
-    },
-    "chennai": {
-      "title": "SQL Course Chennai | Database Administration Training",
-      "description": "Advanced SQL training in Chennai covering indexing strategies, query optimization, performance tuning, and building high-performance database solutions."
-    },
-    "bangalore": {
-      "title": "SQL Certification Bangalore | Database Course",
-      "description": "Join Bangalore's premier SQL course. Cover subqueries, correlated queries and nested SELECT statements. Prepare for database certification exam thoroughly."
-    },
-    "hyderabad": {
-      "title": "SQL Training Hyderabad | Database Developer Course",
-      "description": "Complete SQL training in Hyderabad. Learn data types, constraints, and referential integrity. Create robust database schemas with proper relationships."
-    },
-    "ahmedabad": {
-      "title": "SQL Course Ahmedabad | Database Expert Training",
-      "description": "Expert-led SQL training in Ahmedabad. Master GROUP BY, HAVING, and ORDER BY clauses. Write advanced queries for data analysis and reporting effectively."
-    },
-    "jaipur": {
-      "title": "SQL Classes Jaipur | Database Management Training",
-      "description": "Professional SQL course in Jaipur covering INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN. Combine data from multiple tables efficiently."
-    },
-    "lucknow": {
-      "title": "SQL Training Lucknow | Database Specialist Course",
-      "description": "Comprehensive SQL training in Lucknow Explore window functions, ranking and analytical queries. Perform complex data analysis with advanced SQL techniques."
-    },
-    "kanpur": {
-      "title": "SQL Course Kanpur | Database Programming Training",
-      "description": "Industry-focused SQL training in Kanpur Learn transaction management, ACID properties and concurrency control. Handle multi-user database scenarios safely."
-    },
-    "nagpur": {
-      "title": "SQL Training Nagpur | Database Query Course",
-      "description": "Master SQL in Nagpur with training on primary keys, foreign keys, and unique constraints. Design normalized database structures following best practices."
-    },
-    "patna": {
-      "title": "SQL Course Patna | Database Development Training",
-      "description": "Professional SQL training in Patna covering CREATE, ALTER, and DROP statements. Master Data Definition Language for database schema management tasks."
-    },
-    "indore": {
-      "title": "SQL Classes Indore | Database Administration Course",
-      "description": "Join Indore's SQL training program. Master user management, permissions, and security. Implement role-based access control for database systems securely."
-    },
-    "bhopal": {
-      "title": "SQL Training Bhopal | Database Developer Course",
-      "description": "Complete SQL developer training in Bhopal. Learn backup strategies, recovery procedures, and disaster planning. Protect data integrity and availability."
-    },
-    "visakhapatnam": {
-      "title": "SQL Course Visakhapatnam | Database Training",
-      "description": "Expert SQL training in Visakhapatnam. Cover stored procedures, functions and parameter passing. Create reusable database logic for application development."
-    },
-    "vadodara": {
-      "title": "SQL Training Vadodara | Database Management Course",
-      "description": "Advance your career with SQL training in Vadodara learning cursor operations, loops, and conditional logic to write procedural database code effectively."
-    },
-    "ludhiana": {
-      "title": "SQL Course Ludhiana | Database Specialist Training",
-      "description": "Comprehensive SQL course in Ludhiana covering triggers, events, and automated tasks to implement database automation for strong business rule enforcement."
-    },
-    "agra": {
-      "title": "SQL Training Agra | Database Query Course",
-      "description": "Professional SQL training in Agra. Master UNION, INTERSECT and EXCEPT operators. Combine result sets from multiple queries with set operations efficiently."
-    },
-    "nashik": {
-      "title": "SQL Course Nashik | Database Programming Training",
-      "description": "Learn SQL in Nashik with modules on CTEs, recursive queries, and hierarchical data. Query complex organizational and tree structures in databases."
-    },
-    "rajkot": {
-      "title": "SQL Training Rajkot | Database Developer Course",
-      "description": "Expert-led SQL training in Rajkot covering XML handling, JSON support, and semi-structured data to manage modern data formats in relational databases."
-    },
-    "varanasi": {
-      "title": "SQL Course Varanasi | Database Administrator Training",
-      "description": "Join SQL training in Varanasi covering design patterns, normalization forms, denormalization, and making efficient maintainable database architectures."
-    },
-    "kerala": {
-      "title": "SQL Training Kerala | Database Certification Course",
-      "description": "Comprehensive SQL course in Kerala mastering error handling, exception management, and logging to write robust database code with proper error control."
-    },
-    "surat": {
-      "title": "SQL Course Surat | Database Development Training",
-      "description": "Professional SQL training in Surat focusing on query execution plans, statistics, and optimizer. Understand how databases process and optimize SQL queries."
-    },
-    "dehradun": {
-      "title": "SQL Training Dehradun | Database Management Course",
-      "description": "Learn SQL in Dehradun covering import/export tasks, bulk loading, data migration, and moving data across varied systems and formats efficiently today."
-    },
-    "madurai": {
-      "title": "SQL Course Madurai | Database Programming Training",
-      "description": "Expert SQL training in Madurai. Explore dynamic SQL, prepared statements, and parameterized queries. Build flexible, injection-safe database applications."
-    },
-    "mysore": {
-      "title": "SQL Training Mysore | Database Specialist Course",
-      "description": "Master SQL in Mysore with training on table partitioning, sharding, and distribution. Scale databases for high-volume enterprise application requirements."
-    },
-    "pondicherry": {
-      "title": "SQL Course Pondicherry | Database Developer Training",
-      "description": "Professional SQL course in Pondicherry covering replication, clustering, and high availability. Implement fault-tolerant database infrastructure solutions."
-    },
-    "ranchi": {
-      "title": "SQL Training Ranchi | Database Query Course",
-      "description": "Comprehensive SQL training in Ranchi learning materialized views, query caching, and performance optimization to improve query response times greatly."
-    },
-    "coimbatore": {
-      "title": "SQL Course Coimbatore | Database Administration",
-      "description": "Join SQL training in Coimbatore covering full-text search, pattern matching, LIKE operations, and querying textual data with advanced techniques well."
-    },
-    "chandigarh": {
-      "title": "SQL Training Chandigarh | Database Development",
-      "description": "Expert-led SQL course in Chandigarh covering date functions, time operations, and temporal queries to manage time-series data and scheduling quite well."
-    },
-    "bhubaneswar": {
-      "title": "SQL Course Bhubaneswar | Database Management",
-      "description": "Learn SQL in Bhubaneswar with focus on aggregate queries, statistical functions, and data summarization. Generate business reports from database records."
-    },
-    "tirupati": {
-      "title": "SQL Training Tirupati | Database Developer Course",
-      "description": "Professional SQL training in Tirupati covering CASE statements, conditional logic, and branching to write intelligent queries with decision capability."
-    },
-    "vizag": {
-      "title": "SQL Course Vizag | Database Programming Training",
-      "description": "Advanced SQL training in Vizag. Study cross-database queries, linked servers, and distributed queries. Access data across multiple database systems seamlessly."
-    },
-    "trivandrum": {
-      "title": "SQL Training Trivandrum | Database Expert Course",
-      "description": "Comprehensive SQL course in Trivandrum covering data warehousing concepts, ETL processes and dimensional modeling. Build analytical database architectures."
-    },
-    "jalandhar": {
-      "title": "SQL Course Jalandhar | Database Administration",
-      "description": "Master SQL in Jalandhar with training on monitoring tools, performance metrics, and database health checks. Maintain optimal database system performance."
-    },
-    "mohali": {
-      "title": "SQL Training Mohali | Database Certification",
-      "description": "Expert SQL training in Mohali covering migration strategies, version upgrades, compatibility, and managing database lifecycle and transitions smoothly."
-    },
-    "raipur": {
-      "title": "SQL Course Raipur | Database Query Training",
-      "description": "Professional SQL training in Raipur. Learn pivot operations, cross-tabulation, and matrix queries. Transform row data into columnar reports for analysis."
-    },
-    "cochin": {
-      "title": "SQL Training Cochin | Database Developer Course",
-      "description": "Join SQL course in Cochin covering isolation levels, locking mechanisms, deadlock resolution, and managing concurrent database access patterns safely."
-    },
-    "mangalore": {
-      "title": "SQL Course Mangalore | Database Programming",
-      "description": "Comprehensive SQL training in Mangalore. Master string manipulation, regular expressions and text processing Extract and transform textual data in queries."
-    },
-    "katraj": {
-      "title": "SQL Training Katraj Pune | Database Course",
-      "description": "Expert-led SQL course in Katraj covering numeric functions, mathematical operations and calculations. Perform complex computations within database queries."
-    },
-    "pimpri-chinchwad": {
-      "title": "SQL Course Pimpri Chinchwad | Database Training",
-      "description": "Professional SQL training in Pimpri Chinchwad. Study metadata queries, system catalogs, and information schema. Query database structure and configuration."
-    },
-    "shivaji-nagar": {
-      "title": "SQL Training Shivaji Nagar | Database Management",
-      "description": "Learn SQL in Shivaji Nagar with modules on data validation, business rules, and check constraints. Enforce data quality at the database level effectively."
-    },
-    "koregaon-park": {
-      "title": "SQL Course Koregaon Park | Database Development",
-      "description": "Advanced SQL training in Koregaon Park covering stored procedure debugging, profiling, and testing. Develop and maintain production-quality database code."
-    },
-    "viman-nagar": {
-      "title": "SQL Training Viman Nagar | Database Query Course",
-      "description": "Expert SQL course in Viman Nagar. Master NULL handling, COALESCE, and default values. Manage missing data and optional fields in database queries properly."
-    },
-    "pimple-saudagar": {
-      "title": "SQL Course Pimple Saudagar | Database Training",
-      "description": "Comprehensive SQL training in Pimple Saudagar covering sequences, auto-increment, and identity columns. Generate unique identifiers for database records."
-    },
-    "baner": {
-      "title": "SQL Training Baner Pune | Database Developer",
-      "description": "Professional SQL course in Baner covering temporary tables, table variables, and derived tables to use intermediate result sets for query logic well."
-    },
-    "hinjewadi": {
-      "title": "SQL Course Hinjewadi | Database Programming",
-      "description": "Join SQL training in Hinjewadi covering database versioning, schema changes, and migration scripts. Manage database evolution across development lifecycle."
-    },
-    "wakad": {
-      "title": "SQL Training Wakad Pune | Database Developer Course",
-      "description": "Expert-led SQL course in Wakad covering ALTER TABLE tasks, column changes, and schema refactoring to update existing database structures effectively."
-    },
-    "kothrud": {
-      "title": "SQL Course Kothrud Pune | Database Query Training",
-      "description": "Learn SQL in Kothrud with focus on EXISTS, NOT EXISTS, and IN operators. Write efficient existence checks and membership queries in databases effectively."
-    },
-    "hadapsar": {
-      "title": "SQL Training Hadapsar | Database Administration",
-      "description": "Professional SQL training in Hadapsar covering database documentation, naming conventions, and standards to ensure highly maintainable database systems."
-    },
-    "aundh": {
-      "title": "SQL Course Aundh Pune | Database Expert Training",
-      "description": "Comprehensive SQL course in Aundh. Study query hints, optimizer directives, and execution control. Guide database query optimizer for better performance."
-    },
-    "navi-mumbai": {
-      "title": "SQL Training Navi Mumbai | Database Developer",
-      "description": "Expert SQL training in Navi Mumbai covering collation, character sets, internationalization, and handling multi-language data in database systems well."
-    },
-    "thane": {
-      "title": "SQL Course Thane | Database Programming Training",
-      "description": "Professional SQL training in Thane mastering batch operations, bulk processing, and set-based logic to write efficient queries that work on data sets."
-    },
-    "kalyan": {
-      "title": "SQL Training Kalyan | Database Management Course",
-      "description": "Learn SQL in Kalyan with modules on database testing, unit tests, and validation. Ensure database code quality through systematic testing approaches."
-    },
-    "bandra": {
-      "title": "SQL Course Bandra Mumbai | Database Certification",
-      "description": "Expert-led SQL training in Bandra covering security auditing, compliance, logging, and tracking data access to maintain key regulatory compliance needs."
-    },
-    "andheri": {
-      "title": "SQL Training Andheri | Database Specialist Course",
-      "description": "Comprehensive SQL course in Andheri covering encryption, data masking, and sensitive info protection to secure confidential data in database systems."
-    },
-    "powai": {
-      "title": "SQL Course Powai Mumbai | Database Query Training",
-      "description": "Professional SQL training in Powai covering spatial data types, geographic queries and location-based operations Work with geospatial database information."
-    },
-    "worli": {
-      "title": "SQL Training Worli Mumbai | Database Development",
-      "description": "Master SQL in Worli with training on graph databases, network queries and relationship traversal. Query connected data and network structures effectively."
-    },
-    "chembur": {
-      "title": "SQL Course Chembur | Database Developer Certification",
-      "description": "Expert SQL training in Chembur covering common table expressions, query recursion, and hierarchical processing. Solve complex data relationship problems."
-    },
-    "malad": {
-      "title": "SQL Training Malad Mumbai | Database Course",
-      "description": "Join SQL course in Malad covering database refactoring, code optimization and performance improvements Maintain and improve existing database applications."
-    },
-    "vile-parle": {
-      "title": "SQL Course Vile Parle | Database Programming",
-      "description": "Professional SQL training in Vile Parle covering database middleware, connection pooling, and app integration to link databases with apps effectively."
-    },
-    "matunga": {
-      "title": "SQL Training Matunga | Database Administrator Course",
-      "description": "Comprehensive SQL course in Matunga covering cert prep, exam strategies, practice databases, and helping you earn strong professional SQL credentials."
-    }
-  },
+  
 
-  "sap": {
-    "pune": {
-      "title": "SAP Course in Pune | Best SAP Training with Placement",
-      "description": "Advance your professional capabilities in Pune with a SAP Course that builds expertise, strengthens analytical skills, and supports long-term growth."
-    },
-    "mumbai": {
-      "title": "SAP Course for Career Development in Mumbai",
-      "description": "Boost your professional journey in Mumbai with an SAP Course that builds practical skills, enterprise, and understanding of business operations."
-    },
-    "delhi": {
-      "title": "SAP Course for Professional Growth in Delhi",
-      "description": "Strengthen your technical knowledge in Delhi with an SAP Course that enhances enterprise system understanding, process efficiency, and analytical skills."
-    },
-    "kolkata": {
-      "title": "SAP Course for Advanced Skills in Kolkata",
-      "description": "Build strong enterprise planning abilities in Kolkata with an SAP Course that develops real-world concepts, structured learning, and application."
-    },
-    "chennai": {
-      "title": "SAP Course for Career Upskilling in Chennai",
-      "description": "Enhance your competencies in Chennai with an SAP Course that develops enterprise system knowledge, streamlines processes, and supports advancement."
-    },
-    "bangalore": {
-      "title": "SAP Course for Future Readiness in Bangalore",
-      "description": "Upgrade your professional abilities in Bangalore with an SAP Course that focuses on system integration, business workflows, and process-oriented skills."
-    },
-    "hyderabad": {
-      "title": "SAP Course for Technical Excellence in Hyderabad",
-      "description": "Advance your expertise in Hyderabad with an SAP Course that provides structured guidance, enterprise process understanding, and skills for career growth."
-    },
-    "ahmedabad": {
-      "title": "SAP Course for Skill Building in Ahmedabad",
-      "description": "Improve your business system knowledge in Ahmedabad with an SAP Course that builds analytical strength, enhances workflows, and supports career growth."
-    },
-    "jaipur": {
-      "title": "SAP Course for Career Growth in Jaipur",
-      "description": "Strengthen your professional profile in Jaipur with an SAP Course that builds enterprise operations, analytical skills, and business process knowledge."
-    },
-    "lucknow": {
-      "title": "SAP Course for Professional Skills in Lucknow",
-      "description": "Develop valuable enterprise management abilities in Lucknow with an SAP Course that improves system knowledge, workflows, and career potentials."
-    },
-    "kanpur": {
-      "title": "SAP Course for Advanced Learning in Kanpur",
-      "description": "Enhance your technical capabilities in Kanpur with an SAP Course that focuses on practical applications, process improvement, and analytical skill growth."
-    },
-    "nagpur": {
-      "title": "SAP Course for Skill Enhancement in Nagpur",
-      "description": "Learn essential enterprise concepts in Nagpur with an SAP Course builds system understanding, process visibility, and career-focused analytical skills."
-    },
-    "patna": {
-      "title": "SAP Course for Career Skills in Patna",
-      "description": "Boost your professional abilities in Patna with an SAP Course that offers structured learning, enterprise knowledge, and practical skills for growth."
-    },
-    "indore": {
-      "title": "SAP Course for Practical Skills in Indore",
-      "description": "Advance your enterprise understanding in Indore with an SAP Course that focuses on system processes, business workflows, and essential skills for careers."
-    },
-    "bhopal": {
-      "title": "SAP Course for Career Development in Bhopal",
-      "description": "Build strong enterprise system knowledge in Bhopal with an SAP Course that enhances analytical skills, process clarity, and professional readiness."
-    },
-    "visakhapatnam": {
-      "title": "SAP Course for Enterprise Skills in Visakhapatnam",
-      "description": "Upgrade your abilities in Visakhapatnam with an SAP Course that improves process knowledge, enterprise workflows, and essential skills for career growth."
-    },
-    "vadodara": {
-      "title": "SAP Course for Skill Building in Vadodara",
-      "description": "Strengthen your technical expertise in Vadodara with an SAP Course that offers practical insights, enterprise concepts, and structured learning for growth."
-    },
-    "ludhiana": {
-      "title": "SAP Course for Professional Growth in Ludhiana",
-      "description": "Enhance your career in Ludhiana with an SAP Course that builds enterprise system knowledge, improves process efficiency, and supports professional growth."
-    },
-    "agra": {
-      "title": "SAP Course for Career Enhancement in Agra",
-      "description": "Build essential enterprise management skills in Agra with an SAP Course that strengthens workflows, analytical understanding, and career potential."
-    },
-    "nashik": {
-      "title": "SAP Course for Skill Development in Nashik",
-      "description": "Boost your enterprise system knowledge in Nashik with an SAP Course that focuses on applied learning, business workflows, and essential skills for success."
-    },
-    "rajkot": {
-      "title": "SAP Course for Technical Skills in Rajkot",
-      "description": "Advance your enterprise process understanding in Rajkot with an SAP Course that builds system clarity, analytical skills, and business operations knowledge."
-    },
-    "varanasi": {
-      "title": "SAP Course for Career Improvement in Varanasi",
-      "description": "Develop strong enterprise planning skills in Varanasi with an SAP Course that emphasizes structured learning, practical insights, and career growth."
-    },
-    "kerala": {
-      "title": "SAP Course for Professional Skills in Kerala",
-      "description": "Improve your business process expertise in Kerala with an SAP Course that strengthens system knowledge, analytical skills, and enterprise capabilities."
-    },
-    "surat": {
-      "title": "SAP Course for Advanced Skills in Surat",
-      "description": "Enhance your enterprise understanding in Surat with an SAP Course that focuses on system integration, workflow clarity, and practical skill development."
-    },
-    "dehradun": {
-      "title": "SAP Course for Skill Growth in Dehradun",
-      "description": "Advance your career in Dehradun with an SAP Course that provides deep insights into business workflows, enterprise systems, and analytical skill growth."
-    },
-    "madurai": {
-      "title": "SAP Course for Enterprise Learning in Madurai",
-      "description": "Develop essential professional abilities in Madurai with an SAP Course that focuses on process understanding, system functionality, and career skills."
-    },
-    "mysore": {
-      "title": "SAP Course for Skill Enhancement in Mysore",
-      "description": "Gain enterprise system knowledge in Mysore with an SAP Course that supports analytical growth, workflow clarity, and strong professional development."
-    },
-    "pondicherry": {
-      "title": "SAP Course for Career Skills in Pondicherry",
-      "description": "Boost your expertise in Pondicherry with an SAP Course that emphasizes enterprise concepts, business processes, and structured learning for career growth."
-    },
-    "ranchi": {
-      "title": "SAP Course for Skill Building in Ranchi",
-      "description": "Improve your enterprise system understanding in Ranchi with an SAP Course that offers practical insights, workflow clarity, and analytical development."
-    },
-    "coimbatore": {
-      "title": "SAP Course for Advanced Learning in Coimbatore",
-      "description": "Strengthen your enterprise skills in Coimbatore with an SAP Course that focuses on business processes, system navigation, and knowledge for careers."
-    },
-    "chandigarh": {
-      "title": "SAP Course for Professional Skills in Chandigarh",
-      "description": "Enhance your knowledge in Chandigarh with an SAP Course that provides structured learning, enterprise clarity, and analytical skill growth for success."
-    },
-    "bhubaneswar": {
-      "title": "SAP Course for Enterprise Skills in Bhubaneswar",
-      "description": "Advance your career in Bhubaneswar with an SAP Course that builds process understanding, system expertise, and essential analytical capabilities."
-    },
-    "tirupati": {
-      "title": "SAP Course for Skill Enhancement in Tirupati",
-      "description": "Learn enterprise system fundamentals in Tirupati with an SAP Course that strengthens workflows, analytical insights, and supports long-term career growth."
-    },
-    "vizag": {
-      "title": "SAP Course for Professional Growth in Vizag",
-      "description": "Build valuable enterprise knowledge in Vizag with an SAP Course that emphasizes practical processes, analytical thinking, and skill development for career."
-    },
-    "trivandrum": {
-      "title": "SAP Course for Career Skills in Trivandrum",
-      "description": "Improve your enterprise understanding in Trivandrum with an SAP Course that focuses on system functionality, business workflows, and analytical abilities."
-    },
-    "jalandhar": {
-      "title": "SAP Course for Technical Skills in Jalandhar",
-      "description": "Advance your expertise in Jalandhar with an SAP Course that offers enterprise system insights, process clarity, and strong professional skill development."
-    },
-    "mohali": {
-      "title": "SAP Course for Career Improvement in Mohali",
-      "description": "Boost your technical knowledge in Mohali through an SAP Course that supports process learning, enterprise concepts, and analytical skill enhancement."
-    },
-    "raipur": {
-      "title": "SAP Course for Skill Growth in Raipur",
-      "description": "Enhance your enterprise understanding in Raipur with an SAP Course that builds practical skills, improves workflows, and supports career success."
-    },
-    "cochin": {
-      "title": "SAP Course for Professional Skills in Cochin",
-      "description": "Develop essential business process expertise in Cochin with an SAP Course that focuses on system clarity, analytical thinking, and career-oriented learning."
-    },
-    "mangalore": {
-      "title": "SAP Course for Career Development in Mangalore",
-      "description": "Strengthen your enterprise knowledge in Mangalore with an SAP Course built to enhance analytical abilities, system understanding, and professional growth."
-    },
-    "katraj": {
-      "title": "SAP Course for Skill Building in Katraj",
-      "description": "Improve your workflow management skills in Katraj with an SAP Course that provides enterprise insights, analytical strength, and career-focused development."
-    },
-    "pimpri-chinchwad": {
-      "title": "SAP Course in Pimpri Chinchwad | Career Growth",
-      "description": "Gain strong system knowledge in Pimpri with an SAP Course that develops analytical capabilities, business process understanding, and professional readiness."
-    },
-    "shivaji-nagar": {
-      "title": "SAP Course for Career Growth in Shivaji Nagar",
-      "description": "Advance your enterprise system knowledge in Shivaji Nagar with an SAP Course that emphasizes structured learning, practical insights, and analytical skills."
-    },
-    "koregaon-park": {
-      "title": "SAP Course for Skill Enhancement in Koregaon Park",
-      "description": "Boost your professional capabilities in Koregaon Park with an SAP Course that improves system understanding, workflow clarity, and supports career success."
-    },
-    "viman-nagar": {
-      "title": "SAP Course for Technical Skills in Viman Nagar",
-      "description": "Develop enterprise system expertise in Viman Nagar with an SAP Course that builds process efficiency, analytical growth, and professional development."
-    },
-    "pimple-saudagar": {
-      "title": "SAP Course for Career Skills in Pimple Saudagar",
-      "description": "Strengthen your professional abilities in Pimple Saudagar with an SAP Course that builds enterprise concepts, business workflows, and analytical skills."
-    },
-    "baner": {
-      "title": "SAP Course for Professional Growth in Baner",
-      "description": "Advance your enterprise system knowledge in Baner through an SAP Course offering structured insights, workflow understanding, and career-enhancing skills."
-    },
-    "hinjewadi": {
-      "title": "SAP Course for Skill Advancement in Hinjewadi",
-      "description": "Upgrade your technical competencies in Hinjewadi with an SAP Course emphasizing business process clarity, system learning, and strong development."
-    },
-    "wakad": {
-      "title": "SAP Course for Career Learning in Wakad",
-      "description": "Enhance your enterprise abilities in Wakad through an SAP Course that supports process improvement, system understanding, and long-term career growth."
-    },
-    "kothrud": {
-      "title": "SAP Course for Technical Growth in Kothrud",
-      "description": "Build strong enterprise system knowledge in Kothrud with an SAP Course focused on analytical skills, workflow clarity, and career-driven learning."
-    },
-    "hadapsar": {
-      "title": "SAP Course for Professional Skills in Hadapsar",
-      "description": "Improve your enterprise process understanding in Hadapsar through an SAP Course designed to enhance analytical thinking and overall career development."
-    },
-    "aundh": {
-      "title": "SAP Course for Career Enhancement in Aundh",
-      "description": "Strengthen your business system skills in Aundh through an SAP Course offering structured insights, workflow clarity, and essential analytical growth."
-    },
-    "navi-mumbai": {
-      "title": "SAP Course for Professional Skills in Navi Mumbai",
-      "description": "Advance your expertise in Navi Mumbai with an SAP Course that focuses on enterprise systems, business workflows, and analytical skills for success."
-    },
-    "thane": {
-      "title": "SAP Course for Skill Development in Thane",
-      "description": "Improve your enterprise knowledge in Thane through an SAP Course built to strengthen analytical skills, workflow processes, and professional advancement."
-    },
-    "kalyan": {
-      "title": "SAP Course for Technical Skills in Kalyan",
-      "description": "Boost your system understanding in Kalyan with an SAP Course that offers structured learning, process clarity, and strong analytical skills for growth."
-    },
-    "bandra": {
-      "title": "SAP Course for Career Skills in Bandra",
-      "description": "Enhance your professional abilities in Bandra with an SAP Course that focuses on enterprise concepts, system navigation, and analytical skill improvement."
-    },
-    "andheri": {
-      "title": "SAP Course for Skill Growth in Andheri",
-      "description": "Strengthen your enterprise learning in Andheri with an SAP Course designed to improve process understanding, system workflows, and professional development."
-    },
-    "powai": {
-      "title": "SAP Course for Advanced Learning in Powai",
-      "description": "Develop essential enterprise knowledge in Powai through an SAP Course emphasizing system clarity, business workflows, and analytical skill-building."
-    },
-    "worli": {
-      "title": "SAP Course for Professional Growth in Worli",
-      "description": "Enhance your enterprise system understanding in Worli with an SAP Course offering structured learning, process clarity, and long-term capabilities."
-    },
-    "chembur": {
-      "title": "SAP Course for Career Enhancement in Chembur",
-      "description": "Build strong enterprise management skills in Chembur through an SAP Course designed to strengthen analytical thinking, system knowledge, and clarity."
-    },
-    "malad": {
-      "title": "SAP Course for Skill Development in Malad",
-      "description": "Advance your enterprise system knowledge in Malad with an SAP Course centered on analytical skills, business workflows, and structured learning."
-    },
-    "vile-parle": {
-      "title": "SAP Course for Professional Skills in Vile Parle",
-      "description": "Improve your enterprise expertise in Vile Parle through an SAP Course offering system clarity, process learning, and strong analytical skill enhancement."
-    },
-    "matunga": {
-      "title": "SAP Course for Technical Growth in Matunga",
-      "description": "Strengthen your business system abilities in Matunga with an SAP Course built to enhance workflow understanding, analytical skills, and career readiness."
-    }
-  },
+  
 
   "python": {
-    "pune": {
-      "title": "Python Course in Pune | Beginner to Advanced",
-      "description": "Master Python programming in Pune. Learn syntax, data structures, OOP concepts, and build real projects from scratch for a strong coding foundation."
+        "pune": {
+      "title": "Certified Python Classes in Pune with Placement Assistance",
+      "description": "Join Python Classes in Pune with Placement Assistance. designed to help you master key Python concepts including data handling, functions, file operations."
     },
-    "mumbai": {
-      "title": "Python Training Mumbai | Full Stack Skills",
-      "description": "Complete Python training in Mumbai. Learn to build web apps with Django, work with databases, and develop full-stack projects for career growth fast."
+        "mumbai": {
+      "title": "Python Course in Mumbai | Beginner to Advanced Training",
+      "description": "Learn Python Course in Mumbai from scratch to advanced level. Cover data structures, automation, Django & data science libraries with placement support."
     },
     "delhi": {
       "title": "Python Classes Delhi | Data Science Focus",
@@ -10392,9 +8815,9 @@ export const citySpecificMeta = {
       "title": "Python Course Mohali | Data Structures",
       "description": "Data structures Python course in Mohali teaches arrays, linked lists, stacks, queues, trees, and graphs to help you solve complex programming problems well."
     },
-    "raipur": {
-      "title": "Python Training Raipur | Web Scraping",
-      "description": "Web scraping Python training in Raipur teaches BeautifulSoup, Selenium, and Scrapy to extract website data for automated analysis tasks daily."
+        "raipur": {
+      "title": "Python Course in Raipur | Basics to Advanced",
+      "description": "Learn Python in Raipur — syntax, OOP, data structures, libraries & real-world projects. Beginner to advanced training with certification."
     },
     "cochin": {
       "title": "Python Course Cochin | Backend Systems",
@@ -10498,271 +8921,18 @@ export const citySpecificMeta = {
     }
   },
 
-  "data-visualization": {
-    "pune": {
-      "title": "Master Data visualization Course in Pune ",
-      "description": "Enhance your analytical skills in Pune with a Data visualization Course that builds insights, visual storytelling, and decision-making abilities."
-    },
-    "mumbai": {
-      "title": "Advance with Data visualization Course in Mumbai",
-      "description": "Boost your data interpretation skills in Mumbai through a Data visualization Course focused on effective charts, dashboards, and professional insights."
-    },
-    "delhi": {
-      "title": "Explore Data visualization Course in Delhi",
-      "description": "Develop advanced data interpretation in Delhi with a Data visualization Course that emphasizes charts, dashboards, and analytical reasoning."
-    },
-    "kolkata": {
-      "title": "Learn Data visualization Course in Kolkata",
-      "description": "Strengthen your analytical abilities in Kolkata with a Data visualization Course designed to improve data storytelling, insights, and visualization skills."
-    },
-    "chennai": {
-      "title": "Data visualization Course for Professionals Chennai",
-      "description": "Build expertise in Chennai with a Data visualization Course that enhances analytical thinking, data presentation, and impactful visualization techniques."
-    },
-    "bangalore": {
-      "title": "Data visualization Course in Bangalore",
-      "description": "Improve your data analysis in Bangalore through a Data visualization Course that focuses on dashboard creation, insights, and decision-making skills."
-    },
-    "hyderabad": {
-      "title": "Master Data visualization Course in Hyderabad",
-      "description": "Advance your visualization skills in Hyderabad with a Data visualization Course that teaches charts, graphs, dashboards, and storytelling with data."
-    },
-    "ahmedabad": {
-      "title": "Learn Data visualization Course in Ahmedabad",
-      "description": "Enhance data-driven decision making in Ahmedabad with a Data visualization Course focused on visualization techniques, dashboards, and professional."
-    },
-    "jaipur": {
-      "title": "Data visualization Course for Jaipur Analysts",
-      "description": "Build strong analytical insights in Jaipur with a Data visualization Course that improves charts, dashboards, and practical data interpretation skills."
-    },
-    "lucknow": {
-      "title": "Explore Data visualization Course in Lucknow",
-      "description": "Develop your analytical abilities in Lucknow with a Data visualization Course that emphasizes effective visualization, insights, and decision-making skills."
-    },
-    "kanpur": {
-      "title": "Advance with Data visualization Course in Kanpur",
-      "description": "Strengthen your data insights in Kanpur with a Data visualization Course focused on analytical dashboards, visual storytelling, and actionable insights."
-    },
-    "nagpur": {
-      "title": "Learn Data visualization Course in Nagpur",
-      "description": "Boost your analytical skills in Nagpur through a Data visualization Course that enhances charts, dashboards, and real-world data interpretation abilities."
-    },
-    "patna": {
-      "title": "Master Data visualization Course in Patna",
-      "description": "Develop expert data analysis skills in Patna with a Data visualization Course designed to improve dashboards, visual storytelling, and insights delivery."
-    },
-    "indore": {
-      "title": "Data visualization Course for Indore Analysts",
-      "description": "Improve your data interpretation in Indore with a Data visualization Course focused on creating dashboards, charts, and actionable analytical insights."
-    },
-    "bhopal": {
-      "title": "Explore Data visualization Course in Bhopal",
-      "description": "Enhance analytical thinking in Bhopal with a Data visualization Course that teaches dashboards, visual storytelling, and professional data insights."
-    },
-    "visakhapatnam": {
-      "title": "Data visualization Course in Visakhapatnam",
-      "description": "Build advanced data visualization skills in Visakhapatnam with a Data visualization Course that strengthens charts, dashboards, and proficiency."
-    },
-    "vadodara": {
-      "title": "Learn Data visualization Course in Vadodara",
-      "description": "Develop visual analytics expertise in Vadodara through a Data visualization Course focused on dashboards, effective charts, and interpretation."
-    },
-    "ludhiana": {
-      "title": "Master Data visualization Course in Ludhiana",
-      "description": "Improve your analytical abilities in Ludhiana with a Data visualization Course designed to enhance data visualization, dashboards, and skills."
-    },
-    "agra": {
-      "title": "Data visualization Course for Agra Professionals",
-      "description": "Boost your data skills in Agra through a Data visualization Course that emphasizes visual storytelling, dashboards, and practical analytics expertise."
-    },
-    "nashik": {
-      "title": "Explore Data visualization Course in Nashik",
-      "description": "Strengthen your analytical insights in Nashik with a Data visualization Course focused on charts, dashboards, and advanced data visualization techniques."
-    },
-    "rajkot": {
-      "title": "Learn Data visualization Course in Rajkot",
-      "description": "Build your data visualization expertise in Rajkot with a Data visualization Course emphasizing dashboards, analytical insights, and skills."
-    },
-    "varanasi": {
-      "title": "Data visualization Course for Varanasi Analysts",
-      "description": "Develop strong visualization skills in Varanasi with a Data visualization Course that focuses on data storytelling, dashboards, and analytical insights."
-    },
-    "kerala": {
-      "title": "Master Data visualization Course in Kerala",
-      "description": "Enhance your analytical capabilities in Kerala with a Data visualization Course that improves dashboards, charts, and professional data skills."
-    },
-    "surat": {
-      "title": "Learn Data visualization Course in Surat",
-      "description": "Strengthen your visualization expertise in Surat with a Data visualization Course that focuses on dashboards, charts, and actionable analytical insights."
-    },
-    "dehradun": {
-      "title": "Data visualization Course in Dehradun",
-      "description": "Boost your data storytelling skills in Dehradun with a Data visualization Course that emphasizes charts, dashboards, and professional techniques."
-    },
-    "madurai": {
-      "title": "Explore Data visualization Course in Madurai",
-      "description": "Build analytical skills in Madurai with a Data visualization Course focused on dashboards, charts, and effective visualization for business insights."
-    },
-    "mysore": {
-      "title": "Master Data visualization Course in Mysore",
-      "description": "Improve your data insights in Mysore through a Data visualization Course that strengthens visual storytelling, dashboards, and analytical proficiency."
-    },
-    "pondicherry": {
-      "title": "Learn Data visualization Course in Pondicherry",
-      "description": "Enhance your analytical thinking in Pondicherry with a Data visualization Course that builds dashboards, charts, and actionable data interpretation skills."
-    },
-    "ranchi": {
-      "title": "Data visualization Course for Ranchi Analysts",
-      "description": "Develop strong visualization abilities in Ranchi through a Data visualization Course focused on dashboards, charts, and analytical decision-making."
-    },
-    "coimbatore": {
-      "title": "Explore Data visualization Course in Coimbatore",
-      "description": "Strengthen your data analysis in Coimbatore with a Data visualization Course that enhances dashboards, charts, and visualization for actionable insights."
-    },
-    "chandigarh": {
-      "title": "Learn Data visualization Course in Chandigarh",
-      "description": "Build data storytelling skills in Chandigarh through a Data visualization Course emphasizing dashboards, charts, and professional analytical insights."
-    },
-    "bhubaneswar": {
-      "title": "Data visualization Course in Bhubaneswar",
-      "description": "Improve your visualization skills in Bhubaneswar with a Data visualization Course that develops charts, dashboards, and analytical reasoning abilities."
-    },
-    "tirupati": {
-      "title": "Master Data visualization Course in Tirupati",
-      "description": "Enhance analytical capabilities in Tirupati through a Data visualization Course focused on dashboards, charts, and effective data visualization techniques."
-    },
-    "vizag": {
-      "title": "Learn Data visualization Course in Vizag",
-      "description": "Boost your visualization expertise in Vizag with a Data visualization Course that strengthens dashboards, charts, and actionable analytical insights."
-    },
-    "trivandrum": {
-      "title": "Data visualization Course for Trivandrum Professionals",
-      "description": "Develop strong analytical skills in Trivandrum through a Data visualization Course focused on dashboards, charts, and visual storytelling techniques."
-    },
-    "jalandhar": {
-      "title": "Explore Data visualization Course in Jalandhar",
-      "description": "Improve your data visualization skills in Jalandhar with a Data visualization Course that emphasizes dashboards, charts, and professional analytics."
-    },
-    "mohali": {
-      "title": "Master Data visualization Course in Mohali",
-      "description": "Strengthen analytical abilities in Mohali through a Data visualization Course that builds dashboards, charts, and visualization for decision-making."
-    },
-    "raipur": {
-      "title": "Learn Data visualization Course in Raipur",
-      "description": "Enhance your visualization knowledge in Raipur with a Data visualization Course focused on dashboards, charts, and actionable analytical skills."
-    },
-    "cochin": {
-      "title": "Data visualization Course in Cochin",
-      "description": "Boost your data insights in Cochin through a Data visualization Course emphasizing dashboards, charts, and analytical decision-making abilities."
-    },
-    "mangalore": {
-      "title": "Explore Data visualization Course in Mangalore",
-      "description": "Build strong visualization skills in Mangalore with a Data visualization Course focused on dashboards, charts, and effective data analysis techniques."
-    },
-    "katraj": {
-      "title": "Learn Data visualization Course in Katraj",
-      "description": "Develop analytical capabilities in Katraj through a Data visualization Course that strengthens dashboards, charts, and professional visualization skills."
-    },
-    "pimpri-chinchwad": {
-      "title": "Master Data visualization Course in Pimpri Chinchwad",
-      "description": "Improve your visualization expertise in Pimpri with a Data visualization Course focused on dashboards, charts, and actionable analytical insights."
-    },
-    "shivaji-nagar": {
-      "title": "Learn Data visualization Course in Shivaji Nagar",
-      "description": "Strengthen your analytical skills in Shivaji Nagar with a Data visualization Course that builds dashboards, charts, and professional expertise."
-    },
-    "koregaon-park": {
-      "title": "Data visualization Course for Koregaon Park Analysts",
-      "description": "Enhance your visualization knowledge in Koregaon Park through a Data visualization Course focused on dashboards, charts, and analytical insights."
-    },
-    "viman-nagar": {
-      "title": "Explore Data visualization Course in Viman Nagar",
-      "description": "Boost analytical capabilities in Viman Nagar with a Data visualization Course that develops dashboards, charts, and visualization for decision-making."
-    },
-    "pimple-saudagar": {
-      "title": "Master Data visualization Course in Pimple Saudagar",
-      "description": "Improve your visualization skills in Pimple Saudagar through a Data visualization Course that emphasizes dashboards, charts, and analytical proficiency."
-    },
-    "baner": {
-      "title": "Learn Data visualization Course in Baner",
-      "description": "Develop strong analytical insights in Baner with a Data visualization Course that focuses on dashboards, charts, and effective visualization techniques."
-    },
-    "hinjewadi": {
-      "title": "Explore Data visualization Course in Hinjewadi",
-      "description": "Build professional visualization skills in Hinjewadi through a Data visualization Course emphasizing dashboards, charts, and actionable insights."
-    },
-    "wakad": {
-      "title": "Data visualization Course for Wakad Professionals",
-      "description": "Enhance analytical abilities in Wakad with a Data visualization Course that builds dashboards, charts, and professional data visualization expertise."
-    },
-    "kothrud": {
-      "title": "Learn Data visualization Course in Kothrud",
-      "description": "Strengthen your data visualization skills in Kothrud through a Data visualization Course that emphasizes dashboards, charts, and actionable analytics."
-    },
-    "hadapsar": {
-      "title": "Master Data visualization Course in Hadapsar",
-      "description": "Improve your analytical capabilities in Hadapsar with a Data visualization Course that builds dashboards, charts, and data-driven insights."
-    },
-    "aundh": {
-      "title": "Explore Data visualization Course in Aundh",
-      "description": "Develop visualization expertise in Aundh with a Data visualization Course focused on dashboards, charts, and professional data analysis techniques."
-    },
-    "navi-mumbai": {
-      "title": "Learn Data visualization Course in Navi Mumbai",
-      "description": "Boost your analytical skills in Navi Mumbai with a Data visualization Course that enhances dashboards, charts, and professional visualization abilities."
-    },
-    "thane": {
-      "title": "Master Data visualization Course in Thane",
-      "description": "Strengthen your data storytelling in Thane with a Data visualization Course that builds dashboards, charts, and actionable analytical insights."
-    },
-    "kalyan": {
-      "title": "Explore Data visualization Course in Kalyan",
-      "description": "Improve your analytical skills in Kalyan with a Data visualization Course that focuses on dashboards, charts, and visualization for professional decisions."
-    },
-    "bandra": {
-      "title": "Learn Data visualization Course in Bandra",
-      "description": "Enhance your data visualization expertise in Bandra through a Data visualization Course that strengthens dashboards, charts, and analytical insights."
-    },
-    "andheri": {
-      "title": "Data visualization Course for Andheri Analysts",
-      "description": "Build strong analytical capabilities in Andheri with a Data visualization Course focused on dashboards, charts, and professional visualization skills."
-    },
-    "powai": {
-      "title": "Explore Data visualization Course in Powai",
-      "description": "Develop data visualization skills in Powai through a Data visualization Course that emphasizes dashboards, charts, and analytical reasoning abilities."
-    },
-    "worli": {
-      "title": "Learn Data visualization Course in Worli",
-      "description": "Improve your analytical insights in Worli with a Data visualization Course focused on dashboards, charts, and effective visualization for decision-making."
-    },
-    "chembur": {
-      "title": "Master Data visualization Course in Chembur",
-      "description": "Enhance visualization expertise in Chembur through a Data visualization Course that builds dashboards, charts, and professional analytical skills."
-    },
-    "malad": {
-      "title": "Explore Data visualization Course in Malad",
-      "description": "Strengthen your analytical abilities in Malad with a Data visualization Course that builds dashboards, charts, and effective data visualization skills."
-    },
-    "vile-parle": {
-      "title": "Learn Data visualization Course in Vile Parle",
-      "description": "Develop strong data visualization skills in Vile Parle with a Data visualization Course emphasizing dashboards, charts, and analytical insights."
-    },
-    "matunga": {
-      "title": "Master Data visualization Course in Matunga",
-      "description": "Improve your visualization expertise in Matunga through a Data visualization Course that strengthens dashboards, charts, and analytical decision-making."
-    }
-  },
+  
 
- 
+  // HR
 
   "hr-training": {
-    "pune": {
-      "title": "Advance Your Career with HR Training Course in Pune",
-      "description": "Enhance your HR skills in Pune with an HR Training Course focused on employees management, talent acquisition, and professional HR competencies."
+        "pune": {
+      "title": "HR Certification Training in Pune | with Placement Support",
+      "description": "Start your career with Connecting Dots ERP HR Certification Training in pune. Feature-icon Gain In-Depth Practical Skills in Recruitment, Payroll, Compliance."
     },
-    "mumbai": {
-      "title": "HR Training Course for Professionals in Mumbai",
-      "description": "Strengthen your HR expertise in Mumbai through an HR Training Course designed to improve recruitment, employee relations, and workforce management skills."
+        "mumbai": {
+      "title": "HR Training in Mumbai | Practical HR Courses",
+      "description": "Complete HR training in Mumbai for freshers, professionals & managers. Learn recruitment, payroll, compliance, HR analytics & more. Join today!"
     },
     "delhi": {
       "title": "Master HR Training Course in Delhi",
@@ -10904,9 +9074,9 @@ export const citySpecificMeta = {
       "title": "HR Training Course for Professionals in Mohali",
       "description": "Improve your HR capabilities in Mohali through an HR Training Course emphasizing employee relations, talent management, and organizational effectiveness."
     },
-    "raipur": {
-      "title": "Master HR Training Course in Raipur",
-      "description": "Build professional HR skills in Raipur with an HR Training Course focused on recruitment, employee engagement, and strategic workforce management."
+        "raipur": {
+      "title": "HR Training in Raipur | Practical HR Courses",
+      "description": "Complete HR training in Raipur for freshers, professionals & managers. Learn recruitment, payroll, compliance, HR analytics & more. Join today!"
     },
     "cochin": {
       "title": "HR Training Course in Cochin",
@@ -11011,13 +9181,13 @@ export const citySpecificMeta = {
   },
 
   "core-hr": {
-    "pune": {
-      "title": "Core HR Course in Pune | Boost Your HR Skills",
-      "metaDescription": "Learn Core HR course concepts in Pune, covering payroll, labor laws, and recruitment processes to advance your HR career with real business applications."
+        "pune": {
+      "title": "Core HR Course in Pune | with placement support",
+      "metaDescription": "Core HR course in Pune is designed to bridge the talent gap by preparing future-ready HR professionals. Connecting Dots ERP is the best Core HR course in Pune."
     },
-    "mumbai": {
-      "title": "Core HR Course in Mumbai | Advance Your Career",
-      "metaDescription": "Master human resource functions with Core HR course in Mumbai and gain expertise in statutory compliance, talent management, and payroll operations."
+        "mumbai": {
+      "title": "Core HR Course in Mumbai | Recruitment to Payroll",
+      "metaDescription": "Master Core HR in Mumbai — recruitment, onboarding, payroll, statutory compliance & HR operations. Practical training with certification. Enroll now!"
     },
     "delhi": {
       "title": "Core HR Course in Delhi | Learn Advanced HR",
@@ -11159,9 +9329,9 @@ export const citySpecificMeta = {
       "title": "Core HR Course in Mohali | Corporate HR Training",
       "metaDescription": "Learn to manage workforce systems effectively with Core HR course in Mohali covering payroll process, policy creation, and HR recordkeeping."
     },
-    "raipur": {
-      "title": "Core HR Course in Raipur | Learn HR Functions",
-      "metaDescription": "Master human resource management with Core HR course in Raipur focusing on payroll preparation, compliance, performance tracking, and essential HR setup work."
+        "raipur": {
+      "title": "Core HR Course in Raipur | Recruitment to Payroll",
+      "metaDescription": "Master Core HR in Raipur — recruitment, onboarding, payroll, statutory compliance & HR operations. Practical training with certification."
     },
     "cochin": {
       "title": "Core HR Course in Cochin | HR System Learning",
@@ -11264,8 +9434,6 @@ export const citySpecificMeta = {
       "metaDescription": "Develop sound HR understanding with Core HR course in Matunga focused on payroll accuracy, HR frameworks, statutory compliance tracking and core HR duties."
     }
   },
-
-
 };
 
 // ---------- Internal flattened overrides map ----------
