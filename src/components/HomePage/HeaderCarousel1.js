@@ -81,7 +81,7 @@ export default function CareerHeroSlide({ onOpenForm }) {
                 }
             `}</style>
 
-            <p className="mt-4 text-[14px] xs:text-[15px] leading-relaxed text-gray-800">
+            <p className="mt-12 md:mt-4 text-[14px] xs:text-[15px] leading-relaxed text-gray-800">
               Real SAP, IT & HR training — taught by people who've done the job.
               Online or offline batches, built around your schedule.
             </p>
