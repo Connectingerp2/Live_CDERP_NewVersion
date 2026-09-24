@@ -208,6 +208,23 @@ const ReviewPin = ({ review, index }) => {
 
   const tilt = PIN_TILTS[index % PIN_TILTS.length];
 
+  // Detect whether the quote actually overflows, so we only show the
+  // "more below" fade (and make it keyboard-scrollable) when needed.
+  const textRef = useRef(null);
+  const [scrollable, setScrollable] = useState(false);
+
+  useEffect(() => {
+    const el = textRef.current;
+    if (!el) return;
+
+    const check = () => setScrollable(el.scrollHeight > el.clientHeight + 1);
+    check();
+
+    const ro = new ResizeObserver(check);
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, [review.quote]);
+
   return (
     <div
       ref={cardRef}
@@ -221,7 +238,14 @@ const ReviewPin = ({ review, index }) => {
 
       <StarRow rating={review.rating || 0} />
 
-      <p className={styles.quoteText}>{review.quote}</p>
+      <p
+        ref={textRef}
+        className={`${styles.quoteText} ${styles.quoteScroll} ${scrollable ? styles.quoteFade : ""
+          }`}
+        tabIndex={scrollable ? 0 : undefined}
+      >
+        {review.quote}
+      </p>
 
       <div className={styles.reviewerRow}>
         <div className={styles.avatar}>{review.avatarInitials || "?"}</div>
