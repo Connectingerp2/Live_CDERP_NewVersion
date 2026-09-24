@@ -13,7 +13,8 @@ import {
   getSkillsForCity,
   getWhoThisIsForForCity,
   getCertificateForCity,
-  getDemoBannerForCity
+  getDemoBannerForCity,
+  getReviewsForCity
 } from "@/lib/masterData";
 import CityLinks from "@/components/CityLinks";
 
@@ -241,6 +242,13 @@ const CourseCityPage = async ({ params }) => {
     city.name
   );
 
+  // ---------- Reviews (city-specific, defaults to Pune) ----------
+  const cityReviews = getReviewsForCity(citySlug);
+  const reviewsData = processPlaceholders(
+    cityReviews || [],
+    city.name
+  );
+
   const cityCert = getCertificateForCity(courseSlug, citySlug);
   const certificateData = processPlaceholders(
     cityCert || course.certificate,
@@ -269,7 +277,6 @@ const CourseCityPage = async ({ params }) => {
     course.upcomingBatches,
     city.name
   );
-  const reviewsData = processPlaceholders(course.reviews, city.name);
   const relatedCoursesData = processPlaceholders(course.relatedCourses, city.name);
   const descriptionContentData = processPlaceholders(course.descriptionContent, city.name);
 
