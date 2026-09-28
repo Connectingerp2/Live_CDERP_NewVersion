@@ -29,8 +29,8 @@ const STATS = [
     desc: "Our institute is rated 4.9/5 on Google, reflecting the trust and satisfaction of our learners."
   },
   {
-    value: "200+", title: "Hiring Partners", tint: "#2456b8", icon: <Briefcase size={26} strokeWidth={1.8} />,
-    desc: "Our institute has 200+ hiring partners that trust our talent and help students kickstart their careers."
+    value: "100+", title: "Hiring Partners", tint: "#2456b8", icon: <Briefcase size={26} strokeWidth={1.8} />,
+    desc: "Our institute has 100+ hiring partners that trust our talent and help students kickstart their careers."
   },
 ];
 

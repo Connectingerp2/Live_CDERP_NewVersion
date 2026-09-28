@@ -20,7 +20,7 @@ export const placementKeywords = [
   "interview preparation",
   "resume building",
   "career support",
-  "placement guarantee",
+  "placement assistance",
   "job training",
   "hiring partners",
   "career guidance",

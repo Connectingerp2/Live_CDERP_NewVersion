@@ -613,7 +613,7 @@ const SAPCompassDial = () => {
       <div className="mt-12 md:mt-16 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8 max-w-4xl mx-auto">
         <div className="text-center bg-gray-900 rounded-2xl p-4 md:p-6 border border-gray-700">
           <div className="text-3xl md:text-4xl font-bold text-blue-400 mb-2 font-mono">
-            2500+
+            5000+
           </div>
           <div className="text-gray-300 uppercase tracking-wide text-xs md:text-sm">
             Students Guided
@@ -621,7 +621,7 @@ const SAPCompassDial = () => {
         </div>
         <div className="text-center bg-gray-900 rounded-2xl p-4 md:p-6 border border-gray-700">
           <div className="text-3xl md:text-4xl font-bold text-green-400 mb-2 font-mono">
-            95%
+            92%
           </div>
           <div className="text-gray-300 uppercase tracking-wide text-xs md:text-sm">
             Average Success

@@ -11,7 +11,7 @@ const PopupForm = dynamic(() => import("@/components/PopupForm"), {
 // ─── DATA ────────────────────────────────────────────────────────────────────
 
 const heroStats = [
-  { value: "98%", label: "Placement Rate" },
+  { value: "100%", label: "Placement Rate" },
   { value: "₹6 LPA", label: "Avg. Package" },
   { value: "₹24 LPA", label: "Highest Package" },
   { value: "100+", label: "Hiring Partners" },
@@ -106,7 +106,7 @@ const featuredPlacements = [
 ];
 
 const faqs = [
-  { q: "What is the placement guarantee?", a: "We offer a 100% placement assistance guarantee. If you complete all milestones and don't get placed within 6 months of graduation, we refund your course fee in full." },
+  { q: "What is the placement assistance?", a: "We offer a 100% placement assistance guarantee. If you complete all milestones and don't get placed within 6 months of graduation." },
   { q: "How long does placement take after course completion?", a: "On average, our students receive their first offer within 45–60 days of completing the program. 80% of students are placed within 3 months." },
   { q: "Do you help with placements too?", a: "Yes! Our 100% placement support covers direct referrals to 100+ off-campus hiring partners across startups and MNCs." },
   { q: "Is there a minimum package guaranteed?", a: "We work hard to match you to roles that match your skill level. Our average package is ₹6 LPA, and we don't stop supporting you until you're placed." },
@@ -1162,7 +1162,7 @@ export default function PlacementPage() {
             { num: "5000+", label: "Students Placed" },
             { num: "100+", label: "Hiring Partners" },
             { num: "₹6 LPA", label: "Average Package" },
-            { num: "98%", label: "Placement Rate" },
+            { num: "100%", label: "Placement Rate" },
           ].map((c, i) => (
             <div key={i} className="ctr-item">
               <div className="ctr-num">{c.num}</div>

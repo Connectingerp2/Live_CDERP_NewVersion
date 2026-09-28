@@ -41,7 +41,7 @@ const ITEMS = [
     icon: PeopleIcon,
   },
   {
-    value: "200+",
+    value: "100+",
     label: "Hiring Partners",
     tint: "#5a3ecf",
     icon: BriefcaseIcon,
