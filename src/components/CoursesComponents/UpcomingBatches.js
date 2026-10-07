@@ -71,7 +71,6 @@ const defaultData = {
       startInDays: 7,
       batchTime: "07:00",
       mode: "Online",
-      fees:"50,000 /-",
       seatsLeft: 6,
       totalSeats: 10,
       whatsappNumber: "919004001938",
@@ -85,7 +84,6 @@ const defaultData = {
       startInDays: 9,
       batchTime: "19:00",
       mode: "Hybrid",
-      fees:"50,000 /-",
       seatsLeft: 4,
       totalSeats: 10,
       whatsappNumber: "919004001938",
@@ -213,8 +211,7 @@ const BatchTicket = ({ batch, index }) => {
         </div>
 
         <div className="w-full flex justify-start gap-2">
-            {batch.mode && <div className={styles.modeChip}>{batch.mode}</div>}
-            {batch.fees && <div className={`font-sans font-semibold ${styles.modeChip}`}>&#x20B9; {batch.fees}</div>}
+          {batch.mode && <div className={styles.modeChip}>{batch.mode}</div>}
         </div>
 
         {seatsLeft !== null && totalSeats > 0 && (
