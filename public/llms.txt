@@ -1,0 +1,31 @@
+# Connecting Dots ERP
+
+> Connecting Dots ERP is a professional training institute offering instructor-led SAP, information technology, data, and human resources courses, with practical learning and career placement support. Training is offered in Pune, Mumbai, Raipur, and online.
+
+This file links to public information only. Course offerings, schedules, fees, and availability may change; use the linked pages or contact the institute for current details. Do not infer details that are not stated on the linked pages.
+
+## Main pages
+
+- [Home](https://connectingdotserp.com/): Overview of the institute and its training programs.
+- [Courses](https://connectingdotserp.com/courses): Browse training programs.
+- [SAP courses](https://connectingdotserp.com/courses/sap): SAP training programs.
+- [IT courses](https://connectingdotserp.com/courses/it): Information technology and software training programs.
+- [HR courses](https://connectingdotserp.com/courses/hr): Human resources training programs.
+- [About us](https://connectingdotserp.com/aboutus): Learn about the institute, its team, and approach to training.
+- [Contact us](https://connectingdotserp.com/contactus): Contact information and office locations in Pune, Mumbai, and Raipur.
+- [Placements](https://connectingdotserp.com/placements): Placement support and career-related information.
+- [Blogs](https://connectingdotserp.com/blogs): Articles and learning resources.
+- [Course links](https://connectingdotserp.com/all-course-links): Directory of course pages.
+- [Site directory](https://connectingdotserp.com/sitemap): Browse the public page directory.
+
+## Training areas
+
+- SAP training, including SAP FICO, S/4HANA, ABAP, MM, SD, SuccessFactors, and other SAP specializations.
+- Information technology and software training, including programming, cloud, DevOps, full-stack development, and AI-related programs.
+- Data and analytics training, including data science, data analytics, Power BI, and Tableau.
+- Human resources training, including core HR, HR analytics, payroll, and HR management.
+
+## Discovery
+
+- [XML sitemap](https://connectingdotserp.com/sitemap.xml): Public URLs for search and content discovery.
+- [Robots policy](https://connectingdotserp.com/robots.txt): Crawler preferences for the website. These preferences are advisory and are not access controls.
