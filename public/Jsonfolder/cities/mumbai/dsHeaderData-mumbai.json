@@ -2262,7 +2262,7 @@
   },
   "sapheader": {
     "SapHeader": {
-      "title": "SAP Course in Pune",
+      "title": "SAP Course in {city}",
       "subtitle": "Become a Certified SAP Professional | Learn From Industry Experts",
       "description": "Master SAP modules with hands-on, real-time project training. Get job-ready with practical exposure, live case studies, and 100% placement assistance.",
       "features": [
