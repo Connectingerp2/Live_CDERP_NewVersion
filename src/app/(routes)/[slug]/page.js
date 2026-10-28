@@ -196,18 +196,21 @@ const CourseCityPage = async ({ params }) => {
 
   const jsonLd = generateDynamicJsonLd(courseSlug, citySlug);
 
-  const processPlaceholders = (obj, cityNameToUse) => {
+  const processPlaceholders = (obj, cityNameToUse, parentKey = "") => {
     if (typeof obj === "string") {
-      // ✅ CHANGED: escaped curly braces for correct regex
-      return obj.replace(/\{city\}/g, cityNameToUse);
+      if (/^(id|.*(?:url|href|src|slug|link|path))$/i.test(parentKey)) return obj;
+
+      return obj
+        .replace(/\{city\}/g, cityNameToUse)
+        .replace(/\bPune\b/gi, cityNameToUse);
     }
     if (Array.isArray(obj)) {
-      return obj.map((item) => processPlaceholders(item, cityNameToUse));
+      return obj.map((item) => processPlaceholders(item, cityNameToUse, parentKey));
     }
     if (typeof obj === "object" && obj !== null) {
       const newObj = {};
       for (const key in obj) {
-        newObj[key] = processPlaceholders(obj[key], cityNameToUse);
+        newObj[key] = processPlaceholders(obj[key], cityNameToUse, key);
       }
       return newObj;
     }
